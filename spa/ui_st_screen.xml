@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+	<string id="actor_inventory_box_use">
+		<text>Abrir caja personal ($$ACTION_USE$$)</text>
+	</string>
+	<string id="cant_walk">
+		<text>Estás demasiado agotado para moverte.</text>
+	</string>
+	<string id="cant_walk_weight">
+		<text>Estás demasiado sobrecargado para moverte.</text>
+	</string>
+	<string id="car_character_use">
+		<text>Abrir ($$ACTION_USE$$)</text>
+	</string>
+	<string id="character_use">
+		<text>Hablar ($$ACTION_USE$$)</text>
+	</string>
+	<string id="dead_character_use">
+		<text>Registrar cuerpo ($$ACTION_USE$$)</text>
+	</string>
+	<string id="dead_character_use_or_drag">
+		<text>Registrar cuerpo ($$ACTION_USE$$)\nArrastrar cuerpo (SHIFT+$$ACTION_USE$$)</text>
+	</string>
+	<string id="general_complete_task">
+		<text>Misión completada:</text>
+	</string>
+	<string id="general_fail_task">
+		<text>Misión fallida:</text>
+	</string>
+	<string id="general_in_item">
+		<text>Artículo recibido:</text>
+	</string>
+	<string id="general_in_money">
+		<text>Dinero recibido:</text>
+	</string>
+	<string id="general_new_task">
+		<text>Nueva misión:</text>
+	</string>
+	<string id="general_out_item">
+		<text>Artículo perdido:</text>
+	</string>
+	<string id="general_out_money">
+		<text>Dinero perdido:</text>
+	</string>
+	<string id="general_reverse_task">
+		<text>Misión cancelada:</text>
+	</string>
+	<string id="general_update_task">
+		<text>Misión actualizada:</text>
+	</string>
+	<string id="gun_jammed">
+		<text>Tu arma se ha atascado. Recárgala.</text>
+	</string>
+	<string id="inventory_box_use">
+		<text>Buscar ($$ACTION_USE$$)</text>
+	</string>
+	<string id="inventory_item_use">
+		<text>Recoger artículo ($$ACTION_USE$$)</text>
+	</string>
+	<string id="jup_b10_ufo_searching_tips">
+		<text>Buscar en el avión ($$ACTION_USE$$)</text>
+	</string>
+	<string id="jup_b1_bar_door">
+		<text>Puerta atascada</text>
+	</string>
+	<string id="jup_b1_door_is_closed">
+		<text>La puerta está cerrada por dentro</text>
+	</string>
+	<string id="jup_b202_treasures_closed">
+		<text>Está cerrado</text>
+	</string>
+	<string id="jup_b205_door_closed">
+		<text>Código necesario</text>
+	</string>
+	<string id="jup_b205_tip_door_decode">
+		<text>Introducir código ($$ACTION_USE$$)</text>
+	</string>
+	<string id="jup_b206_use_plant">
+		<text>Tomar planta ($$ACTION_USE$$)</text>
+	</string>
+	<string id="jup_b209_scanner_place_tips">
+		<text>Colocar escáner ($$ACTION_USE$$)</text>
+	</string>
+	<string id="jup_b209_scanner_remove_tips">
+		<text>Retirar escáner ($$ACTION_USE$$)</text>
+	</string>
+	<string id="lx8_raduga">
+		<text>Supresor de agresiones Rainbow\nmodelo de complejo de emisiones externas\nescala 1:20</text>
+	</string>
+	<string id="pas_b400_tip_switcher">
+		<text>Activar interruptor ($$ACTION_USE$$)</text>
+	</string>
+	<string id="pri_a18_uso_idol">
+		<text>Examinar dispositivo ($$ACTION_USE$$)</text>
+	</string>
+	<string id="pri_a25_blow_up_enter_door">
+		<text>Colocar explosivos ($$ACTION_USE$$)</text>
+	</string>
+	<string id="pri_a28_talk_with_stupid_medic">
+		<text>Recuperar ($$ACTION_USE$$)</text>
+	</string>
+	<string id="pri_b306_elevator_door_locked_used">
+		<text>El ascensor no tiene corriente</text>
+	</string>
+	<string id="pri_b306_generator_use">
+		<text>Activar generador ($$ACTION_USE$$)</text>
+	</string>
+	<string id="sleep_ok_button">
+		<text>Dormir</text>
+	</string>
+	<string id="sleep_warning_all_pleasures">
+		<text>¡No puedes dormir! Estás sangrando peligrosamente y sufriendo exposición a la radiación. Utiliza medicamentos o ponte en contacto con un médico.</text>
+	</string>
+	<string id="sleep_warning_bleeding">
+		<text>¡No puedes dormir! Estás sangrando peligrosamente. Utiliza medicamentos o ponte en contacto con un médico.</text>
+	</string>
+	<string id="sleep_warning_radiation">
+		<text>¡No puedes dormir! Estás sufriendo una exposición a la radiación. Utiliza medicamentos o ponte en contacto con un médico.</text>
+	</string>
+	<string id="sleep_zone_tip">
+		<text>Duerme ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_autosave">
+		<text>Guardado automático.</text>
+	</string>
+	<string id="st_can_use_weapon_now">
+		<text>Ya puedes sacar tu arma.</text>
+	</string>
+	<string id="st_codelock">
+		<text>Bloqueo de código ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_detective_news">
+		<text>Se han colocado suministros médicos en la caja personal del Skadovsk para resolver el secreto de los stalkers desaparecidos.</text>
+	</string>
+	<string id="st_duty_first_reward_news">
+		<text>Un traje de Protección Universal PS5-M ha sido depositado en la caja personal en Yanov por ayudar a Deber.</text>
+	</string>
+	<string id="st_duty_second_reward_news">
+		<text>Se ha colocado un traje blindado PSZ-9d de Deber en la caja personal de Yanov por ayudar a Deber.</text>
+	</string>
+	<string id="st_freedom_first_reward_news">
+		<text>Se ha colocado un traje Viento de Libertad en la caja personal de Yanov por ayudar a Libertad.</text>
+	</string>
+	<string id="st_freedom_second_reward_news">
+		<text>Se ha colocado un traje de Guardia de Libertad en la caja personal de Yanov por ayudar a Libertad.</text>
+	</string>
+	<string id="st_freeplay_text_ok">
+		<text>No has conseguido llegar a los helicópteros y el equipo de evacuación ha abandonado la Zona sin ti.</text>
+	</string>
+	<string id="st_freeplay_text_yes_no">
+		<text>¿Estás listo para abandonar la Zona? No hay vuelta atrás.</text>
+	</string>
+	<string id="st_game_over">
+		<text>Perdido en la Zona</text>
+	</string>
+	<string id="st_game_over_press_jump">
+		<text>Pulsa ($$ACTION_JUMP$$) para salir al menú principal</text>
+	</string>
+	<string id="st_game_paused">
+		<text>Pausado</text>
+	</string>
+	<string id="st_game_saved">
+		<text>Juego guardado</text>
+	</string>
+	<string id="st_herald_of_justice_news">
+		<text>Se ha colocado un artefacto en la caja personal del Skadovsk por ayudar a desenmascarar a Urraca.</text>
+	</string>
+	<string id="st_jup_b41_door_locked">
+		<text>Debes esperar a que el muelle se vuelva hermético</text>
+	</string>
+	<string id="st_lx8_button_press_true">
+		<text>Acceso concedido</text>
+	</string>
+	<string id="st_lx8_lift_button">
+		<text>Subir en ascensor ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_pri_b306_go_down">
+		<text>Tomar el ascensor hacia abajo ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_psy_danger">
+		<text>Niveles de emisión psi peligrosos. Se requiere protección para ir más lejos.</text>
+	</string>
+	<string id="st_radiation_danger">
+		<text>Niveles de radiación peligrosos. Protección necesaria para ir más allá.</text>
+	</string>
+	<string id="st_search_helicopter">
+		<text>Examinar helicóptero ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_search_treasure">
+		<text>Buscar en el alijo ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_sleep_hours">
+		<text>h</text>
+	</string>
+	<string id="st_tip">
+		<text>Mensaje</text>
+	</string>
+	<string id="tip_door_blocked">
+		<text>Puerta bloqueada</text>
+	</string>
+	<string id="tip_door_close">
+		<text>Cerrar puerta ($$ACTION_USE$$)</text>
+	</string>
+	<string id="tip_door_closed_base_alarm">
+		<text>Puerta cerrada - el campamento está en alerta</text>
+	</string>
+	<string id="tip_door_closed_hide_weapon">
+		<text>Puerta cerrada - debes enfundar tu arma</text>
+	</string>
+	<string id="tip_door_locked">
+		<text>Puerta bloqueada</text>
+	</string>
+	<string id="tip_door_no_electricity">
+		<text>La puerta no recibe corriente</text>
+	</string>
+	<string id="tip_door_open">
+		<text>Puerta abierta ($$ACTION_USE$$)</text>
+	</string>
+	<string id="tip_gate_locked">
+		<text>Puerta bloqueada</text>
+	</string>
+	<string id="tip_need_access_card">
+		<text>Utilice la tarjeta de acceso ($$ACTION_USE$$)</text>
+	</string>
+	<string id="tip_no_access_card">
+		<text>Se requiere tarjeta de acceso</text>
+	</string>
+	<string id="tip_open_another_site">
+		<text>La puerta no se puede abrir desde este lado</text>
+	</string>
+	<string id="ui_st_mp_create">
+		<text>Crear</text>
+	</string>
+	<string id="ui_st_mp_experience_grow">
+		<text>-</text>
+	</string>
+	<string id="zat_b12_conteiner_full_locked">
+		<text>El contenedor está bloqueado. Se necesitan dos llaves para abrirlo.</text>
+	</string>
+	<string id="zat_b12_conteiner_has_one_key">
+		<text>Clave de uso ($$ACTION_USE$$)</text>
+	</string>
+	<string id="zat_b12_conteiner_has_two_key">
+		<text>Utilizar teclas ($$ACTION_USE$$)</text>
+	</string>
+	<string id="zat_b12_conteiner_locked">
+		<text>El contenedor está bloqueado. Necesitas la segunda llave para abrirlo.</text>
+	</string>
+	<string id="zat_b12_conteiner_open">
+		<text>Abre el contenedor ($$ACTION_USE$$)</text>
+	</string>
+	<string id="zat_b14_door_locked_hint">
+		<text>El mecanismo de la puerta ha sido bloqueado desde el interior.</text>
+	</string>
+	<string id="zat_b57_balon_use_hint">
+		<text>Conecta el depósito de gasolina ($$ACTION_USE$$)</text>
+	</string>
+	<string id="zat_b57_gas_warning">
+		<text>¡Atención! Peligro químico</text>
+	</string>
+	<string id="zat_b57_vintil_press">
+		<text>Válvula de giro ($$ACTION_USE$$)</text>
+	</string>
+	<string id="zat_b33_car_searching_tip">
+		<text>Buscar en el coche ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_resupply_ready">
+		<text>Puedes reabastecerte de suministros médicos y munición visitando al teniente Rogovets y al teniente Kirillov.</text>
+	</string>
+	<string id="st_storm_while_asleep">
+		<text>Recientemente se ha producido una tormenta psi en la Zona.</text>
+	</string>
+	<string id="st_surge_while_asleep">
+		<text>Recientemente se ha producido una emisión en la Zona.</text>
+	</string>
+	<string id="st_mutant_hunter_news">
+		<text>Se ha colocado munición en el buzón personal de Yanov para eliminar mutantes peligrosos.</text>
+	</string>
+	<string id="st_found_old_treasure">
+		<text>Recibidas las coordenadas de un alijo que ya ha sido descubierto.</text>
+	</string>
+	<string id="st_got_treasure">
+		<text>Alijo encontrado</text>
+	</string>
+	<string id="st_found_new_treasure">
+		<text>Coordenadas del tesoro recibidas</text>
+	</string>
+	<string id="st_press_any_key">
+		<text>Pulsa cualquier tecla para jugar</text>
+	</string>
+
+	<!-- Call of Chernobyl -->
+	<string id="bar_arena_actor_afraid">
+    <text>¡La pelea se cancela! El retador se echó atrás y no salió a pelear en absoluto!</text>
+</string>
+<string id="bar_arena_fight_10">
+    <text>¡Han pasado 10 segundos!</text>
+</string>
+<string id="bar_arena_fight_20">
+    <text>¡Han pasado 20 segundos!</text>
+</string>
+<string id="bar_arena_fight_30">
+    <text>¡Han pasado 30 segundos!</text>
+</string>
+<string id="bar_arena_fight_40">
+    <text>¡Han pasado 40 segundos!</text>
+</string>
+<string id="bar_arena_fight_50">
+    <text>¡Han pasado 50 segundos!</text>
+</string>
+<string id="bar_arena_fight_60">
+    <text>¡1 minuto en la pelea!</text>
+</string>
+<string id="bar_arena_fight_70">
+    <text>¡Han pasado 1 minuto y 10 segundos!</text>
+</string>
+<string id="bar_arena_fight_80">
+    <text>¡Han pasado 1 minuto y 20 segundos!</text>
+</string>
+<string id="bar_arena_fight_90">
+    <text>¡Han pasado 1 minuto y 30 segundos!</text>
+</string>
+<string id="bar_arena_fight_begin">
+    <text>¡La pelea ha comenzado!</text>
+</string>
+<string id="bar_arena_fight_bloodsucker">
+    <text>¡Atención! ¡Atención! ¡Una nueva pelea está a punto de comenzar en la Arena! En la esquina izquierda está la pesadilla más temida de la Zona, ¡el siempre hambriento Chupasangre! Y en la esquina derecha... ¿Un hombre? ¡Sí, es un hombre! ¡Aplausos, por favor!</text>
+</string>
+<string id="bar_arena_fight_burer">
+    <text>¡Atención! ¡Atención! ¡Una nueva pelea está a punto de comenzar en la Arena! En la esquina izquierda está el maestro del kung-fu que dobla cucharas: ¡el Burers! Y en la esquina derecha: ¡el hombre que siempre está alerta!</text>
+</string>
+<string id="bar_arena_fight_dead">
+    <text>¡Así que el retador ha sido asesinado! ¡Ahora hay una sorpresa!</text>
+</string>
+<string id="bar_arena_fight_lose">
+    <text>Bueno, el retador mató a su oponente, pero no lo hizo a tiempo. ¡Pierde la pelea!</text>
+</string>
+<string id="bar_arena_fight_pseudodog">
+    <text>¡Atención! ¡Atención! ¡Una nueva pelea está a punto de comenzar en la Arena! En la esquina izquierda; es blanco, es peludo y está furioso... ¡El pseudoperro! Y en la esquina derecha está quien viene de la nada, ¡y precisamente a eso se dirige!</text>
+</string>
+<string id="bar_arena_fight_savage">
+    <text>¡Atención! ¡Atención! ¡Una nueva pelea está a punto de comenzar en la Arena! En la esquina izquierda; ¡lo conoces, lo amas, y él te odia a ti también! ¡Es la Bestia! Y en la esquina derecha está el hombre que está vivo y en movimiento, ¡al menos por el momento!</text>
+</string>
+<string id="bar_arena_fight_snork">
+    <text>¡Atención! ¡Atención! ¡Una nueva pelea está a punto de comenzar en la Arena! En la esquina izquierda está el gurú de las artes marciales y especialista en salud: ¡el snork! Y en la esquina derecha: el hombre sin pasado ni futuro.</text>
+</string>
+<string id="bar_arena_fight_timeout">
+    <text>¡Se acabó el tiempo! El retador perdió, ¡pero sigue luchando por su vida!</text>
+</string>
+<string id="bar_arena_fight_victory">
+    <text>¡Ho! ¡El retador mató a su oponente a tiempo! ¡Gana!</text>
+</string>
+<string id="dar_poltergeist_hold_the_door">
+    <text>Alguien está sosteniendo la puerta.</text>
+</string>
+<string id="st_allow_save">
+    <text>Guardado ahora permitido</text>
+</string>
+<string id="st_death_count">
+    <text>Has muerto %s veces.</text>
+</string>
+
+	<string id="st_extinguish_fire">
+    <text>Apagar ($$ACTION_USE$$)</text>
+</string>
+<string id="st_helmet_countdown">
+    <text>Desactivación de protección</text>
+</string>
+<string id="st_ignite_fire">
+    <text>Encender ($$ACTION_USE$$)</text>
+</string>
+<string id="st_labx18_pass_to_1st_door">
+    <text>Excelente, Colega. Me alegra que hayas recibido acceso de nivel 2. Por fin descubrirás lo que ocurre en nuestro laboratorio. Tu código de acceso es 1243. Jefe del laboratorio X18, Piotr Ilyitch Kalugin.</text>
+</string>
+<string id="st_labx18_pass_to_2nd_door">
+    <text>Estimado colega, permíteme recordarte que a partir de mañana atenderás el contenedor en la sala de laboratorio central. Debes inspeccionar los contenedores cada dos horas. Informa todo directamente a mí. El código para la sala de laboratorio central es 9524. Jefe del laboratorio X18, Piotr Ilyitch Kalugin.</text>
+</string>
+<string id="st_lx18_pda">
+    <text>Escuchar grabación del PDA</text>
+</string>
+<string id="st_make_a_wish">
+    <text>Haz un deseo ($$ACTION_USE$$)</text>
+</string>
+<string id="st_nobody_left_to_replace">
+    <text>No queda nadie a quien reemplazar.</text>
+</string>
+<string id="st_nothing_useful">
+    <text>Nada útil</text>
+</string>
+<string id="st_screen_field_dress">
+    <text>Extraer Partes</text>
+</string>
+<string id="st_screen_kick">
+    <text>Patear</text>
+</string>
+<string id="st_use_action_sit">
+    <text>Sentarse ($$ACTION_USE$$)</text>
+</string>
+<string id="st_yan_saharov_message">
+    <text>Bien. Al final lo lograste. Es extremadamente importante que estudiemos la máquina en el laboratorio. Intenta apagarla para que podamos examinarla.</text>
+</string>
+<string id="st_yan_saharov_message_2">
+    <text>Escucha, este prototipo no te protegerá de emisiones poderosas por mucho tiempo. Lo esperaba, así que cada vez que se detecte una emisión, se activa un temporizador. Cuando el tiempo se acabe, el prototipo ya no te protegerá, así que ten cuidado y mantente atento al tiempo.</text>
+</string>
+<string id="st_yan_saharov_message_3">
+    <text>Gran trabajo. La emisión ha sido apagada, y sigues vivo. Ah, y por cierto, pásate por nuestro búnker de vez en cuando, ¿vale?</text>
+</string>
+<string id="st_you_cant_save">
+    <text>No puedes guardar desde aquí en modo fogata.</text>
+</string>
+<string id="tip_door_coded">
+    <text>La puerta está bloqueada por un código</text>
+</string>
+<string id="tip_door_decode">
+    <text>Presiona ($$ACTION_USE$$) para decodificar la puerta</text>
+</string>
+<string id="tip_door_decoding">
+    <text>Decodificación en progreso</text>
+</string>
+<string id="tips_labx16switcher_press">
+    <text>Apagar la Máquina Milagrosa ($$ACTION_USE$$)</text>
+</string>
+<string id="tips_rad_switcher_press">
+    <text>Apagar el Cauterizador cerebral ($$ACTION_USE$$)</text>
+</string>
+<string id="tips_warlab_switcher_press">
+    <text>Apagar los Generadores ($$ACTION_USE$$)</text>
+</string>
+<string id="st_trepar_tip">
+    <text>Trepar ($$ACTION_USE$$)</text>
+</string>
+<string id="st_pollo_task_tip">
+    <text>Dar un pisotón ($$ACTION_USE$$)</text>
+</string>
+<string id="st_punto_interes">
+    <text>Punto de interés</text>
+</string>
+<string id="st_coordenadas">
+    <text>Coordenadas</text>
+</string>
+<string id="st_mover_nivel">
+    <text>Moverse al siguiente nivel</text>
+</string>
+<string id="st_quedarse_nivel">
+    <text>Quedarse en el nivel actual</text>
+</string>
+<string id="st_puerta_bloqueada">
+    <text>Algo bloquea la puerta</text>
+</string>
+<string id="st_sobrevive">
+    <text>Sobrevive</text>
+</string>
+
+</string_table>

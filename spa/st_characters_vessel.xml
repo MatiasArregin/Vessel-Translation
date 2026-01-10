@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+   <!-------------------------- VESSEL ------------------------>
+  <string id="esc_wolf_bio">
+		<text>Guardia personal de Nimble. Un viejo Stalker que soñaba ser rico.</text>
+	</string>
+	<string id="esc_wolf_name">
+		<text>Wolf</text>
+	</string>
+	<string id="esc_fanat_bio">
+		<text>Se hizo cargo del liderazgo de los novatos en el campamento después de Lobo. Lleno de propósito y agresividad, y tiene una autoridad merecida sobre los recién llegados.</text>
+	</string>
+	<string id="esc_fanat_name">
+		<text>Fanático</text>
+	</string>
+	<string id="esc_viper_bio">
+		<text>Nadie sabe cuando llego a la Zona, pero un día apareció con comida para todos y desde entonces se ha ganado el cariño de la gente</text>
+	</string>
+	<string id="esc_viper_name">
+		<text>Viper</text>
+	</string>
+	<string id="esc_pj1_name">
+		<text>Dima</text>
+	</string>
+	<string id="esc_pj2_name">
+		<text>Cherry</text>
+	</string>
+	<string id="esc_stalker_andrew_name">
+		<text>Andrew Kulovsky</text>
+	</string>
+	<string id="esc_kir_bio">
+		<text>Capitán de las fuerzas de defensa de Deber, se rumorea que sus ideales anticorrupción le están impidiendo subir de rango.</text>
+	</string>
+	<string id="esc_kir_name">
+		<text>Capitán Kir</text>
+	</string>
+	<string id="esc_leto_bio">
+		<text>No hay información disponible.</text>
+	</string>
+	<string id="esc_leto_name">
+		<text>Vovan</text>
+	</string>
+	<string id="esc_pollo_bio">
+		<text>Stalker que ha trabajado con los científicos por casi media década. Impecable y responsable.</text>
+	</string>
+	<string id="esc_pollo_name">
+		<text>Yorick Pollo</text>
+	</string>
+	<string id="esc_cabo_bio">
+		<text>Stalker novato que terminó en las filas de Deber en medio de un caos por las vueltas de la vida.</text>
+	</string>
+	<string id="esc_cabo_name">
+		<text>Cabo Fedya</text>
+	</string>
+	<string id="esc_desollador_name">
+		<text>Desollador</text>
+	</string>
+	<string id="esc_tornillo_name">
+		<text>Tornillo</text>
+	</string>
+	<string id="esc_tornillo_bio">
+		<text>Gran buscador de artefactos, desaparecido.</text>
+	</string>
+	<string id="esc_dogo_name">
+		<text>Dogo</text>
+	</string>
+	<string id="esc_dogo_bio">
+		<text>Veterano de la zona. Sin información.</text>
+	</string>
+	<string id="esc_tokha_name">
+		<text>Tokha Humilde</text>
+	</string>
+	<string id="esc_tokha_bio">
+		<text>Stalker de buen corazón.</text>
+	</string>
+	<string id="esc_andres_name">
+		<text>Andrés "Mago"</text>
+	</string>
+	<string id="esc_gabriel_zang_name">
+		<text>Gabriel Zang</text>
+	</string>
+	<string id="esc_gabriel_zang_bio">
+		<text>Actor famoso que vino a pasar sus días finales a la zona.</text>
+	</string>
+	<string id="dar_hermit_name">
+		<text>Hermit</text>
+	</string>
+	<string id="val_pituca_name">
+		<text>Pituca</text>
+	</string>
+	<string id="val_mercy_name">
+		<text>Mercy</text>
+	</string>
+	<string id="val_bandido_tecnico_name">
+		<text>Marco el Sucio</text>
+	</string>
+	<string id="val_stalker_kolyan_name">
+		<text>Kolyan "Despiadado"</text>
+	</string>
+	<string id="trc_bandit_matasanos_name">
+		<text>Matasanos</text>
+	</string>
+	<string id="trc_stalker_kashalot_name">
+		<text>Kashalot</text>
+	</string>
+	<string id="x18_leto_true_name">
+		<text>Leto</text>
+	</string>
+	<string id="dar_stalker_trodnik_name">
+		<text>Trodnik</text>
+	</string>
+</string_table>
