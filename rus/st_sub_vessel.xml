@@ -1,0 +1,1096 @@
+<?xml version="1.0" encoding="windows-1252" ?>
+
+<string_table>
+
+	<string id="esc_viktor_name">
+		<text>Viktor</text>
+	</string>
+	<string id="esc_cherry_name">
+		<text>Cherry</text>
+	</string>
+	<string id="esc_dima_name">
+		<text>Dima</text>
+	</string>
+	<string id="esc_atreo_name">
+		<text>Atreo</text>
+	</string>
+	<string id="esc_vovan_name">
+		<text>Vovan</text>
+	</string>
+	<string id="esc_leto_sub_name">
+		<text>Leto</text>
+	</string>
+	<string id="esc_stalker_generic_name">
+		<text>Stalker</text>
+	</string>
+	<string id="esc_pda_generic_name">
+		<text>Grabación de la PDA</text>
+	</string>
+	<string id="esc_monolito_generic_name">
+		<text>Soldado del Monolito</text>
+	</string>
+	<string id="esc_deber_generic_name">
+		<text>Soldado de Deber</text>
+	</string>
+	<string id="esc_generic_name">
+		<text>????</text>
+	</string>
+	<string id="esc_bandido_name">
+		<text>Bandido</text>
+	</string>
+	<string id="esc_bandidos_name">
+		<text>Bandidos</text>
+	</string>
+	<string id="dar_trodnik_name">
+		<text>Trodnik</text>
+	</string>
+	<string id="dar_trodnik_pda_name">
+		<text>PDA de Trodnik</text>
+	</string>
+	<string id="dar_radio_name">
+		<text>Radio</text>
+	</string>
+	<string id="viktor_dialog_reject_way_0">
+		<text>No debería ir por ahí...</text>
+	</string>
+	<string id="viktor_dialog_reject_lab_way_0">
+		<text>No puedo volver ahora. Tengo que terminar con esto de una vez.</text>
+	</string>
+	<string id="esc_viper_hi_msg">
+		<text>Al fin despiertas, stalker. Ven, hablemos un rato.</text>
+	</string>
+	<string id="esc_viper_salida_0_msg">
+		<text>Si te queda bien, pensé que sería muy grande para ti... Bueno, ahora sí, sígueme y no te separes mucho.</text>
+	</string>
+	<string id="esc_viktor_salida_0_msg">
+		<text>Bien. Te sigo.</text>
+	</string>
+	<string id="esc_viper_encandila_0_msg">
+		<text>Espero que no te hayas encandilado al salir (Risa)</text>
+	</string>
+	<string id="esc_viper_salida_1_msg">
+		<text>Mira, amigo. Acércate. Desde aquí los veo descansar, una manada de carnes.</text>
+	</string>
+	<string id="esc_viktor_salida_1_msg">
+		<text>... ¿Carnes? ¿Qué es eso?</text>
+	</string>
+	<string id="esc_viper_salida_2_msg">
+		<text>Preparate Viktor. Sosten firme el mango o te va a partir la muñeca. Si tienes que recargar quita la traba hacia atras desde el cañón e inserta unos cartuchos.</text>
+	</string>
+	<string id="esc_viktor_salida_2_msg">
+		<text>¿Pero qué mierda son los carnes?</text>
+	</string>
+	<string id="esc_viper_salida_viktor_msg_1">
+		<text>¿Qué mierda era eso? ¿Eran chanchos? ¡Estaban todos deformados...!</text>
+	</string>
+	<string id="esc_viper_salida_2b_msg">
+		<text>Si, y no es lo único feo que vas a ver por aquí. Estaá repleto de bandidos horribles también... Si te sientes con las tripas necesarias, puedes acercarte con el cuchillo a sacarles los ojos o algo de carne. Los stalkers a veces compran eso... Voy a revisar el lugar, tienes prohibido bajar la guardia.</text>
+	</string>
+	<string id="esc_viper_salida_3_msg">
+		<text>Escucha, encontré un rastro y no es precisamente de los Carnes que matamos... Sígueme.</text>
+	</string>
+	<string id="esc_viper_salida_4_msg">
+		<text>Han montado un campamento y creo que se quienes fueron...</text>
+	</string>
+	<string id="esc_viktor_salida_4_msg">
+		<text>¿Quiénes? ¿¡Más carnes!?</text>
+	</string>
+	<string id="esc_viper_salida_4a_msg">
+		<text>No... Esos no montan tiendas. (Risas)</text>
+	</string>
+	<string id="esc_viper_salida_5_msg">
+		<text>Lo sabía. Esa hoguera ha sido usada recientemente. Viktor, preparate. Los bandidos traman algo, vamos a pegarles una visita.</text>
+	</string>
+	<string id="esc_viktor_salida_5_msg">
+		<text>¿¡Bandidos!? No sabía que estábamos tratando con personas. ¿Qué mierda hacemos?</text>
+	</string>
+	<string id="esc_viper_salida_5b_msg">
+		<text>Dejame ir primero, espera quieto a ver que asome alguno y le disparas. Luego puedes quedarte con todo lo que encontremos.</text>
+	</string>
+	<string id="esc_viktor_salida_5b_msg">
+		<text>Bien. Te cubro, voy por detrás tuyo.</text>
+	</string>
+	<string id="esc_viper_salida_viktor_msg_2">
+		<text>Me duele la muñeca... Y mis manos tiemblan. Nunca habia matado a nadie.</text>
+	</string>
+	<string id="esc_viper_salida_6_msg">
+		<text>El temblor te va a durar unos minutos... A todos nos pasa. Si te sirve de algo, ellos te hubiesen hecho cosas peores si tenían la oportunidad, son despiadados. En fin, hablemos un rato. Encontré algo interesante.</text>
+	</string>
+	<string id="esc_nimble_1_msg">
+		<text>¡Hola! ¿Eres Viktor, verdad? Bienvenido a la zona. Viper me pasó tu contacto, te espero en la casa al Oeste de la aldea de novatos.</text>
+	</string>
+	<string id="esc_nimble_2_msg">
+		<text>Ten cuidado con los bandidos.</text>
+	</string>
+	<string id="esc_nimble_3_msg">
+		<text>¡Viktor! Ya pude abrir la  caja. Pasate y charlamos.</text>
+	</string>
+	<string id="esc_trader_msg_1">
+		<text>Viktor, tengo información que te va a ser muy útil. Pasate así charlamos un rato.</text>
+	</string>
+	<string id="esc_trader_msg_2">
+		<text>Tu debes ser el nuevo. Vinicio ¿Verdad? Ponte cómodo, tengamos una buena charla.</text>
+	</string>
+	<string id="esc_trader_msg_viktor">
+		<text>Es Viktor, me llamo Viktor.</text>
+	</string>
+	<string id="esc_trader_msg_3">
+		<text>Si, si... Viktor. Pasa.</text>
+	</string>
+	<string id="esc_pollo_task_msg_0">
+		<text>Ve con confianza, entre esas cajas y restos de metal hay una incoherencia en las lecturas. Parate ahí.</text>
+	</string>
+	<string id="esc_pollo_task_viktor_msg_0">
+		<text>¿Es acá, no?</text>
+	</string>
+	<string id="esc_pollo_task_msg_1">
+		<text>¡Bien! Era justo donde dije. Muy bien, a pesar de la radiación, te lo estás tomando muy bien-</text>
+	</string>
+	<string id="esc_pollo_task_viktor_msg_1">
+		<text>Si, si ¿¡Y ahora a dónde voy!?</text>
+	</string>
+	<string id="esc_pollo_task_msg_2">
+		<text>¿Ves los restos de la cabina de grúa más adelante? Es allí.</text>
+	</string>
+	<string id="esc_pollo_task_msg_3">
+		<text>Bien. No hay tiempo para escondites, ignora todo o la radiación te va a dejar calvo.</text>
+	</string>
+	<string id="esc_pollo_task_viktor_msg_3">
+		<text>¿¡A dónde mierda voy ahora!?</text>
+	</string>
+	<string id="esc_pollo_task_msg_4">
+		<text>La salida de la tubería de acero cubierta de hormigón, revisa por ahí ¿Va? Apúrate.</text>
+	</string>
+	<string id="esc_pollo_task_msg_5">
+		<text>Hum... Hay un índice de radiación más alto que el normal, mejor corre. El siguiente lugar es detrás tuyo, acercándote a esa vieja carga de camión oxidada.</text>
+	</string>
+	<string id="esc_pollo_task_viktor_msg_5">
+		<text>¿¡Y BIEN!?</text>
+	</string>
+	<string id="esc_pollo_task_msg_6">
+		<text>Oh, pensé que ya había hablado. En el suelo, girando al árbol a tu derecha, ve ahí.</text>
+	</string>
+	<string id="esc_pollo_task_msg_7">
+		<text>Bien, el siguiente te lo marco en la PDA, es complicado explicarlo. Debes acercarte a las anomalías... Ve con cuidado.</text>
+	</string>
+	<string id="esc_pollo_task_msg_8">
+		<text>Bien, quedan unos 10 lugares más.</text>
+	</string>
+	<string id="esc_pollo_task_viktor_msg_8">
+		<text>¿¡Diez!?</text>
+	</string>
+	<string id="esc_pollo_task_msg_9">
+		<text>Es broma, amigo. Sal de ahí de una vez. Ven así te doy unos botiquines y una merecida recompensa.</text>
+	</string>
+	<string id="esc_sound_stalker_mago">
+		<text>Eh, Mira. Ahi va el que mato al Mago.</text>
+	</string>
+	<string id="esc_sound_stalker_fanatico">
+		<text>Ahi va el que te gano el encargo de fanatico. Dicen que es rapido che.</text>
+	</string>
+	<string id="esc_sound_stalker_tejado">
+		<text>Pssst, mira. Es el stalker que anda trepando los tejados.</text>
+	</string>
+	<string id="esc_sound_stalker_controlador">
+		<text>¡Ey! Gracias por ocuparte del mutante del túnel. Hace rato que tenía que ir a los pantanos...</text>
+	</string>
+	<string id="esc_sound_stalker_aldea">
+		<text>Ahi va Viktor. Gracias por asegurar la aldea, hermano.</text>
+	</string>
+	<string id="esc_sound_stalker_salvado">
+		<text>¿Ese el que te salvo el otro dia?</text>
+	</string>
+	<string id="esc_sound_stalker_hook">
+		<text>¿Ese no es el que esta buscando Hook?</text>
+	</string>
+	<string id="esc_sound_stalker_arrastrado">
+		<text>Es el tipo que arrastraba Viper hace rato...</text>
+	</string>
+	<string id="esc_sound_stalker_detras">
+		<text>Hey, atras tuyo va Viktor. ¡No! Pero no mires ¡Te va a ver!</text>
+	</string>
+	<string id="esc_sound_stalker_pico">
+		<text>¿Ese tipo lleva un puto pico en la mochila? je ¿Va a buscar artefactos o a minar?</text>
+	</string>
+	<string id="esc_sound_stalker_comida">
+		<text>Mira, es el que te dije que encontró la comida... Tremenda suerte.</text>
+	</string>
+	<string id="esc_item_pda_tornillo">
+		<text>La PDA de Tornillo... Vere que tiene dentro. Parece que hacia una investigacion ligera sobre los mejores lugares para encontrar artefactos de clase baja de forma segura. \n Tambien esta llena de fotos de las vivencias Tornillos en la zona, entre las cuales se pueden ver fotos con su amigo Cabo... \n Entre los archivos eliminados se puede ver una nota... dice: Es Kolyan, el me mando a matar. ¿Quien sera? Tengo que ver que hago con esta PDA, tiene informacion muy valiosa. Pero tambien le corresponde a Cabo verla.</text>
+	</string>
+	<string id="esc_item_nota_nox">
+		<text>Encontré una nota en el escondite... Dice: "Si estás leyendo esto, entonces tus sueños te guiaron bien. Tu sensibilidad psíquica es mayor de lo normal; por eso fuiste capaz de encontrar este lugar antes que los demás. Aquí hallarás lo que necesitas: la primera Llave, un artefacto que resonará contigo y te llevará hacia los otro cuatro. Juntos, los cinco revelarán un poder que trasciende cualquier límite... pero aún no estás listo para entenderlo. A medida que avances, el velo entre tu mente y lo que habita sobre la Zona se volverá más delgado. Entonces podré mostrarte más. Sigue el pulso. No te detengas — Nox". Pero no había ningún artefacto ahí... Tengo que averiguar más, alguien estuvo acá antes que yo.</text>
+	</string>
+	<string id="esc_item_pda_centinela">
+		<text> La PDA dice “Centinela”. Hay algunas entradas escritas de hace unos días: “La herida de mi pierna se está infectando, necesito un préstamo para pagar los putos antibióticos.” ugh, pobre tipo... Hay otra entrada unos días después. “Esta este tipo, Atreo. Viene de la nada y dice que me puede dar el dinero que necesito si lo acompaño a los pantanos. Obviamente acepté, aunque cojee y duela, es mejor que perder la puta pierna.” Al final no le salió bien... Por eso cojeaba el fiambre.</text>
+	</string>
+	<string id="esc_item_nota_hook_1">
+		<text>Una nota en un papel algo maltratado que dice: Esta es mi chimenea. Mi escondite, por favor no robar mas cosas. Los stalkers me respetan, no voy a cambiar de escondite, voy a seguir usando este lugar y si descubro quien fue el ladron, le voy a meter un tiro... \n Abajo parece haber una lista: \n Un vodka para la radiacion y las noches largas. \n Dos vendas por los golpes de Dante... Parece que no guardaron muchas cosas en el escondite esta vez.</text>
+	</string>
+	<string id="esc_item_nota_hook_2">
+		<text>Otro papel maltratado, dice con letra desprolija e iracunda: Guardo unas medicinas. Estuve preguntando si alguien sabe quien me robo las cosas anteriores y averigue quien sos. Si te veo, TE MATO... \n Uf, Espero no meterme en problemas.</text>
+	</string>
+	<string id="esc_item_nota_hook_3">
+		<text>Este papel esta mas cuidado, con letra diferente a la de Hook. alguien escribio: Amigo, soy Dante. No encontre las cosas que querias dejarme, asumo que nos robaron. Pregunte al viejo y me dijo que nos robo un tal Tokha. Te dejo la mira que me pediste la ultima vez, cuidate... Parece que varias personas usan este escondite.</text>
+	</string>
+	<string id="esc_item_nota_hook_4">
+		<text>Otro papel maltratado de nuevo. Esta debe ser la letra de Hook. Esta vez escribio: Parece que indagaste mas de lo que debias. Te dejo instrucciones para que arreglemos esto de una vez y dejes de robarme, hijo de puta. \n Ahora mismo estoy de viaje por el Norte, pero si ves al tabernero, preguntale donde buscar a hook. \n Firma tu peor enemigo: Hook Socorrista. \n PD: Dante, si lees esto no te enojes, no estoy buscando problemas con nadie. Ahora estoy camino al Norte mediante Darkscape, seguro tome lo que dejaste en el escondite tras la gasolinera, nos vemos en yantar, amigo... ¡Mierda! al final si me meti en problemas con Hook... Tengo que poner las cosas bien en claro.</text>
+	</string>
+	<string id="esc_item_nota_leto">
+		<text>Una letra prolija y caligrafica escribe: ¡Paso de nuevo! ¡Pero esta vez me adelante! Pude robar sus cosas antes de que se entere siquiera, tremendo estupido. Es increible que sigan creyendome cada vez que me cambio la mascara de gas, los stalkers son cada vez mas descuidados estos dias... \n Debajo de la nota hay una cara enojada >:( escrito de forma desprolija, que no cuadra con la caligrafia calmada de antes ¿Sera de otra persona?</text>
+	</string>
+	<string id="esc_item_pda_mago">
+		<text>La PDA de Mago... Esta bloqueada, solo se puede ver que ha recibido mensajes recientes de los siguientes contactos: Leto, Dientes, Kolyan, Sultan, Clave, Borov, Tabernero... Parece que tenía contactos importantes. Se la tengo que llegar a Wolf.</text>
+	</string>
+	<string id="esc_item_nota_mago">
+		<text>Una nota en un papel nuevo, bastante cuidado para la zona... Dice: Escucha, Mago. Tuve que mandar a estos perejiles a que acampen cerca tuyo. Les pedí que te esperen y tienen instrucciones de unirse a tu causa cuando estés listo para ejecutar el plan. Deberían ser 9 bandidos, si llegaron menos preguntales que mierda pasó. No quiero que ninguno se esconda en el Cordón o vamos a llamar la atención. \n -Pirata</text>  <!--sin voz-->
+	</string>
+	<string id="esc_item_foto_viper">
+		<text>En la foto se ve a dos personas con trajes de camuflaje celeste y blanco... Nunca vi ese traje en la zona. Estan posando para una foto juntos y haciendo senas con los dedos. Parecen buenos amigos... El de la derecha me suena familiar."</text>
+	</string>
+	<string id="esc_item_arma_dogo">
+		<text>Deberia llevarle esto a Dogo...</text>
+	</string>
+	<string id="esc_item_traje_viper">
+		<text>Viper va a estar contento con lo que encontré.</text>
+	</string>
+	<string id="esc_item_cosas_pollo">
+		<text>Pollo me va a pagar bien por todas las vueltas que tuve que dar...</text>
+	</string>
+	<string id="esc_item_pda_monolito_cruz">
+		<text>El que todo lo sabe repitio cien mil veces que espere en estas coordenadas a que el hereje asome. Ya son 6 dias complaciendo los deseos del monolito.</text>
+	</string>
+	<string id="esc_item_pda_zombie_boss">
+		<text>Le seguimos el rastro a un Stalker que pasó corriendo herido, vimos que paró en el túnel a tomar aire. Vamos a acercarnos... \n Los chicos se están volviendo locos... el Stalker de chaqueta amarilla nos hizo unos gestos con las manos y todo se fue a la mierda... Tuve que dispararles, me estaban atacando. \n Mi cabeza va a explotar... Estoy viendo doble y con colores extraños... Todo se ve rojo por momentos, y azul por otros... Si alguien encuentra esta PDA que se la haga llegar a Cold, por favor.</text>
+	</string>
+	<string id="esc_msg_monolito_cruz">
+		<text>El monolito tenia razon, has venido...</text>
+	</string>
+	<string id="esc_viper_pantanos_camino_1">
+		<text>Escucha, hace años que no piso los grandes pantanos. Tengo mucha historia con ese lugar, y no es buena. Vamos con cuidado.</text>
+	</string>
+	<string id="esc_viktor_pantanos_camino_1">
+		<text>Entendido. ¿Así que historia, che? ¿Qué pasó ahí?</text>
+	</string>
+	<string id="esc_viper_pantanos_camino_2">
+		<text>Cuento largo, amigo. Muy largo. En otro momento que viajemos más relajados te cuento.</text>
+	</string>
+	<string id="esc_viktor_pantanos_camino_2">
+		<text>Bien. Me la debés para la próxima.</text>
+	</string>
+	<string id="esc_viper_pantanos_camino_3">
+		<text>Te cubro, cruza el alambrado y ve por las vías. Yo iré detrás tuyo asegurándome que nadie nos siga</text>
+	</string>
+	<string id="mar_viktor_pantanos_vias_1">
+		<text>¿A dónde llevan esas vías?</text>
+	</string>
+	<string id="mar_viper_pantanos_vias_1">
+		<text>Si vamos al Este, nos devuelven al Cordón. Pasando un túnel llevan a Darkscape... Que es zona de nadie.</text>
+	</string>
+	<string id="mar_viktor_pantanos_vias_2">
+		<text>¿Y que hay al Oeste?</text>
+	</string>
+	<string id="mar_viper_pantanos_vias_2">
+		<text>Como a un kilómetro hay ruinas ferroviarias destruidas por las anomalías. Luego hay un puente que cruza el Río Pripyat.</text>
+	</string>
+	<string id="mar_viktor_pantanos_vias_3">
+		<text>Así que un puente. Interesante…</text>
+	</string>
+	<string id="mar_viper_pantanos_vias_3">
+		<text>Sé que ansias recorrer la zona, Viktor. Pero no te pierdas mucho pensando en el futuro. Concentrémonos en esto. No quiero pasar un segundo demás aquí.</text>
+	</string>
+	<string id="mar_viper_pantanos_advertencia_1">
+		<text>Un detalle importante: No vayas por el agua. Te vas a envenenar muy fuerte con radiación.</text>
+	</string>
+	<string id="mar_viper_pantanos_advertencia_2">
+		<text>Viktor. Es mejor si no cruzas por la hierba. Vas a hacer ruido y eso puede llamar atención indeseada.</text>
+	</string>
+	<string id="mar_viper_pantanos_cem_1">
+		<text>Amigo, dame un segundo. Ya que estamos por aquí, déjame hacer una parada rápida.</text>
+	</string>
+	<string id="mar_viktor_pantanos_cem_1">
+		<text>Dale ¿Qué pasó?</text>
+	</string>
+	<string id="mar_viper_pantanos_cem_2">
+		<text>Descansen en paz, amigos...</text>
+	</string>
+	<string id="mar_viper_pantanos_cem_3">
+		<text>Ya, vamos.</text>
+	</string>
+	<string id="mar_viktor_llegando_1">
+		<text>Ya casi llegamos.</text>
+	</string>
+	<string id="mar_viper_llegando_1">
+		<text>Hay demasiado silencio. No me gusta.</text>
+	</string>
+	<string id="mar_viktor_llegando_2">
+		<text>¿¡Y ESO!?</text>
+	</string>
+	<string id="mar_viper_llegando_2">
+		<text>¡Dispara! ¡Ya no es humano!</text>
+	</string>
+	<string id="mar_viper_zombis_muertos_1">
+		<text>Voy a hacer guardia. Puedes revisar tranquilo mientras...</text>
+	</string>
+	<string id="mar_viktor_zombis_muertos_1">
+		<text>Bien, dame un minuto.</text>
+	</string>
+	<string id="mar_viktor_vamonos_1">
+		<text>No hay ninguna pista en los cuerpos, las frecuencias de Sidorovich no están y no hay señales de Atreo... No entiendo qué pasó.</text>
+	</string>
+	<string id="mar_viper_vamonos_1">
+		<text>Habrá que preguntar en el Cordón si vieron a Atreo. Volvamos por el túnel que usan los contrabandistas. Usaremos el resguardo de la noche para que no nos acribillen los militares. Avísame cuando estés listo.</text>
+	</string>
+	
+	<string id="esc_viper_asesinato_militar_0">
+		<text>(Susurrando) ¡Shhh! Este es mío. Apaga la linterna y no hagas ruido.</text>
+	</string>
+	<string id="esc_viktor_asesinato_militar_1">
+		<text>No sabía que tenías un arma silenciada...</text>
+	</string>
+	<string id="esc_viper_asesinato_militar_2">
+		<text>Son necesarias. Te lo recomiendo... (Suspiro) Volvamos de una vez.</text>
+	</string>
+	<string id="esc_viper_asesinato_militar_3">
+		<text>¡NO! ¡APAGA-</text>
+	</string>
+	<string id="esc_viper_ya_en_base_0">
+		<text>Bueno Viktor, fué un buen paseo y sin problemas mayores. Bien hecho. Ahora voy a ver a un amigo, supongo que tu irás a ver a Sidorovich. Suerte, búscame si necesitas ayuda.</text>
+	</string>
+	<string id="esc_msg_viktor_perros_1">
+		<text>(Silbidos llamando a los perros) Bien, funcionó.</text>
+	</string>
+	<string id="esc_msg_vovan_perros_1a">
+		<text>¡Oh no! ¡Ahi vienen! No dejes que se me acerquen.</text>
+	</string>
+	<string id="esc_msg_vovan_perros_1b">
+		<text>¡Malditos perros mugrosos!</text>
+	</string>
+	<string id="esc_msg_vovan_perros_2">
+		<text>¡Uf, puta madre! Pense que serias mas útil, tuve que hacer la mayoria del trabajo yo.</text>
+	</string>
+	<string id="esc_msg_viktor_perros_3">
+		<text>Imbécil...</text>
+	</string>
+	<string id="esc_msg_monolitos_deber_1">
+		<text>Monolito, los veo...</text>
+	</string>
+	<string id="esc_msg_monolitos_deber_2">
+		<text>Veo herejes vestidos de rojo y negro...</text>
+	</string>
+	<string id="esc_msg_monolitos_deber_3">
+		<text>¡Infieles adelante!</text>
+	</string>
+	<string id="esc_msg_monolitos_deber_4">
+		<text>¡Destruyan en nombre del monolito!</text>
+	</string>
+	<string id="esc_msg_monolitos_deber_5">
+		<text>¡Sigan las órdenes del monolito!</text>
+	</string>
+	<string id="esc_msg_monolitos_deber_6">
+		<text>Que no quede nadie...</text>
+	</string>
+	<string id="esc_msg_monolitos_deber_7">
+		<text>El monolito dijo que disparemos antes de que tengan oportunidad de reaccionar.</text>
+	</string>
+	<string id="esc_msg_monolitos_deber_8">
+		<text>¡POR EL MONOLITO!</text>
+	</string>
+	<string id="esc_msg_monolitos_deber_8b">
+		<text>¡Por el monolito!</text>
+	</string>
+	<string id="esc_msg_monolitos_kir_1">
+		<text>¡Nos flaquean por la colina!</text>
+	</string>
+	<string id="esc_msg_monolitos_kir_2">
+		<text>¡Todos a cubierto!</text>
+	</string>
+	<string id="esc_msg_monolitos_kir_3">
+		<text>Joven, acerquese a hablar antes de irse. Tenemos que saldar cuentas.</text>
+	</string>
+	<string id="esc_msg_monolitos_kir_4a">
+		<text>B.S.C a Vertedero, B.S.C a Vertedero ¿Me copian?</text>
+	</string>
+	<string id="esc_msg_monolitos_kir_4b">
+		<text>B.S.C a Vertedero, B.S.C a Vertedero ¿Me reciben?</text>
+	</string>
+	<string id="esc_leto_truco_msg_0">
+		<text>Oh, si. No tengo el artefacto aquí, sígueme un minuto.</text>
+	</string>
+	<string id="esc_leto_truco_msg_2">
+		<text>(Risas)</text>
+	</string>
+	<string id="esc_leto_truco_msg_1">
+		<text>Wow, es raro que sigas consciente. Pero no vas a zafar. Nadie aguanta esto...</text> 
+	</string>
+	<string id="esc_leto_truco_viktor_msg_1">
+		<text>¿Qué pasa? ¿¡Qué es esto!?</text> <!--sin voz-->
+	</string>
+	<string id="esc_leto_truco_viktor_msg_2"> <!--sin voz-->
+		<text>¡ATREO!</text>
+	</string>
+	<string id="esc_teleport_actor_viper">
+		<text>¡Ey, amigo! Bienvenido de regreso ¿Te acuerdas qué te pasó? Hablame...</text>
+	</string>
+	<string id="esc_zombie_boss_viktor_msg_1">
+		<text>¿¡Qué mierda!? ¡EY! ¿¡Quién sos!? ¡Voy a disparar!</text> <!--sin voz-->
+	</string>
+	<string id="esc_zombie_boss_viktor_msg_2">
+		<text>Entonces Leto se fué y se ocupó de estos stalkers en el camino... Pobres. Debería ver a Viper, seguro sabe cómo seguirle el rastro.</text> <!--sin voz-->
+	</string>
+	<string id="esc_reclutando_cabo_msg">
+		<text>Listo. Ya tengo mis cosas ¡Adelante!</text>
+	</string>
+	<string id="esc_reclutando_dogo_msg">
+		<text>Presta atención stalker. Vas a poder ver a un experto en acción.</text> <!--sin voz-->
+	</string>
+	<string id="esc_reclutando_pollo_msg">
+		<text>(Tarareando) Cuando encontremos a Atreo le voy a sacar los putos ojos.</text>
+	</string>
+	<string id="esc_pre_viaje_viper_msg_1">
+		<text>Cabo, Atento. Agarra tus cosas que nos vamos.</text>
+	</string>
+	<string id="esc_pre_viaje_cabo_msg_2">
+		<text>Listo, señor ¡Listo!</text>
+	</string>
+	<string id="esc_pre_viaje_viper_msg_3">
+		<text>¡Dogo! Ya puedes sacar a Linda si quieres, no olvides la caja con munición.</text>
+	</string>
+	<string id="esc_pre_viaje_dogo_msg_4">
+		<text>Si... Es hora de sacar a Linda de paseo.</text> 
+	</string>
+	<string id="esc_pre_viaje_viper_msg_5">
+		<text>¡Pollo! Te estas olvidando los botiquines de nuevo...</text> 
+	</string>
+	<string id="esc_pre_viaje_pollo_msg_6">
+		<text>Vaya, juraría que estaban en mi mochila (Risa)</text> 
+	</string>
+	<string id="esc_pre_viaje_viper_msg_7">
+		<text>¡Viktor! Puedo ver las ansias en tus ojos. Relájate. Vamos a encontrarlo.</text> 
+	</string>
+	<string id="esc_pre_viaje_viktor_msg_8">
+		<text>(Avergonzado) Estoy bien, tranquilos (Risa).</text> 
+	</string>
+	
+	<string id="esc_susto_pollo_msg_1">
+		<text>(Imitando un Monolito) Por el monolito... Ataquen al que tiene uniforme de Deber...</text>
+	</string>
+	<string id="esc_susto_cabo_msg_2">
+		<text>¡POLLO! COÑO DE LA MADRE ¡Pensé que eras un soldado del monolito!</text>
+	</string>
+	<string id="esc_susto_pollo_msg_3">
+		<text>(Risas)</text>
+	</string>
+	<string id="esc_susto_dogo_msg_4">
+		<text>Es increíble que caigas tantas veces en lo mismo.</text>
+	</string>
+	<string id="esc_susto_viktor_msg_5">
+		<text>Deberías relajarte un poco, Cabo.</text>
+	</string>
+	<string id="esc_susto_viper_msg_6">
+		<text>¡Suficiente! No bajen la guardia. Los monolitos pueden llegar en cualquier momento. En especial tu, Cabo. Que luego te asustas por nada.</text>
+	</string>
+	<string id="esc_susto_pollo_msg_7">
+		<text>Aguafiestas...</text>
+	</string>
+	<string id="esc_traje_cabo_dolg_msg">
+		<text>(Susurrando) Stalker, escuché que necesitabas un traje. Acércate y hablemos.</text> <!--sin voz-->
+	</string>
+	<string id="esc_bandidos_wolf_msg">
+		<text>¡Hay ruido en el techo! ¡VAYAN A VER!</text> 
+	</string>
+	<string id="esc_wolf_ladron_msg">
+		<text>Chico, localizamos al ladrón. Ven cuando puedas así charlamos sobre el desgraciado.</text> 
+	</string>
+	<string id="esc_wolf_ladron_msg_2">
+		<text>Por favor, cuida de mis muchachos, chico.</text> 
+	</string>
+	<string id="esc_wolf_ladron_msg_3">
+		<text>Chico, estuve leyendo la PDA del Mago y descubrí algunas cosas. Parece que hizo arreglos con unos bandidos para atacar la aldea de novatos... Cuento contigo, vente cuando puedas y te explico.</text> 
+	</string>
+	<string id="esc_wolf_ladron_msg_3b">
+		<text>Buen trabajo. Vamos a buscar al siguiente grupo.</text>
+	</string>
+	<string id="esc_wolf_ladron_msg_3c">
+		<text>Vamos a buscar al siguiente grupo.</text>
+	</string>
+	<string id="esc_wolf_ladron_msg_3d">
+		<text>Creo que eran todos... Ahora la aldea está a salvo. Ven, tengo algo para darte.</text> 
+	</string>
+	<string id="esc_arma_kir_msg_1">
+		<text>Cabo Fedya, esta noche hay chequeo de rutina para que veamos el estado del equipo. No olvide traer su arma.</text> 
+	</string>
+	<string id="esc_arma_cabo_msg_2">
+		<text>¡Sí, capitán! Tendré mi equipo listo para esta noche...</text> 
+	</string>
+	<string id="esc_arma_viktor_msg_3">
+		<text>Estás hasta las manos, Cabo...</text> 
+	</string>
+	<string id="esc_arma_cabo_msg_4">
+		<text>Viktor mira... (Susurrando) Por favor, te encargo mi arma. Te pagaré bien.</text> 
+	</string>
+	<string id="esc_tornillo_conpda_msg">
+		<text>No... Estas fotos no tienen más de un mes. Y pensar que ya no lo volveré a ver.</text> 
+	</string>
+	<string id="esc_tornillo_sinpda_msg">
+		<text>No de veras. Es raro que Tornillo se haya descuidado ante algo tan cotidiano como la radiación. Esto huele raro... ¿Seguro que no me estoy enterando de algo más? Bueno, dejalo así.</text> 
+	</string>
+	<string id="esc_tunel_boar_viktor_msg">
+		<text>Cerdo hijo de puta... Era durísimo.</text> <!--sin voz-->
+	</string>
+	<string id="esc_dogo_fantasma_general_msg_1">
+		<text>Novato, hay pelusa quemada en ese túnel. Pasemos agachados y no hagas movimientos bruscos.</text> <!--sin voz-->
+	</string>
+	<string id="esc_dogo_fantasma_general_msg_2">
+		<text>Era broma stalker. No iba a correr hasta la base...</text> <!--sin voz-->
+	</string>
+	<string id="esc_dogo_fantasma_general_msg_3">
+		<text>Sabes, este túnel antes tenía anomalías eléctricas. Un día vino un científico, puso unos aparatitos, apareció un artefacto y las anomalías desaparecieron para siempre.</text> <!--sin voz-->
+	</string>
+	<string id="esc_dogo_fantasma_general_msg_4">
+		<text>Escucha, novato. Gracias por la ayuda, creo que serás un gran stalker alguna vez… Esos fantasmas sí que me dejaron mal de la cabeza. Ven y hablemos sobre la paga que te ganaste antes de que me duerma.</text> <!--sin voz-->
+	</string>
+	<string id="esc_dogo_fantasma_msg_1">
+		<text>¿No sientes algo raro? Escucho como... un zumbido.</text> <!--sin voz-->
+	</string>
+	<string id="esc_dogo_fantasma_msg_2">
+		<text>¡SON ELLOS! ¡Son los fantasmas que me atacaron!</text> <!--sin voz-->
+	</string>
+	<string id="esc_dogo_fantasma_msg_3">
+		<text>¡AGH! ¡Mi cabeza! ¡Siento las voces de los fantasmas!</text> <!--sin voz-->
+	</string>
+	<string id="esc_dogo_fantasma_msg_4">
+		<text>¡STALKER! ¡AHÍ ADELANTE! Hacia el NORTE, vi algo ¡Te lo juro!</text> <!--sin voz-->
+	</string>
+	<string id="esc_dogo_msg_fantasma_1">
+		<text>Stalker, no te alejes mucho de mí. Lo digo para que no te vaya a pasar nada...</text> <!--sin voz-->
+	</string>
+	<string id="esc_dogo_msg_fantasma_2">
+		<text>¡Stalker, mueve el culo!</text> <!--sin voz-->
+	</string>
+
+	<string id="dar_viper_msg_1">
+		<text>Pollo ¡No te quedes atrás! Te veo muy relajado.</text>
+	</string>
+	<string id="dar_pollo_msg_1">
+		<text>Si si si. Ya voy, Capitán Viper</text>
+	</string>
+	<string id="dar_viper_msg_2">
+		<text>Eviten ir por la calle. Tomemos el camino a la derecha y usemos la cobertura de los árboles.</text>
+	</string>
+	<string id="dar_viper_msg_3">
+		<text>¿Los vieron, no? Hay varios. Avancen con la cabeza a gachas...</text>
+	</string>
+	<string id="dar_dogo_msg_1">
+		<text>Jaja ¿Qué agache la cabeza? A la mierda con eso ¡Acá estoy monolitos, vengan con papi!</text>
+	</string>
+	<string id="dar_cabo_msg_1">
+		<text>Tenemos un francotirador a la 1 en punto ¡Más adelante!</text>
+	</string>
+	<string id="dar_viper_msg_4">
+		<text>Lo veo, a cubierto ¡Viktor! Acercate. Te toca a tí.</text>
+	</string>
+	<string id="dar_viper_msg_5">
+		<text>¡FUEGO DE COBERTURA! ¡Corre Viktor! Al árbol de la izquierda. Quédate ahí hasta que recargue.</text>
+	</string>
+	<string id="dar_viper_francotirador_primero">
+		<text>¡Bien! Esperá ahí a que recargue...</text>
+	</string>
+	<string id="dar_viper_francotirador_segundo">
+		<text>¡Genial! Espera ahí, ve tu izquierda luego.</text>
+	</string>
+	<string id="dar_viper_francotirador_tercero">
+		<text>¡Vas bien, Viktor! Corré al árbol de tu derecha después.</text>
+	</string>
+	<string id="dar_viper_francotirador_tercero_dogo">
+		<text>Cuidado chico. No te cruces con el fuego de Linda si no quieres quedar sin piernas.</text>
+	</string>
+	<string id="dar_viper_francotirador_cuarto">
+		<text>¡Bien, amigo! Espera ahí. Luego zig-zaguea hasta el árbol a tu izquierda.</text>
+	</string>
+	<string id="dar_viper_francotirador_quinto">
+		<text>UF, Casi ¡Bien!</text>
+	</string>
+	<string id="dar_viper_francotirador_sexto">
+		<text>Viktor! ¡Está a vista! Desde ahí puedes matarlo ¡Queda en tus manos!</text>
+	</string>
+	<string id="dar_viper_msg_6">
+		<text>Increíble... Espero que no haya más de estos.</text>
+	</string>
+	<string id="dar_cabo_msg_2">
+		<text>...Nos vendría bien un francotirador ahora mismo.</text>
+	</string>
+	<string id="dar_pollo_msg_2">
+		<text>(Risa)</text>
+	</string>
+	<string id="dar_dogo_msg_2">
+		<text>Odio a los francotiradores. Son unos malditos maricas.</text>
+	</string>
+	<string id="dar_viper_msg_6b">
+		<text>Suficiente. Sigamos por los bordes de la calle que lleva al Este.</text>
+	</string>
+	<string id="dar_pollo_msg_3">
+		<text>Cuidado. Hay una puta anomalía de fuego en medio de la calle.</text>
+	</string>
+	<string id="dar_pollo_msg_4">
+		<text>¡JAJAJA! Miren como cayó ese monolito ¡Quedó todo tieso! ¡JAJA!</text>
+	</string>
+	<string id="dar_viper_msg_7">
+		<text>Atentos. Nos movemos al helicóptero más adelante. Tomemos un descanso ahí. De paso necesito vendarme, que estoy perdiendo sangre...</text>
+	</string>
+	<string id="dar_pollo_msg_5">
+		<text>Te hecho una mano, tengo vendas de los científicos... Aunque la verdad son vendas normales con parches de los científicos. Pero igual sirven.</text>
+	</string>
+	<string id="dar_viper_msg_8">
+		<text>Uf... Paremos un rato. Cabo, haz guardia mientras, enseguida te acompaño. El resto, relájense un rato.</text>
+	</string>
+	<string id="dar_cabo_msg_3">
+		<text>Tenían ventaja de terreno alto y aún así no pudieron con nosotros... Somos muy buenos.</text>
+	</string>
+	<string id="dar_dogo_msg_3">
+		<text>Que no se te suban los humos, novato. El mérito es mío.</text>
+	</string>
+	<string id="dar_cabo_msg_4">
+		<text>Oh, ya veo. Muchas gracias, Dogo.</text>
+	</string>
+	<string id="dar_trodnik_msg_1">
+		<text>¡Viper! Tenemos a tu chico, lo atrapamos hace rato ¿Dijiste que tenía chaqueta amarilla, verdad? te mando nuestras coordenadas.</text>
+	</string>
+	<string id="dar_viper_msg_9">
+		<text>¡Enseguida vamos! No le quiten los ojos de encima ni un segundo, es peligroso. Recuerda lo que hablamos. Viktor, ven. Hablemos y seguimos camino. Prepárense.</text>
+	</string>
+	<string id="dar_trodnik_msg_2">
+		<text>Tomate tu tiempo que lo tenemos a punta de cañón y no está armado, no irá a ninguna parte.</text>
+	</string>
+	<string id="dar_cabo_msg_5">
+		<text>¿Esta es la gente que buscabamos? Pero si estaban vivos hace unos minutos...</text>
+	</string>
+	<string id="dar_pollo_msg_6">
+		<text>No se ven bien. No hace falta ser científico para darse cuenta...</text>
+	</string>
+	<string id="dar_viper_msg_10">
+		<text>Mierda... Les advertí que no lo subestimen. Cabo, Dogo, cubran la puerta. Pollo, te toca cubrir el patio. ¡Viktor! Conmigo, busquemos cualquier pista de Atreo.</text>
+	</string>
+	<string id="dar_cabo_msg_6">
+		<text>¡Si, Capitán!</text>
+	</string>
+	<string id="dar_trodnik_msg_3">
+		<text>Una PDA con una nota de voz. La voy a reproducir: "Leto usó algún tipo de truco y se soltó. Noqueó a los chicos con un solo movimiento de su mano ¡Ni siquiera nos tocó! Al final, tenías razón con tu teoría. Solo estoy consciente por el casco que llevo... Tomen bloqueadores antes de acercarse.\n Saquennos de esta miseria."</text>
+	</string>
+	<string id="dar_viper_msg_11">
+		<text>Bueno, esto confirma la corazonada que te había mencionado, Viktor. El artefacto que lleva Leto le permite manipular campos de energía PSI, por eso nos hemos cruzado con estos zombis en más de una ocasión. Además tengo otra sospecha...</text>
+	</string>
+	<string id="dar_viktor_msg_1">
+		<text>De ahí los zombis que vi antes en los pantanos ¿Y ahora qué hacemos? ¿cómo le seguimos el rastro siquiera?</text>
+	</string>
+	<string id="dar_pollo_msg_7">
+		<text>¡Silencio! La puta radio está haciendo ruidos raros. Escuchen...</text>
+	</string>
+	<string id="dar_radio_monolith">
+		<text>Recibimos la señal del infiel (Interferencia) está en dirección al Valle Oscuro (Interferencia) está usando el artefacto para evadirnos, cambio.</text>
+	</string>
+	<string id="dar_viper_msg_12">
+		<text>Eso confirma mi otra sospecha. De alguna manera los monolitos están rastreando a Leto a través del artefacto. Es peligroso, pero hay que seguirlo hasta el Valle Oscuro... ¡Sigamos!</text>
+	</string>
+	<string id="dar_pollo_msg_8">
+		<text>Algo anda mal, hay demasiado silencio.</text>
+	</string>
+	<string id="dar_dogo_msg_4">
+		<text>Los mutantes deben haber escuchado todos los disparos de antes.</text>
+	</string>
+	<string id="dar_viper_msg_13">
+		<text>¡Alto! Hay monolitos sobre el puente. Avancen con la cabeza a gachas. Dogo, va para ti eso también, no hagas un escándalo de nuevo.</text>
+	</string>
+	<string id="dar_dogo_msg_5">
+		<text>Está bien. No hay nada de qué preocuparse, me porto bien...</text>
+	</string>
+	<string id="dar_viper_msg_14">
+		<text>Ya nos falta poco. Hay un viejo túnel que podemos cruzar para llegar directo al Valle Oscuro. Si tenemos suerte, no tendrá anomalías en medio. Con eso deberíamos acortar distancias con Atreo.</text>
+	</string>
+	<string id="dar_viktor_msg_2">
+		<text>Tomemos cualquier atajo necesario. No podemos perderlo de nuevo.</text>
+	</string>
+	<string id="dar_pollo_msg_9">
+		<text>Si dejamos que nos gane más distancia, se va a llenar de putos monolitos cuando lleguemos.</text>
+	</string>
+	<string id="dar_cabo_msg_7">
+		<text>¿¡QUÉ ES ESO!? ¡QUÉ CARAJOS!</text>
+	</string>
+	<string id="dar_dogo_msg_6">
+		<text>Es un pseudo gigante, novato. Prepárense todos.</text>
+	</string>
+	<string id="dar_pollo_msg_10">
+		<text>¿Por qué levanta la puta pierna? ¿Qué hace? ... ¡AAAAAAH!</text>
+	</string>
+	<string id="dar_viper_msg_15">
+		<text>No se descuiden. Revisen que no hayan perdido nada y sigamos hacia el desagüe que está adelante.</text>
+	</string>
+	<string id="dar_dogo_msg_7">
+		<text>Ya estoy grande para esto.</text>
+	</string>
+	<string id="dar_pollo_msg_11">
+		<text>¿Qué edad tenías, Dogo?</text>
+	</string>
+	<string id="dar_dogo_msg_8">
+		<text>49 años de pura testosterona.</text>
+	</string>
+	<string id="dar_pollo_msg_12">
+		<text>(Risas por lo bajo)</text>
+	</string>
+	<string id="dar_cabo_msg_8">
+		<text>¿Y ustedes? ¿Qué edad tienen?</text>
+	</string>
+	<string id="dar_viper_msg_16">
+		<text>37 años.</text>
+	</string>
+	<string id="dar_pollo_msg_13">
+		<text>32 añitos.</text>
+	</string>
+	<string id="dar_cabo_msg_9">
+		<text>Vaya ¿Y usted, Viktor?</text>
+	</string>
+	<string id="dar_viktor_msg_3">
+		<text>22 años...</text>
+	</string>
+	<string id="dar_cabo_msg_10">
+		<text>Increíble. Soy el más joven del grupo...</text>
+	</string>
+	<string id="dar_viper_msg_17">
+		<text>Mucho cuidado con sus pasos. Revisen bien donde pisan que no voy por este camino hace años...</text>
+	</string>
+	
+	<string id="val_llegada_viktor_0">
+		<text>¿Y ahora para dónde vamos?</text>
+	</string>
+	<string id="val_llegada_viper_1">
+		<text>Nos movemos a la granja al Sur-Oeste del Valle. Tengan cuidado, sospecho que vamos a ver más monolitos.</text>
+	</string>
+	<string id="val_llegada_cabo_2">
+		<text>Espero que me alcancen los perdigones. Ya me quedan pocos...</text>
+	</string>
+	<string id="val_llegada_pollo_3">
+		<text>Yo traigo de reserva. No te preocupes, Cabo.</text>
+	</string>
+	<string id="val_llegada_base_viper_0">
+		<text>Revisen el lugar. Asegurense de que sea seguro.</text>
+	</string>
+	<string id="val_llegada_base_cabo_1">
+		<text>Aquí hubo pelea hace poco...</text>
+	</string>
+	<string id="val_llegada_base_pollo_2">
+		<text>Estos bandidos estan frescos. Cuidado.</text>
+	</string>
+	<string id="val_llegada_base_ituca_3">
+		<text>¡Por favor, no disparen! ¡Hablaré!</text>
+	</string>
+	<string id="val_llegada_base_viktor_4">
+		<text>Te conviene empezar a hablar. Y no intentes nada raro que estoy sin paciencia hoy.</text>
+	</string>
+	<string id="val_llegada_base_dogo_5">
+		<text>¡Metele un calcetin en la boca!</text>
+	</string>
+	<string id="val_llegada_base_viktor_5">
+		<text>Pffft (Risas)</text>
+	</string>
+	<string id="val_sid_msg_0">
+		<text>Me enteré que llegaron con vida al Valle Oscuro, y que necesitan hablar con Sultán. Resulta que tenemos algunos intereses en común, y he arreglado para que te reciba si lo ayudas con un pequeño asunto. Dile que vas de mi parte, Viktor ¡Y a ver cuándo te pasas por el bunker de nuevo! Tengo material nuevo...</text>
+	</string>
+	<string id="val_bandido_on_viktor_0">
+		<text>Ahora parezco un bandido</text>
+	</string>
+	<string id="val_bandido_off_viktor_0">
+		<text>Ya no parezco un bandido</text>
+	</string>
+	<string id="val_kolyan_viktor_0">
+		<text>¿¡...Qué mierda!?</text>
+	</string>
+	
+	<string id="trc_truck_matasanos_0"> 
+		<text>¿Quién es? Si eres un mutante ¡Vete!</text>
+	</string>
+	<string id="trc_truck_viktor_1">
+		<text>No soy un mutante...</text>
+	</string>
+	<string id="trc_truck_viktor_2">
+		<text>Salí de una vez. Vine a rescatarte.</text>
+	</string>
+	<string id="trc_truck_matasanos_3">
+		<text>¡No hay nadie!</text>
+	</string>
+	<string id="trc_truck_matasanos_4">
+		<text>¡Limpia a los mutantes primero! ¡Luego saldré!</text>
+	</string>
+	<string id="trc_truck_viktor_5">
+		<text>¿Mutantes? Mierda.</text>
+	</string>
+	<string id="trc_truck_viktor_6">
+		<text>¡YA ESTÁ, BAJATE!</text>
+	</string>
+	<string id="trc_truck_matasanos_7">
+		<text>Uf, menos mal. Enseguida bajo. Dame un segundo que junte mis cosas.</text>
+	</string>
+	<string id="trc_truck_viktor_8">
+		<text>Quedate cerca mío, que está lleno de mierda este lugar.</text>
+	</string>
+	<string id="trc_truck_matasanos_9">
+		<text>Bien, voy pegado a ti. Por favor no salgas corriendo, no creo poder seguirte el paso.</text>
+	</string>
+	<string id="trc_susto_matasanos_0">
+		<text>¡Cuidado! ¡POR LA DERECHA!</text>
+	</string>
+	<string id="trc_susto_matasanos_1">
+		<text>¡Mierda! Estan llegando más. Voy a morir hoy… ¡VOY A MORIR HOY!</text>
+	</string>
+	<string id="trc_susto_matasanos_2">
+		<text>No quiero morir :c</text>
+	</string>
+	<string id="trc_susto_matasanos_3">
+		<text>¡Oh no! ¡Vienen más!</text>
+	</string>
+	<string id="trc_susto_matasanos_4">
+		<text>¡Bien! Dales su merecido ¡Cuidado, vienen más!</text>
+	</string>
+	<string id="trc_susto_matasanos_5">
+		<text>Mierda, Mierda ¡Mierda! No debí venir nunca a este lugar maldito.</text>
+	</string>
+	<string id="trc_susto_matasanos_6">
+		<text>¡No te mueras! ¡Yo no puedo con ellos!</text>
+	</string>
+	<string id="trc_susto_matasanos_7">
+		<text>¡Cuidado! ¡POR LA DERECHA!</text>
+	</string>
+	<string id="trc_hit_matasanos_0">
+		<text>¡Stalker, por aquí! ¡Me están por comer vivo, necesito ayuda!</text>
+	</string>
+	
+	<string id="val_back_matasanos_0">
+		<text>Stalker, te debo una. Pásate a verme si necesitas que te suture o si quieres beber algo.</text>
+	</string>
+	<string id="val_back_viktor_1">
+		<text>Más vale que invites vos...</text>
+	</string>
+	
+	<string id="val_kashalot_recruit_dialog_0">
+		<text>Putos novatos creídos. Se piensan que uno va a hacer lo que quieren. Te voy a acompañar, chico. De hecho, tu me vas a acompañar a mi. Guía el camino y yo guío a mi gente.</text>
+	</string>
+	<string id="val_viktor_recruit_dialog_1">
+		<text>Como sea, vamos de una vez.</text>
+	</string>
+	<string id="val_kashalot_recruit_dialog_2">
+		<text>Chicos, nos reunimos en la entrada del cementerio de camiones. Tomaremos lo que nos corresponde.</text>
+	</string>
+	
+	<string id="trc_inc_kashalot_0">
+		<text>Bien ¿Estamos todos? Te hablo a ti, Chatarra. Siempre llegando tarde.</text>
+	</string>
+	<string id="trc_inc_bandido_1">
+		<text>Si, estoy aquí. Llegué temprano esta vez.</text>
+	</string>
+	<string id="trc_inc_kashalot_2">
+		<text>Tenemos refuerzos de parte de Kolyan, así que no me hagan pasar vergüenza, manga de inútiles. Vamos a limpiar el área y a recuperar el puesto de avanzada donde mataron a los nuestros.</text>
+	</string>
+	<string id="trc_inc_bandido_3">
+		<text>(Entusiasmados)</text>
+	</string>
+	<string id="trc_inc_kashalot_4">
+		<text>Yo invito las rondas después. Solo a los que sobrevivan. Jejeje, pero primero hay que ir al punto a capturar.</text>
+	</string>
+	
+	<string id="trc_inc_smart_1_kashalot_0">
+		<text>¡Los veo! ¡Tomen posición y apoyen firmes los jodidos pies!</text>
+	</string>
+	<string id="trc_inc_smart_1_viktor_1">
+		<text>¡Ojo que son varios!</text>
+	</string>
+	<string id="trc_inc_smart_1_kashalot_2">
+		<text>Fácil ¿Alguna baja? Meh, no importa. Sigamos los que estamos.</text>
+	</string>
+	<string id="trc_inc_smart_1_bandido_3">
+		<text>¿Hay premio para los que llevemos más bajas?</text>
+	</string>
+	<string id="trc_inc_smart_1_kashalot_4">
+		<text>Obvio. Pero voy a ser yo, o quizás este que nos mandó Kolyan. Lo veo bueno.</text>
+	</string>
+	<string id="trc_inc_smart_1_viktor_5">
+		<text>¿Cuál sería el premio?</text>
+	</string>
+	<string id="trc_inc_smart_1_kashalot_6">
+		<text>Naturalmente, MI PUTA SCAR. Pasado mañana me llega una escopeta que quiero hace bastante.</text>
+	</string>
+	<string id="trc_inc_smart_1_bandido_7">
+		<text>(Sapucay)</text>
+	</string>
+	<string id="trc_inc_smart_2_kashalot_0">
+		<text>Suelten las botellas, ya casi llegamos ¡Esta vez son más!</text>
+	</string>
+	<string id="trc_inc_smart_2_kashalot_1">
+		<text>Uf. Necesito un jodido trago. Acuerdense que yo invito luego ¡No mueran!</text>
+	</string>
+	<string id="trc_inc_smart_2_kashalot_2">
+		<text>Queda un solo punto ¡Siganme los buenos!</text>
+	</string>
+	<string id="trc_inc_smart_3_kashalot_0">
+		<text>¡Ahora vamos por nuestros colegas! A ver si encontramos su botín luego de limpiar estos putos cultistas ¡JA!</text>
+	</string>
+	<string id="trc_inc_smart_3_kashalot_1">
+		<text>¡Vienen más a las 9 en punto! ¡Aguanten, maricas!</text>
+	</string>
+	<string id="trc_inc_smart_3_kashalot_2">
+		<text>Bueno, vamos a sentarnos un rato. El puesto es nuestro de todas maneras. ¿Tu nombre era Viktor, verdad? Ven, charlemos un poco.</text>
+	</string>
+	<string id="trc_inc_smart_3_viktor_3">
+		<text>Bien, ya voy.</text>
+	</string>
+	<string id="trc_inc_smart_3_kashalot_4">
+		<text>Te veo con hambre de revisar esos cuerpos. Adelante. luego charlamos.</text>
+	</string>
+	<string id="trc_inc_smart_3_viktor_5">
+		<text>(Risas por lo bajo)</text>
+	</string>
+	
+	<string id="trc_kashalot_hurt_1">
+		<text>(Herido)</text>
+	</string>
+	<string id="trc_kashalot_hurt_2">
+		<text>(Herido) Otra cicatriz más...</text>
+	</string>
+	<string id="trc_kashalot_hurt_3">
+		<text>(Herido) Pongo la otra mejilla. Denme otro disparo los que se atrevan...</text>
+	</string>
+	<string id="trc_kashalot_hurt_4">
+		<text>(Herido) ¡Mierda!</text>
+	</string>
+	<string id="trc_kashalot_hurt_5">
+		<text>(Herido) Maldita sea. Mi brazo...</text>
+	</string>
+	<string id="trc_kashalot_bandits_dead_0">
+		<text>Inútiles. Solo quedamos tu y yo, Viktor. Siempre he dicho que si quieres que algo salga bien, debes hacerlo tu mismo.</text>
+	</string>
+	
+	<string id="val_viktor_leto_0">
+		<text>Ahora si, hijo de puta. Te tengo donde quería...</text>
+	</string>
+	<string id="val_viktor_leto_1">
+		<text>Monolitos muertos... ¿Serán los que seguían a Atreo?</text>
+	</string>
+	<string id="val_viktor_leto_2">
+		<text>Mas cuerpos... Debe estar cerca.</text>
+	</string>
+
+	<string id="labx18_entrada_leto_0">
+		<text>Así que me encontraste... Te recomiendo que vuelvas por donde viniste.</text>
+	</string>
+	<string id="labx18_entrada_viktor_1">
+		<text>No me voy a ningún lado.</text>
+	</string>
+	<string id="labx18_entrada_leto_2">
+		<text>(Risas)</text>
+	</string>
+	<string id="labx18_entrada_viktor_3">
+		<text>¿¡EH, qué pasa!?</text>
+	</string>
+	<string id="labx18_entrada_leto_4">
+		<text>Estoy muy ocupado ahora. No me molestes.</text>
+	</string>
+	<string id="labx18_fake_2_viktor_0">
+		<text>¡Basta de trucos! ¡Da la cara, Cagón!</text>
+	</string>
+	<string id="labx18_fake_2_atreo_1">
+		<text>Me parece que no estás entendiendo lo que buscas. Este artefacto solo te va a traer problemas ¡Muchos problemas! Mejor dejamelo a mí...</text>
+	</string>
+	<string id="labx18_fake_3_atreo_0">
+		<text>¿Sabés por qué tuve que huir del cordón? ¡Me estaban siguiendo!</text>
+	</string>
+	<string id="labx18_fake_3_viktor_1">
+		<text>Más vale que te iban a seguir. Le robaste a todo el mundo.</text>
+	</string>
+	<string id="labx18_fake_3_atreo_2">
+		<text>(Risas) No tenés idea de lo que está pasando.</text>
+	</string>
+	<string id="labx18_fake_3_viktor_3">
+		<text>No importa. Te voy a encontrar...</text>
+	</string>
+	<string id="labx18_fake_espejo_viktor_0">
+		<text>¡Deja de esconderte, cagón!</text>
+	</string>
+	<string id="labx18_fake_espejo_atreo_1">
+		<text>Que curioso. Esconderme es imposible a esta altura. Y no lo digo por vos...</text>
+	</string>
+	<string id="labx18_puerta_primera_atreo_0">
+		<text>Que terco que sos. No parece que vayas a frenar en ningún momento.</text>
+	</string>
+	<string id="labx18_puerta_primera_viktor_1">
+		<text>¡Basta de trucos! ¡Dejá de intentar entrar en mi cabeza! ¡DAME EL ARTEFACTO!</text>
+	</string>
+	<string id="labx18_puerta_primera_atreo_2">
+		<text>Empiezo a entender por qué fuiste elegido. Ademas de ser un cabeza dura, tu resistencia a emisiones psi es muy alta... Ya no puedo sostener la puerta.</text>
+	</string>
+	<string id="labx18_segundo_nivel_viktor_0">
+		<text>¿¡Dónde estás!?</text>
+	</string>
+	<string id="labx18_segundo_nivel_atreo_1">
+		<text>No voy a salir tan fácil. Me vas a tener que buscar y cuando me encuentres va a ser muy tarde.</text>
+	</string>
+	<string id="labx18_segundo_nivel_viktor_2">
+		<text>No sé para qué estás haciendo tiempo. Voy a encontrarte igual y ese artefacto va a ser mío.</text>
+	</string>
+	<string id="labx18_segundo_nivel_atreo_3">
+		<text>¿Estás seguro? Yo pensaba lo mismo, y otros también. No sos diferente a nosotros.</text>
+	</string>
+	<string id="labx18_segundo_nivel_viktor_4">
+		<text>¿¡DIFERENTE A QUIÉNES!?</text>
+	</string>
+	<string id="labx18_segundo_nivel_atreo_5">
+		<text>(Risas)</text>
+	</string>
+	<string id="labx18_boss_atreo_0">
+		<text>No pensé que fueses a llegar tan lejos. FALTANDO TAN POCO.</text>
+	</string>
+	<string id="labx18_boss_viktor_1">
+		<text>¿¡Tan poco para qué!?</text>
+	</string>
+	<string id="labx18_boss_atreo_2">
+		<text>¡YA CASI! ¡TRES MINUTOS MÁS!</text>
+	</string>
+	<string id="labx18_boss_viktor_3">
+		<text>¿¡Tres minutos para qué!?</text>
+	</string>
+	<string id="labx18_boss_atreo_4">
+		<text>(Risa maníaca)</text>
+	</string>
+	<string id="labx18_boss_atreo_5">
+		<text>(Risas) ¿Qué pasa? ¿No te podés mover?</text>
+	</string>
+	<string id="labx18_boss_atreo_6">
+		<text>Sova... Desgraciada hija de puta. Debí matarte cuando pude.</text>
+	</string>
+	<string id="labx18_boss_viktor_7">
+		<text>¿Sova? ¿Con quién habla?</text>
+	</string>
+	<string id="labx18_boss_atreo_8">
+		<text>Ozero ¡Espero que esa anomalía te haya hecho arder hasta las cenizas!</text>
+	</string>
+	<string id="labx18_boss_viktor_9">
+		<text>No sé quién esa gente. Está loco... Habla solo.</text>
+	</string>
+	<string id="labx18_boss_atreo_10">
+		<text>¡CALLATE, NO ME DEJÁS CONCENTRAR!</text>
+	</string>
+	<string id="labx18_boss_atreo_11">
+		<text>¡Nox! Me arruinaste la vida, hijo de puta. Espero que no puedas caminar entre los vivos nunca más.</text>
+	</string>
+	<string id="labx18_boss_viktor_12">
+		<text>¿¡Nox!? ¿Qué sabes de Nox?</text>
+	</string>
+	<string id="labx18_boss_atreo_13">
+		<text>¡Se van a arrepentir! ¡Todos se van a arrepentir!</text>
+	</string>
+	<string id="labx18_boss_atreo_14">
+		<text>No puede ser... Me rechazó ¿Y ahora qué hago?</text>
+	</string>
+	<string id="labx18_boss_viktor_15">
+		<text>Ahora me vas a pagar. Eso vas a hacer...</text>
+	</string>
+
+	
+</string_table>
