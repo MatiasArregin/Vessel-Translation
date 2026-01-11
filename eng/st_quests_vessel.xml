@@ -58,13 +58,13 @@
 		<text>Viper was in the truck with me. I should follow him until I get some information about the tomb.</text>
 	</string>
 	<string id="esc_encontrar_tumba_2_descr">
-		<text>Viper didn’t know much; it seems he hasn’t been in the area for quite some time. He told me to talk to the stalkers or, as a last resort, speak with Sidorovich.</text>
+		<text>Viper didnt know much; it seems he hasnt been in the area for quite some time. He told me to talk to the stalkers or, as a last resort, speak with Sidorovich.</text>
 	</string>
 	<string id="esc_encontrar_tumba_3_descr">
 		<text>I found this bizarre note, but there are only anti-radiation medicines left here. Someone took the artifact... Maybe Viper knows something about it.</text>
 	</string>
 	<string id="esc_encontrar_tumba_4_descr">
-		<text>Viper couldn’t help me... I need another way to track down the loot that belongs to me.</text>
+		<text>Viper couldnt help me... I need another way to track down the loot that belongs to me.</text>
 	</string>
 	<string id="esc_encontrar_tumba_4a_descr">
 		<text>The local trader, Sidorovich, called me to talk with him. I should go see him.</text>
@@ -73,25 +73,25 @@
 		<text>The trader gave me the coordinates to track Atreo. I should go see Viper to check if he knows how to get there.</text>
 	</string>
 	<string id="esc_encontrar_tumba_4c_descr">
-		<text>I have to follow Viper; he’ll guide me to the coordinates the trader gave me.</text>
+		<text>I have to follow Viper; hell guide me to the coordinates the trader gave me.</text>
 	</string>
 	<string id="esc_encontrar_tumba_4d_descr">
 		<text>Looks like I found the missing stalkers... I need to search the area.</text>
 	</string>
 	<string id="esc_encontrar_tumba_4e_descr">
-		<text>There’s no trace of the stash or of Atreo. Time to talk to Viper and head back to the Cordon.</text>
+		<text>Theres no trace of the stash or of Atreo. Time to talk to Viper and head back to the Cordon.</text>
 	</string>
 	<string id="esc_encontrar_tumba_4f_descr">
 		<text>I need to make it back to the village in one piece and inform Sidorovich about what happened...</text>
 	</string>
 	<string id="esc_encontrar_tumba_5_descr">
-		<text>I can’t wait for Sidorovich. I need to talk to the stalkers about Atreo...</text>
+		<text>I cant wait for Sidorovich. I need to talk to the stalkers about Atreo...</text>
 	</string>
 	<string id="esc_encontrar_tumba_6_descr">
 		<text>Fanatic told me he knows someone who claims to know Atreo. I need to go talk to him and get some answers.</text>
 	</string>
 	<string id="esc_encontrar_tumba_7_descr">
-		<text>Vovan is injured. He said he’d tell me about Atreo if I do him a favor and check whether the Duty guys north of the Cordon have already opened the way.</text>
+		<text>Vovan is injured. He said hed tell me about Atreo if I do him a favor and check whether the Duty guys north of the Cordon have already opened the way.</text>
 	</string>
 	<string id="esc_encontrar_tumba_8_descr">
 		<text>Defend yourself against the Monolith!</text>
@@ -100,10 +100,10 @@
 		<text>Captain Kir called me in to talk. I should go see him.</text>
 	</string>
 	<string id="esc_encontrar_tumba_9_descr">
-		<text>I need to bring the bad news to Vovan. He’s waiting for me sick and wounded in his container.</text>
+		<text>I need to bring the bad news to Vovan. Hes waiting for me sick and wounded in his container.</text>
 	</string>
 	<string id="esc_encontrar_tumba_10_descr">
-		<text>Vovan doesn’t want to cooperate. I need to find another way to locate Atreo.</text>
+		<text>Vovan doesnt want to cooperate. I need to find another way to locate Atreo.</text>
 	</string>
 	
 	<string id="esc_stalker_leto_1_title">
@@ -125,10 +125,10 @@
 		<text>Where am I?</text>
 	</string>
 	<string id="esc_stalker_leto_4_title">
-		<text>The stalker "Atreo": Follow Atreos’ trail</text>
+		<text>The stalker "Atreo": Follow Atreos trail</text>
 	</string>
 	<string id="esc_stalker_leto_4_descr">
-		<text>Viper saved me from Atreos’ trick... I have to go after him. Some stalkers said he was heading east, past the bandits’ machine yard.</text>
+		<text>Viper saved me from Atreos trick... I have to go after him. Some stalkers said he was heading east, past the bandits machine yard.</text>
 	</string>
 	<string id="esc_stalker_leto_5_title">
 		<text>The stalker "Atreo": Investigate the area</text>
@@ -140,7 +140,7 @@
 		<text>The stalker "Atreo": Talk to Viper</text>
 	</string>
 	<string id="esc_stalker_leto_6_descr">
-		<text>I need Viper’s help to figure out what to do next... Atreo headed east.</text>
+		<text>I need Vipers help to figure out what to do next... Atreo headed east.</text>
 	</string>
 	<string id="esc_stalker_leto_7_title">
 		<text>The stalker "Atreo": Find Atreo</text>
@@ -152,43 +152,43 @@
 		<text>The stalker "Atreo": Talk to Viper about Atreus</text>
 	</string>
 	<string id="esc_stalker_leto_8_descr">
-		<text>I don’t know where to go next. I should ask Viper what to do.</text>
+		<text>I dont know where to go next. I should ask Viper what to do.</text>
 	</string>
 	<string id="esc_stalker_leto_9_title">
 		<text>The stalker "Atreo": Get a bandit disguise</text>
 	</string>
 	<string id="esc_stalker_leto_9_descr">
-		<text>I need information, and around here the only ones who talk are the bandits. I’ll have to disguise myself as one of them.</text>
+		<text>I need information, and around here the only ones who talk are the bandits. Ill have to disguise myself as one of them.</text>
 	</string>
 	<string id="esc_stalker_leto_10_title">
 		<text>The stalker "Atreo": Talk to the bandits about Atreo</text>
 	</string>
 	<string id="esc_stalker_leto_10_descr">
-		<text>I’ve got my bandit disguise. Now I need to find out whatever I can about Atreos’ whereabouts by talking to the bandits.</text>
+		<text>Ive got my bandit disguise. Now I need to find out whatever I can about Atreos whereabouts by talking to the bandits.</text>
 	</string>
 	<string id="esc_stalker_leto_11_title">
-		<text>The stalker "Atreo": Earn Sultan’s favor</text>
+		<text>The stalker "Atreo": Earn Sultans favor</text>
 	</string>
 	<string id="esc_stalker_leto_11_descr">
-		<text>The bandit leader said he would help me if I complete a task given by Kolyan. I can’t go back empty-handed.</text>
+		<text>The bandit leader said he would help me if I complete a task given by Kolyan. I cant go back empty-handed.</text>
 	</string>
 	<string id="esc_stalker_leto_12_title">
 		<text>The stalker "Atreo": Talk to Sultán</text>
 	</string>
 	<string id="esc_stalker_leto_12_descr">
-		<text>I brought the Healer back and we took over the truck cemetery with Kashalot. It’s time to look for information from the bandit boss.</text>
+		<text>I brought the Healer back and we took over the truck cemetery with Kashalot. Its time to look for information from the bandit boss.</text>
 	</string>
 	<string id="esc_stalker_leto_13_title">
-		<text>The stalker "Atreo": Get information from Sultan’s sentries</text>
+		<text>The stalker "Atreo": Get information from Sultans sentries</text>
 	</string>
 	<string id="esc_stalker_leto_13_descr">
-		<text>I need to look for Sultan’s sentries to see if they’ve noticed anything. He told them to cooperate.</text>
+		<text>I need to look for Sultans sentries to see if theyve noticed anything. He told them to cooperate.</text>
 	</string>
 	<string id="esc_stalker_leto_14_title">
 		<text>The stalker "Atreo": Search for Atreo in the abandoned factory</text>
 	</string>
 	<string id="esc_stalker_leto_14_descr">
-		<text>Looks like he was seen entering the factory... Hunted by Monolith and surrounded by zombies. That won’t be easy.</text>
+		<text>Looks like he was seen entering the factory... Hunted by Monolith and surrounded by zombies. That wont be easy.</text>
 	</string>
 	<string id="esc_stalker_leto_15_title">
 		<text>The stalker "Atreo": Follow the Monolith trail</text>
@@ -200,26 +200,26 @@
 		<text>The stalker "Atreo": Find Atreo</text>
 	</string>
 	<string id="esc_stalker_leto_16_descr">
-		<text>Everything points to Atreo going underground. This time, he won’t escape.</text>
+		<text>Everything points to Atreo going underground. This time, he wont escape.</text>
 	</string>
 	<string id="esc_stalker_leto_17_title">
 		<text>The stalker "Atreo": Hold out for 3 minutes</text>
 	</string>
 	<string id="esc_stalker_leto_17_descr">
-		<text>Atreus is plotting something. I need to hold out until he shows up and take what’s mine.</text>
+		<text>Atreus is plotting something. I need to hold out until he shows up and take whats mine.</text>
 	</string>
 	<string id="esc_stalker_leto_18_title">
 		<text>The stalker "Atreo": Kill him or talk to him?</text>
 	</string>
 	<string id="esc_stalker_leto_18_descr">
-		<text>It’s time to make a decision.</text>
+		<text>Its time to make a decision.</text>
 	</string>
 	
 	<string id="esc_arma_equipo_title">
 		<text>The Journey: Gather a team to cross Darkscape.</text>
 	</string>
 	<string id="esc_arma_equipo_descr">
-		<text>Atreo left, taking the artifact with him... Viper offered to help me chase him, but Darkscape is no man's land right now. \n We need to assemble a team.</text>
+		<text>Atreo left, taking the artifact with him... Viper offered to help me chase him, but Darkscape is no mans land right now. \n We need to assemble a team.</text>
 	</string>
 	
 	<string id="esc_fanatico_task_1_title">
@@ -236,13 +236,13 @@
 	</string>
 	
 	<string id="esc_wolf_task_1_title_1">
-		<text>Thief's Task: Find the Stolen Explosives</text>
+		<text>Thiefs Task: Find the Stolen Explosives</text>
 	</string>
 	<string id="esc_wolf_task_1_descr_1">
 		<text>Wolf needs me to find some explosives that were stolen from him, in the little house north of the train tracks. It seems the bandits store things there.</text>
 	</string>
 	<string id="esc_wolf_task_1_title_2">
-		<text>Thief's Task: Return to Wolf</text>
+		<text>Thiefs Task: Return to Wolf</text>
 	</string>
 	<string id="esc_wolf_task_1_descr_2">
 		<text>I have to return the explosives to Wolf.</text>
@@ -266,113 +266,113 @@
 		<text>We took care of the thief, now we need to go back to wolf.</text>
 	</string>
 	<string id="esc_wolf_task_3_title_1">
-		<text>Mage's Orders: Go to Wolf</text>
+		<text>Mages Orders: Go to Wolf</text>
 	</string>
 	<string id="esc_wolf_task_3_descr_1">
 		<text>It seems the Mage kept causing trouble even after death... I have to go see Wolf.</text>
 	</string>
 	<string id="esc_wolf_task_3_title_2">
-		<text>Mage's Orders: Eliminate the bandits</text>
+		<text>Mages Orders: Eliminate the bandits</text>
 	</string>
 	<string id="esc_wolf_task_3_descr_2">
 		<text>Wolf has already given the order. We need to liquidate those bandits.</text>
 	</string>
 	<string id="esc_wolf_task_3_title_3">
-		<text>Mage's Orders: Talk to Wolf</text>
+		<text>Mages Orders: Talk to Wolf</text>
 	</string>
 	<string id="esc_wolf_task_3_descr_3">
-		<text>We've taken care of everyone, I need to make sure Wolf is okay.</text>
+		<text>Weve taken care of everyone, I need to make sure Wolf is okay.</text>
 	</string>
 	
 	<string id="esc_pollo_task_1_title">
-		<text>Rooster's Task: Enter the Anomaly</text>
+		<text>Roosters Task: Enter the Anomaly</text>
 	</string>
 	<string id="esc_pollo_task_1_descr">
 		<text>Rooster asked me for help with his anomaly study. He needs me to get in among the wooden crates and the rusted metal debris.</text>
 	</string>
 	<string id="esc_pollo_task_2_title">
-		<text>Rooster's Task: Follow Rooster's Instructions</text>
+		<text>Roosters Task: Follow Roosters Instructions</text>
 	</string>
 	<string id="esc_pollo_task_2_descr">
 		<text>I must go to the next anomaly.</text>
 	</string>
 	<string id="esc_pollo_task_3_descr">
-		<text>I've already checked all the anomalies. I must return to Rooster for a reward.</text>
+		<text>Ive already checked all the anomalies. I must return to Rooster for a reward.</text>
 	</string>
 	<string id="esc_viper_traje_1_title">
-		<text>Atreo's Trail, Viper's Suit: Find the Special Suit</text>
+		<text>Atreos Trail, Vipers Suit: Find the Special Suit</text>
 	</string>
 	<string id="esc_viper_traje_1_descr">
-		<text>It seems Atreo was hiding Viper's armor. I need to go find it on the roofs of the Machine Yard.</text>
+		<text>It seems Atreo was hiding Vipers armor. I need to go find it on the roofs of the Machine Yard.</text>
 	</string>
 	<string id="esc_viper_traje_2_title">
-		<text>Atreo's Trail, Viper's Suit: Return the Special Suit</text>
+		<text>Atreos Trail, Vipers Suit: Return the Special Suit</text>
 	</string>
 	<string id="esc_viper_traje_2_descr">
 		<text>I found the suit that Atreo stole from Viper; it looks very pricey, I should get it back to him as soon as possible.</text>
 	</string>
 	<string id="esc_fanatico_dinero_1_title">
-		<text>Atreo's Trail, Fanatic's Money: Find the Money</text>
+		<text>Atreos Trail, Fanatics Money: Find the Money</text>
 	</string>
 	<string id="esc_fanatico_dinero_1_descr">
-		<text>Atreo had hidden Fanatic's money in the abandoned van on the farm.</text>
+		<text>Atreo had hidden Fanatics money in the abandoned van on the farm.</text>
 	</string>
 	<string id="esc_fanatico_dinero_2_title">
-		<text>Atreo's Trail, Fanatic's Money: Return the Money</text>
+		<text>Atreos Trail, Fanatics Money: Return the Money</text>
 	</string>
 	<string id="esc_fanatico_dinero_2_descr">
-		<text>I found a briefcase in the van; it must be Fanatic's money.</text>
+		<text>I found a briefcase in the van; it must be Fanatics money.</text>
 	</string>
 	<string id="esc_cosas_pollo_1_title">
-		<text>Atreo's Trail, Rooster's Gear: Talk to Sidorovich</text>
+		<text>Atreos Trail, Roosters Gear: Talk to Sidorovich</text>
 	</string>
 	<string id="esc_cosas_pollo_1_descr">
-		<text>Atreo said he sold Rooster's gear to Sidorovich. I hope it won't cost me too much to get them back.</text>
+		<text>Atreo said he sold Roosters gear to Sidorovich. I hope it wont cost me too much to get them back.</text>
 	</string>
 	<string id="esc_cosas_pollo_2_title">
-		<text>Atreo's Trail, Rooster's Gear: Eliminate the Strange Mutant</text>
+		<text>Atreos Trail, Roosters Gear: Eliminate the Strange Mutant</text>
 	</string>
 	<string id="esc_cosas_pollo_2_descr">
-		<text>For Sidorovich to cooperate about Rooster's gear, I need to eliminate a strange mutant that has been causing trouble...</text>
+		<text>For Sidorovich to cooperate about Roosters gear, I need to eliminate a strange mutant that has been causing trouble...</text>
 	</string>
 	<string id="esc_cosas_pollo_3_title">
-		<text>Atreo's Trail, Rooster's Gear: Return to Sidorovich</text>
+		<text>Atreos Trail, Roosters Gear: Return to Sidorovich</text>
 	</string>
 	<string id="esc_cosas_pollo_3_descr">
-		<text>I've already dealt with the mutant; it definitely wasn't a "angry pig". I need to go back to the old man.</text>
+		<text>Ive already dealt with the mutant; it definitely wasnt a "angry pig". I need to go back to the old man.</text>
 	</string>
 	<string id="esc_cosas_pollo_4_title">
-		<text>Atreo's Trail, Rooster's Gear: Go See Xenotech</text>
+		<text>Atreos Trail, Roosters Gear: Go See Xenotech</text>
 	</string>
 	<string id="esc_cosas_pollo_4_descr">
 		<text>It seems Sidorovich sold the gear to Xenotech, the Cordón technician. I have to go find them...</text>
 	</string>
 	<string id="esc_cosas_pollo_5_title">
-		<text>Atreo's Trail, Rooster's Gear: Return the Gear</text>
+		<text>Atreos Trail, Roosters Gear: Return the Gear</text>
 	</string>
 	<string id="esc_cosas_pollo_5_descr">
 		<text>I finally got the devices, although it seems Xenotech got angry... I need to go see Rooster.</text>
 	</string>
 	<string id="esc_leto_artefactos_tornillo_title">
-		<text>Atreo's Trail, Screw's Artifacts: Talk to Kolyan in the Dark Valley</text>
+		<text>Atreos Trail, Screws Artifacts: Talk to Kolyan in the Dark Valley</text>
 	</string>
 	<string id="esc_leto_artefactos_tornillo_descr">
-		<text>Atreo seems to have sold Screw's artifacts to a guy named Kolyan, a bandit in the Dark Valley. I have to go see him, for Screw.</text>
+		<text>Atreo seems to have sold Screws artifacts to a guy named Kolyan, a bandit in the Dark Valley. I have to go see him, for Screw.</text>
 	</string>
 	<string id="esc_cabo_task_1_descr">
-		<text>It seems the Rookie's comrades have played a heavy prank on him. He asked me to find his weapon that they hid... It shouldn\'t be far.</text>
+		<text>It seems the Rookies comrades have played a heavy prank on him. He asked me to find his weapon that they hid... It shouldn\t be far.</text>
 	</string>
 	<string id="esc_cabo_task_1_title">
-		<text>Heavy Prank: Find the Rookie's Weapon</text>
+		<text>Heavy Prank: Find the Rookies Weapon</text>
 	</string>
 	<string id="esc_cabo_task_2_descr">
-		<text>I've already found the weapon... His comrades are bastards.</text>
+		<text>Ive already found the weapon... His comrades are bastards.</text>
 	</string>
 	<string id="esc_cabo_task_2_title">
 		<text>Heavy Prank: Return the Weapon to the Rookie</text>
 	</string>
 	<string id="esc_cabo_task2_1_descr">
-		<text>The Rookie asked me as a personal favor to look for his friend "Screw", a well-known artifact hunter he couldn't locate.</text>
+		<text>The Rookie asked me as a personal favor to look for his friend "Screw", a well-known artifact hunter he couldnt locate.</text>
 	</string>
 	<string id="esc_cabo_task2_1_title">
 		<text>Personal Favor: Find "Screw"</text>
@@ -381,7 +381,7 @@
 		<text>The worst happened; Screw is dead... I need to decide what to do with his PDA; it contains valuable information.</text>
 	</string>
 	<string id="esc_cabo_task2_2_title">
-		<text>Personal Favor: Decide What to Do with Screw's PDA</text>
+		<text>Personal Favor: Decide What to Do with Screws PDA</text>
 	</string>
 	<string id="esc_dogo_task_title_1">
 		<text>Paranormal Encounter: Accompany Dogo to Find His Weapon</text>
@@ -402,10 +402,10 @@
 		<text>Dogo was left wrecked. I have to take him to the base and talk to him later.</text>
 	</string>
 	<string id="esc_dogo_task2_title_1">
-		<text>"Linda": Find Dogo's Modified PKM</text>
+		<text>"Linda": Find Dogos Modified PKM</text>
 	</string>
 	<string id="esc_dogo_task2_descr_1">
-		<text>I need to find Dogo's weapon, a Modified PKM. Dogo mentioned that Sidorovich trades information for bandit patches...</text>
+		<text>I need to find Dogos weapon, a Modified PKM. Dogo mentioned that Sidorovich trades information for bandit patches...</text>
 	</string>
 	<string id="esc_dogo_task2_title_2">
 		<text>"Linda": Talk to Fanatic</text>
@@ -417,13 +417,13 @@
 		<text>"Linda": Find the Modified PKM</text>
 	</string>
 	<string id="esc_dogo_task2_descr_3">
-		<text>Fanatic gave me very precise instructions and asked me not to hurt anyone. If it's about stealth, it'll be a piece of cake.</text>
+		<text>Fanatic gave me very precise instructions and asked me not to hurt anyone. If its about stealth, itll be a piece of cake.</text>
 	</string>
 	<string id="esc_dogo_task2_title_4">
 		<text>"Linda": Return His Weapon to Dogo</text>
 	</string>
 	<string id="esc_dogo_task2_descr_4">
-		<text>Finding the weapon wasn't easy, but I have it now. I need to return it to its owner.</text>
+		<text>Finding the weapon wasnt easy, but I have it now. I need to return it to its owner.</text>
 	</string>
 	<string id="esc_hook_task_1_title_1">
 		<text>The Hideout Owner: Talk to Tokha</text>
@@ -474,10 +474,10 @@
 		<text>Secondhand Tools: Find the Tools from the List</text>
 	</string>
 	<string id="esc_herramientas_xenotech1_descr">
-		<text>Xenotech can't properly upgrade the equipment without the missing tools. If I gather them, I can surely equip some upgrades.\n He needs: File, Axe, Double Wrench, Hammer, Shovel, Mace and Pickaxe.</text>
+		<text>Xenotech cant properly upgrade the equipment without the missing tools. If I gather them, I can surely equip some upgrades.\n He needs: File, Axe, Double Wrench, Hammer, Shovel, Mace and Pickaxe.</text>
 	</string>
 	<string id="esc_viper_foto_title">
-		<text>Clear Sky Photo: Find the Photo's Owner</text>
+		<text>Clear Sky Photo: Find the Photos Owner</text>
 	</string>
 	<string id="esc_viper_foto_descr">
 		<text>I found this photo of two friends from the Clear Sky faction. I hope I can return it to its owner.</text>
@@ -486,7 +486,7 @@
 		<text>Hounded by Dogs: Help Vovan Deal with the Dogs</text>
 	</string>
 	<string id="esc_perros_vovan_1_descr">
-		<text>Vovan doesn't want to talk; he has his own problems. If I help him with those dogs, maybe he'll give me a hand later.</text>
+		<text>Vovan doesnt want to talk; he has his own problems. If I help him with those dogs, maybe hell give me a hand later.</text>
 	</string>
 	<string id="esc_perros_vovan_2_title">
 		<text>Hounded by Dogs: Talk to Vovan Again</text>
@@ -496,7 +496,7 @@
 	</string>
 	
 <string id="esc_caja_nimble_1_title">
-		<text>The bandits' box: Decide what to do with the box</text>
+		<text>The bandits box: Decide what to do with the box</text>
 	</string>
 	<string id="esc_caja_nimble_1_descr">
 		<text>I got a locked box after taking out the bandits, Viper told me that a guy named Nimble could help me with it.</text>
@@ -514,7 +514,7 @@
 		<text>It seems the technician can open the box for a modest sum. I should ask Nimble for the box, open it, and keep all the contents.</text>
 	</string>
 	<string id="esc_caja_nimble_3_descr">
-		<text>I have already handed the box and tools to Nimble. I need to wait for him to take some time to open it so we can see what's inside.</text>
+		<text>I have already handed the box and tools to Nimble. I need to wait for him to take some time to open it so we can see whats inside.</text>
 	</string>
 	
 	<string id="esc_viper_salida_0_descr">
@@ -530,13 +530,13 @@
 		<text>First steps in the zone: Follow Viper</text>
 	</string>
 	<string id="esc_viper_salida_2_descr">
-		<text>It seems Viper saw a group of "Meats". I don't know what that is, but I should follow him to learn.</text>
+		<text>It seems Viper saw a group of "Meats". I dont know what that is, but I should follow him to learn.</text>
 	</string>
 	<string id="esc_viper_salida_2_title">
 		<text>First steps in the zone: Eliminate the Meats group with Viper</text>
 	</string>
 	<string id="esc_viper_salida_3_descr">
-		<text>Viper found something suspicious; I must follow him to see what it's about.</text>
+		<text>Viper found something suspicious; I must follow him to see what its about.</text>
 	</string>
 	<string id="esc_viper_salida_3_title">
 		<text>First steps in the zone: Follow Viper while he investigates</text>
@@ -554,28 +554,28 @@
 		<text>First steps in the zone: Talk to Viper again</text>
 	</string>
 	<string id="esc_frecuencias_sidorovich_1_descr">
-		<text>Search among Atreo's items for the Military frequencies for Sidorovich.</text>
+		<text>Search among Atreos items for the Military frequencies for Sidorovich.</text>
 	</string>
 	<string id="esc_frecuencias_sidorovich_1_title">
-		<text>Military frequencies: Check Vovan/Atreo/Leto's items</text>
+		<text>Military frequencies: Check Vovan/Atreo/Letos items</text>
 	</string>
 	<string id="esc_notas_hook_1_title">
-		<text>Veterans' stuff: Check the chest in the attic</text>
+		<text>Veterans stuff: Check the chest in the attic</text>
 	</string>
 	<string id="esc_notas_hook_1_descr">
-		<text>Sidorovich gave me information about a veterans' group's hideout. I must check the attic in the novice village</text>
+		<text>Sidorovich gave me information about a veterans groups hideout. I must check the attic in the novice village</text>
 	</string>
 	<string id="esc_notas_hook_2_title">
-		<text>Veterans' stuff: Check the chest over the tunnel</text>
+		<text>Veterans stuff: Check the chest over the tunnel</text>
 	</string>
 	<string id="esc_notas_hook_2_descr">
 		<text>These people seem to handle quality weapons. They have a vintar in the works; I need to check over the tunnel to Darkscape.</text>
 	</string>
 	<string id="esc_notas_hook_3_title">
-		<text>Veterans' stuff: Check the box in the wagon</text>
+		<text>Veterans stuff: Check the box in the wagon</text>
 	</string>
 	<string id="esc_notas_hook_3_descr">
-		<text>I'm finding interesting things in these hideouts. It seems I need to check a wagon.</text>
+		<text>Im finding interesting things in these hideouts. It seems I need to check a wagon.</text>
 	</string>
 
 	<!-- DARKSCAPE -->
@@ -592,16 +592,16 @@
 		<text>Everything is in order. I need to cross Darkscape, make sure no one dies, and follow the trail to Atreo.</text>
 	</string>
 	<string id="dar_main_task_1c_title">
-		<text>The journey: Go see Trodnik, Viper's contact</text>
+		<text>The journey: Go see Trodnik, Vipers contact</text>
 	</string>
 	<string id="dar_main_task_1c_descr">
-		<text>We have news about Atreo. It seems a Viper contact ran into him and they captured him. We're about to go see him.</text>
+		<text>We have news about Atreo. It seems a Viper contact ran into him and they captured him. Were about to go see him.</text>
 	</string>
 	<string id="dar_main_task_2_title">
 		<text>The journey: Find clues about what happened</text>
 	</string>
 	<string id="dar_main_task_2_descr">
-		<text>This doesn't look good at all. Everyone is dead and zombified... I have to find out what happened at the farm before Atreo escapes.</text>
+		<text>This doesnt look good at all. Everyone is dead and zombified... I have to find out what happened at the farm before Atreo escapes.</text>
 	</string>
 	<string id="dar_main_task_3_title">
 		<text>The journey: Seek shelter in the Dark Valley</text>
@@ -613,7 +613,7 @@
 		<text>The journey: Go take shelter at the farm</text>
 	</string>
 	<string id="dar_main_task_4_descr">
-		<text>Viper says there's a farm further on in the Dark Valley. We must find a safe place to take refuge while we investigate.</text>
+		<text>Viper says theres a farm further on in the Dark Valley. We must find a safe place to take refuge while we investigate.</text>
 	</string>
 	<string id="dar_franco_task_1_title">
 		<text>The journey: Talk to Viper about the sniper</text>
@@ -631,14 +631,14 @@
 		<text>The journey: Kill the sniper</text>
 	</string>
 	<string id="dar_franco_task_1b_descr">
-		<text>I'm already in shooting range; I need to deal with the sniper.</text>
+		<text>Im already in shooting range; I need to deal with the sniper.</text>
 	</string>
 	
 	<string id="val_medico_bandidos_0_title">
 		<text>Saving the Doctor: Talk to Kolyan</text>
 	</string>
 	<string id="val_medico_bandidos_0_descr">
-		<text>To earn the Sultan's favor, I must go to the north of the vehicle cemetery and rescue the bandits' doctor. \n First I need to see Kolyan for more information.</text>
+		<text>To earn the Sultans favor, I must go to the north of the vehicle cemetery and rescue the bandits doctor. \n First I need to see Kolyan for more information.</text>
 	</string>
 	<string id="val_medico_bandidos_1_title">
 		<text>Saving the Doctor: Go to the truck cemetery</text>
@@ -656,7 +656,7 @@
 		<text>Saving the Doctor: Take out the mutants</text>
 	</string>
 	<string id="val_medico_bandidos_3_descr">
-		<text>The doctor won't leave until I kill the mutants; I need to take care of that first.</text>
+		<text>The doctor wont leave until I kill the mutants; I need to take care of that first.</text>
 	</string>
 	<string id="val_medico_bandidos_4_descr">
 		<text>I must escort this unsavory character alive to the Dark Valley.</text>
@@ -678,7 +678,7 @@
 		<text>Regaining control: Go with Kashalot to the Truck Cemetery</text>
 	</string>
 	<string id="val_incursion_trc_2_descr">
-		<text>Alright... Kashalot seems excited to come with us. We're going with him to find his men.</text>
+		<text>Alright... Kashalot seems excited to come with us. Were going with him to find his men.</text>
 	</string>
 	<string id="val_incursion_trc_3_title">
 		<text>Regaining control: Capture the first point</text>
@@ -699,7 +699,7 @@
 		<text>We need to clear the last area.</text>
 	</string>
 	<string id="val_incursion_trc_6_title">
-		<text>Regaining control: Reject the monoliths' reinforcements</text>
+		<text>Regaining control: Reject the monoliths reinforcements</text>
 	</string>
 	<string id="val_incursion_trc_6_descr">
 		<text>More are coming. We have to clear them all.</text>
@@ -711,6 +711,7 @@
 		<text>That was difficult. I need to talk to Kashalot now.</text>
 	</string>
 </string_table>
+
 
 
 
