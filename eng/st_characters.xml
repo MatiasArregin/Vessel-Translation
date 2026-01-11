@@ -12,9 +12,6 @@
   <string id="jup_a6_freedom_leader">
     <text>Loki</text>
   </string>
-  <string id="mar_stalker_centinela_name">
-    <text>Centinela</text>
-  </string>
   <string id="jup_a6_stalker_barmen">
     <text>Hawaiano</text>
   </string>
@@ -127,13 +124,13 @@
     <text>Sargento Ostrovskiy</text>
   </string>
   <string id="pri_a15_military_recon_leader_name">
-    <text>Capit·n Klimenko</text>
+    <text>Capit√°n Klimenko</text>
   </string>
   <string id="pri_a15_sokolov_name">
     <text>Teniente Sokolov</text>
   </string>
   <string id="pri_a17_military_captain_tarasov">
-    <text>Capit·n Tarasov</text>
+    <text>Capit√°n Tarasov</text>
   </string>
   <string id="pri_a17_military_colonel_kovalski_name">
     <text>Coronel Kovalsky</text>
@@ -226,7 +223,7 @@
     <text>Cresta</text>
   </string>
   <string id="st_zat_b30_owl_stalker_trader_name">
-    <text>B˙ho</text>
+    <text>B√∫ho</text>
   </string>
   <string id="st_zat_b38_stalker_cop_name">
     <text>Urogallo</text>
@@ -235,7 +232,7 @@
     <text>Danila</text>
   </string>
   <string id="st_zat_b7_bandit_boss_sultan_name">
-    <text>Sult·n</text>
+    <text>Sult√°n</text>
   </string>
   <string id="st_zat_b7_duty_illicit_dealer_name">
     <text>Morgan</text>
@@ -280,7 +277,7 @@
     <text>Vobla</text>
   </string>
   <string id="zat_b18_noah_name">
-    <text>NoÈ</text>
+    <text>No√©</text>
   </string>
   <string id="zat_b215_stalker_guide_name">
     <text>Piloto</text>
@@ -313,7 +310,7 @@
     <text>Petruha</text>
   </string>
   <string id="zat_b53_artefact_hunter_2_name">
-    <text>PunzÛn</text>
+    <text>Punz√≥n</text>
   </string>
   <string id="jup_b46_duty_founder_squad_01_name">
     <text>Mayor Chepurnoy</text>
@@ -334,7 +331,7 @@
     <text>Sargento Gazda</text>
   </string>
   <string id="zat_b100_army_2">
-    <text>Capit·n Furtes</text>
+    <text>Capit√°n Furtes</text>
   </string>
   <string id="zat_b100_army_3">
     <text>Sargento Primero Shveyko</text>
@@ -352,7 +349,7 @@
 		<text>Tabernero</text>
   </string>
   <string id="bar_barmen_bio">
-		<text>Ni un santo, ni un sinverg¸enza. El Tabernero es conocido por su valor y es respetado por todos los Stalkers. Los rumores dicen que se esconde en la Zona de algunos sucesos oscuros de su pasado. DespuÈs de un encuentro con una anomalÌa, empezÛ a cojear ligeramente y decidiÛ cambiar de trabajo. EstableciÛ un bar junto a la FacciÛn, y el lugar se convirtiÛ poco a poco en el punto de encuentro para todos los veteranos de la Zona. El Tabernero tiene numerosas conexiones, tanto en la zona como  en el mundo exterior.</text>
+		<text>Ni un santo, ni un sinverg√ºenza. El Tabernero es conocido por su valor y es respetado por todos los Stalkers. Los rumores dicen que se esconde en la Zona de algunos sucesos oscuros de su pasado. Despu√©s de un encuentro con una anomal√≠a, empez√≥ a cojear ligeramente y decidi√≥ cambiar de trabajo. Estableci√≥ un bar junto a la Facci√≥n, y el lugar se convirti√≥ poco a poco en el punto de encuentro para todos los veteranos de la Zona. El Tabernero tiene numerosas conexiones, tanto en la zona como  en el mundo exterior.</text>
   </string>
   <string id="bar_bar_guard_bio">
 		<text>Gorila del bar. O guardaespaldas del Tabernero si lo deseas. Nada se sabe acerca de su presente o su pasado.</text>
@@ -373,10 +370,10 @@
 		<text>Sargento Kitsenko</text>
 	</string>
 	<string id="sim_dolg_veteran_bio">
-		<text>Militante de la facciÛn Deber. Por lo general, bien equipado. No hay datos disponibles.</text>
+		<text>Militante de la facci√≥n Deber. Por lo general, bien equipado. No hay datos disponibles.</text>
 	</string>
 	<string id="escape_trader_bio">
-		<text>Desde su infancia se dedica al comercio. En el jardÌn de infancia, solÌa vender l·pices de colores. En la escuela secundaria, vendÌa goma de mascar. En el Instituto, se ocupÛ de drogas blandas. Cuando apareciÛ la Zona se dio cuenta de su potencial de hacer dinero. Famoso por ser capaz de construir fuertes relaciones comerciales con cualquier tipo de clientes y hacer cualquier tipo de trato.</text>
+		<text>Desde su infancia se dedica al comercio. En el jard√≠n de infancia, sol√≠a vender l√°pices de colores. En la escuela secundaria, vend√≠a goma de mascar. En el Instituto, se ocup√≥ de drogas blandas. Cuando apareci√≥ la Zona se dio cuenta de su potencial de hacer dinero. Famoso por ser capaz de construir fuertes relaciones comerciales con cualquier tipo de clientes y hacer cualquier tipo de trato.</text>
 	</string>
 	<string id="escape_trader_name">
 		<text>Sidorovich</text>
@@ -388,7 +385,7 @@
 		<text>Professor Sakharov</text>
 	</string>
 	<string id="yan_semenov_bio">
-		<text>Asistente de investigaciÛn en el laboratorio mÛvil. No hay datos disponibles.</text>
+		<text>Asistente de investigaci√≥n en el laboratorio m√≥vil. No hay datos disponibles.</text>
 	</string>
 	<string id="yan_semenov_name">
 		<text>Asistente Semenov</text>
@@ -397,10 +394,10 @@
 		<text>Vasiliev</text>
 	</string>
 	<string id="yan_vasilyev_bio">
-		<text>Asistente de investigaciÛn en el laboratorio mÛvil. No hay datos disponibles.</text>
+		<text>Asistente de investigaci√≥n en el laboratorio m√≥vil. No hay datos disponibles.</text>
 	</string>
 	<string id="yan_kruglov_bio">
-		<text>Doctorado en biologÌa, Mutaciones, y patÛgenos en animales fuera de la Zona. LlegÛ a la zona para estudiar las mutaciones de los perros ciegos.</text>
+		<text>Doctorado en biolog√≠a, Mutaciones, y pat√≥genos en animales fuera de la Zona. Lleg√≥ a la zona para estudiar las mutaciones de los perros ciegos.</text>
 	</string>
 	<string id="yan_kruglov_name">
 		<text>Professor Kruglov</text>
@@ -418,7 +415,7 @@
   <text>Tornillo</text>
   </string>
   <string id="mil_Svoboda_trader_name">
-  <text>TacaÒo</text>
+  <text>Taca√±o</text>
   </string>
   <string id="bar_petrenko_name">
   <text>Coronel Petrenko</text>
@@ -436,7 +433,7 @@
 	<text>Xenotech</text>
   </string>
   <string id="pri_monolith_monolith_mechanic_stalker_name">
-	<text>ClÈrigo</text>
+	<text>Cl√©rigo</text>
   </string>
    <string id="pri_monolith_monolith_trader_stalker_name">
 	<text>Conejo</text>
@@ -469,7 +466,7 @@
 	<text>Voluntario de Conciencia-C</text> 
   </string>
   <string id="sar2_clone_name">
-	<text>ProyecciÛn</text> 
+	<text>Proyecci√≥n</text> 
   </string>
   <string id="sar2_arena_manager_name">
 		<text>Arnie</text>
@@ -526,7 +523,7 @@
 		<text>Ara</text>
 	</string>
 	<string id="sar2_ivancov_name">
-		<text>Capit·n Ivantsov</text>
+		<text>Capit√°n Ivantsov</text>
 	</string>
 	<string id="sar2_krot_name">
 		<text>Stalker Mole</text>
@@ -556,7 +553,7 @@
 		<text>"Seriy"</text>
 	</string>
 	<string id="sar2_svoboda_blockpost_leader_name">
-		<text>"TapÛn"</text>
+		<text>"Tap√≥n"</text>
 	</string>
 	<string id="sar2_svoboda_bodyguard_name">
 		<text>"Kaput"</text>
@@ -577,7 +574,7 @@
 		<text>Pavlik</text>
 	</string>
 	<string id="sar2_svoboda_trader_name">
-		<text>"TacaÒo"</text>
+		<text>"Taca√±o"</text>
 	</string>
 	<string id="sar2_svoboda_ugrumyi_name">
 		<text>"Murk"</text>
@@ -636,4 +633,5 @@
 	<string id="agr_kuznetsov_name">
 		<text>Mayor Kuznetsov</text>
 	</string>
+
 </string_table>
