@@ -2,19 +2,19 @@
 <string_table>
    <!-------------------------- VESSEL ------------------------>
   <string id="esc_wolf_bio">
-		<text>Guardia personal de Nimble. Un viejo Stalker que soсaba ser rico.</text>
+		<text>Личная охрана Шустрого. Старый сталкер, решивший разбогатеть.</text>
 	</string>
 	<string id="esc_wolf_name">
 		<text>Волк</text>
 	</string>
 	<string id="esc_fanat_bio">
-		<text>Se hizo cargo del liderazgo de los novatos en el campamento despuйs de Lobo. Lleno de propуsito y agresividad, y tiene una autoridad merecida sobre los reciйn llegados.</text>
+		<text>Стал лидером лагеря новичков после Волка. Целеустремлен, агрессивен, пользуется среди новичков заслуженным авторитетом.</text>
 	</string>
 	<string id="esc_fanat_name">
 		<text>Фанат</text>
 	</string>
 	<string id="esc_viper_bio">
-		<text>Nadie sabe cuando llego a la Zona, pero un dнa apareciу con comida para todos y desde entonces se ha ganado el cariсo de la gente</text>
+		<text>Никто не знает, когда он приехал в Зону. Однако, появившись однажды с едой на всех, он заработал расположение сталкеров.</text>
 	</string>
 	<string id="esc_viper_name">
 		<text>Вайпер</text>
@@ -22,83 +22,86 @@
 	<string id="esc_pj1_name">
 		<text>Дима</text>
 	</string>
+	<string id="mar_stalker_centinela_name">
+		<text>Часовой</text>
+    </string>
 	<string id="esc_pj2_name">
-		<text>Cherry</text>
+		<text>Черри</text>
 	</string>
 	<string id="esc_stalker_andrew_name">
-		<text>Andrew Kulovsky</text>
+		<text>Андрей Куловский</text>
 	</string>
 	<string id="esc_kir_bio">
-		<text>Capitбn de las fuerzas de defensa de Deber, se rumorea que sus ideales anticorrupciуn le estбn impidiendo subir de rango.</text>
+		<text>Капитан защитных сил Долга. Ходят слухи, что его антикоррупционные взгляды препятствуют его продвижению по званиям.</text>
 	</string>
 	<string id="esc_kir_name">
 		<text>Капитан Киров</text>
 	</string>
 	<string id="esc_leto_bio">
-		<text>No hay informaciуn disponible.</text>
+		<text>Нет доступной информации.</text>
 	</string>
 	<string id="esc_leto_name">
 		<text>Вован</text>
 	</string>
 	<string id="esc_pollo_bio">
-		<text>Stalker que ha trabajado con los cientнficos por casi media dйcada. Impecable y responsable.</text>
+		<text>Сталкер, что проработал на учёных почти пол десятка лет. Безупречен и ответственнен.</text>
 	</string>
 	<string id="esc_pollo_name">
-		<text>Yorick Pollo</text>
+		<text>Йорик Сорвиголова</text>
 	</string>
 	<string id="esc_cabo_bio">
-		<text>Stalker novato que terminу en las filas de Deber en medio de un caos por las vueltas de la vida.</text>
+		<text>Сталкер-новичок, что по воле судьбы попал в ряды Долга во время суматохи.</text> ---
 	</string>
 	<string id="esc_cabo_name">
-		<text>Cabo Fedya</text>
+		<text>Федя Зелёный</text>
 	</string>
 	<string id="esc_desollador_name">
-		<text>Desollador</text>
+		<text>Живодёр</text>
 	</string>
 	<string id="esc_tornillo_name">
-		<text>Tornillo</text>
+		<text>Шуруп</text>
 	</string>
 	<string id="esc_tornillo_bio">
-		<text>Gran buscador de artefactos, desaparecido.</text>
+		<text>Великий искатель артефактов, пропавший без вести.</text>
 	</string>
 	<string id="esc_dogo_name">
-		<text>Dogo</text>
+		<text>Дог</text>
 	</string>
 	<string id="esc_dogo_bio">
-		<text>Veterano de la zona. Sin informaciуn.</text>
+		<text>Ветеран Зоны. Больше информации нет.</text>
 	</string>
 	<string id="esc_tokha_name">
-		<text>Tokha Humilde</text>
+		<text>Тоха Скромный</text>
 	</string>
 	<string id="esc_tokha_bio">
-		<text>Stalker de buen corazуn.</text>
+		<text>Доброжелательный сталкер.</text>
 	</string>
 	<string id="esc_andres_name">
-		<text>Andrйs "Mago"</text>
+		<text>Андрес "Волшебник"</text>
 	</string>
 	<string id="esc_gabriel_zang_name">
-		<text>Gabriel Zang</text>
+		<text>Габриэль Зенг</text>
 	</string>
 	<string id="esc_gabriel_zang_bio">
-		<text>Actor famoso que vino a pasar sus dнas finales a la zona.</text>
+		<text>Знаменитый актёр, решивший провести свой остаток жизни в Зоне.</text>
 	</string>
 	<string id="dar_hermit_name">
 		<text>Отшельник</text>
 	</string>
 	<string id="val_pituca_name">
-		<text>Pituca</text>
+		<text>Ухмылистый</text>
 	</string>
 	<string id="val_mercy_name">
-		<text>Mercy</text>
+		<text>Милосердный</text>
 	</string>
 	<string id="val_bandido_tecnico_name">
-		<text>Marco el Sucio</text>
+		<text>Марко Грязный</text>
 	</string>
 	<string id="val_stalker_kolyan_name">
-		<text>Kolyan "Despiadado"</text>
+		<text>Колян "Беспощадный"</text>
 	</string>
 	<string id="trc_bandit_matasanos_name">
-		<text>Matasanos</text>
+		<text>Мясник</text>
 	</string>
 	<string id="trc_stalker_kashalot_name">
 		<text>Кашалот</text>
