@@ -1,106 +1,106 @@
-<?xml version="1.0" encoding="windows-1252" ?>
+<?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="esc_encontrar_tumba_1_title">
-		<text>El contenido de la Tumba: Sigue a Viper para conseguir informaci�n</text>
+		<text>Что скрыто за надгробием: Следовать за Вайпером для получения сведений</text>
 	</string>
 	<string id="esc_encontrar_tumba_2_title">
-		<text>El contenido de la Tumba: Pregunta a los stalkers o sidorovich</text>
+		<text>Что скрыто за надгробием: Расспросить сталкеров или Сидоровича</text>
 	</string>
 	<string id="esc_encontrar_tumba_3_title">
-		<text>El contenido de la Tumba: Vuelve a consultar con Viper</text>
+		<text>Что скрыто за надгробием: Вернуться к Вайперу</text>
 	</string>
 	<string id="esc_encontrar_tumba_4_title">
-		<text>El contenido de la Tumba: Busca otra forma de dar con el Bot�n</text>
+		<text>Что скрыто за надгробием: Найти другой способ добраться до вещей</text>
 	</string>
 	<string id="esc_encontrar_tumba_4a_title">
-		<text>El contenido de la Tumba: Habla con Sidorovich</text>
+		<text>Что скрыто за надгробием: Поговорить с Сидоровичем</text>
 	</string>
 	<string id="esc_encontrar_tumba_4b_title">
-		<text>El contenido de la Tumba: Habla con Viper</text>
+		<text>Что скрыто за надгробием: Поговорить с Вайпером</text>
 	</string>
 	<string id="esc_encontrar_tumba_4c_title">
-		<text>El contenido de la Tumba: Sigue a Viper hasta las coordenadas</text>
+		<text>Что скрыто за надгробием: Следовать за Вайпером до места с нужными координатами</text>
 	</string>
 	<string id="esc_encontrar_tumba_4d_title">
-		<text>El contenido de la Tumba: Investiga el lugar de las coordenadas</text>
+		<text>Что скрыто за надгробием: Исследовать найденное место</text>
 	</string>
 	<string id="esc_encontrar_tumba_4e_title">
-		<text>El contenido de la Tumba: Habla con Viper para volver al Cord�n</text>
+		<text>Что скрыто за надгробием: Поговорить с Вайпером для возвращения на Кордон</text>
 	</string>
 	<string id="esc_encontrar_tumba_4f_title">
-		<text>El contenido de la Tumba: Vuelve a la aldea de Novatos con Viper</text>
+		<text>Что скрыто за надгробием: Вернуться с Вайпером в Деревню новичков</text>
 	</string>
 	<string id="esc_encontrar_tumba_4g_title">
-		<text>El contenido de la Tumba: Avisa a Sidorovich lo que pas�</text>
+		<text>Что скрыто за надгробием: Сообщить Сидоровичу о произошедшем</text>
 	</string>
 	<string id="esc_encontrar_tumba_5_title">
-		<text>El contenido de la Tumba: Obt�n informaci�n sobre Atreo por tu cuenta</text>
+		<text>Что скрыто за надгробием: Самостоятельно разузнать о Атрее</text>
 	</string>
 	<string id="esc_encontrar_tumba_6_title">
-		<text>El contenido de la Tumba: Pregunta a Vovan sobre Atreo</text>
+		<text>Что скрыто за надгробием: Расспросить Вована про Атрея</text>
 	</string>
 	<string id="esc_encontrar_tumba_7_title">
-		<text>El contenido de la Tumba: Ve al Norte a hablar con Deber</text>
+		<text>Что скрыто за надгробием: Пойти на Север поговорить с Долгом</text>
 	</string>
 	<string id="esc_encontrar_tumba_8_title">
-		<text>El contenido de la Tumba: Defiendete de los Monolitos</text>
+		<text>Что скрыто за надгробием: Защититься от бойцов Монолита</text>
 	</string>
 	<string id="esc_encontrar_tumba_8b_title">
-		<text>El contenido de la Tumba: Vuelve a hablar con el Capit�n Kir</text>
+		<text>Что скрыто за надгробием: Вернуться к капитану Кирову для разговора</text>
 	</string>
 	<string id="esc_encontrar_tumba_9_title">
-		<text>El contenido de la Tumba: Volver a avisar a Vovan</text>
+		<text>Что скрыто за надгробием: Вернуться и проинформировать Вована</text>
 	</string>
 	<string id="esc_encontrar_tumba_10_title">
-		<text>El contenido de la Tumba: Encuentra a Atreo de otra forma</text>
+		<text>Что скрыто за надгробием: Найти другой способ определить местоположение Атрея</text>
 	</string>
 	<string id="esc_encontrar_tumba_1_descr">
-		<text>Viper ven�a en el cami�n conmigo. Deber�a seguirlo hasta conseguir algo de informaci�n de la tumba</text>
+		<text>Viper venнa en el camiуn conmigo. Deberнa seguirlo hasta conseguir algo de informaciуn de la tumba</text>
 	</string>
 	<string id="esc_encontrar_tumba_2_descr">
-		<text>Viper no sab�a demasiado, parece que hace tiempo que no estaba en la zona. Me dijo que hable con los stalkers o que como �ltimo recurso, hable con Sidorovich.</text>
+		<text>Viper no sabнa demasiado, parece que hace tiempo que no estaba en la zona. Me dijo que hable con los stalkers o que como ъltimo recurso, hable con Sidorovich.</text>
 	</string>
 	<string id="esc_encontrar_tumba_3_descr">
-		<text>Encontr� esta nota bizarra, pero aqu� solo quedan medicinas anti radiaci�n. Alguien se llev� el artefacto... Quiz�s Viper sepa algo al respecto.</text>
+		<text>Encontrй esta nota bizarra, pero aquн solo quedan medicinas anti radiaciуn. Alguien se llevу el artefacto... Quizбs Viper sepa algo al respecto.</text>
 	</string>
 	<string id="esc_encontrar_tumba_4_descr">
-		<text>Viper no pudo ayudarme... Necesito otra forma de dar con el bot�n que me corresponde.</text>
+		<text>Viper no pudo ayudarme... Necesito otra forma de dar con el botнn que me corresponde.</text>
 	</string>
 	<string id="esc_encontrar_tumba_4a_descr">
-		<text>El comerciante local, Sidorovich, me convoc� para charlar con �l. Debo ir a verlo.</text>
+		<text>El comerciante local, Sidorovich, me convocу para charlar con йl. Debo ir a verlo.</text>
 	</string>
 	<string id="esc_encontrar_tumba_4b_descr">
-		<text>El comerciante me di� las coordenadas para ir a seguirle el rastro a Atreo. Deber�a ir a ver a Viper a ver si sabe como llegar.</text>
+		<text>El comerciante me diу las coordenadas para ir a seguirle el rastro a Atreo. Deberнa ir a ver a Viper a ver si sabe como llegar.</text>
 	</string>
 	<string id="esc_encontrar_tumba_4c_descr">
-		<text>Tengo que seguir a Viper, me va a guiar hasta las coordenadas que me di� el comerciante.</text>
+		<text>Tengo que seguir a Viper, me va a guiar hasta las coordenadas que me diу el comerciante.</text>
 	</string>
 	<string id="esc_encontrar_tumba_4d_descr">
-		<text>Parece que encontr� a los stalkers desaparecidos... Tengo que revisar el lugar.</text>
+		<text>Parece que encontrй a los stalkers desaparecidos... Tengo que revisar el lugar.</text>
 	</string>
 	<string id="esc_encontrar_tumba_4e_descr">
-		<text>No hay rastro del escondite ni de atreo. Toca hablar con Viper y volver al Cord�n.</text>
+		<text>No hay rastro del escondite ni de atreo. Toca hablar con Viper y volver al Cordуn.</text>
 	</string>
 	<string id="esc_encontrar_tumba_4f_descr">
-		<text>Tengo que volver en una pieza a la aldea y avisarle a Sidorovich lo que pas�...</text>
+		<text>Tengo que volver en una pieza a la aldea y avisarle a Sidorovich lo que pasу...</text>
 	</string>
 	<string id="esc_encontrar_tumba_5_descr">
 		<text>No puedo esperar a Sidorovich. Tengo que hablar con los stalkers sobre Atreo...</text>
 	</string>
 	<string id="esc_encontrar_tumba_6_descr">
-		<text>Fan�tico me dijo que sabe de alguien que dice conocer a Atreo, debo ir a hablar con �l y conseguir respuestas.</text>
+		<text>Fanбtico me dijo que sabe de alguien que dice conocer a Atreo, debo ir a hablar con йl y conseguir respuestas.</text>
 	</string>
 	<string id="esc_encontrar_tumba_7_descr">
-		<text>Vovan est� herido. Dijo que me hablar�a de Atreo si le hago el favor de revisar si la gente de Deber al Norte de Cord�n abri� el camino ya.</text>
+		<text>Vovan estб herido. Dijo que me hablarнa de Atreo si le hago el favor de revisar si la gente de Deber al Norte de Cordуn abriу el camino ya.</text>
 	</string>
 	<string id="esc_encontrar_tumba_8_descr">
-		<text>�Defiendete de los monolitos AAAAAH!</text>
+		<text>ЎDefiendete de los monolitos AAAAAH!</text>
 	</string>
 	<string id="esc_encontrar_tumba_8b_descr">
-		<text>El Capitan Kir me llam� para hablar. Deber�a ir a verlo.</text>
+		<text>El Capitan Kir me llamу para hablar. Deberнa ir a verlo.</text>
 	</string>
 	<string id="esc_encontrar_tumba_9_descr">
-		<text>Debo llevarle las malas a Vovan, me est� esperando enfermo y herido en su container.</text>
+		<text>Debo llevarle las malas a Vovan, me estб esperando enfermo y herido en su container.</text>
 	</string>
 	<string id="esc_encontrar_tumba_10_descr">
 		<text>Vovan no quiere cooperar. Debo buscar otra forma de encontrar a Atreo.</text>
@@ -110,55 +110,55 @@
 		<text>El Stalker Atreo: Ve a ver al Ex-Deber Pollo</text>
 	</string>
 	<string id="esc_stalker_leto_1_descr">
-		<text>Kir te ha recomendado ver a Pollo, un ex miembro de deber que ahora forma parte de los cient�ficos.\n Parece que �l tambi�n buscaba a Atreo...</text>
+		<text>Kir te ha recomendado ver a Pollo, un ex miembro de deber que ahora forma parte de los cientнficos.\n Parece que йl tambiйn buscaba a Atreo...</text>
 	</string>
 	<string id="esc_stalker_leto_2_title">
 		<text>El Stalker Atreo: Enfrenta a Vovan (Atreo)</text>
 	</string>
 	<string id="esc_stalker_leto_2_descr">
-		<text>Parece que Vovan result� ser Atreo, se estuvo haciendo pasar por un desconocido todo este tiempo. Fu� Pollo qui�n le hab�a roto el brazo, no una anomal�a.</text>
+		<text>Parece que Vovan resultу ser Atreo, se estuvo haciendo pasar por un desconocido todo este tiempo. Fuй Pollo quiйn le habнa roto el brazo, no una anomalнa.</text>
 	</string>
 	<string id="esc_stalker_leto_3_title">
 		<text>El Stalker Atreo: Habla con Viper</text>
 	</string>
 	<string id="esc_stalker_leto_3_descr">
-		<text>�D�nde estoy?</text>
+		<text>їDуnde estoy?</text>
 	</string>
 	<string id="esc_stalker_leto_4_title">
 		<text>El Stalker Atreo: Sigue la pista de Atreo</text>
 	</string>
 	<string id="esc_stalker_leto_4_descr">
-		<text>Viper me salv� del truco de Atreo... Tengo que ir a buscarlo, unos stlakers dijeron que iba hacia el este, pasando el patio de m�quinas de los bandidos.</text>
+		<text>Viper me salvу del truco de Atreo... Tengo que ir a buscarlo, unos stlakers dijeron que iba hacia el este, pasando el patio de mбquinas de los bandidos.</text>
 	</string>
 	<string id="esc_stalker_leto_5_title">
-		<text>El Stalker Atreo: Investiga el �rea</text>
+		<text>El Stalker Atreo: Investiga el бrea</text>
 	</string>
 	<string id="esc_stalker_leto_5_descr">
-		<text>�Qu� demonios pas� ac�? Tengo que investigar un poco...</text>
+		<text>їQuй demonios pasу acб? Tengo que investigar un poco...</text>
 	</string>
 	<string id="esc_stalker_leto_6_title">
 		<text>El Stalker Atreo: Habla con Viper</text>
 	</string>
 	<string id="esc_stalker_leto_6_descr">
-		<text>Necesito ayuda de Viper para ver qu� hacer ahora... Atreo se fu� al Este.</text>
+		<text>Necesito ayuda de Viper para ver quй hacer ahora... Atreo se fuй al Este.</text>
 	</string>
 	<string id="esc_stalker_leto_7_title">
 		<text>El Stalker Atreo: Encuentra a Atreo</text>
 	</string>
 	<string id="esc_stalker_leto_7_descr">
-		<text>Atreo dej� el Cord�n y se fu� en direcci�n al Este... Tengo que ver c�mo seguirle el rastro sin morir en el camino.</text>
+		<text>Atreo dejу el Cordуn y se fuй en direcciуn al Este... Tengo que ver cуmo seguirle el rastro sin morir en el camino.</text>
 	</string>
 	<string id="esc_stalker_leto_8_title">
 		<text>El Stalker Atreo: Habla con Viper sobre Atreo</text>
 	</string>
 	<string id="esc_stalker_leto_8_descr">
-		<text>No s� por d�nde seguir. Deber�a preguntarle a Viper qu� hacer.</text>
+		<text>No sй por dуnde seguir. Deberнa preguntarle a Viper quй hacer.</text>
 	</string>
 	<string id="esc_stalker_leto_9_title">
 		<text>El Stalker Atreo: Consigue un disfraz de bandido</text>
 	</string>
 	<string id="esc_stalker_leto_9_descr">
-		<text>Necesito informaci�n y en este lugar solo se puede hablar con los bandidos. Tengo que disfrazarme como uno de ellos.</text>
+		<text>Necesito informaciуn y en este lugar solo se puede hablar con los bandidos. Tengo que disfrazarme como uno de ellos.</text>
 	</string>
 	<string id="esc_stalker_leto_10_title">
 		<text>El Stalker Atreo: Habla con los bandidos sobre Atreo</text>
@@ -167,281 +167,281 @@
 		<text>Ya tengo mi disfraz de bandido. Tengo que averiguar lo que pueda sobre el paradero de Atreo hablando con los bandidos.</text>
 	</string>
 	<string id="esc_stalker_leto_11_title">
-		<text>El Stalker Atreo: Ganate el favor de Sult�n</text>
+		<text>El Stalker Atreo: Ganate el favor de Sultбn</text>
 	</string>
 	<string id="esc_stalker_leto_11_descr">
-		<text>El jefe de los bandidos dijo que me ayudar�a si consigo cumplir una tarea que me dar� Kolyan. No puedo volver con las manos vac�as.</text>
+		<text>El jefe de los bandidos dijo que me ayudarнa si consigo cumplir una tarea que me darб Kolyan. No puedo volver con las manos vacнas.</text>
 	</string>
 	<string id="esc_stalker_leto_12_title">
-		<text>El Stalker Atreo: Habla con Sult�n</text>
+		<text>El Stalker Atreo: Habla con Sultбn</text>
 	</string>
 	<string id="esc_stalker_leto_12_descr">
-		<text>Ya traje al Matasanos y conquistamos el cementerio de camiones con Kashalot. Es hora de buscar informaci�n con el jefe de los bandidos.</text>
+		<text>Ya traje al Matasanos y conquistamos el cementerio de camiones con Kashalot. Es hora de buscar informaciуn con el jefe de los bandidos.</text>
 	</string>
 	<string id="esc_stalker_leto_13_title">
-		<text>El Stalker Atreo: Consigue informaci�n de los centinelas de Sult�n</text>
+		<text>El Stalker Atreo: Consigue informaciуn de los centinelas de Sultбn</text>
 	</string>
 	<string id="esc_stalker_leto_13_descr">
-		<text>Tengo que buscar a los centinelas de Sult�n para ver si han visto algo. Les dijo que cooperen.</text>
+		<text>Tengo que buscar a los centinelas de Sultбn para ver si han visto algo. Les dijo que cooperen.</text>
 	</string>
 	<string id="esc_stalker_leto_14_title">
-		<text>El Stalker Atreo: Busca a Atreo en la f�brica abandonada.</text>
+		<text>El Stalker Atreo: Busca a Atreo en la fбbrica abandonada.</text>
 	</string>
 	<string id="esc_stalker_leto_14_descr">
-		<text>Parece que lo vieron entrar a la f�brica... Perseguido por monolitos y rodeado de zombis. Eso no suena f�cil.</text>
+		<text>Parece que lo vieron entrar a la fбbrica... Perseguido por monolitos y rodeado de zombis. Eso no suena fбcil.</text>
 	</string>
 	<string id="esc_stalker_leto_15_title">
 		<text>El Stalker Atreo: Sigue el rastro de Monolitos.</text>
 	</string>
 	<string id="esc_stalker_leto_15_descr">
-		<text>Viper dijo que los monolitos deben estar rastreando a Atreo. Solo tengo que seguir el rastro de ellos hasta dar con �l.</text>
+		<text>Viper dijo que los monolitos deben estar rastreando a Atreo. Solo tengo que seguir el rastro de ellos hasta dar con йl.</text>
 	</string>
 	<string id="esc_stalker_leto_16_title">
 		<text>El Stalker Atreo: Encuentra a Atreo</text>
 	</string>
 	<string id="esc_stalker_leto_16_descr">
-		<text>Todo indica que Atreo baj� al subsuelo. Esta vez no va a escapar.</text>
+		<text>Todo indica que Atreo bajу al subsuelo. Esta vez no va a escapar.</text>
 	</string>
 	<string id="esc_stalker_leto_17_title">
 		<text>El Stalker Atreo: Aguanta 3 minutos</text>
 	</string>
 	<string id="esc_stalker_leto_17_descr">
-		<text>Atreo trama algo, tengo que aguantar hasta que aparezca y tomar lo que es m�o.</text>
+		<text>Atreo trama algo, tengo que aguantar hasta que aparezca y tomar lo que es mнo.</text>
 	</string>
 	<string id="esc_stalker_leto_18_title">
-		<text>El Stalker Atreo: �Matarlo o hablar con �l?</text>
+		<text>El Stalker Atreo: їMatarlo o hablar con йl?</text>
 	</string>
 	<string id="esc_stalker_leto_18_descr">
-		<text>Es hora de tomar una decisi�n.</text>
+		<text>Es hora de tomar una decisiуn.</text>
 	</string>
 	
 	<string id="esc_arma_equipo_title">
-		<text>El Viaje: Re�ne un equipo para cruzar Darkscape.</text>
+		<text>El Viaje: Reъne un equipo para cruzar Darkscape.</text>
 	</string>
 	<string id="esc_arma_equipo_descr">
-		<text>Atreo se fu�, y se llev� el artefacto consigo... Viper se ofreci� a ayudarme a perseguirlo, pero Darkscape es tierra de nadie ahora mismo. \n Hay que armar un equipo.</text>
+		<text>Atreo se fuй, y se llevу el artefacto consigo... Viper se ofreciу a ayudarme a perseguirlo, pero Darkscape es tierra de nadie ahora mismo. \n Hay que armar un equipo.</text>
 	</string>
 	
 	<string id="esc_fanatico_task_1_title">
-		<text>Los parches Militares: Encuentra 4 parches para Fan�tico</text>
+		<text>Los parches Militares: Encuentra 4 parches para Fanбtico</text>
 	</string>
 	<string id="esc_fanatico_task_1_descr">
-		<text>Fan�tico me pidi� que encuentre 4 parches militares para un trabajo de infiltraci�n.</text>
+		<text>Fanбtico me pidiу que encuentre 4 parches militares para un trabajo de infiltraciуn.</text>
 	</string>
 	<string id="esc_fanatico_task_2_title">
-		<text>Los parches Militares: Vuelve con Fan�tico</text>
+		<text>Los parches Militares: Vuelve con Fanбtico</text>
 	</string>
 	<string id="esc_fanatico_task_2_descr">
-		<text>Debo llevarle los parches que me pidi� a Fan�tico.</text>
+		<text>Debo llevarle los parches que me pidiу a Fanбtico.</text>
 	</string>
 	
 	<string id="esc_wolf_task_1_title_1">
-		<text>Tarea para un ladr�n: Encuentra los Explosivos Robados</text>
+		<text>Tarea para un ladrуn: Encuentra los Explosivos Robados</text>
 	</string>
 	<string id="esc_wolf_task_1_descr_1">
-		<text>Wolf necesita que encuentre unos explosivos que le robaron, en la casita al Norte de las v�as del Tren. Parece que ah� guardan cosas los bandidos.</text>
+		<text>Wolf necesita que encuentre unos explosivos que le robaron, en la casita al Norte de las vнas del Tren. Parece que ahн guardan cosas los bandidos.</text>
 	</string>
 	<string id="esc_wolf_task_1_title_2">
-		<text>Tarea para un ladr�n: Vuelve con Wolf</text>
+		<text>Tarea para un ladrуn: Vuelve con Wolf</text>
 	</string>
 	<string id="esc_wolf_task_1_descr_2">
 		<text>Tengo que devolverle los explosivos a Wolf.</text>
 	</string>
 	<string id="esc_wolf_task_2_title_1">
-		<text>El due�o del escondite: Habla con Wolf</text>
+		<text>El dueсo del escondite: Habla con Wolf</text>
 	</string>
 	<string id="esc_wolf_task_2_descr_1">
-		<text>Parece que han localizado al ladr�n, tengo que hablar con wolf para darle una mano con eso.</text>
+		<text>Parece que han localizado al ladrуn, tengo que hablar con wolf para darle una mano con eso.</text>
 	</string>
 	<string id="esc_wolf_task_2_title_2">
-		<text>El due�o del escondite: Acaba con el Mago</text>
+		<text>El dueсo del escondite: Acaba con el Mago</text>
 	</string>
 	<string id="esc_wolf_task_2_descr_2">
-		<text>El ladr�n parece estar bien equipado, le dicen "Mago". Toca buscarlo en las v�as del tren.</text>
+		<text>El ladrуn parece estar bien equipado, le dicen "Mago". Toca buscarlo en las vнas del tren.</text>
 	</string>
 	<string id="esc_wolf_task_2_title_3">
-		<text>El due�o del escondite: Busca la PDA y vuelve con Wolf</text>
+		<text>El dueсo del escondite: Busca la PDA y vuelve con Wolf</text>
 	</string>
 	<string id="esc_wolf_task_2_descr_3">
-		<text>Acabamos con el ladr�n, toca volver con wolf.</text>
+		<text>Acabamos con el ladrуn, toca volver con wolf.</text>
 	</string>
 	<string id="esc_wolf_task_3_title_1">
-		<text>Las �rdenes de Mago: Ve con Wolf</text>
+		<text>Las уrdenes de Mago: Ve con Wolf</text>
 	</string>
 	<string id="esc_wolf_task_3_descr_1">
-		<text>Parece que el Mago sigui� haciendo de las suyas incluso despu�s de muerto... Tengo que ir a ver a Wolf.</text>
+		<text>Parece que el Mago siguiу haciendo de las suyas incluso despuйs de muerto... Tengo que ir a ver a Wolf.</text>
 	</string>
 	<string id="esc_wolf_task_3_title_2">
-		<text>Las �rdenes de Mago: Acaba con los bandidos</text>
+		<text>Las уrdenes de Mago: Acaba con los bandidos</text>
 	</string>
 	<string id="esc_wolf_task_3_descr_2">
-		<text>Wolf ya di� la orden. Hay que liquidar a esos bandidos.</text>
+		<text>Wolf ya diу la orden. Hay que liquidar a esos bandidos.</text>
 	</string>
 	<string id="esc_wolf_task_3_title_3">
-		<text>Las �rdenes de Mago: Habla con Wolf</text>
+		<text>Las уrdenes de Mago: Habla con Wolf</text>
 	</string>
 	<string id="esc_wolf_task_3_descr_3">
-		<text>Ya acabamos con todos, debo ver que Wolf est� bien.</text>
+		<text>Ya acabamos con todos, debo ver que Wolf estй bien.</text>
 	</string>
 
 
 	
 
 	<string id="esc_pollo_task_1_title">
-		<text>La tarea de Pollo: Entra en la anomal�a</text>
+		<text>La tarea de Pollo: Entra en la anomalнa</text>
 	</string>
 	<string id="esc_pollo_task_1_descr">
-		<text>Pollo me pidi� ayuda con su estudio de las anomal�as. Necesita que me meta entre las cajas de madera y los restos met�licos oxidados.</text>
+		<text>Pollo me pidiу ayuda con su estudio de las anomalнas. Necesita que me meta entre las cajas de madera y los restos metбlicos oxidados.</text>
 	</string>
 	<string id="esc_pollo_task_2_title">
 		<text>La tarea de Pollo: Sigue las instrucciones de Pollo</text>
 	</string>
 	<string id="esc_pollo_task_2_descr">
-		<text>Debo ir a la siguiente anomal�a.</text>
+		<text>Debo ir a la siguiente anomalнa.</text>
 	</string>
 	<string id="esc_pollo_task_3_descr">
-		<text>Ya revis� todas las anomal�as. Debo volver con Pollo</text>
+		<text>Ya revisй todas las anomalнas. Debo volver con Pollo</text>
 	</string>
 	<string id="esc_viper_traje_1_title">
 		<text>Rastros de Atreo, El traje de Viper: Encuentra el traje especial</text>
 	</string>
 	<string id="esc_viper_traje_1_descr">
-		<text>Parece que Atreo escond�a un traje caro, de Viper. Toca ir a buscarlo a los techos del Patio de M�quinas.</text>
+		<text>Parece que Atreo escondнa un traje caro, de Viper. Toca ir a buscarlo a los techos del Patio de Mбquinas.</text>
 	</string>
 	<string id="esc_viper_traje_2_title">
 		<text>Rastros de Atreo, El traje de Viper: Devuelve el traje especial</text>
 	</string>
 	<string id="esc_viper_traje_2_descr">
-		<text>Encontr� el traje que Atreo le hab�a robado a Viper, parece muy caro, deber�a llev�rselo lo antes posible.</text>
+		<text>Encontrй el traje que Atreo le habнa robado a Viper, parece muy caro, deberнa llevбrselo lo antes posible.</text>
 	</string>
 	<string id="esc_fanatico_dinero_1_title">
-		<text>Rastros de Atreo, El dinero de Fan�tico: Encuentra el dinero</text>
+		<text>Rastros de Atreo, El dinero de Fanбtico: Encuentra el dinero</text>
 	</string>
 	<string id="esc_fanatico_dinero_1_descr">
-		<text>Atreo ten�a escondido el dinero de fan�tico en la van abandonada en la granja.</text>
+		<text>Atreo tenнa escondido el dinero de fanбtico en la van abandonada en la granja.</text>
 	</string>
 	<string id="esc_fanatico_dinero_2_title">
-		<text>Rastros de Atreo, El dinero de Fan�tico: Devuelve el dinero</text>
+		<text>Rastros de Atreo, El dinero de Fanбtico: Devuelve el dinero</text>
 	</string>
 	<string id="esc_fanatico_dinero_2_descr">
-		<text>Encontr� un malet�n en la Van, debe ser el dinero de fan�tico.</text>
+		<text>Encontrй un maletнn en la Van, debe ser el dinero de fanбtico.</text>
 	</string>
 	<string id="esc_cosas_pollo_1_title">
 		<text>Rastros de Atreo, el equipo de Pollo: Habla con Sidorovich</text>
 	</string>
 	<string id="esc_cosas_pollo_1_descr">
-		<text>Atreo dijo vendi� las cosas de Pollo a Sidorovich. Espero que no me cueste muy caro conseguirlas de vuelta.</text>
+		<text>Atreo dijo vendiу las cosas de Pollo a Sidorovich. Espero que no me cueste muy caro conseguirlas de vuelta.</text>
 	</string>
 	<string id="esc_cosas_pollo_2_title">
-		<text>Rastros de Atreo, el equipo de Pollo: Elimina el Mutante Extra�o</text>
+		<text>Rastros de Atreo, el equipo de Pollo: Elimina el Mutante Extraсo</text>
 	</string>
 	<string id="esc_cosas_pollo_2_descr">
-		<text>Para que Sidorovich coopere con las cosas de Pollo necesito eliminar a un mutante extra�o que ha estado dando problemas...</text>
+		<text>Para que Sidorovich coopere con las cosas de Pollo necesito eliminar a un mutante extraсo que ha estado dando problemas...</text>
 	</string>
 	<string id="esc_cosas_pollo_3_title">
 		<text>Rastros de Atreo, el equipo de Pollo: Vuelve con Sidorovich</text>
 	</string>
 	<string id="esc_cosas_pollo_3_descr">
-		<text>Me ocup� ya del mutante, definitivamente no era un "cerdo enojado". Toca volver con el viejo.</text>
+		<text>Me ocupй ya del mutante, definitivamente no era un "cerdo enojado". Toca volver con el viejo.</text>
 	</string>
 	<string id="esc_cosas_pollo_4_title">
 		<text>Rastros de Atreo, el equipo de Pollo: Ve a ver a Xenotech</text>
 	</string>
 	<string id="esc_cosas_pollo_4_descr">
-		<text>Parece que Sidorovich vendi� las cosas a Xenothech, el t�cnico de Cord�n. Toca ir a buscarlas...</text>
+		<text>Parece que Sidorovich vendiу las cosas a Xenothech, el tйcnico de Cordуn. Toca ir a buscarlas...</text>
 	</string>
 	<string id="esc_cosas_pollo_5_title">
 		<text>Rastros de Atreo, el equipo de Pollo: Devuelve el equipo</text>
 	</string>
 	<string id="esc_cosas_pollo_5_descr">
-		<text>Consegu� los aparatos al fin, aunque parece que Xenotech se enoj�... Toca ir a ver a Pollo.</text>
+		<text>Conseguн los aparatos al fin, aunque parece que Xenotech se enojу... Toca ir a ver a Pollo.</text>
 	</string>
 	<string id="esc_leto_artefactos_tornillo_title">
 		<text>Rastros de Atreo, los artefactos de Tornillos: Habla con Kolyan en el Valle Oscuro</text>
 	</string>
 	<string id="esc_leto_artefactos_tornillo_descr">
-		<text>Atreo parece haber vendido los artefactos de Tornillo a un tal Kolyan, un bandido que est� en el Valle Oscuro. Tengo que ir a verlo, por Tornillo.</text>
+		<text>Atreo parece haber vendido los artefactos de Tornillo a un tal Kolyan, un bandido que estб en el Valle Oscuro. Tengo que ir a verlo, por Tornillo.</text>
 	</string>
 	<string id="esc_cabo_task_1_descr">
-		<text>Parece que los camaradas del Cabo le han jugado una broma pesada. Me pidi� que encuentre su arma que le escondieron... No deber�a estar muy lejos.</text>
+		<text>Parece que los camaradas del Cabo le han jugado una broma pesada. Me pidiу que encuentre su arma que le escondieron... No deberнa estar muy lejos.</text>
 	</string>
 	<string id="esc_cabo_task_1_title">
 		<text>Broma pesada: Encuentra el arma del Cabo</text>
 	</string>
 	<string id="esc_cabo_task_2_descr">
-		<text>Ya encontr� el arma... Sus compa�eros son unos desgraciados.</text>
+		<text>Ya encontrй el arma... Sus compaсeros son unos desgraciados.</text>
 	</string>
 	<string id="esc_cabo_task_2_title">
 		<text>Broma pesada: Devuelve el arma al Cabo</text>
 	</string>
 	<string id="esc_cabo_task2_1_descr">
-		<text>Cabo me pidi� como favor personal que busque a su amigo "Tornillos", un conocido cazador de artefactos al que no pudo localizar.</text>
+		<text>Cabo me pidiу como favor personal que busque a su amigo "Tornillos", un conocido cazador de artefactos al que no pudo localizar.</text>
 	</string>
 	<string id="esc_cabo_task2_1_title">
 		<text>Favor Personal: Encuentra a "Tornillos"</text>
 	</string>
 	<string id="esc_cabo_task2_2_descr">
-		<text>Pas� lo peor, Tornillos estaba muerto... Debo ver qu� hago con su PDA, tiene informaci�n valiosa.</text>
+		<text>Pasу lo peor, Tornillos estaba muerto... Debo ver quй hago con su PDA, tiene informaciуn valiosa.</text>
 	</string>
 	<string id="esc_cabo_task2_2_title">
 		<text>Favor Personal: Decide que hacer con la PDA de Tornillos</text>
 	</string>
 	<string id="esc_dogo_task_title_1">
-		<text>Encuentro paranormal: Acompa�a a Dogo a buscar su arma</text>
+		<text>Encuentro paranormal: Acompaсa a Dogo a buscar su arma</text>
 	</string>
 	<string id="esc_dogo_task_descr_1">
-		<text>Parece que unos fantasmas atacaron a Dogo mientras volv�a al Cord�n, desde el Norte. Toca ir a buscar su arma que perdi� en medio de la conmoci�n.</text>
+		<text>Parece que unos fantasmas atacaron a Dogo mientras volvнa al Cordуn, desde el Norte. Toca ir a buscar su arma que perdiу en medio de la conmociуn.</text>
 	</string>
 	<string id="esc_dogo_task_title_2">
 		<text>Encuentro paranormal: Destruye la fuente de los fantasmas.</text>
 	</string>
 	<string id="esc_dogo_task_descr_2">
-		<text>�Realmente hay fantasmas! �Dogo entr� en p�nico! �Qu� hago?.</text>
+		<text>ЎRealmente hay fantasmas! ЎDogo entrу en pбnico! їQuй hago?.</text>
 	</string>
 	<string id="esc_dogo_task_title_3">
-		<text>Encuentro paranormal: Auxilia a Dogo y acompa�alo a la base.</text>
+		<text>Encuentro paranormal: Auxilia a Dogo y acompaсalo a la base.</text>
 	</string>
 	<string id="esc_dogo_task_descr_3">
-		<text>Dogo qued� hecho mierda. Tengo que llevarlo a la base y hablar con �l luego.</text>
+		<text>Dogo quedу hecho mierda. Tengo que llevarlo a la base y hablar con йl luego.</text>
 	</string>
 	<string id="esc_dogo_task2_title_1">
 		<text>Linda: Encuentra la PKM modificada de Dogo</text>
 	</string>
 	<string id="esc_dogo_task2_descr_1">
-		<text>Necesito encontrar el arma de Dogo, una PKM Modernizada. Dogo me coment� que Sidorovich vende informaci�n a cambio de parches de bandidos...</text>
+		<text>Necesito encontrar el arma de Dogo, una PKM Modernizada. Dogo me comentу que Sidorovich vende informaciуn a cambio de parches de bandidos...</text>
 	</string>
 	<string id="esc_dogo_task2_title_2">
-		<text>Linda: Habla con Fan�tico</text>
+		<text>Linda: Habla con Fanбtico</text>
 	</string>
 	<string id="esc_dogo_task2_descr_2">
-		<text>Sidorovich me mand� a hablar con fan�tico</text>
+		<text>Sidorovich me mandу a hablar con fanбtico</text>
 	</string>
 	<string id="esc_dogo_task2_title_3">
 		<text>Linda: Encuentra la PKM Modificada</text>
 	</string>
 	<string id="esc_dogo_task2_descr_3">
-		<text>Fanatico me di� instrucciones muy precisas, y me pidi� que no lastime a nadie. Si se trata de sigilo, ser� pan comido.</text>
+		<text>Fanatico me diу instrucciones muy precisas, y me pidiу que no lastime a nadie. Si se trata de sigilo, serб pan comido.</text>
 	</string>
 	<string id="esc_dogo_task2_title_4">
 		<text>Linda: Devuelve su arma a Dogo</text>
 	</string>
 	<string id="esc_dogo_task2_descr_4">
-		<text>Encontrar el arma no fu� nada f�cil, pero ya la tengo. Toca devolversela a su due�o.</text>
+		<text>Encontrar el arma no fuй nada fбcil, pero ya la tengo. Toca devolversela a su dueсo.</text>
 	</string>
 	<string id="esc_hook_task_1_title_1">
-		<text>El due�o del escondite: Habla con Tokha</text>
+		<text>El dueсo del escondite: Habla con Tokha</text>
 	</string>
 	<string id="esc_hook_task_1_descr_1">
 		<text>Un stalker del campamento de novatos quiere hablar conmigo...</text>
 	</string>
 	<string id="esc_hook_task_1_title_2">
-		<text>El due�o del escondite: Encuentra a Hook</text>
+		<text>El dueсo del escondite: Encuentra a Hook</text>
 	</string>
 	<string id="esc_hook_task_1_descr_2">
-		<text>Parece que amenazaron a Tokha pensando que se llev� las cosas del escondite que yo saqui�... Tengo que encontrar a Hook.</text>
+		<text>Parece que amenazaron a Tokha pensando que se llevу las cosas del escondite que yo saquiй... Tengo que encontrar a Hook.</text>
 	</string>
 	<string id="esc_hook_task_1_descr_3">
-		<text>Hook pas� por Darkscape �Habr� sido hace poco? Me toca seguir buscando...</text>
+		<text>Hook pasу por Darkscape їHabrб sido hace poco? Me toca seguir buscando...</text>
 	</string>
 	<string id="esc_sid_medicinas_title">
 		<text>Tren con medicinas: Busca el escondite</text>
@@ -450,7 +450,7 @@
 		<text>Ve a la locomotora radioactiva a buscar las medicinas.</text>
 	</string>
 	<string id="esc_sid_comida_title">
-		<text>Cajas sin due�o: Busca el escondite</text>
+		<text>Cajas sin dueсo: Busca el escondite</text>
 	</string>
 	<string id="esc_sid_comida_descr">
 		<text>Ve al container con comida que abandonaron los militares.</text>
@@ -462,7 +462,7 @@
 		<text>Ve hasta las afueras de la base militar a buscar el traje de contrabando.</text>
 	</string>
 	<string id="esc_cabo_traje_1_title">
-		<text>Por favor, Capit�n: Consigue de Kir un traje para Cabo</text>
+		<text>Por favor, Capitбn: Consigue de Kir un traje para Cabo</text>
 	</string>
 	<string id="esc_cabo_traje_1_descr">
 		<text>Ve a ver a Kir y consigue que te de el traje de repuesto para el Cabo. Lo va a necesitar durante el viaje.</text>
@@ -477,13 +477,13 @@
 		<text>Herramientas de segunda mano: Encuentra las herramientas de la lista</text>
 	</string>
 	<string id="esc_herramientas_xenotech1_descr">
-		<text>Xenotech no puede mejorar el equipo de forma adecuada sin las herramientas que le faltan. Si las re�no seguro puedo equiparme algunas mejoras. \n Necesita: Escofina, Hacha, Llave Doble, Martillo, Pala, Maza y Pico.</text>
+		<text>Xenotech no puede mejorar el equipo de forma adecuada sin las herramientas que le faltan. Si las reъno seguro puedo equiparme algunas mejoras. \n Necesita: Escofina, Hacha, Llave Doble, Martillo, Pala, Maza y Pico.</text>
 	</string>
 	<string id="esc_viper_foto_title">
-		<text>La foto de Cielo Despejado: Encuentra al due�o de la foto</text>
+		<text>La foto de Cielo Despejado: Encuentra al dueсo de la foto</text>
 	</string>
 	<string id="esc_viper_foto_descr">
-		<text>Encontr� esta foto de dos amigos de la facci�n Cielo Despejado. Espero poder devolverla a su due�o.</text>
+		<text>Encontrй esta foto de dos amigos de la facciуn Cielo Despejado. Espero poder devolverla a su dueсo.</text>
 	</string>
 	<string id="esc_perros_vovan_1_title">
 		<text>Acechado por los perros: Ayuda a Vovan a acabar con los Perros</text>
@@ -499,47 +499,47 @@
 	</string>
 	
 	<string id="esc_caja_nimble_1_title">
-		<text>La caja de los bandidos: Decide qu� hacer con la caja</text>
+		<text>La caja de los bandidos: Decide quй hacer con la caja</text>
 	</string>
 	<string id="esc_caja_nimble_1_descr">
-		<text>Consegu� una caja cerrada al acabar con los bandidos, Viper me dijo que un tal Nimble podr�a ayudarme con eso.</text>
+		<text>Conseguн una caja cerrada al acabar con los bandidos, Viper me dijo que un tal Nimble podrнa ayudarme con eso.</text>
 	</string>
 	<string id="esc_caja_nimble_2_descr">
-		<text>Le dej� la caja a Nimble y me pidi� que vaya a ver al t�cnico Xenotech para conseguir las herramientas necesarias para abrirla.</text>
+		<text>Le dejй la caja a Nimble y me pidiу que vaya a ver al tйcnico Xenotech para conseguir las herramientas necesarias para abrirla.</text>
 	</string>
 	<string id="esc_caja_nimble_2a_descr">
-		<text>Debo conseguir 5000 rublos para pagarle a Xenotech las herramientas y as� poder negociar con Nimble.</text>
+		<text>Debo conseguir 5000 rublos para pagarle a Xenotech las herramientas y asн poder negociar con Nimble.</text>
 	</string>
 	<string id="esc_caja_nimble_2b_descr">
 		<text>Necesito convencer al comerciante de que me ayude con Xenotech, si le manda un mensaje seguro Xenotech me da gratis las herramientas.</text>
 	</string>
 	<string id="esc_caja_nimble_2c_descr">
-		<text>Parece que el t�cnico puede abrir la caja por una m�dica suma de dinero. Debo pedirle a Nimble la caja as� la abro y me quedo todo el contenido.</text>
+		<text>Parece que el tйcnico puede abrir la caja por una mуdica suma de dinero. Debo pedirle a Nimble la caja asн la abro y me quedo todo el contenido.</text>
 	</string>
 	<string id="esc_caja_nimble_3_descr">
-		<text>Ya entregu� la caja y las herramientas a Nimble. Tengo que esperar a que se tome un tiempo para abrirla as� vemos qu� tiene dentro.</text>
+		<text>Ya entreguй la caja y las herramientas a Nimble. Tengo que esperar a que se tome un tiempo para abrirla asн vemos quй tiene dentro.</text>
 	</string>
 	
 	<string id="esc_viper_salida_0_descr">
-		<text>Este stalker vino a saludar, deber�a hablar con �l.</text>
+		<text>Este stalker vino a saludar, deberнa hablar con йl.</text>
 	</string>
 	<string id="esc_viper_salida_0_title">
 		<text>Primeros pasos en la zona: Habla con Viper</text>
 	</string>
 	<string id="esc_viper_salida_1_descr">
-		<text>Viper dijo que me iba a ense�ar lo b�sico sobre el lugar. Me conviene seguirlo.</text>
+		<text>Viper dijo que me iba a enseсar lo bбsico sobre el lugar. Me conviene seguirlo.</text>
 	</string>
 	<string id="esc_viper_salida_1_title">
 		<text>Primeros pasos en la zona: Sigue a Viper</text>
 	</string>
 	<string id="esc_viper_salida_2_descr">
-		<text>Parece que Viper vi� un grupo de "Carnes". No s� qu� sea eso, pero deber�a seguirlo para aprender.</text>
+		<text>Parece que Viper viу un grupo de "Carnes". No sй quй sea eso, pero deberнa seguirlo para aprender.</text>
 	</string>
 	<string id="esc_viper_salida_2_title">
 		<text>Primeros pasos en la zona: Elimina el grupo de Carnes con Viper</text>
 	</string>
 	<string id="esc_viper_salida_3_descr">
-		<text>Viper encontr� algo sospechoso, debo seguirlo para ver de qu� se trata.</text>
+		<text>Viper encontrу algo sospechoso, debo seguirlo para ver de quй se trata.</text>
 	</string>
 	<string id="esc_viper_salida_3_title">
 		<text>Primeros pasos en la zona: Sigue a Viper mientras investiga</text>
@@ -548,10 +548,10 @@
 		<text>Enfrenta a los bandidos con Viper</text>
 	</string>
 	<string id="esc_viper_salida_4_title">
-		<text>Primeros pasos en la zona: Acompa�a a Viper a enfrentar a los bandidos</text>
+		<text>Primeros pasos en la zona: Acompaсa a Viper a enfrentar a los bandidos</text>
 	</string>
 	<string id="esc_viper_salida_5_descr">
-		<text>Viper me dijo que charlemos un rato, debo ver qu� tiene para decir.</text>
+		<text>Viper me dijo que charlemos un rato, debo ver quй tiene para decir.</text>
 	</string>
 	<string id="esc_viper_salida_5_title">
 		<text>Primeros pasos en la zona: Vuelve a hablar con Viper</text>
@@ -563,22 +563,22 @@
 		<text>Frecuencias de los Militares: Revisa las cosas de Vovan/Atreo/Leto</text>
 	</string>
 	<string id="esc_notas_hook_1_title">
-		<text>Cosas de los Veteranos: Revisa el ba�l en el �tico</text>
+		<text>Cosas de los Veteranos: Revisa el baъl en el бtico</text>
 	</string>
 	<string id="esc_notas_hook_1_descr">
-		<text>Sidorovich me di� informaci�n sobre el escondite de un grupo de veteranos. Debo revisar el �tico en la aldea de novatos</text>
+		<text>Sidorovich me diу informaciуn sobre el escondite de un grupo de veteranos. Debo revisar el бtico en la aldea de novatos</text>
 	</string>
 	<string id="esc_notas_hook_2_title">
-		<text>Cosas de los Veteranos: Revisa el ba�l sobre el t�nel</text>
+		<text>Cosas de los Veteranos: Revisa el baъl sobre el tъnel</text>
 	</string>
 	<string id="esc_notas_hook_2_descr">
-		<text>Esta gente parece manejar armamento de calidad. Tienen un vintar entre manos, debo revisar sobre el t�nel a Darkscape.</text>
+		<text>Esta gente parece manejar armamento de calidad. Tienen un vintar entre manos, debo revisar sobre el tъnel a Darkscape.</text>
 	</string>
 	<string id="esc_notas_hook_3_title">
-		<text>Cosas de los Veteranos: Revisa la caja en el vag�n</text>
+		<text>Cosas de los Veteranos: Revisa la caja en el vagуn</text>
 	</string>
 	<string id="esc_notas_hook_3_descr">
-		<text>Estoy encontrando cosas interesantes en estos escondites. Parece que toca revisar un vag�n.</text>
+		<text>Estoy encontrando cosas interesantes en estos escondites. Parece que toca revisar un vagуn.</text>
 	</string>
 
 	<!-- DARKSCAPE -->
@@ -586,49 +586,49 @@
 		<text>El viaje: Habla con Viper antes de seguir</text>
 	</string>
 	<string id="dar_main_task_1_descr">
-		<text>Debo chequear c�mo va el equipo con Viper.</text>
+		<text>Debo chequear cуmo va el equipo con Viper.</text>
 	</string>
 	<string id="dar_main_task_1b_title">
 		<text>El viaje: Atraviesa Darkscape sin que muera nadie</text>
 	</string>
 	<string id="dar_main_task_1b_descr">
-		<text>Todo est� en Orden. Toca atravesar Darkscape, cuidar que no muera nadie y seguir el rastro a Atreo.</text>
+		<text>Todo estб en Orden. Toca atravesar Darkscape, cuidar que no muera nadie y seguir el rastro a Atreo.</text>
 	</string>
 	<string id="dar_main_task_1c_title">
 		<text>El viaje: Ve a ver a Trodnik, el contacto de Viper</text>
 	</string>
 	<string id="dar_main_task_1c_descr">
-		<text>Tenemos noticias sobre Atreo. Parece que un contacto de Viper di� con �l y lo atraparon. Estamos por ir a verlo.</text>
+		<text>Tenemos noticias sobre Atreo. Parece que un contacto de Viper diу con йl y lo atraparon. Estamos por ir a verlo.</text>
 	</string>
 	<string id="dar_main_task_2_title">
-		<text>El viaje: Encuentra pistas sobre lo que pas�</text>
+		<text>El viaje: Encuentra pistas sobre lo que pasу</text>
 	</string>
 	<string id="dar_main_task_2_descr">
-		<text>Esto no se ve nada bien. Todos est�n muertos y zombificados... Tengo que averiguar que pas� en la granja antes de que Atreo se escape.</text>
+		<text>Esto no se ve nada bien. Todos estбn muertos y zombificados... Tengo que averiguar que pasу en la granja antes de que Atreo se escape.</text>
 	</string>
 	<string id="dar_main_task_3_title">
 		<text>El viaje: Busca refugio en el Valle Oscuro</text>
 	</string>
 	<string id="dar_main_task_3_descr">
-		<text>Tenemos que seguir a Atreo hasta el Valle Oscuro y averiguar d�nde est�.</text>
+		<text>Tenemos que seguir a Atreo hasta el Valle Oscuro y averiguar dуnde estб.</text>
 	</string>
 	<string id="dar_main_task_4_title">
 		<text>El viaje: Ve a refugiarte en la granja</text>
 	</string>
 	<string id="dar_main_task_4_descr">
-		<text>Viper dice que hay una granja m�s adelante en el Valle Oscuro. Debemos encontrar un lugar seguro para refugiarnos mientras investigamos.</text>
+		<text>Viper dice que hay una granja mбs adelante en el Valle Oscuro. Debemos encontrar un lugar seguro para refugiarnos mientras investigamos.</text>
 	</string>
 	<string id="dar_franco_task_1_title">
 		<text>El viaje: Habla con Viper sobre el francotirador</text>
 	</string>
 	<string id="dar_franco_task_1_descr">
-		<text>Cabo detect� un Francotirador, me toca hablar con Viper sobre esto.</text>
+		<text>Cabo detectу un Francotirador, me toca hablar con Viper sobre esto.</text>
 	</string>
 	<string id="dar_franco_task_1b_title">
-		<text>El viaje: Corr� hasta el siguiente �rbol</text>
+		<text>El viaje: Corrй hasta el siguiente бrbol</text>
 	</string>
 	<string id="dar_franco_task_1b_descr">
-		<text>Cuando me den la se�al, debo llegar hasta el siguiente �rbol.</text>
+		<text>Cuando me den la seсal, debo llegar hasta el siguiente бrbol.</text>
 	</string>
 	<string id="dar_franco_task_1c_title">
 		<text>El viaje: Mata al francotirador</text>
@@ -638,34 +638,34 @@
 	</string>
 	
 	<string id="val_medico_bandidos_0_title">
-		<text>Salvando al M�dico: Habla con Kolyan</text>
+		<text>Salvando al Mйdico: Habla con Kolyan</text>
 	</string>
 	<string id="val_medico_bandidos_0_descr">
-		<text>Para ganar el favor de Sult�n, debo ir al Norte de el cementerio de veh�culos y traer a salvo al m�dico de los bandidos. \n Primero debo ir a ver a Kolyan para m�s informaci�n.</text>
+		<text>Para ganar el favor de Sultбn, debo ir al Norte de el cementerio de vehнculos y traer a salvo al mйdico de los bandidos. \n Primero debo ir a ver a Kolyan para mбs informaciуn.</text>
 	</string>
 	<string id="val_medico_bandidos_1_title">
-		<text>Salvando al M�dico: Ve al cementerio de camiones</text>
+		<text>Salvando al Mйdico: Ve al cementerio de camiones</text>
 	</string>
 	<string id="val_medico_bandidos_1_descr">
-		<text>Tengo que ir a ese lugar terrible �Deber�a comprar una escopeta con postas como recomend� Kolyan?</text>
+		<text>Tengo que ir a ese lugar terrible їDeberнa comprar una escopeta con postas como recomendу Kolyan?</text>
 	</string>
 	<string id="val_medico_bandidos_2_title">
-		<text>Salvando al M�dico: Investiga las �ltimas coordenadas donde lo detectaron</text>
+		<text>Salvando al Mйdico: Investiga las ъltimas coordenadas donde lo detectaron</text>
 	</string>
 	<string id="val_medico_bandidos_2_descr">
-		<text>Kolyan me di� las �ltimas coordenadas donde vieron al Matasanos. Debo encontrarlo.</text>
+		<text>Kolyan me diу las ъltimas coordenadas donde vieron al Matasanos. Debo encontrarlo.</text>
 	</string>
 	<string id="val_medico_bandidos_3_title">
-		<text>Salvando al M�dico: Acaba con los mutantes</text>
+		<text>Salvando al Mйdico: Acaba con los mutantes</text>
 	</string>
 	<string id="val_medico_bandidos_3_descr">
-		<text>El m�dico no saldr� hasta que mate a los mutantes, debo ocuparme de eso primero.</text>
+		<text>El mйdico no saldrб hasta que mate a los mutantes, debo ocuparme de eso primero.</text>
 	</string>
 	<string id="val_medico_bandidos_4_descr">
 		<text>Debo escoltar a este impresentable con vida hasta el Valle Oscuro.</text>
 	</string>
 	<string id="val_medico_bandidos_4_title">
-		<text>Salvando al M�dico: Vuelve al Valle Oscuro con el Matasanos entero</text>
+		<text>Salvando al Mйdico: Vuelve al Valle Oscuro con el Matasanos entero</text>
 	</string>
 	<string id="val_medico_bandidos_5_descr">
 		<text>Ya traje con vida al Matasanos. Debo avisar a Kolyan.</text>
@@ -675,13 +675,13 @@
 		<text>Recuperando el control: Ve a pedir unos hombres a Kashalot</text>
 	</string>
 	<string id="val_incursion_trc_1_descr">
-		<text>Kolyan quiere que gu�e a los bandidos a trav�s del cementerio de camiones. Tengo que pedirle gente a un tal Kashalot.</text>
+		<text>Kolyan quiere que guнe a los bandidos a travйs del cementerio de camiones. Tengo que pedirle gente a un tal Kashalot.</text>
 	</string>
 	<string id="val_incursion_trc_2_title">
 		<text>Recuperando el control: Ve con Kashalot al Cementerio de Camiones</text>
 	</string>
 	<string id="val_incursion_trc_2_descr">
-		<text>Bueno... Kashalot se ve entusiasmado por venir con nosotros. Vamos a ir con �l a buscar a sus hombres.</text>
+		<text>Bueno... Kashalot se ve entusiasmado por venir con nosotros. Vamos a ir con йl a buscar a sus hombres.</text>
 	</string>
 	<string id="val_incursion_trc_3_title">
 		<text>Recuperando el control: Toma el primer punto</text>
@@ -705,12 +705,12 @@
 		<text>Recuperando el control: Rechaza los refuerzos de los monolitos</text>
 	</string>
 	<string id="val_incursion_trc_6_descr">
-		<text>Vienen m�s. Tenemos que limpiarlos a todos.</text>
+		<text>Vienen mбs. Tenemos que limpiarlos a todos.</text>
 	</string>
 	<string id="val_incursion_trc_7_title">
 		<text>Recuperando el control: Habla con Kashalot</text>
 	</string>
 	<string id="val_incursion_trc_7_descr">
-		<text>Eso fu� dificil. Tengo que hablar con Kashalto ahora.</text>
+		<text>Eso fuй dificil. Tengo que hablar con Kashalto ahora.</text>
 	</string>
 </string_table>

@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="windows-1252"?>
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
    <!-------------------------- VESSEL ------------------------>
   <string id="esc_wolf_bio">
-		<text>Guardia personal de Nimble. Un viejo Stalker que so�aba ser rico.</text>
+		<text>Guardia personal de Nimble. Un viejo Stalker que soсaba ser rico.</text>
 	</string>
 	<string id="esc_wolf_name">
-		<text>Wolf</text>
+		<text>Волк</text>
 	</string>
 	<string id="esc_fanat_bio">
-		<text>Se hizo cargo del liderazgo de los novatos en el campamento despu�s de Lobo. Lleno de prop�sito y agresividad, y tiene una autoridad merecida sobre los reci�n llegados.</text>
+		<text>Se hizo cargo del liderazgo de los novatos en el campamento despuйs de Lobo. Lleno de propуsito y agresividad, y tiene una autoridad merecida sobre los reciйn llegados.</text>
 	</string>
 	<string id="esc_fanat_name">
-		<text>Fan�tico</text>
+		<text>Фанат</text>
 	</string>
 	<string id="esc_viper_bio">
-		<text>Nadie sabe cuando llego a la Zona, pero un d�a apareci� con comida para todos y desde entonces se ha ganado el cari�o de la gente</text>
+		<text>Nadie sabe cuando llego a la Zona, pero un dнa apareciу con comida para todos y desde entonces se ha ganado el cariсo de la gente</text>
 	</string>
 	<string id="esc_viper_name">
-		<text>Viper</text>
+		<text>Вайпер</text>
 	</string>
 	<string id="esc_pj1_name">
-		<text>Dima</text>
+		<text>Дима</text>
 	</string>
 	<string id="esc_pj2_name">
 		<text>Cherry</text>
@@ -29,25 +29,25 @@
 		<text>Andrew Kulovsky</text>
 	</string>
 	<string id="esc_kir_bio">
-		<text>Capit�n de las fuerzas de defensa de Deber, se rumorea que sus ideales anticorrupci�n le est�n impidiendo subir de rango.</text>
+		<text>Capitбn de las fuerzas de defensa de Deber, se rumorea que sus ideales anticorrupciуn le estбn impidiendo subir de rango.</text>
 	</string>
 	<string id="esc_kir_name">
-		<text>Capit�n Kir</text>
+		<text>Капитан Киров</text>
 	</string>
 	<string id="esc_leto_bio">
-		<text>No hay informaci�n disponible.</text>
+		<text>No hay informaciуn disponible.</text>
 	</string>
 	<string id="esc_leto_name">
-		<text>Vovan</text>
+		<text>Вован</text>
 	</string>
 	<string id="esc_pollo_bio">
-		<text>Stalker que ha trabajado con los cient�ficos por casi media d�cada. Impecable y responsable.</text>
+		<text>Stalker que ha trabajado con los cientнficos por casi media dйcada. Impecable y responsable.</text>
 	</string>
 	<string id="esc_pollo_name">
 		<text>Yorick Pollo</text>
 	</string>
 	<string id="esc_cabo_bio">
-		<text>Stalker novato que termin� en las filas de Deber en medio de un caos por las vueltas de la vida.</text>
+		<text>Stalker novato que terminу en las filas de Deber en medio de un caos por las vueltas de la vida.</text>
 	</string>
 	<string id="esc_cabo_name">
 		<text>Cabo Fedya</text>
@@ -65,25 +65,25 @@
 		<text>Dogo</text>
 	</string>
 	<string id="esc_dogo_bio">
-		<text>Veterano de la zona. Sin informaci�n.</text>
+		<text>Veterano de la zona. Sin informaciуn.</text>
 	</string>
 	<string id="esc_tokha_name">
 		<text>Tokha Humilde</text>
 	</string>
 	<string id="esc_tokha_bio">
-		<text>Stalker de buen coraz�n.</text>
+		<text>Stalker de buen corazуn.</text>
 	</string>
 	<string id="esc_andres_name">
-		<text>Andr�s "Mago"</text>
+		<text>Andrйs "Mago"</text>
 	</string>
 	<string id="esc_gabriel_zang_name">
 		<text>Gabriel Zang</text>
 	</string>
 	<string id="esc_gabriel_zang_bio">
-		<text>Actor famoso que vino a pasar sus d�as finales a la zona.</text>
+		<text>Actor famoso que vino a pasar sus dнas finales a la zona.</text>
 	</string>
 	<string id="dar_hermit_name">
-		<text>Hermit</text>
+		<text>Отшельник</text>
 	</string>
 	<string id="val_pituca_name">
 		<text>Pituca</text>
@@ -101,12 +101,12 @@
 		<text>Matasanos</text>
 	</string>
 	<string id="trc_stalker_kashalot_name">
-		<text>Kashalot</text>
+		<text>Кашалот</text>
 	</string>
 	<string id="x18_leto_true_name">
-		<text>Leto</text>
+		<text>Лето</text>
 	</string>
 	<string id="dar_stalker_trodnik_name">
-		<text>Trodnik</text>
+		<text>Тропник</text>
 	</string>
 </string_table>
