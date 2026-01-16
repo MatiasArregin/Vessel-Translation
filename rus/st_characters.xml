@@ -1,639 +1,639 @@
-<?xml version="1.0" encoding="windows-1252"?>
+<?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-  <string id="jup_a10_bandit_leader_name">
-    <text>Valet</text>
-  </string>
-  <string id="jup_a10_stalker_vano">
-    <text>Vano</text>
-  </string>
-  <string id="jup_a6_duty_leader">
-    <text>Teniente Coronel Shulga</text>
-  </string>
-  <string id="jup_a6_freedom_leader">
-    <text>Loki</text>
-  </string>
-  <string id="mar_stalker_centinela_name">
-    <text>Centinela</text>
-  </string>
-  <string id="jup_a6_stalker_barmen">
-    <text>Hawaiano</text>
-  </string>
-  <string id="jup_a6_stalker_medik">
-    <text>Bonesetter</text>
-  </string>
-  <string id="jup_b10_stalker_drunk">
-    <text>Senka</text>
-  </string>
-  <string id="jup_b15_zulus">
-    <text>Zulu</text>
-  </string>
-  <string id="jup_b19_freedom_yar_name">
-    <text>Yar</text>
-  </string>
-  <string id="jup_b1_stalker_1">
-    <text>Topol</text>
-  </string>
-  <string id="jup_b1_stalker_2">
-    <text>Bulava</text>
-  </string>
-  <string id="jup_b1_stalker_3">
-    <text>Spirit</text>
-  </string>
-  <string id="jup_b1_stalker_4">
-    <text>Snake</text>
-  </string>
-  <string id="jup_b207_merc_leader_name">
-    <text>Buitre</text>
-  </string>
-  <string id="jup_b217_stalker_tech">
-    <text>Nitro</text>
-  </string>
-  <string id="jup_b220_trapper">
-    <text>Trapper</text>
-  </string>
-  <string id="jup_b25_freedom_flint">
-    <text>Pedernal</text>
-  </string>
-  <string id="jup_b46_duty_founder_name">
-    <text>General Tkachenko</text>
-  </string>
-  <string id="jup_b46_duty_founder_squad_02_name">
-    <text>Teniente Bunchuk</text>
-  </string>
-  <string id="jup_b46_duty_founder_squad_03_name">
-    <text>Coronel Kosmach</text>
-  </string>
-  <string id="jup_b46_duty_founder_squad_04_name">
-    <text>Teniente Zaharchuk</text>
-  </string>
-  <string id="yan_merc_01">
-    <text>Cherniy</text>
-  </string>
-  <string id="yan_merc_02">
-    <text>Duplet</text>
-  </string>
-  <string id="yan_merc_03">
-    <text>Cirujano</text>
-  </string>
-  <string id="yan_merc_04">
-    <text>Skull</text>
-  </string>
-  <string id="yan_merc_05">
-    <text>Kol</text>
-  </string>
-  <string id="yan_merc_06">
-    <text>Koshey</text>
-  </string>
-  <string id="yan_merc_07">
-    <text>Corpse</text>
-  </string>
-  <string id="jup_b4_monolith_squad_leader_name">
-    <text>Rogue</text>
-  </string>
-  <string id="jup_b4_monolith_squad_soldier_1_name">
-    <text>Bracer</text>
-  </string>
-  <string id="jup_b4_monolith_squad_soldier_2_name">
-    <text>Sickle</text>
-  </string>
-  <string id="jup_b4_monolith_squad_soldier_3_name">
-    <text>Walrus</text>
-  </string>
-  <string id="jup_b4_monolith_squad_soldier_4_name">
-    <text>Tihiy</text>
-  </string>
-  <string id="jup_b4_monolith_squad_soldier_5_name">
-    <text>Foma</text>
-  </string>
-  <string id="jup_b6_scientist_biochemist">
-    <text>Profesor Ozersky</text>
-  </string>
-  <string id="jup_b6_scientist_novikov">
-    <text>Tukarev</text>
-  </string>
-  <string id="jup_b6_scientist_nuclear_physicist">
-    <text>Profesor Herman</text>
-  </string>
-  <string id="jup_b9_shliachin_name">
-    <text>Sargento Shlyachin</text>
-  </string>
-  <string id="pri_a15_military_recon_1_name">
-    <text>Teniente Sergeev</text>
-  </string>
-  <string id="pri_a15_military_recon_2_name">
-    <text>Sargento Valyushok</text>
-  </string>
-  <string id="pri_a15_military_recon_3_name">
-    <text>Sargento Ostrovskiy</text>
-  </string>
-  <string id="pri_a15_military_recon_leader_name">
-    <text>Capit�n Klimenko</text>
-  </string>
-  <string id="pri_a15_sokolov_name">
-    <text>Teniente Sokolov</text>
-  </string>
-  <string id="pri_a17_military_captain_tarasov">
-    <text>Capit�n Tarasov</text>
-  </string>
-  <string id="pri_a17_military_colonel_kovalski_name">
-    <text>Coronel Kovalsky</text>
-  </string>
-  <string id="pri_a17_military_lieutenant_podorojniy">
-    <text>Teniente Podorozhniy</text>
-  </string>
-  <string id="pri_a18_skorlupko_in_suit_name">
-    <text>Teniente Skelya</text>
-  </string>
-  <string id="pri_a18_vano_in_suit_reserve_name">
-    <text>Sargento Merkulov</text>
-  </string>
-  <string id="pri_a21_sentry_lieutenant_stecenko_name">
-    <text>Teniente Stecenko</text>
-  </string>
-  <string id="pri_a22_military_yarmoshuk_name">
-    <text>Sargento Yarmoshuk</text>
-  </string>
-  <string id="pri_a25_army_medic_name">
-    <text>Teniente Rogovets</text>
-  </string>
-  <string id="pri_a28_evac_com_name">
-    <text>Teniente Smirnov</text>
-  </string>
-  <string id="pri_b305_strelok_name">
-    <text>Strelok</text>
-  </string>
-  <string id="pri_b306_envoy_name">
-    <text>Durad Vidic</text>
-  </string>
-  <string id="st_actor_name">
-    <text>Degtyarev</text>
-  </string>
-  <string id="st_actor_generic_name">
-    <text>Viktor</text>
-  </string>
-  <string id="st_jup_a12_bandit_cashier">
-    <text>Gnom</text>
-  </string>
-  <string id="st_jup_a12_bandit_chief">
-    <text>Shishak</text>
-  </string>
-  <string id="st_jup_a12_stalker_assaulter">
-    <text>Bear</text>
-  </string>
-  <string id="st_jup_a12_stalker_diplomat">
-    <text>Torba</text>
-  </string>
-  <string id="st_jup_a12_stalker_prisoner">
-    <text>Mityay</text>
-  </string>
-  <string id="st_jup_b207_duty_security_squad_leader_name">
-    <text>Teniente Gavrilenko</text>
-  </string>
-  <string id="st_jup_b207_freedom_assault_squad_leader_name">
-    <text>Kremen</text>
-  </string>
-  <string id="st_jup_b207_freedom_recon_squad_leader_name">
-    <text>Gayduk</text>
-  </string>
-  <string id="st_jup_b43_stalker_assistant">
-    <text>Garik</text>
-  </string>
-  <string id="st_pri_a22_army_signaller">
-    <text>Teniente Kirillov</text>
-  </string>
-  <string id="st_pri_b35_envoy">
-    <text>Serbin</text>
-  </string>
-  <string id="st_pri_b35_merc_leader">
-    <text>Chacal</text>
-  </string>
-  <string id="st_zat_a2_stalker_nimble_name">
-    <text>Nimble</text>
-  </string>
-  <string id="st_zat_b106_stalker_crab_name">
-    <text>Cangrejo</text>
-  </string>
-  <string id="st_zat_b106_stalker_garmata_name">
-    <text>Garmata</text>
-  </string>
-  <string id="st_zat_b106_stalker_gonta_name">
-    <text>Gonta</text>
-  </string>
-  <string id="st_zat_b29_stalker_rival_1">
-    <text>Kuvalda</text>
-  </string>
-  <string id="st_zat_b29_stalker_rival_2">
-    <text>Cresta</text>
-  </string>
-  <string id="st_zat_b30_owl_stalker_trader_name">
-    <text>B�ho</text>
-  </string>
-  <string id="st_zat_b38_stalker_cop_name">
-    <text>Urogallo</text>
-  </string>
-  <string id="st_zat_b38_stalker_hunter_name">
-    <text>Danila</text>
-  </string>
-  <string id="st_zat_b7_bandit_boss_sultan_name">
-    <text>Sult�n</text>
-  </string>
-  <string id="st_zat_b7_duty_illicit_dealer_name">
-    <text>Morgan</text>
-  </string>
-  <string id="st_zat_b7_stalker_raider_leader">
-    <text>Kastet</text>
-  </string>
-  <string id="st_zat_b7_stalker_squad_leader">
-    <text>Spartaco</text>
-  </string>
-  <string id="zat_a2_stalker_barmen_name">
-    <text>Barbas</text>
-  </string>
-  <string id="zat_a2_stalker_mechanic_name">
-    <text>Cardan</text>
-  </string>
-  <string id="zat_b103_lost_merc_1_name">
-    <text>Duende</text>
-  </string>
-  <string id="zat_b103_lost_merc_2_name">
-    <text>Roble</text>
-  </string>
-  <string id="zat_b103_lost_merc_3_name">
-    <text>Pianista</text>
-  </string>
-  <string id="zat_b103_lost_merc_4_name">
-    <text>Segador</text>
-  </string>
-  <string id="zat_b103_lost_merc_5_name">
-    <text>Kirzach</text>
-  </string>
-  <string id="zat_b103_lost_merc_6_name">
-    <text>Tanque</text>
-  </string>
-  <string id="zat_b103_lost_merc_7_name">
-    <text>Hocico</text>
-  </string>
-  <string id="zat_b103_lost_merc_leader_name">
-    <text>Hachuela</text>
-  </string>
-  <string id="zat_b14_stalker_1_name">
-    <text>Vobla</text>
-  </string>
-  <string id="zat_b18_noah_name">
-    <text>No�</text>
-  </string>
-  <string id="zat_b215_stalker_guide_name">
-    <text>Piloto</text>
-  </string>
-  <string id="zat_b22_stalker_medic_name">
-    <text>Axel</text>
-  </string>
-  <string id="zat_b28_draper_name">
-    <text>Teniente Drapei</text>
-  </string>
-  <string id="zat_b28_umerov_name">
-    <text>Sargento Umerov</text>
-  </string>
-  <string id="zat_b33_stalker_snag">
-    <text>Snag</text>
-  </string>
-  <string id="zat_b40_merc_squad_leader_1_name">
-    <text>Hook</text>
-  </string>
-  <string id="zat_b40_merc_squad_leader_2_name">
-    <text>Backbone</text>
-  </string>
-  <string id="zat_b42_mayron_name">
-    <text>Mayron</text>
-  </string>
-  <string id="zat_b44_stalker_barge_name">
-    <text>Barca</text>
-  </string>
-  <string id="zat_b53_artefact_hunter_1_name">
-    <text>Petruha</text>
-  </string>
-  <string id="zat_b53_artefact_hunter_2_name">
-    <text>Punz�n</text>
-  </string>
-  <string id="jup_b46_duty_founder_squad_01_name">
-    <text>Mayor Chepurnoy</text>
-  </string>
-  <string id="pri_a17_military_prapor_valentyr">
-    <text>Sargento Valentir</text>
-  </string>
-  <string id="pri_a17_military_sergeant_morozov">
-    <text>Sargento Primero Morozov</text>
-  </string>
-  <string id="zat_b28_smoliak_name">
-    <text>Teniente Smolyak</text>
-  </string>
-  <string id="jup_b25_stalker_senya">
-    <text>Chip</text>
-  </string>
-  <string id="zat_b100_army_1">
-    <text>Sargento Gazda</text>
-  </string>
-  <string id="zat_b100_army_2">
-    <text>Capit�n Furtes</text>
-  </string>
-  <string id="zat_b100_army_3">
-    <text>Sargento Primero Shveyko</text>
-  </string>
-  <string id="cit_doctor_name">
-		<text>Ivan Trodnik</text>
-  </string>
-   <string id="marsh_doctor_name">
-		<text>Doc</text>
-  </string>
-  <string id="mar_smart_terrain_base_stalker_leader_marsh_name">
-		<text>Cold</text>
-  </string>
-  <string id="bar_barmen_name">
-		<text>Tabernero</text>
-  </string>
-  <string id="bar_barmen_bio">
-		<text>Ni un santo, ni un sinverg�enza. El Tabernero es conocido por su valor y es respetado por todos los Stalkers. Los rumores dicen que se esconde en la Zona de algunos sucesos oscuros de su pasado. Despu�s de un encuentro con una anomal�a, empez� a cojear ligeramente y decidi� cambiar de trabajo. Estableci� un bar junto a la Facci�n, y el lugar se convirti� poco a poco en el punto de encuentro para todos los veteranos de la Zona. El Tabernero tiene numerosas conexiones, tanto en la zona como  en el mundo exterior.</text>
-  </string>
-  <string id="bar_bar_guard_bio">
-		<text>Gorila del bar. O guardaespaldas del Tabernero si lo deseas. Nada se sabe acerca de su presente o su pasado.</text>
-  </string>
-  <string id="bar_bar_guard_name">
-		<text>Garik</text>
-  </string>
-  <string id="bar_bar_guard2_bio">
-		<text>Garik es el hermano gemelo de Gorila. Como no, con la boca tan cerrada como su hermano.</text>
-  </string>
-  <string id="bar_bar_guard2_name">
-		<text>Zhorik</text>
-  </string>
-  <string id="st_bar_duty_security_squad_leader_name">
-    <text>Teniente Gavrilenko</text>
-  </string>
-  <string id="bar_kicenko_name">
-		<text>Sargento Kitsenko</text>
+	<string id="jup_a10_bandit_leader_name">
+		<text>Валет</text>
+	</string>
+	<string id="jup_a10_stalker_vano">
+		<text>Вано</text>
+	</string>
+	<string id="jup_a6_duty_leader">
+		<text>Подполковник Шульга</text>
+	</string>
+	<string id="jup_a6_freedom_leader">
+		<text>Локи</text>
+	</string>
+	<string id="mar_stalker_centinela_name">
+		<text>Часовой</text>
+   </string>
+	<string id="jup_a6_stalker_barmen">
+		<text>Гаваец</text>
+	</string>
+	<string id="jup_a6_stalker_medik">
+		<text>Костоправ</text>
+	</string>
+	<string id="jup_b10_stalker_drunk">
+		<text>Сенька</text>
+	</string>
+	<string id="jup_b15_zulus">
+		<text>Зулус</text>
+	</string>
+	<string id="jup_b19_freedom_yar_name">
+		<text>Дядька Яр</text>
+	</string>
+	<string id="jup_b1_stalker_1">
+		<text>Тополь</text>
+	</string>
+	<string id="jup_b1_stalker_2">
+		<text>Булава</text>
+	</string>
+	<string id="jup_b1_stalker_3">
+		<text>Дух</text>
+	</string>
+	<string id="jup_b1_stalker_4">
+		<text>Змей</text>
+	</string>
+	<string id="jup_b207_merc_leader_name">
+		<text>Гриф</text>
+	</string>
+	<string id="jup_b217_stalker_tech">
+		<text>Азот</text>
+	</string>
+	<string id="jup_b220_trapper">
+		<text>Зверобой</text>
+	</string>
+	<string id="jup_b25_freedom_flint">
+		<text>Флинт</text>
+	</string>
+	<string id="jup_b46_duty_founder_name">
+		<text>Генерал Таченко</text>
+	</string>
+	<string id="jup_b46_duty_founder_squad_02_name">
+		<text>Лейтенант Бунчук</text>
+	</string>
+	<string id="jup_b46_duty_founder_squad_03_name">
+		<text>Полковник Космач</text>
+	</string>
+	<string id="jup_b46_duty_founder_squad_04_name">
+		<text>Лейтенант Захарчук</text>
+	</string>
+	<string id="yan_merc_01">
+		<text>Чёрный</text>
+	</string>
+	<string id="yan_merc_02">
+		<text>Дуплет</text>
+	</string>
+	<string id="yan_merc_03">
+		<text>Хирург</text>
+	</string>
+	<string id="yan_merc_04">
+		<text>Череп</text>
+	</string>
+	<string id="yan_merc_05">
+		<text>Кол</text>
+	</string>
+	<string id="yan_merc_06">
+		<text>Кощей</text>
+	</string>
+	<string id="yan_merc_07">
+		<text>Труп</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_name">
+		<text>Бродяга</text>
+	</string>
+	<string id="jup_b4_monolith_squad_soldier_1_name">
+		<text>Броня</text>
+	</string>
+	<string id="jup_b4_monolith_squad_soldier_2_name">
+		<text>Серп</text>
+	</string>
+	<string id="jup_b4_monolith_squad_soldier_3_name">
+		<text>Морж</text>
+	</string>
+	<string id="jup_b4_monolith_squad_soldier_4_name">
+		<text>Тихий</text>
+	</string>
+	<string id="jup_b4_monolith_squad_soldier_5_name">
+		<text>Фома</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist">
+		<text>Профессор Озёрский</text>
+	</string>
+	<string id="jup_b6_scientist_novikov">
+		<text>Гарин</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist">
+		<text>Профессор Герман</text>
+	</string>
+	<string id="jup_b9_shliachin_name">
+		<text>Сержант Шлячин</text>
+	</string>
+	<string id="pri_a15_military_recon_1_name">
+		<text>Лейтенант Сергеев</text>
+	</string>
+	<string id="pri_a15_military_recon_2_name">
+		<text>Сержант Валюшок</text>
+	</string>
+	<string id="pri_a15_military_recon_3_name">
+		<text>Сержант Островский</text>
+	</string>
+	<string id="pri_a15_military_recon_leader_name">
+		<text>Капитан Клименко</text>
+	</string>
+	<string id="pri_a15_sokolov_name">
+		<text>Лейтенант Соколов</text>
+	</string>
+	<string id="pri_a17_military_captain_tarasov">
+		<text>Капитан Тарасов</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_name">
+		<text>Полковник Ковальский</text>
+	</string>
+	<string id="pri_a17_military_lieutenant_podorojniy">
+		<text>Лейтенант Подорожный</text>
+	</string>
+	<string id="pri_a18_skorlupko_in_suit_name">
+		<text>Лейтенант Скеля</text>
+	</string>
+	<string id="pri_a18_vano_in_suit_reserve_name">
+		<text>Сержант Меркулов</text>
+	</string>
+	<string id="pri_a21_sentry_lieutenant_stecenko_name">
+		<text>Лейтенант Стеценко</text>
+	</string>
+	<string id="pri_a22_military_yarmoshuk_name">
+		<text>Сержант Ярмошук</text>
+	</string>
+	<string id="pri_a25_army_medic_name">
+		<text>Лейтенант Роговец</text>
+	</string>
+	<string id="pri_a28_evac_com_name">
+		<text>Лейтенант Смирнов</text>
+	</string>
+	<string id="pri_b305_strelok_name">
+		<text>Стрелок</text>
+	</string>
+	<string id="pri_b306_envoy_name">
+		<text>Барчук</text>
+	</string>
+	<string id="st_actor_name">
+		<text>Дегтярёв</text>
+	</string>
+  	<string id="st_actor_generic_name">
+    	<text>Виктор</text>
+  	</string>
+	<string id="st_jup_a12_bandit_cashier">
+		<text>Гном</text>
+	</string>
+	<string id="st_jup_a12_bandit_chief">
+		<text>Шишак</text>
+	</string>
+	<string id="st_jup_a12_stalker_assaulter">
+		<text>Медведь</text>
+	</string>
+	<string id="st_jup_a12_stalker_diplomat">
+		<text>Торба</text>
+	</string>
+	<string id="st_jup_a12_stalker_prisoner">
+		<text>Митяй</text>
+	</string>
+	<string id="st_jup_b207_duty_security_squad_leader_name">
+		<text>Лейтенант Гавриленко</text>
+	</string>
+	<string id="st_jup_b207_freedom_assault_squad_leader_name">
+		<text>Кремень</text>
+	</string>
+	<string id="st_jup_b207_freedom_recon_squad_leader_name">
+		<text>Гайдук</text>
+	</string>
+	<string id="st_jup_b43_stalker_assistant">
+		<text>Гарик</text>
+	</string>
+	<string id="st_pri_a22_army_signaller">
+		<text>Лейтенант Кириллов</text>
+	</string>
+	<string id="st_pri_b35_envoy">
+		<text>Сербин</text>
+	</string>
+	<string id="st_pri_b35_merc_leader">
+		<text>Шакал</text>
+	</string>
+	<string id="st_zat_a2_stalker_nimble_name">
+		<text>Шустрый</text>
+	</string>
+	<string id="st_zat_b106_stalker_crab_name">
+		<text>Краб</text>
+	</string>
+	<string id="st_zat_b106_stalker_garmata_name">
+		<text>Гармата</text>
+	</string>
+	<string id="st_zat_b106_stalker_gonta_name">
+		<text>Гонта</text>
+	</string>
+	<string id="st_zat_b29_stalker_rival_1">
+		<text>Кувалда</text>
+	</string>
+	<string id="st_zat_b29_stalker_rival_2">
+		<text>Гребень</text>
+	</string>
+	<string id="st_zat_b30_owl_stalker_trader_name">
+		<text>Сыч</text>
+	</string>
+	<string id="st_zat_b38_stalker_cop_name">
+		<text>Глухарь</text>
+	</string>
+	<string id="st_zat_b38_stalker_hunter_name">
+		<text>Данила</text>
+	</string>
+	<string id="st_zat_b7_bandit_boss_sultan_name">
+		<text>Султан</text>
+	</string>
+	<string id="st_zat_b7_duty_illicit_dealer_name">
+		<text>Морган</text>
+	</string>
+	<string id="st_zat_b7_stalker_raider_leader">
+		<text>Кастет</text>
+	</string>
+	<string id="st_zat_b7_stalker_squad_leader">
+		<text>Спартак</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_name">
+		<text>Борода</text>
+	</string>
+	<string id="zat_a2_stalker_mechanic_name">
+		<text>Кардан</text>
+	</string>
+	<string id="zat_b103_lost_merc_1_name">
+		<text>Гоблин</text>
+	</string>
+	<string id="zat_b103_lost_merc_2_name">
+		<text>Дуб</text>
+	</string>
+	<string id="zat_b103_lost_merc_3_name">
+		<text>Пианист</text>
+	</string>
+	<string id="zat_b103_lost_merc_4_name">
+		<text>Газон</text>
+	</string>
+	<string id="zat_b103_lost_merc_5_name">
+		<text>Кирзач</text>
+	</string>
+	<string id="zat_b103_lost_merc_6_name">
+		<text>Танк</text>
+	</string>
+	<string id="zat_b103_lost_merc_7_name">
+		<text>Рыло</text>
+	</string>
+	<string id="zat_b103_lost_merc_leader_name">
+		<text>Тесак</text>
+	</string>
+	<string id="zat_b14_stalker_1_name">
+		<text>Вобла</text>
+	</string>
+	<string id="zat_b18_noah_name">
+		<text>Ной</text>
+	</string>
+	<string id="zat_b215_stalker_guide_name">
+		<text>Лоцман</text>
+	</string>
+	<string id="zat_b22_stalker_medic_name">
+		<text>Айдар</text>
+	</string>
+	<string id="zat_b28_draper_name">
+		<text>Лейтенант Драпей</text>
+	</string>
+	<string id="zat_b28_umerov_name">
+		<text>Прапорщик Умеров</text>
+	</string>
+	<string id="zat_b33_stalker_snag">
+		<text>Коряга</text>
+	</string>
+	<string id="zat_b40_merc_squad_leader_1_name">
+		<text>Крюк</text>
+	</string>
+	<string id="zat_b40_merc_squad_leader_2_name">
+		<text>Хребет</text>
+	</string>
+	<string id="zat_b42_mayron_name">
+		<text>Майрон</text>
+	</string>
+	<string id="zat_b44_stalker_barge_name">
+		<text>Баржа</text>
+	</string>
+	<string id="zat_b53_artefact_hunter_1_name">
+		<text>Петруха</text>
+	</string>
+	<string id="zat_b53_artefact_hunter_2_name">
+		<text>Шило</text>
+	</string>
+	<string id="jup_b46_duty_founder_squad_01_name">
+		<text>Майор Чепурной</text>
+	</string>
+	<string id="pri_a17_military_prapor_valentyr">
+		<text>Прапорщик Валентир</text>
+	</string>
+	<string id="pri_a17_military_sergeant_morozov">
+		<text>Ст. сержант Морозов</text>
+	</string>
+	<string id="zat_b28_smoliak_name">
+		<text>Ст. лейтенант Смоляк</text>
+	</string>
+	<string id="jup_b25_stalker_senya">
+		<text>Щепка</text>
+	</string>
+	<string id="zat_b100_army_1">
+		<text>Сержант Газда</text>
+	</string>
+	<string id="zat_b100_army_2">
+		<text>Капитан Фуртес</text>
+	</string>
+	<string id="zat_b100_army_3">
+		<text>Ст. сержант Швейко</text>
+	</string>
+	<string id="cit_doctor_name">
+		<text>Иван Тропник</text>
+	</string>
+	<string id="marsh_doctor_name">
+		<text>Доктор</text>
+	</string>
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_name">
+		<text>Холод</text>
+	</string>
+	<string id="bar_barmen_name">
+		<text>Бармен</text>
+	</string>
+	<string id="bar_barmen_bio">
+		<text>Не святой и не подлец, цену себе знает, за что пользуется уважением среди сталкеров. Ходят слухи, что прячется в Зоне от своего тёмного прошлого. После того, как попал в аномалию, стал прихрамывать и решил сменить род занятий. Обставил бар на территории группировки «Долг», который незаметно стал основным местом сбора для ветеранов Зоны. У Бармена много связей как внутри Зоны, так и во внешнем мире.</text>
+	</string>
+	<string id="bar_bar_guard_bio">
+		<text>Охранник бара. Или, если хотите, телохранитель бармена. О его настоящем, как и о прошлом, ничего не известно.</text>
+	</string>
+	<string id="bar_bar_guard_name">
+		<text>Гарик</text>
+	</string>
+	<string id="bar_bar_guard2_bio">
+		<text>Брат-близнец Гарика. Охранник на входе бара. Такой же молчаливый, как и его брат.</text>
+	</string>
+	<string id="bar_bar_guard2_name">
+		<text>Жорик</text>
+	</string>
+	<string id="st_bar_duty_security_squad_leader_name">
+		<text>Лейтенант Гавриленко</text>
+	</string>
+	<string id="bar_kicenko_name">
+		<text>Сержант Киценко</text>
 	</string>
 	<string id="sim_dolg_veteran_bio">
-		<text>Militante de la facci�n Deber. Por lo general, bien equipado. No hay datos disponibles.</text>
+		<text>Член группировки «Долг». Хорошо экипирован. Детальная информация отсутствует.</text>
 	</string>
 	<string id="escape_trader_bio">
-		<text>Desde su infancia se dedica al comercio. En el jard�n de infancia, sol�a vender l�pices de colores. En la escuela secundaria, vend�a goma de mascar. En el Instituto, se ocup� de drogas blandas. Cuando apareci� la Zona se dio cuenta de su potencial de hacer dinero. Famoso por ser capaz de construir fuertes relaciones comerciales con cualquier tipo de clientes y hacer cualquier tipo de trato.</text>
+		<text>Промышлял торговлей с малых лет. В детском садике продавал цветные карандаши, в школе - торговал жевательной резинкой. В институте промышлял продажей легкой наркоты. С появлением Зоны смекнул, что на этом можно хорошо заработать. Славится тем, что способен наладить хорошие торговые отношения с самыми разношерстными клиентами.</text>
 	</string>
 	<string id="escape_trader_name">
-		<text>Sidorovich</text>
+		<text>Сидорович</text>
 	</string>
 	<string id="red_forester_name">
-		<text>Forester</text>
+		<text>Лесник</text>
 	</string>
 	<string id="yan_st_sakharov_name">
-		<text>Professor Sakharov</text>
+		<text>Профессор Сахаров</text>
 	</string>
 	<string id="yan_semenov_bio">
-		<text>Asistente de investigaci�n en el laboratorio m�vil. No hay datos disponibles.</text>
+		<text>Научный сотрудник мобильной лаборатории. Детальная информация отсутствует.</text>
 	</string>
 	<string id="yan_semenov_name">
-		<text>Asistente Semenov</text>
+		<text>Доцент Семёнов</text>
 	</string>
 	<string id="yan_vasilyev_name">
-		<text>Vasiliev</text>
+		<text>Васильев</text>
 	</string>
 	<string id="yan_vasilyev_bio">
-		<text>Asistente de investigaci�n en el laboratorio m�vil. No hay datos disponibles.</text>
+		<text>Научный сотрудник мобильной лаборатории. Детальная информация отсутствует.</text>
 	</string>
 	<string id="yan_kruglov_bio">
-		<text>Doctorado en biolog�a, Mutaciones, y pat�genos en animales fuera de la Zona. Lleg� a la zona para estudiar las mutaciones de los perros ciegos.</text>
+		<text>Доктор биологических наук. За пределами Зоны занимался патогенными мутациями животных. В Зону отправился для изучения мутаций слепых псов.</text>
 	</string>
 	<string id="yan_kruglov_name">
-		<text>Professor Kruglov</text>
+		<text>Круглов</text>
 	</string>
-  <string id="mar_base_stalker_tech_name">
-	<text>Novikov</text>
-  </string>
-  <string id="mar_base_owl_stalker_trader_name">
-    <text>Espora</text>
-  </string>  
-  <string id="mar_base_stalker_barmen_name">
-    <text>Bibliotecario</text>
-  </string>
-  <string id="mil_Svoboda_engineer_name">
-  <text>Tornillo</text>
-  </string>
-  <string id="mil_Svoboda_trader_name">
-  <text>Taca�o</text>
-  </string>
-  <string id="bar_petrenko_name">
-  <text>Coronel Petrenko</text>
-  </string>
-  <string id="bar_voronin_name">
-    <text>General Voronin</text>
-  </string>
-  <string id="val_smart_terrain_7_3_bandit_mechanic_stalker_name">
-	<text>Populik</text>
-  </string>
-  <string id="val_smart_terrain_7_4_bandit_trader_stalker_name">
-	<text>Pirata</text>
-  </string>
-  <string id="esc_smart_terrain_5_7_loner_mechanic_stalker_name">
-	<text>Xenotech</text>
-  </string>
-  <string id="pri_monolith_monolith_mechanic_stalker_name">
-	<text>Cl�rigo</text>
-  </string>
-   <string id="pri_monolith_monolith_trader_stalker_name">
-	<text>Conejo</text>
-  </string>
-  <string id="cit_killers_merc_mechanic_stalker_name">
-	<text>Cerdo</text>
-  </string>
-  <string id="cit_killers_merc_trader_stalker_name">
-	<text>Dushman</text>
-  </string>
-  <string id="agr_smart_terrain_1_6_army_mechanic_stalker_name">
-	<text>Teniente Kirilov</text>
-  </string>
-  <string id="agr_smart_terrain_1_6_army_trader_stalker_name">
-	<text>Sargento Spooner</text>
-  </string>
-  <string id="bar_visitors_stalker_mechanic_name">
-	<text>Mangun</text> 
-  </string>
-  <string id="mil_freedom_leader_name">
-	<text>Lukash</text> 
-  </string>
-  <string id="mar_csky_commander_name">
-	<text>Lebedev</text> 
-  </string>
-  <string id="warlab_osoznanie_name">
-	<text>Representante de Conciencia-C</text> 
-  </string>
-    <string id="warlab_volunteer_name">
-	<text>Voluntario de Conciencia-C</text> 
-  </string>
-  <string id="sar2_clone_name">
-	<text>Proyecci�n</text> 
-  </string>
-  <string id="sar2_arena_manager_name">
-		<text>Arnie</text>
+	<string id="mar_base_stalker_tech_name">
+		<text>Новиков</text>
+	</string>
+	<string id="mar_base_owl_stalker_trader_name">
+		<text>Спора</text>
+	</string>  
+	<string id="mar_base_stalker_barmen_name">
+		<text>Библиотекарь</text>
+	</string>
+	<string id="mil_Svoboda_engineer_name">
+		<text>Шуруп</text>
+	</string>
+	<string id="mil_Svoboda_trader_name">
+		<text>Скряга</text>
+	</string>
+	<string id="bar_petrenko_name">
+		<text>Полковник Петренко</text>
+	</string>
+	<string id="bar_voronin_name">
+		<text>Генерал Воронин</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_name">
+		<text>Прозрачный</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_name">
+		<text>Зуб</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_name">
+		<text>Фургон</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_name">
+		<text>Отец Диодор</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_name">
+		<text>Кролик</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_name">
+		<text>Хог</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_name">
+		<text>Душман</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_name">
+		<text>Лейтенант Кириллов</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_trader_stalker_name">
+		<text>Семён Овечко</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_name">
+		<text>Громов</text> 
+	</string>
+	<string id="mil_freedom_leader_name">
+		<text>Лукаш</text> 
+	</string>
+	<string id="mar_csky_commander_name">
+		<text>Лебедев</text> 
+	</string>
+	<string id="warlab_osoznanie_name">
+		<text>Представитель «О-Сознания»</text> 
+	</string>
+	<string id="warlab_volunteer_name">
+		<text>Учёный «О-Сознания»</text>  
+	</string>
+	<string id="sar2_clone_name">
+		<text>Голопроекция</text> 
+	</string>
+	<string id="sar2_arena_manager_name">
+		<text>Арни</text>
 	</string>
 	<string id="sar2_arena_savage_name">
-		<text>Beast</text>
+		<text>Зверь</text>
 	</string>
 	<string id="sar2_bandit_leader_name">
-		<text>Vasya "Jabali"</text>
+		<text>Вася Кабан</text>
 	</string>
 	<string id="sar2_bio">
-		<text>Una forma psicomaterial creada por el Monolito.</text>
+		<text>Психоматериальная сущность</text>
 	</string>
 	<string id="sar2_borov_name">
-		<text>Borov</text>
+		<text>Боров</text>
 	</string>
 	<string id="sar2_crazy_svoboda_name">
-		<text>Stalker Insano.</text>
+		<text>Сумасшедший</text>
 	</string>
 	<string id="sar2_dolg_blokpost_leader_name">
-		<text>Suboficial</text>
+		<text>Прапор</text>
 	</string>
 	<string id="sar2_dolg_guard_commander_name">
-		<text>Jefe de seguridad</text>
+		<text>Начальник Охраны</text>
 	</string>
 	<string id="sar2_dolg_skull_name">
-		<text>"Skull"</text>
+		<text>Череп</text>
 	</string>
 	<string id="sar2_dolg_zastava_commander_name">
-		<text>Comandante del puesto de avanzada</text>
+		<text>Командир заставы</text>
 	</string>
 	<string id="sar2_dram_novice_name">
-		<text>Yurik</text>
+		<text>Юрик</text>
 	</string>
 	<string id="sar2_explorer_name">
-		<text>Zheka "Doblete"</text>
+		<text>Жека Дуплет</text>
 	</string>
 	<string id="sar2_fanat_name">
-		<text>"Fanatico"</text>
+		<text>Фанат</text>
 	</string>
 	<string id="sar2_fox_name">
-		<text>"Fox"</text>
+		<text>Лис</text>
 	</string>
 	<string id="sar2_gordon_name">
-		<text>Gordon</text>
+		<text>Гордон</text>
 	</string>
 	<string id="sar2_haron_name">
-		<text>Charon</text>
+		<text>Харон</text>
 	</string>
 	<string id="sar2_hellcar_name">
-		<text>Bes</text>
+		<text>Бес</text>
 	</string>
 	<string id="sar2_informator_name">
-		<text>Ara</text>
+		<text>Ара</text>
 	</string>
 	<string id="sar2_ivancov_name">
-		<text>Capit�n Ivantsov</text>
+		<text>Капитан Иванцов</text>
 	</string>
 	<string id="sar2_krot_name">
-		<text>Stalker Mole</text>
+		<text>Крот</text>
 	</string>
 	<string id="sar2_kruglov_name">
-		<text>Profesor Kruglov</text>
+		<text>Профессор Круглов</text>
 	</string>
 	<string id="sar2_kuznetsov_name">
-		<text>Mayor Kuznetsov</text>
+		<text>Майор Кузнецов</text>
 	</string>
 	<string id="sar2_lucky_name">
-		<text>Lucky</text>
+		<text>Счастливчик</text>
 	</string>
 	<string id="sar2_petrenko_name">
-		<text>Coronel Petrenko</text>
+		<text>Полковник Петренко</text>
 	</string>
 	<string id="sar2_petruha_name">
-		<text>Zhorik</text>
+		<text>Жорик</text>
 	</string>
 	<string id="sar2_professor_name">
-		<text>Profesor Sakharov</text>
+		<text>Профессор Сахаров</text>
 	</string>
 	<string id="sar2_ryaboy_name">
-		<text>Manchado</text>
+		<text>Рябой</text>
 	</string>
 	<string id="sar2_seryi_name">
-		<text>"Seriy"</text>
+		<text>Серый</text>
 	</string>
 	<string id="sar2_svoboda_blockpost_leader_name">
-		<text>"Tap�n"</text>
+		<text>Кеп</text>
 	</string>
 	<string id="sar2_svoboda_bodyguard_name">
-		<text>"Kaput"</text>
+		<text>Капец</text>
 	</string>
 	<string id="sar2_svoboda_cook_name">
-		<text>"Chef"</text>
+		<text>Повар</text>
 	</string>
 	<string id="sar2_svoboda_engeneer_name">
-		<text>Tornillo</text>
+		<text>Шуруп</text>
 	</string>
 	<string id="sar2_svoboda_leader_name">
-		<text>"Lukash"</text>
+		<text>Лукаш</text>
 	</string>
 	<string id="sar2_svoboda_max_name">
-		<text>"Max"</text>
+		<text>Макс</text>
 	</string>
 	<string id="sar2_svoboda_stukach_name">
-		<text>Pavlik</text>
+		<text>Павлик</text>
 	</string>
 	<string id="sar2_svoboda_trader_name">
-		<text>"Taca�o"</text>
+		<text>Скряга</text>
 	</string>
 	<string id="sar2_svoboda_ugrumyi_name">
-		<text>"Murk"</text>
+		<text>Угрюмый</text>
 	</string>
 	<string id="sar2_tiran_name">
-		<text>Tirano</text>
+		<text>Тиран</text>
 	</string>
 	<string id="sar2_tolik_name">
-		<text>Tolik</text>
+		<text>Толик</text>
 	</string>
 	<string id="sar2_volkodav_name">
-		<text>Perrolobo</text>
+		<text>Волкодав</text>
 	</string>
 	<string id="sar2_voronin_name">
-		<text>General Voronin</text>
+		<text>Генерал Воронин</text>
 	</string>
 	<string id="sar2_wolf_name">
-		<text>"Wolf"</text>
+		<text>Волк</text>
 	</string>
 	<string id="dar_kalugin_name">
-	    <text>Piotr Kalugin</text> 
+		<text>Пётр Калугин</text> 
     </string>
 	<string id="dar_rockatansky_name">
-	    <text>Rockatansky</text> 
+	    <text>Рокатанский</text> 
     </string>
 	<string id="bar_arny_name">
-		<text>Arnie</text>
+		<text>Арни</text>
 	</string>
 	<string id="bar_lelik_name">
-		<text>Liolik</text>
+		<text>Лёлик</text>
 	</string>
 	<string id="bar_beast_name">
-		<text>Beast</text>
+		<text>Зверь</text>
 	</string>
 	<string id="yan_ghost_name">
-		<text>Ghost</text>
+		<text>Призрак</text>
 	</string>
 	<string id="warlab_entity_name">
-		<text>Entidad de laboratorio de guerra</text>
+		<text>Сущность</text>
 	</string>
 	<string id="warlab_main_poltergeist_1">
-		<text>Entidad de laboratorio de guerra</text>
+		<text>Сущность</text>
 	</string>
 	<string id="warlab_main_poltergeist_2">
-		<text>Entidad de laboratorio de guerra</text>
+		<text>Сущность</text>
 	</string>
 	<string id="warlab_main_psysucker">
-		<text>Entidad de laboratorio de guerra</text>
+		<text>Сущность</text>
 	</string>	
 	<string id="warlab_main_psycontroller">
-		<text>Entidad de laboratorio de guerra</text>
+		<text>Сущность</text>
 	</string>
 	<string id="jup_a6_freedom_trader_ashot_name">
-		<text>Ashot</text>
+		<text>Ашот</text>
 	</string>
 	<string id="agr_kuznetsov_name">
-		<text>Mayor Kuznetsov</text>
-	</string>
+		<text>Майор Кузнецов</text>
+  </string>  
 </string_table>
