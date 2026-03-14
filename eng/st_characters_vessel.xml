@@ -20,13 +20,37 @@
 		<text>Viper</text>
 	</string>
 	<string id="esc_pj1_name">
-		<text>Dima</text>
+		<text>Gaucho</text>
 	</string>
 	<string id="mar_stalker_centinela_name">
    		<text>Sentry</text>
 	</string>
+	<string id="esc_lassie_name">
+		<text>Lassie</text>
+	</string>
+	<string id="esc_oracle_name">
+		<text>Oráculo</text>
+	</string>
+	<string id="esc_arregin_name">
+		<text>Matias Arregin</text>
+	</string>
+	<string id="esc_rammaken_name">
+		<text>Zhenka Corredor</text>
+	</string>
+	<string id="esc_kamtek_name">
+		<text>Kamtek Beatbox</text>
+	</string>
+	<string id="esc_poker_name">
+		<text>Gabriel Poker</text>
+	</string>
+	<string id="esc_ramon_name">
+		<text>Ramon Retamar</text>
+	</string>
+	<string id="esc_franco_name">
+		<text>Franco Vildosola</text>
+	</string>
 	<string id="esc_pj2_name">
-		<text>Cherry</text>
+		<text>Meccep</text>
 	</string>
 	<string id="esc_stalker_andrew_name">
 		<text>Andrew</text>
