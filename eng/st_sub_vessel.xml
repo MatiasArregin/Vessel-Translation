@@ -183,64 +183,64 @@
 		<text>Just kidding, bro. Get out of there already. Come over and I’ll give you some medkits and a well-deserved reward.</text>
 	</string>
 	<string id="esc_sound_stalker_mago">
-		<text>Eh, Mira. Ahi va el que mato al Mago.</text>
+		<text>Hey, look. There goes the one who killed the Mage.</text>
 	</string>
 	<string id="esc_sound_stalker_fanatico">
-		<text>Ahi va el que te gano el encargo de fanatico. Dicen que es rapido che.</text>
+		<text>There goes the guy who beat you to that fanatic job. Heard he’s quick.”</text>
 	</string>
 	<string id="esc_sound_stalker_tejado">
-		<text>Pssst, mira. Es el stalker que anda trepando los tejados.</text>
+		<text>Psst, look. That’s the stalker who’s been climbing rooftops.</text>
 	</string>
 	<string id="esc_sound_stalker_controlador">
-		<text>¡Ey! Gracias por ocuparte del mutante del túnel. Hace rato que tenía que ir a los pantanos...</text>
+		<text>Hey! Thanks for dealing with the mutant in the tunnel. I’d been meaning to head to the swamps for a while now...</text>
 	</string>
 	<string id="esc_sound_stalker_aldea">
-		<text>Ahi va Viktor. Gracias por asegurar la aldea, hermano.</text>
+		<text>There goes Viktor. Thanks for keeping the village safe, brother.</text>
 	</string>
 	<string id="esc_sound_stalker_salvado">
-		<text>¿Ese el que te salvo el otro dia?</text>
+		<text>Isn’t that the one who saved you the other day?</text>
 	</string>
 	<string id="esc_sound_stalker_hook">
-		<text>¿Ese no es el que esta buscando Hook?</text>
+		<text>Isn’t that the guy Hook’s been looking for?</text>
 	</string>
 	<string id="esc_sound_stalker_arrastrado">
-		<text>Es el tipo que arrastraba Viper hace rato...</text>
+		<text>That’s the guy Viper was dragging around earlier...</text>
 	</string>
 	<string id="esc_sound_stalker_detras">
-		<text>Hey, atras tuyo va Viktor. ¡No! Pero no mires ¡Te va a ver!</text>
+		<text>Hey, Viktor’s right behind you. No—don’t look! He’ll see you!</text>
 	</string>
 	<string id="esc_sound_stalker_pico">
-		<text>¿Ese tipo lleva un puto pico en la mochila? je ¿Va a buscar artefactos o a minar?</text>
+		<text>Is that guy carrying a damn pickaxe in his backpack? Hey... going artifact hunting or mining?</text>
 	</string>
 	<string id="esc_sound_stalker_comida">
-		<text>Mira, es el que te dije que encontró la comida... Tremenda suerte.</text>
+		<text>Look, that’s the one I told you about—the guy who found all that food... Lucky bastard.</text>
 	</string>
 	<string id="esc_item_pda_tornillo">
-		<text>La PDA de Tornillo... Vere que tiene dentro. Parece que hacia una investigacion ligera sobre los mejores lugares para encontrar artefactos de clase baja de forma segura. \n Tambien esta llena de fotos de las vivencias Tornillos en la zona, entre las cuales se pueden ver fotos con su amigo Cabo... \n Entre los archivos eliminados se puede ver una nota... dice: Es Kolyan, el me mando a matar. ¿Quien sera? Tengo que ver que hago con esta PDA, tiene informacion muy valiosa. Pero tambien le corresponde a Cabo verla.</text>
+		<text>Tornillo’s PDA... Let’s see what’s on it. Looks like he was doing some light research on the safest spots to find low-tier artifacts. It’s also full of photos from his time in the Zone — a few of them with his friend Cabo... Among the deleted files, there’s a note... It says: “It’s Kolyan. He’s the one who had me killed.” Who the hell is that? I need to figure out what to do with this PDA — it’s got valuable info. But Cabo deserves to see it too.</text>
 	</string>
 	<string id="esc_item_nota_nox">
-		<text>Encontré una nota en el escondite... Dice: "Si estás leyendo esto, entonces tus sueños te guiaron bien. Tu sensibilidad psíquica es mayor de lo normal; por eso fuiste capaz de encontrar este lugar antes que los demás. Aquí hallarás lo que necesitas: la primera Llave, un artefacto que resonará contigo y te llevará hacia los otro cuatro. Juntos, los cinco revelarán un poder que trasciende cualquier límite... pero aún no estás listo para entenderlo. A medida que avances, el velo entre tu mente y lo que habita sobre la Zona se volverá más delgado. Entonces podré mostrarte más. Sigue el pulso. No te detengas  Nox". Pero no había ningún artefacto ahí... Tengo que averiguar más, alguien estuvo acá antes que yo.</text>
+		<text>I found a note in the stash... It reads: "If you’re reading this, then your dreams have guided you well. Your psychic sensitivity is above average — that’s why you were able to find this place before the others. Here, you’ll find what you need: the first Key, an artifact that will resonate with you and lead you to the other four. Together, the five will reveal a power that transcends all limits... but you’re not ready to understand it yet. As you move forward, the veil between your mind and what dwells above the Zone will grow thinner. Then I will be able to show you more. Follow the pulse. Do not stop, Nox." but there was no artifact there. I need to dig deeper — someone got here before me.</text>
 	</string>
 	<string id="esc_item_pda_centinela">
-		<text> La PDA dice Centinela. Hay algunas entradas escritas de hace unos días: La herida de mi pierna se está infectando, necesito un préstamo para pagar los putos antibióticos. ugh, pobre tipo... Hay otra entrada unos días después. Esta este tipo, Atreo. Viene de la nada y dice que me puede dar el dinero que necesito si lo acompaño a los pantanos. Obviamente acepté, aunque cojee y duela, es mejor que perder la puta pierna. Al final no le salió bien... Por eso cojeaba el fiambre.</text>
+		<text>This PDA belongs to someone named "Sentinel". There are a few entries from a couple of days ago: "My leg wound is getting infected... I need a loan to pay for these damn antibiotics." Damn, poor guy. There’s another entry a few days later: “There’s this guy, Atreo. Came out of nowhere, says he can give me the money I need if I go with him to the swamps. Of course I said yes — even if I’m limping and it hurts, it beats losing my damn leg.” Guess it didn’t end well. That explains why the corpse was limping.</text>
 	</string>
 	<string id="esc_item_nota_hook_1">
-		<text>Una nota en un papel algo maltratado que dice: Esta es mi chimenea. Mi escondite, por favor no robar mas cosas. Los stalkers me respetan, no voy a cambiar de escondite, voy a seguir usando este lugar y si descubro quien fue el ladron, le voy a meter un tiro... \n Abajo parece haber una lista: \n Un vodka para la radiacion y las noches largas. \n Dos vendas por los golpes de Dante... Parece que no guardaron muchas cosas en el escondite esta vez.</text>
+		<text>An old sheet of paper, covered in notes passed between different people. The last entries read: "Couldn’t get in. There were too many of them, coming from every direction — looks like they’re marching south in massive numbers, fresh brains all nicely washed. My rifle broke from overuse, so I’m leaving it in the stash to fix it later. Dante, I’m gonna need that blue tape of yours — the ‘fix anything’ kind. Leaving you some supplies in return." The reply is written below in neat handwriting: "Came back wrecked from the Forest. I’m taking the supplies you left, and I’ll grab your Vintar to repair it at the workbench in the cemetery. Tank asked me to leave some backup weapons, so I’ll stash them in box #13, above the tunnel leading to Darkscape. Leaving some pills here too — you’ll need them. Until next time. —Dante" So we’ve got Dante... and another stalker.</text>
 	</string>
 	<string id="esc_item_nota_hook_2">
-		<text>Otro papel maltratado, dice con letra desprolija e iracunda: Guardo unas medicinas. Estuve preguntando si alguien sabe quien me robo las cosas anteriores y averigue quien sos. Si te veo, TE MATO... \n Uf, Espero no meterme en problemas.</text>
+		<text>Another worn-out piece of paper — looks like it’s passed through a lot of hands. The last note reads: "Hook, Tank, Vera — I saw a rookie trying to loot this stash. Looks like the seasonal shift exposed it. I’m moving everything to stash #7 and abandoning this one. Leaving one of the keys. Stay safe." Below it, written in cursive: "Goddamn it, Dante... always playing mysterious, moving stashes around, like we’ve got time to keep searching and searching. I left a really important mag here and now it’s gone. Lost my map with all the stash locations too. I don’t know which damn one is #7 — was it the boxcar on the bridge, the one over the Pripyat River... or the one in Darkscape!? Damn it, man... I swear I’m gonna knock your teeth in when I find you." The last note isn’t signed. But now we’ve got more names: Dante, Hook, Vera, and Tank.</text>
 	</string>
 	<string id="esc_item_nota_hook_3">
-		<text>Este papel esta mas cuidado, con letra diferente a la de Hook. alguien escribio: Amigo, soy Dante. No encontre las cosas que querias dejarme, asumo que nos robaron. Pregunte al viejo y me dijo que nos robo un tal Tokha. Te dejo la mira que me pediste la ultima vez, cuidate... Parece que varias personas usan este escondite.</text>
+		<text>A crumpled ball of paper. Once unfolded, there’s a note inside: "Saw some people who used to be Clear Sky in Cordon. Are they planning something? Couldn’t stick around, but I’m leaving this warning so it doesn’t catch you off guard. Tank, thanks a lot for the artifact — makes carrying all this weight a lot easier. Left a few goodies in return. Stay safe, see you at the Bar." Below it, in different handwriting: "Guys, Monolith forces reached Cordon and sealed off the north. Looks like Duty is trying to hold them back, but there were a LOT of them. I don’t think they’ll last, so I’m heading through the swamps. I’ll try to leave intel at the pumping station, up top — you know where. Be careful... I heard they killed the trader Mark recently." Yeah... things are getting bad.</text>
 	</string>
 	<string id="esc_item_nota_hook_4">
-		<text>Otro papel maltratado de nuevo. Esta debe ser la letra de Hook. Esta vez escribio: Parece que indagaste mas de lo que debias. Te dejo instrucciones para que arreglemos esto de una vez y dejes de robarme, hijo de puta. \n Ahora mismo estoy de viaje por el Norte, pero si ves al tabernero, preguntale donde buscar a hook. \n Firma tu peor enemigo: Hook Socorrista. \n PD: Dante, si lees esto no te enojes, no estoy buscando problemas con nadie. Ahora estoy camino al Norte mediante Darkscape, seguro tome lo que dejaste en el escondite tras la gasolinera, nos vemos en yantar, amigo... ¡Mierda! al final si me meti en problemas con Hook... Tengo que poner las cosas bien en claro.</text>
+		<text>A note scribbled on a napkin: "Guys, I came to the swamps to check on the Clear Sky situation. Looks like they’re making a comeback… They’re few, but well-armed, and I’ve seen them moving north at night. During the day, they keep a low profile — probably to avoid trouble with the military. I’ll have to go through Darkscape. Hope my mag is still in the rocks behind the gas station… or we’re gonna have a problem :) P.S. Took all the supplies. Left Dante’s key so he doesn’t start whining." Looks like this guy’s still pissed about his magazines... I need to check the next stash.</text>
 	</string>
 	<string id="esc_item_nota_leto">
-		<text>Una letra prolija y caligrafica escribe: ¡Paso de nuevo! ¡Pero esta vez me adelante! Pude robar sus cosas antes de que se entere siquiera, tremendo estupido. Es increible que sigan creyendome cada vez que me cambio la mascara de gas, los stalkers son cada vez mas descuidados estos dias... \n Debajo de la nota hay una cara enojada >:( escrito de forma desprolija, que no cuadra con la caligrafia calmada de antes ¿Sera de otra persona?</text>
+		<text>Neat, almost calligraphic handwriting reads: "I came through again! But this time I got ahead of him! Managed to steal his stuff before he even noticed — what a complete idiot. It’s unbelievable they still fall for it every time I switch gas masks… stalkers are getting sloppier by the day." Below the note, there’s a messy, angry face scribbled: >:( The handwriting doesn’t match the calm script above...Was that someone else?</text>
 	</string>
 	<string id="esc_item_pda_mago">
-		<text>La PDA de Mago... Esta bloqueada, solo se puede ver que ha recibido mensajes recientes de los siguientes contactos: Leto, Dientes, Kolyan, Sultan, Clave, Borov, Tabernero... Parece que tenía contactos importantes. Se la tengo que llegar a Wolf.</text>
+		<text>The Mage’s PDA... It’s locked. The only thing visible is a list of recent messages from the following contacts: Leto, Teeth, Kolyan, Sultan, Key, Borov, Bartender... Looks like he had some powerful connections. I should take this to Wolf.</text>
 	</string>
 	<string id="esc_item_nota_mago">
 		<text>Una nota en un papel nuevo, bastante cuidado para la zona... Dice: Escucha, Mago. Tuve que mandar a estos perejiles a que acampen cerca tuyo. Les pedí que te esperen y tienen instrucciones de unirse a tu causa cuando estés listo para ejecutar el plan. Deberían ser 9 bandidos, si llegaron menos preguntales que mierda pasó. No quiero que ninguno se esconda en el Cordón o vamos a llamar la atención. \n -Pirata</text>  <!--sin voz-->
