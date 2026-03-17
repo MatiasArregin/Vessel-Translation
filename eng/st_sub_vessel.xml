@@ -243,300 +243,299 @@
 		<text>The Mage’s PDA... It’s locked. The only thing visible is a list of recent messages from the following contacts: Leto, Teeth, Kolyan, Sultan, Key, Borov, Bartender... Looks like he had some powerful connections. I should take this to Wolf.</text>
 	</string>
 	<string id="esc_item_nota_mago">
-		<text>Una nota en un papel nuevo, bastante cuidado para la zona... Dice: Escucha, Mago. Tuve que mandar a estos perejiles a que acampen cerca tuyo. Les pedí que te esperen y tienen instrucciones de unirse a tu causa cuando estés listo para ejecutar el plan. Deberían ser 9 bandidos, si llegaron menos preguntales que mierda pasó. No quiero que ninguno se esconda en el Cordón o vamos a llamar la atención. \n -Pirata</text>  <!--sin voz-->
+		<text>A note on clean paper — unusually well-kept for the Zone: "Listen, Mage. I had to send a few of these idiots to camp near your position. I told them to wait for you, and they’ve got orders to join your cause when you’re ready to carry out the plan. There should be nine bandits — if fewer made it, ask them what the hell happened. I don’t want any of them hiding out in Cordon, or we’ll draw attention." — Pirate</text>
 	</string>
 	<string id="esc_item_foto_viper">
-		<text>En la foto se ve a dos personas con trajes de camuflaje celeste y blanco... Nunca vi ese traje en la zona. Estan posando para una foto juntos y haciendo senas con los dedos. Parecen buenos amigos... El de la derecha me suena familiar."</text>
+		<text>In the photo, there are two people wearing light blue and white camouflage suits... I’ve never seen gear like that in the Zone. They’re posing together, making hand signs at the camera. They look like good friends... The one on the right feels familiar.</text>
 	</string>
 	<string id="esc_item_arma_dogo">
-		<text>Deberia llevarle esto a Dogo...</text>
+		<text>I should take this to Dogo.</text>
 	</string>
 	<string id="esc_item_traje_viper">
-		<text>Viper va a estar contento con lo que encontré.</text>
+		<text>Viper’s gonna be happy with what I found.</text>
 	</string>
 	<string id="esc_item_cosas_pollo">
-		<text>Pollo me va a pagar bien por todas las vueltas que tuve que dar...</text>
+		<text>Pollo’s gonna pay me well for all the running around I had to do...</text>
 	</string>
 	<string id="esc_item_pda_monolito_cruz">
-		<text>El que todo lo sabe repitio cien mil veces que espere en estas coordenadas a que el hereje asome. Ya son 6 dias complaciendo los deseos del monolito.</text>
+		<text>The One Who Knows All repeated it a hundred thousand times: wait at these coordinates until the heretic shows himself. It’s been six days now, carrying out the will of the Monolith.</text>
 	</string>
 	<string id="esc_item_pda_zombie_boss">
-		<text>Le seguimos el rastro a un Stalker que pasó corriendo herido, vimos que paró en el túnel a tomar aire. Vamos a acercarnos... \n Los chicos se están volviendo locos... el Stalker de chaqueta amarilla nos hizo unos gestos con las manos y todo se fue a la mierda... Tuve que dispararles, me estaban atacando. \n Mi cabeza va a explotar... Estoy viendo doble y con colores extraños... Todo se ve rojo por momentos, y azul por otros... Si alguien encuentra esta PDA que se la haga llegar a Cold, por favor.</text>
+		<text>We tracked a stalker who ran past us wounded. Saw him stop in the tunnel to catch his breath. We’re moving in... The guys are losing it. the stalker in the yellow jacket made some kind of hand signs and everything went to hell... I had to shoot them — they were attacking me. My head’s about to explode... I’m seeing double, colors all wrong… everything turns red sometimes, then blue... If anyone finds this PDA, please get it to Cold.</text>
 	</string>
 	<string id="esc_msg_monolito_cruz">
-		<text>El monolito tenia razon, has venido...</text>
+		<text>The Monolith was right… you’ve come.</text>
 	</string>
 	<string id="esc_viper_pantanos_camino_1">
-		<text>Escucha, hace años que no piso los grandes pantanos. Tengo mucha historia con ese lugar, y no es buena. Vamos con cuidado.</text>
+		<text>Listen... I haven’t set foot in the Great Swamps in years. Got a lot of history with that place — none of it good. We go in careful.</text>
 	</string>
 	<string id="esc_viktor_pantanos_camino_1">
-		<text>Entendido. ¿Así que historia, che? ¿Qué pasó ahí?</text>
+		<text>Got it. So... history, huh? What happened there?</text>
 	</string>
 	<string id="esc_viper_pantanos_camino_2">
-		<text>Cuento largo, amigo. Muy largo. En otro momento que viajemos más relajados te cuento.</text>
+		<text>Long story, friend. Real long. I’ll tell you another time, when we’re not on edge like this.</text>
 	</string>
 	<string id="esc_viktor_pantanos_camino_2">
-		<text>Bien. Me la debés para la próxima.</text>
+		<text>Fine. You owe me that story.</text>
 	</string>
 	<string id="esc_viper_pantanos_camino_3">
-		<text>Te cubro, cruza el alambrado y ve por las vías. Yo iré detrás tuyo asegurándome que nadie nos siga</text>
+		<text>I’ll cover you. Cross the fence and follow the tracks. I’ll stay behind, make sure no one’s on our tail.</text>
 	</string>
 	<string id="mar_viktor_pantanos_vias_1">
-		<text>¿A dónde llevan esas vías?</text>
+		<text>Where do those tracks lead?</text>
 	</string>
 	<string id="mar_viper_pantanos_vias_1">
-		<text>Si vamos al Este, nos devuelven al Cordón. Pasando un túnel llevan a Darkscape... Que es zona de nadie.</text>
+		<text>Head east, they’ll take you back to Cordon. Past a tunnel, they lead into Darkscape... no man’s land.</text>
 	</string>
 	<string id="mar_viktor_pantanos_vias_2">
-		<text>¿Y que hay al Oeste?</text>
+		<text>And to the west?</text>
 	</string>
 	<string id="mar_viper_pantanos_vias_2">
-		<text>Como a un kilómetro hay ruinas ferroviarias destruidas por las anomalías. Luego hay un puente que cruza el Río Pripyat.</text>
+		<text>About a kilometer out, there are railway ruins torn apart by anomalies. Then there’s a bridge crossing the Pripyat River.</text>
 	</string>
 	<string id="mar_viktor_pantanos_vias_3">
-		<text>Así que un puente. Interesante</text>
+		<text>A bridge, huh… interesting.</text>
 	</string>
 	<string id="mar_viper_pantanos_vias_3">
-		<text>Sé que ansias recorrer la zona, Viktor. Pero no te pierdas mucho pensando en el futuro. Concentrémonos en esto. No quiero pasar un segundo demás aquí.</text>
+		<text>I know you’re eager to explore the Zone, Viktor. But don’t get lost thinking ahead. Let’s stay focused. I don’t want to spend a second longer here than we have to.</text>
 	</string>
 	<string id="mar_viper_pantanos_advertencia_1">
-		<text>Un detalle importante: No vayas por el agua. Te vas a envenenar muy fuerte con radiación.</text>
+		<text>One important thing: don’t go through the water. The radiation will poison you bad.</text>
 	</string>
 	<string id="mar_viper_pantanos_advertencia_2">
-		<text>Viktor. Es mejor si no cruzas por la hierba. Vas a hacer ruido y eso puede llamar atención indeseada.</text>
+		<text>Viktor, better stay out of the grass. You’ll make noise, and that’s the kind of attention we don’t want.</text>
 	</string>
 	<string id="mar_viper_pantanos_cem_1">
-		<text>Amigo, dame un segundo. Ya que estamos por aquí, déjame hacer una parada rápida.</text>
+		<text>Hold up a second, friend. Since we’re here, let me make a quick stop.</text>
 	</string>
 	<string id="mar_viktor_pantanos_cem_1">
-		<text>Dale ¿Qué pasó?</text>
+		<text>Sure. What is it?/text>
 	</string>
 	<string id="mar_viper_pantanos_cem_2">
-		<text>Descansen en paz, amigos...</text>
+		<text>Rest in peace, friends...</text>
 	</string>
 	<string id="mar_viper_pantanos_cem_3">
-		<text>Ya, vamos.</text>
+		<text>Alright, let’s move.</text>
 	</string>
 	<string id="mar_viktor_llegando_1">
-		<text>Ya casi llegamos.</text>
+		<text>We’re almost there.</text>
 	</string>
 	<string id="mar_viper_llegando_1">
-		<text>Hay demasiado silencio. No me gusta.</text>
+		<text>Too quiet... I don’t like it.</text>
 	</string>
 	<string id="mar_viktor_llegando_2">
-		<text>¿¡Y ESO!?</text>
+		<text>What the hell is that!?</text>
 	</string>
 	<string id="mar_viper_llegando_2">
-		<text>¡Dispara! ¡Ya no es humano!</text>
+		<text>Shoot! It’s not human anymore!</text>
 	</string>
 	<string id="mar_viper_zombis_muertos_1">
-		<text>Voy a hacer guardia. Puedes revisar tranquilo mientras...</text>
+		<text>I’ll stand watch. Take your time checking things out...</text>
 	</string>
 	<string id="mar_viktor_zombis_muertos_1">
-		<text>Bien, dame un minuto.</text>
+		<text>Alright, give me a minute.</text>
 	</string>
 	<string id="mar_viktor_vamonos_1">
-		<text>No hay ninguna pista en los cuerpos, las frecuencias de Sidorovich no están y no hay señales de Atreo... No entiendo qué pasó.</text>
+		<text>No clues on the bodies. Sidorovich’s frequencies are missing, and there’s no sign of Atreo... I don’t get what happened.</text>
 	</string>
 	<string id="mar_viper_vamonos_1">
-		<text>Habrá que preguntar en el Cordón si vieron a Atreo. Volvamos por el túnel que usan los contrabandistas. Usaremos el resguardo de la noche para que no nos acribillen los militares. Avísame cuando estés listo.</text>
+		<text>We’ll have to ask around in Cordon if anyone’s seen Atreo. Let’s head back through the smuggler tunnel. We’ll use the cover of night so the military doesn’t gun us down. Let me know when you’re ready.</text>
 	</string>
-	
 	<string id="esc_viper_asesinato_militar_0">
-		<text>(Susurrando) ¡Shhh! Este es mío. Apaga la linterna y no hagas ruido.</text>
+		<text>(Whispering) Shhh… this one’s mine. Turn off your flashlight and keep quiet.</text>
 	</string>
 	<string id="esc_viktor_asesinato_militar_1">
-		<text>No sabía que tenías un arma silenciada...</text>
+		<text>Didn’t know you had a silenced weapon...</text>
 	</string>
 	<string id="esc_viper_asesinato_militar_2">
-		<text>Son necesarias. Te lo recomiendo... (Suspiro) Volvamos de una vez.</text>
+		<text>They’re necessary. I’d recommend getting one... (sigh) Let’s get moving.</text>
 	</string>
 	<string id="esc_viper_asesinato_militar_3">
-		<text>¡NO! ¡APAGA-</text>
+		<text>No! Turn it off-</text>
 	</string>
 	<string id="esc_viper_ya_en_base_0">
-		<text>Bueno Viktor, fué un buen paseo y sin problemas mayores. Bien hecho. Ahora voy a ver a un amigo, supongo que tu irás a ver a Sidorovich. Suerte, búscame si necesitas ayuda.</text>
+		<text>Well, Viktor — good run. No major trouble. Nicely done. I’m gonna go see a friend now. You’ll probably want to check in with Sidorovich. Good luck — come find me if you need anything.</text>
 	</string>
 	<string id="esc_msg_viktor_perros_1">
-		<text>(Silbidos llamando a los perros) Bien, funcionó.</text>
+		<text>(Whistles, calling the dogs) Good… that worked.</text>
 	</string>
 	<string id="esc_msg_vovan_perros_1a">
-		<text>¡Oh no! ¡Ahi vienen! No dejes que se me acerquen.</text>
+		<text>Oh no! Here they come! Don’t let them get close!</text>
 	</string>
 	<string id="esc_msg_vovan_perros_1b">
-		<text>¡Malditos perros mugrosos!</text>
+		<text>Damn filthy dogs!</text>
 	</string>
 	<string id="esc_msg_vovan_perros_2">
-		<text>¡Uf, puta madre! Pense que serias mas útil, tuve que hacer la mayoria del trabajo yo.</text>
+		<text>Ah, for fuck’s sake... I thought you’d be more useful. Ended up doing most of the work myself.</text>
 	</string>
 	<string id="esc_msg_viktor_perros_3">
-		<text>Imbécil...</text>
+		<text>Idiot...</text>
 	</string>
 	<string id="esc_msg_monolitos_deber_1">
-		<text>Monolito, los veo...</text>
+		<text>Monolith... I see them...</text>
 	</string>
 	<string id="esc_msg_monolitos_deber_2">
-		<text>Veo herejes vestidos de rojo y negro...</text>
+		<text>I see heretics dressed in red and black...</text>
 	</string>
 	<string id="esc_msg_monolitos_deber_3">
-		<text>¡Infieles adelante!</text>
+		<text>Infidels ahead!</text>
 	</string>
 	<string id="esc_msg_monolitos_deber_4">
-		<text>¡Destruyan en nombre del monolito!</text>
+		<text>Dstroy them in the name of the Monolith!</text>
 	</string>
 	<string id="esc_msg_monolitos_deber_5">
-		<text>¡Sigan las órdenes del monolito!</text>
+		<text>Follow the Monolith’s will!</text>
 	</string>
 	<string id="esc_msg_monolitos_deber_6">
-		<text>Que no quede nadie...</text>
+		<text>Leave no one alive.</text>
 	</string>
 	<string id="esc_msg_monolitos_deber_7">
-		<text>El monolito dijo que disparemos antes de que tengan oportunidad de reaccionar.</text>
+		<text>The Monolith commands us to fire before they can react.</text>
 	</string>
 	<string id="esc_msg_monolitos_deber_8">
-		<text>¡POR EL MONOLITO!</text>
+		<text>FOR THE MONOLITH!</text>
 	</string>
 	<string id="esc_msg_monolitos_deber_8b">
-		<text>¡Por el monolito!</text>
+		<text>For the monolith!</text>
 	</string>
 	<string id="esc_msg_monolitos_kir_1">
-		<text>¡Nos flaquean por la colina!</text>
+		<text>They’re flanking us from the hill!</text>
 	</string>
 	<string id="esc_msg_monolitos_kir_2">
-		<text>¡Todos a cubierto!</text>
+		<text>Take cover!</text>
 	</string>
 	<string id="esc_msg_monolitos_kir_3">
-		<text>Joven, acerquese a hablar antes de irse. Tenemos que saldar cuentas.</text>
+		<text>Young man, come speak with me before you leave. We have unfinished business.</text>
 	</string>
 	<string id="esc_msg_monolitos_kir_4a">
-		<text>B.S.C a Vertedero, B.S.C a Vertedero ¿Me copian?</text>
+		<text>B.S.C. to Garbage, B.S.C. to Garbage — do you copy?</text>
 	</string>
 	<string id="esc_msg_monolitos_kir_4b">
-		<text>B.S.C a Vertedero, B.S.C a Vertedero ¿Me reciben?</text>
+		<text>B.S.C. to Garbage, B.S.C. to Garbage — come in?</text>
 	</string>
 	<string id="esc_leto_truco_msg_0">
-		<text>Oh, si. No tengo el artefacto aquí, sígueme un minuto.</text>
+		<text>Oh, yeah. I don’t have the artifact on me — follow me for a minute.</text>
 	</string>
 	<string id="esc_leto_truco_msg_2">
-		<text>(Risas)</text>
+		<text>(Laughs)</text>
 	</string>
 	<string id="esc_leto_truco_msg_1">
-		<text>Wow, es raro que sigas consciente. Pero no vas a zafar. Nadie aguanta esto...</text> 
+		<text>Wow. Surprised you’re still conscious. But you’re not getting out of this. Nobody survives this...</text> 
 	</string>
 	<string id="esc_leto_truco_viktor_msg_1">
-		<text>¿Qué pasa? ¿¡Qué es esto!?</text> <!--sin voz-->
+		<text>What’s happening!? What is this!?</text> <!--sin voz-->
 	</string>
 	<string id="esc_leto_truco_viktor_msg_2"> <!--sin voz-->
-		<text>¡ATREO!</text>
+		<text>¡ATREUS!</text>
 	</string>
 	<string id="esc_teleport_actor_viper">
-		<text>¡Ey, amigo! Bienvenido de regreso ¿Te acuerdas qué te pasó? Hablame...</text>
+		<text>Hey, friend! Welcome back. Do you remember what happened? Talk to me.</text>
 	</string>
 	<string id="esc_zombie_boss_viktor_msg_1">
-		<text>¿¡Qué mierda!? ¡EY! ¿¡Quién sos!? ¡Voy a disparar!</text> <!--sin voz-->
+		<text>What the fuck!? HEY! Who are you!? I’ll shoot!</text> <!--sin voz-->
 	</string>
 	<string id="esc_zombie_boss_viktor_msg_2">
-		<text>Entonces Leto se fué y se ocupó de estos stalkers en el camino... Pobres. Debería ver a Viper, seguro sabe cómo seguirle el rastro.</text> <!--sin voz-->
+		<text>So Leto went ahead and dealt with those stalkers on the way... Poor bastards. I should go see Viper — he’ll know how to track him down.</text> <!--sin voz-->
 	</string>
 	<string id="esc_reclutando_cabo_msg">
-		<text>Listo. Ya tengo mis cosas ¡Adelante!</text>
+		<text>Alright. Got my gear. Let’s move!</text>
 	</string>
 	<string id="esc_reclutando_dogo_msg">
-		<text>Presta atención stalker. Vas a poder ver a un experto en acción.</text> <!--sin voz-->
+		<text>Pay attention, stalker. You’re about to see an expert at work.</text> <!--sin voz-->
 	</string>
 	<string id="esc_reclutando_pollo_msg">
-		<text>(Tarareando) Cuando encontremos a Atreo le voy a sacar los putos ojos.</text>
+		<text>(Humming) When we find Atreo, I’m gonna gouge his fucking eyes out.</text>
 	</string>
 	<string id="esc_pre_viaje_viper_msg_1">
-		<text>Cabo, Atento. Agarra tus cosas que nos vamos.</text>
+		<text>Rookie, heads up. Grab your stuff — we’re moving.</text>
 	</string>
 	<string id="esc_pre_viaje_cabo_msg_2">
-		<text>Listo, señor ¡Listo!</text>
+		<text>All set, sir! Ready!</text>
 	</string>
 	<string id="esc_pre_viaje_viper_msg_3">
-		<text>¡Dogo! Ya puedes sacar a Linda si quieres, no olvides la caja con munición.</text>
+		<text>Dogo! You can bring Linda out now — don’t forget the ammo crate.</text>
 	</string>
 	<string id="esc_pre_viaje_dogo_msg_4">
-		<text>Si... Es hora de sacar a Linda de paseo.</text> 
+		<text>Yeah... time to take Linda out for a walk.</text> 
 	</string>
 	<string id="esc_pre_viaje_viper_msg_5">
-		<text>¡Pollo! Te estas olvidando los botiquines de nuevo...</text> 
+		<text>Rooster! You’re forgetting the medkits again...</text> 
 	</string>
 	<string id="esc_pre_viaje_pollo_msg_6">
-		<text>Vaya, juraría que estaban en mi mochila (Risa)</text> 
+		<text>Huh, could’ve sworn they were in my backpack. (laughs)</text> 
 	</string>
 	<string id="esc_pre_viaje_viper_msg_7">
-		<text>¡Viktor! Puedo ver las ansias en tus ojos. Relájate. Vamos a encontrarlo.</text> 
+		<text>Viktor! I can see the excitement in your eyes. Relax. We’ll find him.</text> 
 	</string>
 	<string id="esc_pre_viaje_viktor_msg_8">
-		<text>(Avergonzado) Estoy bien, tranquilos (Risa).</text> 
+		<text>(Embarrassed) I’m fine, don’t worry. (laughs)</text> 
 	</string>
 	
 	<string id="esc_susto_pollo_msg_1">
-		<text>(Imitando un Monolito) Por el monolito... Ataquen al que tiene uniforme de Deber...</text>
+		<text>(Mocking a Monolith soldier) “For the Monolith... attack the one in Duty colors....”</text>
 	</string>
 	<string id="esc_susto_cabo_msg_2">
-		<text>¡POLLO! COÑO DE LA MADRE ¡Pensé que eras un soldado del monolito!</text>
+		<text>POLLO! FOR FUCK’S SAKE! I thought you were a Monolith soldier!</text>
 	</string>
 	<string id="esc_susto_pollo_msg_3">
-		<text>(Risas)</text>
+		<text>(Laughter)</text>
 	</string>
 	<string id="esc_susto_dogo_msg_4">
-		<text>Es increíble que caigas tantas veces en lo mismo.</text>
+		<text>Can’t believe you fall for that every time.</text>
 	</string>
 	<string id="esc_susto_viktor_msg_5">
-		<text>Deberías relajarte un poco, Cabo.</text>
+		<text>You should relax a little, Rookie..</text>
 	</string>
 	<string id="esc_susto_viper_msg_6">
-		<text>¡Suficiente! No bajen la guardia. Los monolitos pueden llegar en cualquier momento. En especial tu, Cabo. Que luego te asustas por nada.</text>
+		<text>Enough! Stay sharp. Monolith could show up any second. Especially you, Rookie — you scare easy as it is.</text>
 	</string>
 	<string id="esc_susto_pollo_msg_7">
-		<text>Aguafiestas...</text>
+		<text>Buzzkill...</text>
 	</string>
 	<string id="esc_traje_cabo_dolg_msg">
-		<text>(Susurrando) Stalker, escuché que necesitabas un traje. Acércate y hablemos.</text> <!--sin voz-->
+		<text>(Whispering) Stalker... I heard you needed a suit. Come closer, let’s talk.</text> <!--sin voz-->
 	</string>
 	<string id="esc_bandidos_wolf_msg">
-		<text>¡Hay ruido en el techo! ¡VAYAN A VER!</text> 
+		<text>Noise on the roof! GO CHECK IT OUT!</text> 
 	</string>
 	<string id="esc_wolf_ladron_msg">
-		<text>Chico, localizamos al ladrón. Ven cuando puedas así charlamos sobre el desgraciado.</text> 
+		<text>Kid, we found the thief. Come by when you can — we need to talk about that bastard.</text> 
 	</string>
 	<string id="esc_wolf_ladron_msg_2">
-		<text>Por favor, cuida de mis muchachos, chico.</text> 
+		<text>Please, take care of my boys, kid.</text> 
 	</string>
 	<string id="esc_wolf_ladron_msg_3">
-		<text>Chico, estuve leyendo la PDA del Mago y descubrí algunas cosas. Parece que hizo arreglos con unos bandidos para atacar la aldea de novatos... Cuento contigo, vente cuando puedas y te explico.</text> 
+		<text>Kid, I’ve been going through the Mage’s PDA and found some things. Looks like he made a deal with some bandits to attack the rookie village... I’m counting on you — come see me when you can and I’ll explain everything.</text> 
 	</string>
 	<string id="esc_wolf_ladron_msg_3b">
-		<text>Buen trabajo. Vamos a buscar al siguiente grupo.</text>
+		<text>Good work. Let’s find the next group.</text>
 	</string>
 	<string id="esc_wolf_ladron_msg_3c">
-		<text>Vamos a buscar al siguiente grupo.</text>
+		<text>Let’s move on to the next group.</text>
 	</string>
 	<string id="esc_wolf_ladron_msg_3d">
-		<text>Creo que eran todos... Ahora la aldea está a salvo. Ven, tengo algo para darte.</text> 
+		<text>That should be all of them... The village is safe now. Come here — I’ve got something for you.</text> 
 	</string>
 	<string id="esc_arma_kir_msg_1">
-		<text>Cabo Fedya, esta noche hay chequeo de rutina para que veamos el estado del equipo. No olvide traer su arma.</text> 
+		<text>Rookie Fedya, routine equipment check tonight. Don’t forget to bring your weapon.</text> 
 	</string>
 	<string id="esc_arma_cabo_msg_2">
-		<text>¡Sí, capitán! Tendré mi equipo listo para esta noche...</text> 
+		<text>Yes, Captain! I’ll have my gear ready for tonight.</text> 
 	</string>
 	<string id="esc_arma_viktor_msg_3">
-		<text>Estás hasta las manos, Cabo...</text> 
+		<text>You’re in deep shit, Cabo...</text> 
 	</string>
 	<string id="esc_arma_cabo_msg_4">
-		<text>Viktor mira... (Susurrando) Por favor, te encargo mi arma. Te pagaré bien.</text> 
+		<text>Viktor, look... (whispering) Please — find my weapon. I’ll pay you well.</text> 
 	</string>
 	<string id="esc_tornillo_conpda_msg">
-		<text>No... Estas fotos no tienen más de un mes. Y pensar que ya no lo volveré a ver.</text> 
+		<text>No… these photos aren’t even a month old. And now I’ll never see him again...</text> 
 	</string>
 	<string id="esc_tornillo_sinpda_msg">
-		<text>No de veras. Es raro que Tornillo se haya descuidado ante algo tan cotidiano como la radiación. Esto huele raro... ¿Seguro que no me estoy enterando de algo más? Bueno, dejalo así.</text> 
+		<text>No, seriously. It’s strange Tornillo would slip up over something as basic as radiation. Something feels off... Am I missing something here? ...No. Leave it.</text> 
 	</string>
 	<string id="esc_tunel_boar_viktor_msg">
-		<text>Cerdo hijo de puta... Era durísimo.</text> <!--sin voz-->
+		<text>You fucking pig… tough bastard.</text> <!--sin voz-->
 	</string>
 	<string id="esc_dogo_fantasma_general_msg_1">
 		<text>Novato, hay pelusa quemada en ese túnel. Pasemos agachados y no hagas movimientos bruscos.</text> <!--sin voz-->
