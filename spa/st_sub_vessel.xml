@@ -221,8 +221,11 @@
 	<string id="esc_item_pda_tornillo">
 		<text>La PDA de Tornillo... Vere que tiene dentro. Parece que hacia una investigacion ligera sobre los mejores lugares para encontrar artefactos de clase baja de forma segura. \n Tambien esta llena de fotos de las vivencias Tornillos en la zona, entre las cuales se pueden ver fotos con su amigo Cabo... \n Entre los archivos eliminados se puede ver una nota... dice: Es Kolyan, el me mando a matar. ¿Quien sera? Tengo que ver que hago con esta PDA, tiene informacion muy valiosa. Pero tambien le corresponde a Cabo verla.</text>
 	</string>
-	<string id="esc_item_nota_nox">
-		<text>Encontré una nota en el escondite... Dice: "Si estás leyendo esto, entonces tus sueños te guiaron bien. Tu sensibilidad psíquica es mayor de lo normal; por eso fuiste capaz de encontrar este lugar antes que los demás. Aquí hallarás lo que necesitas: la primera Llave, un artefacto que resonará contigo y te llevará hacia los otro cuatro. Juntos, los cinco revelarán un poder que trasciende cualquier límite... pero aún no estás listo para entenderlo. A medida que avances, el velo entre tu mente y lo que habita sobre la Zona se volverá más delgado. Entonces podré mostrarte más. Sigue el pulso. No te detengas — Nox". Pero no había ningún artefacto ahí... Tengo que averiguar más, alguien estuvo acá antes que yo.</text>
+	<string id="esc_item_nota_nox_a">
+		<text>Encontré una nota en el escondite... Dice: "Si estás leyendo esto, entonces tus sueños te guiaron bien. Tu sensibilidad psíquica es mayor de lo normal; por eso fuiste capaz de encontrar este lugar antes que los demás. Aquí hallarás lo que necesitas: la primera Llave, un artefacto que resonará contigo y te llevará hacia los otro cuatro." ¿Qué?</text>
+	</string>
+	<string id="esc_item_nota_nox_b">
+		<text>Juntos, los cinco revelarán un poder que trasciende cualquier límite... pero aún no estás listo para entenderlo. A medida que avances, el velo entre tu mente y lo que habita sobre la Zona se volverá más delgado. Entonces podré mostrarte más. Sigue el pulso. No te detengas — Nox". Pero no había ningún artefacto ahí, osea... ¿Tengo que averiguar más? alguien estuvo aquí antes que yo.</text>
 	</string>
 	<string id="esc_item_pda_centinela">
 		<text> La PDA dice “Centinela”. Hay algunas entradas escritas de hace unos días: “La herida de mi pierna se está infectando, necesito un préstamo para pagar los putos antibióticos.” ugh, pobre tipo... Hay otra entrada unos días después. “Esta este tipo, Atreo. Viene de la nada y dice que me puede dar el dinero que necesito si lo acompaño a los pantanos. Obviamente acepté, aunque cojee y duela, es mejor que perder la puta pierna.” Al final no le salió bien... Por eso cojeaba el fiambre.</text>
