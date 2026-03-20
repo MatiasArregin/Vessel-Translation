@@ -221,8 +221,11 @@
 	<string id="esc_item_pda_tornillo">
 		<text>Tornillo’s PDA... Let’s see what’s on it. Looks like he was doing some light research on the safest spots to find low-tier artifacts. It’s also full of photos from his time in the Zone — a few of them with his friend Cabo... Among the deleted files, there’s a note... It says: “It’s Kolyan. He’s the one who had me killed.” Who the hell is that? I need to figure out what to do with this PDA — it’s got valuable info. But Cabo deserves to see it too.</text>
 	</string>
-	<string id="esc_item_nota_nox">
-		<text>I found a note in the stash... It reads: "If you’re reading this, then your dreams have guided you well. Your psychic sensitivity is above average — that’s why you were able to find this place before the others. Here, you’ll find what you need: the first Key, an artifact that will resonate with you and lead you to the other four. Together, the five will reveal a power that transcends all limits... but you’re not ready to understand it yet. As you move forward, the veil between your mind and what dwells above the Zone will grow thinner. Then I will be able to show you more. Follow the pulse. Do not stop, Nox." but there was no artifact there. I need to dig deeper — someone got here before me.</text>
+	<string id="esc_item_nota_nox_a">
+		<text>I found a note in the stash... It reads: "If you’re reading this, then your dreams have guided you well. Your psychic sensitivity is above average — that’s why you were able to find this place before the others. Here, you’ll find what you need: the first Key, an artifact that will resonate with you and lead you to the other four." what?</text>
+	</string>
+	<string id="esc_item_nota_nox_b">
+		<text>"Together, the five will reveal a power that transcends all limits... but you’re not ready to understand it yet. As you move forward, the veil between your mind and what dwells above the Zone will grow thinner. Then I will be able to show you more. Follow the pulse. Do not stop, Nox." but there was no artifact there. I need to dig deeper — someone got here before me.</text>
 	</string>
 	<string id="esc_item_pda_centinela">
 		<text>This PDA belongs to someone named "Sentinel". There are a few entries from a couple of days ago: "My leg wound is getting infected... I need a loan to pay for these damn antibiotics." Damn, poor guy. There’s another entry a few days later: “There’s this guy, Atreo. Came out of nowhere, says he can give me the money I need if I go with him to the swamps. Of course I said yes — even if I’m limping and it hurts, it beats losing my damn leg.” Guess it didn’t end well. That explains why the corpse was limping.</text>
