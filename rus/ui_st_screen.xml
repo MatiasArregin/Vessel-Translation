@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
+	<string id="st_configuracion_recomendada">
+		<text>Открытая БЕТА 0.914</text>
+	</string>
 	<string id="st_ignite_fire">
 		<text>Зажечь ($$ACTION_USE$$)</text>
 	</string>
@@ -428,6 +431,15 @@
 	</string>
 	<string id="st_pollo_task_tip">
 		<text>Топнуть ногой ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_dejar_documentos">
+		<text>Оставить документы ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_tomar_artefacto_tip">
+		<text>Взять артефакт ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_golpear_tip">
+		<text>Ударить ($$ACTION_USE$$)</text>
 	</string>
 	<string id="st_punto_interes">
 		<text>Место интереса</text>
