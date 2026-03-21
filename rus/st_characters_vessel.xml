@@ -20,13 +20,37 @@
 		<text>Вайпер</text>
 	</string>
 	<string id="esc_pj1_name">
-		<text>Дима</text>
+		<text>Гаучо</text>
 	</string>
 	<string id="mar_stalker_centinela_name">
 		<text>Часовой</text>
     </string>
+	<string id="esc_lassie_name">
+		<text>Ласси</text>
+	</string>
+	<string id="esc_oracle_name">
+		<text>Оракул</text>
+	</string>
+	<string id="esc_arregin_name">
+		<text>Матиас Аррегин</text>
+	</string>
+	<string id="esc_rammaken_name">
+		<text>Женька Бегун</text>
+	</string>
+	<string id="esc_kamtek_name">
+		<text>Камтек Битбокс</text>
+	</string>
+	<string id="esc_poker_name">
+		<text>Габриэль Покер</text>
+	</string>
+	<string id="esc_ramon_name">
+		<text>Рамон Ретамар</text>
+	</string>
+	<string id="esc_franco_name">
+		<text>Франк Вилдосола</text>
+	</string>
 	<string id="esc_pj2_name">
-		<text>Черри</text>
+		<text>Мессер</text>
 	</string>
 	<string id="esc_stalker_andrew_name">
 		<text>Андрей Куловский</text>
@@ -50,7 +74,7 @@
 		<text>Йорик Сорвиголова</text>
 	</string>
 	<string id="esc_cabo_bio">
-		<text>Сталкер-новичок, что по воле судьбы попал в ряды Долга во время суматохи.</text> ---
+		<text>Сталкер-новичок, что по воле судьбы попал в ряды Долга во время суматохи.</text> 
 	</string>
 	<string id="esc_cabo_name">
 		<text>Федя Зелёный</text>
