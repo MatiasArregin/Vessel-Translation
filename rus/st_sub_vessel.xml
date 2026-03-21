@@ -3,100 +3,103 @@
 <string_table>
 
 	<string id="esc_viktor_name">
-		<text>Viktor</text>
+		<text>Виктор</text>
 	</string>
 	<string id="esc_cherry_name">
-		<text>Cherry</text>
+		<text>Черри</text>
 	</string>
 	<string id="esc_dima_name">
-		<text>Dima</text>
+		<text>Дима</text>
 	</string>
 	<string id="esc_atreo_name">
-		<text>Atreo</text>
+		<text>Атрей</text>
+	</string>
+	<string id="esc_militar_name">
+		<text>Военный</text>
 	</string>
 	<string id="esc_vovan_name">
-		<text>Vovan</text>
+		<text>Вован</text>
 	</string>
 	<string id="esc_leto_sub_name">
-		<text>Leto</text>
+		<text>Лето</text>
 	</string>
 	<string id="esc_stalker_generic_name">
-		<text>Stalker</text>
+		<text>Сталкер</text>
 	</string>
 	<string id="esc_pda_generic_name">
-		<text>Grabaciуn de la PDA</text>
+		<text>Запись в КПК</text>
 	</string>
 	<string id="esc_monolito_generic_name">
-		<text>Soldado del Monolito</text>
+		<text>Боец Монолита</text>
 	</string>
 	<string id="esc_deber_generic_name">
-		<text>Soldado de Deber</text>
+		<text>Солдат Долга</text>
 	</string>
 	<string id="esc_generic_name">
 		<text>????</text>
 	</string>
 	<string id="esc_bandido_name">
-		<text>Bandido</text>
+		<text>Бандит</text>
 	</string>
 	<string id="esc_bandidos_name">
-		<text>Bandidos</text>
+		<text>Бандиты</text>
 	</string>
 	<string id="dar_trodnik_name">
-		<text>Trodnik</text>
+		<text>Тропник</text>
 	</string>
 	<string id="dar_trodnik_pda_name">
-		<text>PDA de Trodnik</text>
+		<text>КПК Тропника</text>
 	</string>
 	<string id="dar_radio_name">
-		<text>Radio</text>
+		<text>Радио</text>
 	</string>
 	<string id="viktor_dialog_reject_way_0">
-		<text>No deberнa ir por ahн...</text>
+		<text>Мне не стоит туда идти...</text>
 	</string>
 	<string id="viktor_dialog_reject_lab_way_0">
-		<text>No puedo volver ahora. Tengo que terminar con esto de una vez.</text>
+		<text>Я не могу вернуться сейчас. Надо закончить всё раз и навсегда.</text>
 	</string>
 	<string id="esc_viper_hi_msg">
-		<text>Al fin despiertas, stalker. Ven, hablemos un rato.</text>
+		<text>Ты наконец-то встал, сталкер. Пойдём поболтаем.</text>
 	</string>
 	<string id="esc_viper_salida_0_msg">
-		<text>Si te queda bien, pensй que serнa muy grande para ti... Bueno, ahora sн, sнgueme y no te separes mucho.</text>
+		<text>Вижу, он тебе как раз. А думал, что будет слишком большим... Ладно тогда, следуй за мной и сильно не отставай.</text>
 	</string>
 	<string id="esc_viktor_salida_0_msg">
-		<text>Bien. Te sigo.</text>
+		<text>Хорошо. Я пойду за тобой.</text>
 	</string>
 	<string id="esc_viper_encandila_0_msg">
-		<text>Espero que no te hayas encandilado al salir (Risa)</text>
+		<text>Надеюсь, тебя не сильно ослепило</text>
 	</string>
 	<string id="esc_viper_salida_1_msg">
-		<text>Mira, amigo. Acйrcate. Desde aquн los veo descansar, una manada de carnes.</text>
+		<text>Смотри, друже. Подойди поближе. Отсюда ты можешь увидеть табунок отдыхающих плотей.</text>
 	</string>
 	<string id="esc_viktor_salida_1_msg">
-		<text>... їCarnes? їQuй es eso?</text>
+		<text>...Плотей? Что это за твари?</text>
 	</string>
 	<string id="esc_viper_salida_2_msg">
-		<text>Preparate Viktor. Sosten firme el mango o te va a partir la muсeca. Si tienes que recargar quita la traba hacia atras desde el caсуn e inserta unos cartuchos.</text>
+		<text>Готовься, Виктор. Держи крепко, а иначе повредишь себе запястье. Если нужно будет перезарядиться, оттяни затвор и загрузи в ствол несколько патронов.</text>
 	</string>
 	<string id="esc_viktor_salida_2_msg">
-		<text>їPero quй mierda son los carnes?</text>
+		<text>Да кто, чёрт возьми, эти плоти?</text>
 	</string>
 	<string id="esc_viper_salida_viktor_msg_1">
-		<text>їQuй mierda era eso? їEran chanchos? ЎEstaban todos deformados...!</text>
+		<text>Что это за зверьё? Свиньи, наверное. Сильно их деформировало!</text>
 	</string>
 	<string id="esc_viper_salida_2b_msg">
-		<text>Si, y no es lo ъnico feo que vas a ver por aquн. Estaб repleto de bandidos horribles tambiйn... Si te sientes con las tripas necesarias, puedes acercarte con el cuchillo a sacarles los ojos o algo de carne. Los stalkers a veces compran eso... Voy a revisar el lugar, tienes prohibido bajar la guardia.</text>
+		<text>Да, и это не единственные уродцы, которых ты здесь повидаешь. Тут ещё и отпетых бандитов хватает... Коль кишка не тонка, можешь взять нож и повырезать их глаза или мяса чутка. Иногда сталкеры такое покупают... Я пойду осмотреть местность, а ты не смей терять бдительность. </text>
 	</string>
 	<string id="esc_viper_salida_3_msg">
-		<text>Escucha, encontrй un rastro y no es precisamente de los Carnes que matamos... Sнgueme.</text>
+		<text>Слушай, я нашёл какой-то след, и он точно не от плотей, что мы тлько что убили... Следуй за мной.</text>
 	</string>
 	<string id="esc_viper_salida_4_msg">
-		<text>Han montado un campamento y creo que se quienes fueron...</text>
+		<text>Там разбили лагерь, и у меня есть догадка кто...</text>
 	</string>
 	<string id="esc_viktor_salida_4_msg">
-		<text>їQuiйnes? їЎMбs carnes!?</text>
+		<text>Кто? Опять плоти!?</text>
 	</string>
 	<string id="esc_viper_salida_4a_msg">
-		<text>No... Esos no montan tiendas. (Risas)</text>
+		<text>Нет... Они не умеют ставить палатки. (Смеётся)</text>
 	</string>
 	<string id="esc_viper_salida_5_msg">
 		<text>Lo sabнa. Esa hoguera ha sido usada recientemente. Viktor, preparate. Los bandidos traman algo, vamos a pegarles una visita.</text>
