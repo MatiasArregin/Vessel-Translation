@@ -216,7 +216,7 @@
 	</string>
 	
 	<string id="esc_arma_equipo_title">
-		<text>В долгий путь: Собрать отряд, дабы пересечь Тёмную Лощину.</text>
+		<text>Долгий путь: Собрать отряд, дабы пересечь Тёмную Лощину.</text>
 	</string>
 	<string id="esc_arma_equipo_descr">
 		<text>Атрей сбежал, забрав с собою артефакт... Вайпер готов помочь преследовать его, однако Тёмная Лощина сейчас – безлюдная территория. \n Нам нужно собрать отряд.</text>
@@ -260,7 +260,7 @@
 		<text>Экипировка у вора хороша, и кличут его – "Маг". Надо найти его на железнодорожных путях.</text>
 	</string>
 	<string id="esc_wolf_task_2_title_3">
-		<text>Хозяин убежища: Найти ПДА и вернуться к Волку</text>
+		<text>Хозяин убежища: Найти КПК и вернуться к Волку</text>
 	</string>
 	<string id="esc_wolf_task_2_descr_3">
 		<text>С вором покончено, осталось только вернуться к Волку.</text>
@@ -381,10 +381,10 @@
 		<text>Личная просьба: Найти "Шурупа"</text>
 	</string>
 	<string id="esc_cabo_task2_2_descr">
-		<text>Имеем наихудший исход – Шуруп мёртв... Надо решить, что делать с его ПДА – на нём есть ценная информация.</text>
+		<text>Имеем наихудший исход – Шуруп мёртв... Надо решить, что делать с его КПК – на нём есть ценная информация.</text>
 	</string>
 	<string id="esc_cabo_task2_2_title">
-		<text>Личная просьба: Решить, что делать с ПДА Шурупа</text>
+		<text>Личная просьба: Решить, что делать с КПК Шурупа</text>
 	</string>
 	<string id="esc_dogo_task_title_1">
 		<text>Паранормальная встреча: Составить компанию Догу на время поисков его оружия</text>
@@ -402,315 +402,351 @@
 		<text>Паранормальная встреча: Следует отвести Дога на базу.</text>
 	</string>
 	<string id="esc_dogo_task_descr_3">
-		<text>Dogo quedу hecho mierda. Tengo que llevarlo a la base y hablar con йl luego.</text>
+		<text>Дог сейчас в ужасном состоянии. Нужно его отвести на базу, а после с ним поговорить.</text>
 	</string>
 	<string id="esc_dogo_task2_title_1">
-		<text>Linda: Encuentra la PKM modificada de Dogo</text>
+		<text>"Красотка": Найти модифицированный ПКМ Дога</text>
 	</string>
 	<string id="esc_dogo_task2_descr_1">
-		<text>Necesito encontrar el arma de Dogo, una PKM Modernizada. Dogo me comentу que Sidorovich vende informaciуn a cambio de parches de bandidos...</text>
+		<text>Мне нужно найти оружие Дога, модифицированный ПКМ. Он ещё упоминал, что Сидорович продаёт информацию за нашивки бандитов...</text>
 	</string>
 	<string id="esc_dogo_task2_title_2">
-		<text>Linda: Habla con Fanбtico</text>
+		<text>"Красотка": Поговорить с Фанатом</text>
 	</string>
 	<string id="esc_dogo_task2_descr_2">
-		<text>Sidorovich me mandу a hablar con fanбtico</text>
+		<text>Сидорович отправил меня к Фанату</text>
 	</string>
 	<string id="esc_dogo_task2_title_3">
-		<text>Linda: Encuentra la PKM Modificada</text>
+		<text>"Красотка": Найти модифицированный ПКМ</text>
 	</string>
 	<string id="esc_dogo_task2_descr_3">
-		<text>Fanatico me diу instrucciones muy precisas, y me pidiу que no lastime a nadie. Si se trata de sigilo, serб pan comido.</text>
+		<text>Фанат дал мне чёткие инструкции и попросил никому не причинять вреда. Если это про стелс, то это как раз для меня работёнка.</text>
 	</string>
 	<string id="esc_dogo_task2_title_4">
-		<text>Linda: Devuelve su arma a Dogo</text>
+		<text>"Красавица": Вернуть Догу его оружие</text>
 	</string>
 	<string id="esc_dogo_task2_descr_4">
-		<text>Encontrar el arma no fuй nada fбcil, pero ya la tengo. Toca devolversela a su dueсo.</text>
+		<text>Найти оружие было непросто, однако теперь оно у меня. Следует его вернуть владельцу.</text>
 	</string>
 	<string id="esc_hook_task_1_title_1">
-		<text>El dueсo del escondite: Habla con Tokha</text>
+		<text>Хозяин убежища: Поговорить с Тохой</text>
 	</string>
 	<string id="esc_hook_task_1_descr_1">
-		<text>Un stalker del campamento de novatos quiere hablar conmigo...</text>
+		<text>Сталкер из лагеря новичков желает со мной поговорить...</text>
 	</string>
 	<string id="esc_hook_task_1_title_2">
-		<text>El dueсo del escondite: Encuentra a Hook</text>
+		<text>Хозяин убежища: Встретиться с Крюком</text>
 	</string>
 	<string id="esc_hook_task_1_descr_2">
-		<text>Parece que amenazaron a Tokha pensando que se llevу las cosas del escondite que yo saquiй... Tengo que encontrar a Hook.</text>
+		<text>Кажется, Тохе угрожали, считая, что именно он забрал вещи с убежища, что я обыскивал... Нужно найти Крюка.</text>
 	</string>
 	<string id="esc_hook_task_1_descr_3">
-		<text>Hook pasу por Darkscape їHabrб sido hace poco? Me toca seguir buscando...</text>
+		<text>Крюк проходил через Тёмную Лощину. Недавно ли это произошло? Следует продолжать поиски...</text>
 	</string>
 	<string id="esc_sid_medicinas_title">
-		<text>Tren con medicinas: Busca el escondite</text>
+		<text>Вагон медицины: Обыскать убежище</text>
 	</string>
 	<string id="esc_sid_medicinas_descr">
-		<text>Ve a la locomotora radioactiva a buscar las medicinas.</text>
+		<text>Пойти к радиоактивному локомотиву и осмотреть место на признак медикаментов.</text>
 	</string>
 	<string id="esc_sid_comida_title">
-		<text>Cajas sin dueсo: Busca el escondite</text>
+		<text>Бесхозные ящики: Обыскать убежище</text>
 	</string>
 	<string id="esc_sid_comida_descr">
-		<text>Ve al container con comida que abandonaron los militares.</text>
+		<text>Направиться к контейнеру с едой, оставленным военными.</text>
 	</string>
 	<string id="esc_sid_traje_title">
-		<text>Cajas militares: Busca el escondite</text>
+		<text>Ящики военных: Осмотреть убежище</text>
 	</string>
 	<string id="esc_sid_traje_descr">
-		<text>Ve hasta las afueras de la base militar a buscar el traje de contrabando.</text>
+		<text>Пойти на окраины военной базы искать контрабандный костюм.</text>
 	</string>
 	<string id="esc_cabo_traje_1_title">
-		<text>Por favor, Capitбn: Consigue de Kir un traje para Cabo</text>
+		<text>Как прикажите, капитан: Взять костюм для новичка Федьки у капитана Кирова</text>
 	</string>
 	<string id="esc_cabo_traje_1_descr">
-		<text>Ve a ver a Kir y consigue que te de el traje de repuesto para el Cabo. Lo va a necesitar durante el viaje.</text>
+		<text>Повидаться с капитаном Кировым и запросить у него новый костюм для Федьки. Он ему понадобится в дороге.</text>
 	</string>
 	<string id="esc_cabo_traje_2_descr">
-		<text>Llevale el traje de vuelta a Cabo.</text>
+		<text>Отнести полученный костюм Федьке Зелёному.</text>
 	</string>
 	<string id="esc_cabo_traje_3_descr">
-		<text>Busca otra forma de conseguir el traje.</text>
+		<text>Найти другой способ получить костюм.</text>
 	</string>
 	<string id="esc_herramientas_xenotech1_title">
-		<text>Herramientas de segunda mano: Encuentra las herramientas de la lista</text>
+		<text>Секонд-хенд инструменты: Отыскать инструменты из списка</text>
 	</string>
 	<string id="esc_herramientas_xenotech1_descr">
-		<text>Xenotech no puede mejorar el equipo de forma adecuada sin las herramientas que le faltan. Si las reъno seguro puedo equiparme algunas mejoras. \n Necesita: Escofina, Hacha, Llave Doble, Martillo, Pala, Maza y Pico.</text>
+		<text>Без пропавших инструментов Фургон толком не может улучшать экипировку. Если я их соберу, то точно смогу сделать несколько апгрейдов. \n Нужны: напильник, топор, двусторонний гаечный ключ, молоток, лопата, булава и кирка.</text>
 	</string>
 	<string id="esc_viper_foto_title">
-		<text>La foto de Cielo Despejado: Encuentra al dueсo de la foto</text>
+		<text>Фотография Читого Неба: Найти владельца фотографии</text>
 	</string>
 	<string id="esc_viper_foto_descr">
-		<text>Encontrй esta foto de dos amigos de la facciуn Cielo Despejado. Espero poder devolverla a su dueсo.</text>
+		<text>Я наткнулся на фотографию двух друзей из Чистого Неба. Надеюсь, я смогу вернуть её владельцу.</text>
 	</string>
 	<string id="esc_perros_vovan_1_title">
-		<text>Acechado por los perros: Ayuda a Vovan a acabar con los Perros</text>
+		<text>Преследуемый псами: Помочь Вовану разобраться с собаками</text>
 	</string>
 	<string id="esc_perros_vovan_1_descr">
-		<text>Vovan no quiere hablar, tiene sus propios problemas. Si lo ayudo con esos perros a lo mejor me da una mano luego.</text>
+		<text>Вован отказывается говорить; у него сови проблемы. Если я помогу ему с этими собаками, то, возможно, он отплатит мне за это в будущем .</text>
 	</string>
 	<string id="esc_perros_vovan_2_title">
-		<text>Acechado por los perros: Vuelve a hablar con Vovan</text>
+		<text>Преследуемый псами: Снова поговорить с Вованом</text>
 	</string>
 	<string id="esc_perros_vovan_2_descr">
-		<text>Esos perros son historia, ahora debo hacerle algunas preguntas a Vovan.</text>
+		<text>Собаки теперь в прошлом, а сейчас пора расспросить Вована.</text>
 	</string>
 	
 	<string id="esc_caja_nimble_1_title">
-		<text>La caja de los bandidos: Decide quй hacer con la caja</text>
+		<text>Ящик бандитов: Решить, что делать с ящиком</text>
 	</string>
 	<string id="esc_caja_nimble_1_descr">
-		<text>Conseguн una caja cerrada al acabar con los bandidos, Viper me dijo que un tal Nimble podrнa ayudarme con eso.</text>
+		<text>Я раздобыл запертый ящик в лагере убитых бандитов; Вайпер посоветовал мне обратиться к Шустрому с этим вопросом.</text>
 	</string>
 	<string id="esc_caja_nimble_2_descr">
-		<text>Le dejй la caja a Nimble y me pidiу que vaya a ver al tйcnico Xenotech para conseguir las herramientas necesarias para abrirla.</text>
+		<text>Я отдал ящик Шустрому, и он попросил меня сходить к технику Фургону взять необходимые инструменты для его открытия.</text>
 	</string>
 	<string id="esc_caja_nimble_2a_descr">
-		<text>Debo conseguir 5000 rublos para pagarle a Xenotech las herramientas y asн poder negociar con Nimble.</text>
+		<text>Необходимо достать 5000 рублей, чтобы заплатить Фургону за инструменты. После я смогу договориться с Шустрым.</text>
 	</string>
 	<string id="esc_caja_nimble_2b_descr">
-		<text>Necesito convencer al comerciante de que me ayude con Xenotech, si le manda un mensaje seguro Xenotech me da gratis las herramientas.</text>
+		<text>Нужно уговорить торговца помочь с Фургоном; если я отправлю ему сообщение, то Фургон, вероятно, отдаст мне инструменты за бесплатно.</text>
 	</string>
 	<string id="esc_caja_nimble_2c_descr">
-		<text>Parece que el tйcnico puede abrir la caja por una mуdica suma de dinero. Debo pedirle a Nimble la caja asн la abro y me quedo todo el contenido.</text>
+		<text>Выходит, техник может взломать ящик за умеренную сумму. Стоит попросить ящик у Шустрого, открыть его и оставить всё его содержимое себе.</text>
 	</string>
 	<string id="esc_caja_nimble_3_descr">
-		<text>Ya entreguй la caja y las herramientas a Nimble. Tengo que esperar a que se tome un tiempo para abrirla asн vemos quй tiene dentro.</text>
+		<text>Я уже отнёс ящик и инструменты Шустрому. Нужно подождать, пока он его откроет, и тогда мы изучим его содержимое.</text>
 	</string>
 	
 	<string id="esc_viper_salida_0_descr">
-		<text>Este stalker vino a saludar, deberнa hablar con йl.</text>
+		<text>Этот сталкер пришёл сказать привет, стоит с ним поболтать.</text>
 	</string>
 	<string id="esc_viper_salida_0_title">
-		<text>Primeros pasos en la zona: Habla con Viper</text>
+		<text>Первые шаги в Зоне: поговрить с Вайпером</text>
 	</string>
 	<string id="esc_viper_salida_1_descr">
-		<text>Viper dijo que me iba a enseсar lo bбsico sobre el lugar. Me conviene seguirlo.</text>
+		<text>Вайпер пообещал меня научить основам выживания в этом месте. Стоит последовать за ним.</text>
 	</string>
 	<string id="esc_viper_salida_1_title">
-		<text>Primeros pasos en la zona: Sigue a Viper</text>
+		<text>Первые шаги в Зоне: Следовать за Вайпером</text>
 	</string>
 	<string id="esc_viper_salida_2_descr">
-		<text>Parece que Viper viу un grupo de "Carnes". No sй quй sea eso, pero deberнa seguirlo para aprender.</text>
+		<text>Кажется, Вайпер заметил группу "плотей". Понятия не имею, что это, но мне стоит последовать за ним, чтобы узнать.</text>
 	</string>
 	<string id="esc_viper_salida_2_title">
-		<text>Primeros pasos en la zona: Elimina el grupo de Carnes con Viper</text>
+		<text>Первые шаги в Зоне: Истребить группу плотей вместе с Вайпером</text>
 	</string>
 	<string id="esc_viper_salida_3_descr">
-		<text>Viper encontrу algo sospechoso, debo seguirlo para ver de quй se trata.</text>
+		<text>Вайпер нашёл что-то подозрительное, я должен пойти за ним и посмотреть, к чему это.</text>
 	</string>
 	<string id="esc_viper_salida_3_title">
-		<text>Primeros pasos en la zona: Sigue a Viper mientras investiga</text>
+		<text>Первые шаги в Зоне: Идти за Вайпером, пока он занимается рассследованием</text>
 	</string>
 	<string id="esc_viper_salida_4_descr">
-		<text>Enfrenta a los bandidos con Viper</text>
+		<text>Вместе с Вайпером вступить в бой с бандитами</text>
 	</string>
 	<string id="esc_viper_salida_4_title">
-		<text>Primeros pasos en la zona: Acompaсa a Viper a enfrentar a los bandidos</text>
+		<text>Первые шаги в Зоне: Пойти на конфронтацию с бандитами вместе с Вайпером</text>
 	</string>
 	<string id="esc_viper_salida_5_descr">
-		<text>Viper me dijo que charlemos un rato, debo ver quй tiene para decir.</text>
+		<text>Вайпер сказал, что у него есть много о чём поговорить; стоит с ним поразговаривать.</text>
 	</string>
 	<string id="esc_viper_salida_5_title">
-		<text>Primeros pasos en la zona: Vuelve a hablar con Viper</text>
+		<text>Первые шаги в Зоне: Вернуться и снова поговорить с Вайпером</text>
 	</string>
 	<string id="esc_frecuencias_sidorovich_1_descr">
-		<text>Busca entre las cosas de Atreo las frecuencias de los Militares para Sidorovich.</text>
+		<text>Поискать среди вещей Атрея документ "Военные частоты" по просьбе Сидоровича.</text>
 	</string>
 	<string id="esc_frecuencias_sidorovich_1_title">
-		<text>Frecuencias de los Militares: Revisa las cosas de Vovan/Atreo/Leto</text>
+		<text>"Военные частоты": проверить вещи Вована/Атрея/Лета</text>
+	</string>
+	<string id="esc_frecuencias_sidorovich_2_descr">
+		<text>Решить, что делать с документом.</text>
+	</string>
+	<string id="esc_frecuencias_sidorovich_2_title">
+		<text>"Военные частоты": Отдать документ Фанату или Сидоровичу?</text>
+	</string>
+	<string id="esc_frecuencias_sidorovich_3_descr">
+		<text>Вернуться к 2 часам ночи к Фанату, ночью мы сможем скрытно провести операцию.</text>
+	</string>
+	<string id="esc_frecuencias_sidorovich_3_title">
+		<text>"Военные частоты": Вернуться к глубокой ночи</text>
+	</string>
+	<string id="esc_frecuencias_sidorovich_reunion_4_descr">
+		<text>Забраться на крышу через окно и ждать на позиции.</text>
+	</string>
+	<string id="esc_frecuencias_sidorovich_reunion_4_title">
+		<text>"Военные частоты": Подняться на крышу и ожидать на позиции</text>
+	</string>
+	<string id="esc_frecuencias_sidorovich_reunion_5_descr">
+		<text>Это бало западнёй. Нам нужно защищаться любыми способами – я не могу оставить Фаната погибать</text>
+	</string>
+	<string id="esc_frecuencias_sidorovich_reunion_5_title">
+		<text>"Военные частоты": Отбиться от западни</text>
+	</string>
+	<string id="esc_frecuencias_sidorovich_infiltracion_4_descr">
+		<text>Следовать указаниям Фаната.</text>
+	</string>
+	<string id="esc_frecuencias_sidorovich_infiltracion_4_title">
+		<text>"Военные частоты": Следовать указаниям Фаната</text>
+	</string>
+	<string id="esc_frecuencias_sidorovich_infiltracion_5_descr">
+		<text>Вместе с Фанатом я должен незамеченым вернуться назад.</text>
+	</string>
+	<string id="esc_frecuencias_sidorovich_infiltracion_5_title">
+		<text>"Военные частоты": Незаметно сбежать</text>
 	</string>
 	<string id="esc_notas_hook_1_title">
-		<text>Cosas de los Veteranos: Revisa el baъl en el бtico</text>
+		<text>Хабар ветеранов: Проверить сундук на чердаке</text>
 	</string>
 	<string id="esc_notas_hook_1_descr">
-		<text>Sidorovich me diу informaciуn sobre el escondite de un grupo de veteranos. Debo revisar el бtico en la aldea de novatos</text>
+		<text>Сидорович дал мне наводку на убежище группы ветеранов. Я должен проверить чердак в Деревне новичков</text>
 	</string>
 	<string id="esc_notas_hook_2_title">
-		<text>Cosas de los Veteranos: Revisa el baъl sobre el tъnel</text>
+		<text>Хабар ветеранов: Проверить сундук над туннелем</text>
 	</string>
 	<string id="esc_notas_hook_2_descr">
-		<text>Esta gente parece manejar armamento de calidad. Tienen un vintar entre manos, debo revisar sobre el tъnel a Darkscape.</text>
+		<text>Похоже, эти люди занимаются высококлассным оружием. Сейчас они работают над винторезом; я должен проверить над туннелем в Тёмную Лощину.</text>
 	</string>
 	<string id="esc_notas_hook_3_title">
-		<text>Cosas de los Veteranos: Revisa la caja en el vagуn</text>
+		<text>Хабар ветеранов: Проверить ящик в вагоне</text>
 	</string>
 	<string id="esc_notas_hook_3_descr">
-		<text>Estoy encontrando cosas interesantes en estos escondites. Parece que toca revisar un vagуn.</text>
+		<text>Я нахожу интересные вещи в этих убежищах. Кажется, мне нужно проверить вагон.</text>
 	</string>
 
 	<!-- DARKSCAPE -->
 	<string id="dar_main_task_1_title">
-		<text>El viaje: Habla con Viper antes de seguir</text>
+		<text>Долгий путь: Поговорить с Вайпером перед отправлением</text>
 	</string>
 	<string id="dar_main_task_1_descr">
-		<text>Debo chequear cуmo va el equipo con Viper.</text>
+		<text>Необходимо узнать у Вайпера каково состояние команды.</text>
 	</string>
 	<string id="dar_main_task_1b_title">
-		<text>El viaje: Atraviesa Darkscape sin que muera nadie</text>
+		<text>Долгий путь: Пересечь Тёмную Лощину без потерь</text>
 	</string>
 	<string id="dar_main_task_1b_descr">
-		<text>Todo estб en Orden. Toca atravesar Darkscape, cuidar que no muera nadie y seguir el rastro a Atreo.</text>
+		<text>Всё в порядке. Мне нужно пересечь Тёмную Лощину, не потерять никого в пути и пойти по следам Атрея.</text>
 	</string>
 	<string id="dar_main_task_1c_title">
-		<text>El viaje: Ve a ver a Trodnik, el contacto de Viper</text>
+		<text>Долгий путь: Увидеться с Тропником, знакомым Вайпера</text>
 	</string>
 	<string id="dar_main_task_1c_descr">
-		<text>Tenemos noticias sobre Atreo. Parece que un contacto de Viper diу con йl y lo atraparon. Estamos por ir a verlo.</text>
+		<text>У нас есть новости насчёт Атрея. Похоже, знакомый Вайпера с ним пересёкся и схватил его. Мы направляемся к нему.</text>
 	</string>
 	<string id="dar_main_task_2_title">
-		<text>El viaje: Encuentra pistas sobre lo que pasу</text>
+		<text>Долгий путь: Отыскать улики, указывающие на произошедшее</text>
 	</string>
 	<string id="dar_main_task_2_descr">
-		<text>Esto no se ve nada bien. Todos estбn muertos y zombificados... Tengo que averiguar que pasу en la granja antes de que Atreo se escape.</text>
+		<text>Это выглядит плохо. Все мертвы и зомбифицированы... Я должен узнать, что случилось на ферме перед побегом Атрея.</text>
 	</string>
 	<string id="dar_main_task_3_title">
-		<text>El viaje: Busca refugio en el Valle Oscuro</text>
+		<text>Долгий путь: Найти пристанище в Тёмной Долине</text>
 	</string>
 	<string id="dar_main_task_3_descr">
-		<text>Tenemos que seguir a Atreo hasta el Valle Oscuro y averiguar dуnde estб.</text>
+		<text>Нам нужно последовать за Атреем в Тёмную Долину и узнать, где он.</text>
 	</string>
 	<string id="dar_main_task_4_title">
-		<text>El viaje: Ve a refugiarte en la granja</text>
+		<text>Долгий путь: Укрыться на ферме</text>
 	</string>
 	<string id="dar_main_task_4_descr">
-		<text>Viper dice que hay una granja mбs adelante en el Valle Oscuro. Debemos encontrar un lugar seguro para refugiarnos mientras investigamos.</text>
+		<text>Вайпер утверждает, что дальше, в Тёмной Долине, есть ферма. Нам необходимо найти безопасное место на время проведения расследования.</text>
 	</string>
 	<string id="dar_franco_task_1_title">
-		<text>El viaje: Habla con Viper sobre el francotirador</text>
+		<text>Долгий путь: Поговорить с Вайпером насчёт снайпера</text>
 	</string>
 	<string id="dar_franco_task_1_descr">
-		<text>Cabo detectу un Francotirador, me toca hablar con Viper sobre esto.</text>
+		<text>Федька заметил снайпера, нужно сообщить об этом Вайперу.</text>
 	</string>
 	<string id="dar_franco_task_1b_title">
-		<text>El viaje: Corrй hasta el siguiente бrbol</text>
+		<text>Долгий путь: Бежать к следующему дереву</text>
 	</string>
 	<string id="dar_franco_task_1b_descr">
-		<text>Cuando me den la seсal, debo llegar hasta el siguiente бrbol.</text>
+		<text>Когда я получу сигнал, я должен бежать к следующему дереву.</text>
 	</string>
 	<string id="dar_franco_task_1c_title">
-		<text>El viaje: Mata al francotirador</text>
+		<text>Долгий путь: Убить снайпера</text>
 	</string>
 	<string id="dar_franco_task_1b_descr">
-		<text>Ya estoy a rango de tiro, debo ocuparme del francotirador.</text>
+		<text>Снайпер уже в радиусе поражения, я должен его устранить.</text>
 	</string>
 	
 	<string id="val_medico_bandidos_0_title">
-		<text>Salvando al Mйdico: Habla con Kolyan</text>
+		<text>Спасая медика: Поговорить с Коляном</text>
 	</string>
 	<string id="val_medico_bandidos_0_descr">
-		<text>Para ganar el favor de Sultбn, debo ir al Norte de el cementerio de vehнculos y traer a salvo al mйdico de los bandidos. \n Primero debo ir a ver a Kolyan para mбs informaciуn.</text>
+		<text>Чтобы заработать расположение Султана, я должен пойти на сервер Кладбища техники и спасти их медика. \n Сначала нужно получить нужную информацию у Коляна.</text>
 	</string>
 	<string id="val_medico_bandidos_1_title">
-		<text>Salvando al Mйdico: Ve al cementerio de camiones</text>
+		<text>Спасая медика: Отправиться на Кладбище техники</text>
 	</string>
 	<string id="val_medico_bandidos_1_descr">
-		<text>Tengo que ir a ese lugar terrible їDeberнa comprar una escopeta con postas como recomendу Kolyan?</text>
+		<text>Мне придётся пойти в это ужасное место. Купить ли мне дробовик, как рекомендовал Колян?</text>
 	</string>
 	<string id="val_medico_bandidos_2_title">
-		<text>Salvando al Mйdico: Investiga las ъltimas coordenadas donde lo detectaron</text>
+		<text>Спасая медика: Исследовать место, где последний раз был замечен медик</text>
 	</string>
 	<string id="val_medico_bandidos_2_descr">
-		<text>Kolyan me diу las ъltimas coordenadas donde vieron al Matasanos. Debo encontrarlo.</text>
+		<text>Колян мне дал координаты места, где в последний раз был засечён Мясник. Я должен его найти.</text>
 	</string>
 	<string id="val_medico_bandidos_3_title">
-		<text>Salvando al Mйdico: Acaba con los mutantes</text>
+		<text>Спасая медика: Истребить мутантов</text>
 	</string>
 	<string id="val_medico_bandidos_3_descr">
-		<text>El mйdico no saldrб hasta que mate a los mutantes, debo ocuparme de eso primero.</text>
+		<text>Медик не выйдет, пока мутанты не будут мертвы, – стоит об этом позаботиться.</text>
 	</string>
 	<string id="val_medico_bandidos_4_descr">
-		<text>Debo escoltar a este impresentable con vida hasta el Valle Oscuro.</text>
+		<text>Я должен эскортировать эту неприятную особу невредимой в Тёмную Долину.</text>
 	</string>
 	<string id="val_medico_bandidos_4_title">
-		<text>Salvando al Mйdico: Vuelve al Valle Oscuro con el Matasanos entero</text>
+		<text>спасая медика: Вернуться в Тёмную Долину с Мясником в целости и сохранности</text>
 	</string>
 	<string id="val_medico_bandidos_5_descr">
-		<text>Ya traje con vida al Matasanos. Debo avisar a Kolyan.</text>
+		<text>Я уже благополучно привёл Мясника обратно. Следует сообщить Коляну.</text>
 	</string>
 	
 	<string id="val_incursion_trc_1_title">
-		<text>Recuperando el control: Ve a pedir unos hombres a Kashalot</text>
+		<text>Восстанавливая контроль: Запросить у Коляна людей</text>
 	</string>
 	<string id="val_incursion_trc_1_descr">
-		<text>Kolyan quiere que guнe a los bandidos a travйs del cementerio de camiones. Tengo que pedirle gente a un tal Kashalot.</text>
+		<text>Колян хочет, чтобы я провёл бандитов через Кладбище техники. Нужно попросить у некого Кашалота выделить мне людей.</text>
 	</string>
 	<string id="val_incursion_trc_2_title">
-		<text>Recuperando el control: Ve con Kashalot al Cementerio de Camiones</text>
+		<text>Восстанваливая контроль: Отправиться с Кашалотом на Кладбище техники</text>
 	</string>
 	<string id="val_incursion_trc_2_descr">
-		<text>Bueno... Kashalot se ve entusiasmado por venir con nosotros. Vamos a ir con йl a buscar a sus hombres.</text>
+		<text>Хорошо... Кашалот выглядит рад пойти с нами. Мы отправляемся с ним искать его парней.</text>
 	</string>
 	<string id="val_incursion_trc_3_title">
-		<text>Recuperando el control: Toma el primer punto</text>
+		<text>Восстанавливая контроль: Захватить первую точку</text>
 	</string>
 	<string id="val_incursion_trc_3_descr">
-		<text>Hay que limpiar el primer lugar.</text>
+		<text>Необходимо зачистить первое место.</text>
 	</string>
 	<string id="val_incursion_trc_4_title">
-		<text>Recuperando el control: Toma el segundo punto</text>
+		<text>Восстанавливая контроль: Захватить вторую точку</text>
 	</string>
 	<string id="val_incursion_trc_4_descr">
-		<text>Hay que limpiar el segundo lugar.</text>
+		<text>Необходимо зачистить второе место.</text>
 	</string>
 	<string id="val_incursion_trc_5_title">
-		<text>Recuperando el control: Toma el ultimo punto</text>
+		<text>Восстанавливая контроль: Захватить последнюю точку</text>
 	</string>
 	<string id="val_incursion_trc_5_descr">
-		<text>Hay que limpiar el ultimo lugar.</text>
+		<text>Необходимо зачистить последнее место.</text>
 	</string>
 	<string id="val_incursion_trc_6_title">
-		<text>Recuperando el control: Rechaza los refuerzos de los monolitos</text>
+		<text>Восстанавливая контроль: Отбиться от подкрепления монолитовцев</text>
 	</string>
 	<string id="val_incursion_trc_6_descr">
-		<text>Vienen mбs. Tenemos que limpiarlos a todos.</text>
+		<text>Сюда идёт ещё больше врагов. Нужно истребить их всех.</text>
 	</string>
 	<string id="val_incursion_trc_7_title">
-		<text>Recuperando el control: Habla con Kashalot</text>
+		<text>Восстанавливая контроль: Поговорить с Кашалотом</text>
 	</string>
 	<string id="val_incursion_trc_7_descr">
-		<text>Eso fuй dificil. Tengo que hablar con Kashalto ahora.</text>
+		<text>Это было нелегко. Сейчас нужно пообщаться с Кашалотом.</text>
 	</string>
 </string_table>
