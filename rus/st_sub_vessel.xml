@@ -102,112 +102,112 @@
 		<text>Нет... Они не умеют ставить палатки. (Смеётся)</text>
 	</string>
 	<string id="esc_viper_salida_5_msg">
-		<text>Lo sabнa. Esa hoguera ha sido usada recientemente. Viktor, preparate. Los bandidos traman algo, vamos a pegarles una visita.</text>
+		<text>Я так и знал! Недавно костёр ещё горел. Виктор, готовься. Бандиты что-то задумали – придётся нанести им визит.</text>
 	</string>
 	<string id="esc_viktor_salida_5_msg">
-		<text>їЎBandidos!? No sabнa que estбbamos tratando con personas. їQuй mierda hacemos?</text>
+		<text>Бандиты!? Я не думал, что мы будем иметь дело с людьми. Дерьмо, что нам делать?</text>
 	</string>
 	<string id="esc_viper_salida_5b_msg">
-		<text>Dejame ir primero, espera quieto a ver que asome alguno y le disparas. Luego puedes quedarte con todo lo que encontremos.</text>
+		<text>Давай я пойду первым. Ты оставайся на чеку и жди, пока один из них объявится, – затем стреляй. После этого всё, что мы найдём, – твоё.</text>
 	</string>
 	<string id="esc_viktor_salida_5b_msg">
-		<text>Bien. Te cubro, voy por detrбs tuyo.</text>
+		<text>Хорошо. Я буду сзади и тебя прикрою.</text>
 	</string>
 	<string id="esc_viper_salida_viktor_msg_2">
-		<text>Me duele la muсeca... Y mis manos tiemblan. Nunca habia matado a nadie.</text>
+		<text>Моё запястье болит... И руки трясутся. Мне никогда ещё не приходилось убивать человека...</text>
 	</string>
 	<string id="esc_viper_salida_6_msg">
-		<text>El temblor te va a durar unos minutos... A todos nos pasa. Si te sirve de algo, ellos te hubiesen hecho cosas peores si tenнan la oportunidad, son despiadados. En fin, hablemos un rato. Encontrй algo interesante.</text>
+		<text>Тремор пройдёт через несколько минут... Все через это проходят. Если тебе станет от этого легче, то будь у них шанс, тебя бы ждала гораздо более ужасная судьба – у бандитов нет жалости. Ладно, давай немного поболтаем. Я нашёл кое-что интересное.</text>
 	</string>
 	<string id="esc_nimble_1_msg">
-		<text>ЎHola! їEres Viktor, verdad? Bienvenido a la zona. Viper me pasу tu contacto, te espero en la casa al Oeste de la aldea de novatos.</text>
+		<text>Салют! Ты же Виктор, не так ли? Добро пожаловать в Зону. Вайпер передал мне твой контакт. Жду тебя в домике на западе Деревни новичков.</text>
 	</string>
 	<string id="esc_nimble_2_msg">
-		<text>Ten cuidado con los bandidos.</text>
+		<text>Остерегайся бандитов.</text>
 	</string>
 	<string id="esc_nimble_3_msg">
-		<text>ЎViktor! Ya pude abrir la  caja. Pasate y charlamos.</text>
+		<text>Витёк! Я смог открыть твою коробку. Заходи – поболтаем.</text>
 	</string>
 	<string id="esc_trader_msg_1">
-		<text>Viktor, tengo informaciуn que te va a ser muy ъtil. Pasate asн charlamos un rato.</text>
+		<text>Виктор, у меня есть информация, что может тебя заинтересовать. Загляни – и мы всё обсудим.</text>
 	</string>
 	<string id="esc_trader_msg_2">
-		<text>Tu debes ser el nuevo. Vinicio їVerdad? Ponte cуmodo, tengamos una buena charla.</text>
+		<text>Ты дожно быть новенький. Вадим, правильно? Располагайся поудобнее, немного поболтаем.</text>
 	</string>
 	<string id="esc_trader_msg_viktor">
-		<text>Es Viktor, me llamo Viktor.</text>
+		<text>Меня зовут Виктор.</text>
 	</string>
 	<string id="esc_trader_msg_3">
-		<text>Si, si... Viktor. Pasa.</text>
+		<text>Да, да... Виктор. Какая разница.</text>
 	</string>
 	<string id="esc_pollo_task_msg_0">
-		<text>Ve con confianza, entre esas cajas y restos de metal hay una incoherencia en las lecturas. Parate ahн.</text>
+		<text>Не волнуйся, продолжай. Среди тех ящиков и кусков металлолома наблюдается нерегулярность в чтениях прибора. Просто постой там.</text>
 	</string>
 	<string id="esc_pollo_task_viktor_msg_0">
-		<text>їEs acб, no?</text>
+		<text>Вот тут, правильно?</text>
 	</string>
 	<string id="esc_pollo_task_msg_1">
-		<text>ЎBien! Era justo donde dije. Muy bien, a pesar de la radiaciуn, te lo estбs tomando muy bien-</text>
+		<text>Отлично! Прямо там, где я и сказал. Несмотря на радиацию, ты держишься на удивление хорошо.</text>
 	</string>
 	<string id="esc_pollo_task_viktor_msg_1">
-		<text>Si, si їЎY ahora a dуnde voy!?</text>
+		<text>Да, да. И куда мне идти сейчас!?</text>
 	</string>
 	<string id="esc_pollo_task_msg_2">
-		<text>їVes los restos de la cabina de grъa mбs adelante? Es allн.</text>
+		<text>Видишь те остатки кабины крана впереди? Да, прямо там.</text>
 	</string>
 	<string id="esc_pollo_task_msg_3">
-		<text>Bien. No hay tiempo para escondites, ignora todo o la radiaciуn te va a dejar calvo.</text>
+		<text>Хорошо. Нет времени всё осматривать на признак тайников, забудь про них, а иначе полысеешь от радиации.</text>
 	</string>
 	<string id="esc_pollo_task_viktor_msg_3">
-		<text>їЎA dуnde mierda voy ahora!?</text>
+		<text>Побыстрее! Куда мне дальше!?</text>
 	</string>
 	<string id="esc_pollo_task_msg_4">
-		<text>La salida de la tuberнa de acero cubierta de hormigуn, revisa por ahн їVa? Apъrate.</text>
+		<text>Направляйся к концу той забетонированной стальной трубы. Посмотри там, хорошо? Поторопись.</text>
 	</string>
 	<string id="esc_pollo_task_msg_5">
-		<text>Hum... Hay un нndice de radiaciуn mбs alto que el normal, mejor corre. El siguiente lugar es detrбs tuyo, acercбndote a esa vieja carga de camiуn oxidada.</text>
+		<text>Хммм... Уровень радиации здесь немного превышает норму – тебе лучше бежать. Следующее место прямо за тобой, около кузова того старого заржавелого грузовика.</text>
 	</string>
 	<string id="esc_pollo_task_viktor_msg_5">
-		<text>їЎY BIEN!?</text>
+		<text>Так, куда сейчас!?</text>
 	</string>
 	<string id="esc_pollo_task_msg_6">
-		<text>Oh, pensй que ya habнa hablado. En el suelo, girando al бrbol a tu derecha, ve ahн.</text>
+		<text>А, я думал, что уже сказал. Обойди дерево справа от тебя и напраляйся вот туда.</text>
 	</string>
 	<string id="esc_pollo_task_msg_7">
-		<text>Bien, el siguiente te lo marco en la PDA, es complicado explicarlo. Debes acercarte a las anomalнas... Ve con cuidado.</text>
+		<text>Замечательно, я помечу следующее на твоём КПК, его сложно описать словами. Тебе придётся близко подойти к аномалиям... Так что будь осторожен.</text>
 	</string>
 	<string id="esc_pollo_task_msg_8">
-		<text>Bien, quedan unos 10 lugares mбs.</text>
+		<text>Окей, осталось всего 10 мест.</text>
 	</string>
 	<string id="esc_pollo_task_viktor_msg_8">
-		<text>їЎDiez!?</text>
+		<text>Десять!?</text>
 	</string>
 	<string id="esc_pollo_task_msg_9">
-		<text>Es broma, amigo. Sal de ahн de una vez. Ven asн te doy unos botiquines y una merecida recompensa.</text>
+		<text>Да шучу я, бро. Выбирайся уже оттуда. Подходи, я тебе дам немного аптечек и полностью заслуженную награду.</text>
 	</string>
 	<string id="esc_sound_stalker_mago">
-		<text>Eh, Mira. Ahi va el que mato al Mago.</text>
+		<text>Хей, посмотри. Там идёт тот, кто прикончил Мага.</text>
 	</string>
 	<string id="esc_sound_stalker_fanatico">
-		<text>Ahi va el que te gano el encargo de fanatico. Dicen que es rapido che.</text>
+		<text>Там идёт чувак, что выполнил заданку Фаната быстрее тебя. Слышал, он очень быстр.</text>
 	</string>
 	<string id="esc_sound_stalker_tejado">
-		<text>Pssst, mira. Es el stalker que anda trepando los tejados.</text>
+		<text>Шшш, смотри. Там сталкер, что по крышам прыгал.</text>
 	</string>
 	<string id="esc_sound_stalker_controlador">
-		<text>ЎEy! Gracias por ocuparte del mutante del tъnel. Hace rato que tenнa que ir a los pantanos...</text>
+		<text>Хей! Спасибо за то, что разобрался с мутантом в туннеле. Я уже столько времени хочу отправиться на болота...</text>
 	</string>
 	<string id="esc_sound_stalker_aldea">
-		<text>Ahi va Viktor. Gracias por asegurar la aldea, hermano.</text>
+		<text>О, там Витёк идёт. Спасибо, что защищаешь деревню, брат.</text>
 	</string>
 	<string id="esc_sound_stalker_salvado">
-		<text>їEse el que te salvo el otro dia?</text>
+		<text>Это, случаем, не тот сталкер, что тебя спас на днях?</text>
 	</string>
 	<string id="esc_sound_stalker_hook">
-		<text>їEse no es el que esta buscando Hook?</text>
+		<text>Это, случайно, не тот, кого Крюк ищет?</text>
 	</string>
 	<string id="esc_sound_stalker_arrastrado">
-		<text>Es el tipo que arrastraba Viper hace rato...</text>
+		<text>Ха, это парень, которого Вайпер за собой водил...</text>
 	</string>
 	<string id="esc_sound_stalker_detras">
 		<text>Hey, atras tuyo va Viktor. ЎNo! Pero no mires ЎTe va a ver!</text>
