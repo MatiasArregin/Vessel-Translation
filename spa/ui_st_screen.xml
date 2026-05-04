@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="windows-1252"?>
 <string_table>
 	<string id="st_configuracion_recomendada">
-		<text>BETA ABIERTA 0.914</text>
+		<text>BETA ABIERTA 0.918C</text>
+	</string>
+	<string id="st_vessel_intro">
+		<text>sapucai</text>
+	</string>
+	<string id="pda_encyclopedia_notify">
+		<text>Artículo Desbloqueado en la Guía</text>
+	</string>
+	<string id="st_vessel_iniciar">
+		<text>Vessel - Beta abierta - Click para comenzar</text>
+	</string>
+	<string id="st_text_screen_sobre_notas_a">
+		<text>Durante la partida encontrarás objetos con información.</text>
+	</string>
+	<string id="st_text_screen_sobre_notas_b">
+		<text>Úsalos desde el inventario para reproducir sonidos o escuchar pensamientos de Viktor.</text>
+	</string>
+	<string id="st_text_screen_sobre_notas_c">
+		<text>Todo se guardará en la pestaña "Guía" de la PDA.</text>
+	</string>
+	<string id="mp_si_dec">
+		<text>segundos</text>
+	</string>
+	<string id="kb_inspect">
+		<text>Inspeccionar</text>
 	</string>
 	<string id="actor_inventory_box_use">
 		<text>Abrir caja personal ($$ACTION_USE$$)</text>
@@ -455,6 +479,9 @@
 </string>
 <string id="st_quedarse_nivel">
     <text>Quedarse en el nivel actual</text>
+</string>
+<string id="pda_encyclopedia_locked">
+    <text>Bloqueado</text>
 </string>
 <string id="st_puerta_bloqueada">
     <text>Algo bloquea la puerta</text>
