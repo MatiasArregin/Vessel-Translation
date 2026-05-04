@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="windows-1252"?>
 <string_table>
 	<string id="st_configuracion_recomendada">
-		<text>OPEN BETA 0.914</text>
+		<text>BETA ABIERTA 0.918C</text>
+	</string>
+	<string id="st_vessel_intro">
+		<text>-</text>
+	</string>
+	<string id="pda_encyclopedia_notify">
+		<text>Guide Entry Unlocked</text>
+	</string>
+	<string id="st_vessel_iniciar">
+		<text>Vessel – Open Beta – Click to Begin</text>
+	</string>
+	<string id="st_text_screen_sobre_notas_a">
+		<text>During gameplay, you’ll find items containing information.</text>
+	</string>
+	<string id="st_text_screen_sobre_notas_b">
+		<text>Use them from your inventory to play audio or hear Viktor’s thoughts.</text>
+	</string>
+	<string id="st_text_screen_sobre_notas_c">
+		<text>All entries are saved under the “Guide” tab in your PDA.</text>
+	</string>
+	<string id="mp_si_dec">
+		<text>Seconds</text>
+	</string>
+	<string id="kb_inspect">
+		<text>Inspect</text>
+	</string>
+	<string id="pda_encyclopedia_locked">
+    	<text>Locked</text>
 	</string>
 	<string id="actor_inventory_box_use">
 		<text>Open personal box ($$ACTION_USE$$)</text>
