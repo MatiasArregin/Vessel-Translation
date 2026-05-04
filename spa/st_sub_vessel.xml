@@ -231,16 +231,25 @@
 		<text> La PDA dice “Centinela”. Hay algunas entradas escritas de hace unos días: “La herida de mi pierna se está infectando, necesito un préstamo para pagar los putos antibióticos.” ugh, pobre tipo... Hay otra entrada unos días después. “Esta este tipo, Atreo. Viene de la nada y dice que me puede dar el dinero que necesito si lo acompaño a los pantanos. Obviamente acepté, aunque cojee y duela, es mejor que perder la puta pierna.” Al final no le salió bien... Por eso cojeaba el fiambre.</text>
 	</string>
 	<string id="esc_item_nota_hook_1">
-		<text>Una nota en un papel algo maltratado que dice: Esta es mi chimenea. Mi escondite, por favor no robar mas cosas. Los stalkers me respetan, no voy a cambiar de escondite, voy a seguir usando este lugar y si descubro quien fue el ladron, le voy a meter un tiro... \n Abajo parece haber una lista: \n Un vodka para la radiacion y las noches largas. \n Dos vendas por los golpes de Dante... Parece que no guardaron muchas cosas en el escondite esta vez.</text>
+		<text>Una hoja vieja con algunas anotaciones entre personas. Las últimas notas dicen: "No pude entrar. Había muchos y venían por todos lados, parece que estan marchando al Sur en cantidades industriales, con sus cerebros recién lavaditos. El Rifle se me rompió de tanto uso, así que lo dejo en la reserva para arreglarlo. Dante, voy a necesitar de tu cinta azul, la de "todo uso". Te dejo a cambio algunos suministros." La respuesta a esa nota está escrita abajo, con letra prolija: "Volví machacado del Bosque. Me quedo los suministros que dejaron, me llevo tu Vintar para repararlo en la mesa que hay en el cementerio. Tanque me pidió que deje armamento de reserva. Lo voy a guardar en la caja N°13, sobre el túnel que va a Darkscape. Dejo algunas pastillas acá que sé que las van a necesitar, hasta la próxima. Firma: Dante". (Curioso) Así que tenemos a Dante y otro stalker.</text>
 	</string>
 	<string id="esc_item_nota_hook_2">
-		<text>Otro papel maltratado, dice con letra desprolija e iracunda: Guardo unas medicinas. Estuve preguntando si alguien sabe quien me robo las cosas anteriores y averigue quien sos. Si te veo, TE MATO... \n Uf, Espero no meterme en problemas.</text>
+		<text>Otro papel algo maltrecho, se nota que ha pasado por varias manos. Las últimas notas dicen: "Hook, Tanque, Vera. Vi un novato intentando tomar las cosas de este baúl, parece que con el cambio de estación quedó a la vista. Me llevo todo al baúl N°7 y abandono este. Dejo una de las llaves. Cuidense." Abajo dice con letra cursiva: "Dante de mierda, siempre haciendote el misterioso cambiando los escondites (Viktor ríe mientras lee) como si tuviesemos tiempo de andar buscando y buscando. Dejé una revista muy importante acá y ahora no la encuentro. Perdí mi mapa con los nombres de los escondites. No sé cual chota es el N°7 ¿¡Era el que estaba dentro del vagón sobre el puente, el vagón sobre el Río Pripyat... O el vagón sobre Darkscape!? Que bronca amigo, te voy a dar una buena piña cuando te cruce." La última nota parece no estar firmada. Pero ya hay mas nombres: Dante, Hook, Vera y Tanque.</text>
 	</string>
 	<string id="esc_item_nota_hook_3">
-		<text>Este papel esta mas cuidado, con letra diferente a la de Hook. alguien escribio: Amigo, soy Dante. No encontre las cosas que querias dejarme, asumo que nos robaron. Pregunte al viejo y me dijo que nos robo un tal Tokha. Te dejo la mira que me pediste la ultima vez, cuidate... Parece que varias personas usan este escondite.</text>
+		<text>Una bola de papel arrugado, al extenderlo se puede leer una nota: "Vi gente que solía ser de Cielo Despejado en el Cordón ¿Estarán planeando algo? No pude quedarme pero les dejo aviso para que no se enteren por sorpresa. Tanque, muchas gracias por el artefacto, me ayuda a llevar mejor el peso. Dejo algunos regalitos a cambio, cuidense y nos vemos en el Bar." Abajo dice con otra letra: "Chicos, los monolitos llegaron al Cordón y cerraron el Norte. Parece que Deber está intentando mantenerlos a raya pero eran MUCHOS. No creo que aguanten, así que me voy por los pantanos. Veré de dejar información en la estación de bombeo, en lo alto, ya saben donde. Tengan cuidado, sé que mataron al comerciante Mark hace poco". (Preocupado) Acá la cosa parece ponerse fea...</text>
 	</string>
 	<string id="esc_item_nota_hook_4">
-		<text>Otro papel maltratado de nuevo. Esta debe ser la letra de Hook. Esta vez escribio: Parece que indagaste mas de lo que debias. Te dejo instrucciones para que arreglemos esto de una vez y dejes de robarme, hijo de puta. \n Ahora mismo estoy de viaje por el Norte, pero si ves al tabernero, preguntale donde buscar a hook. \n Firma tu peor enemigo: Hook Socorrista. \n PD: Dante, si lees esto no te enojes, no estoy buscando problemas con nadie. Ahora estoy camino al Norte mediante Darkscape, seguro tome lo que dejaste en el escondite tras la gasolinera, nos vemos en yantar, amigo... ¡Mierda! al final si me meti en problemas con Hook... Tengo que poner las cosas bien en claro.</text>
+		<text>Una nota en una servilleta: "Chicos, vine a los pantanos a chequear la situación sobre la gente de Cielo Despejado. Parece que estan resurgiendo... Si bien son pocos, los veo bien armados y marchando al Norte durante las noches. De día no parecen mostrarse para no tener problemas con los militares... Voy a tener que ir por Darkscape, espero que mi revista esté en las rocas tras la gasolinera o vamos a tener problemas :) \n PD: Me llevo todos los suministros, dejo la llave de Dante para que no llore luego." (Con una leve risa) Parece que este tipo sigue enojado por sus revistas... (Determinado) Tengo que ir al siguiente escondite.</text>
+	</string>
+	<string id="esc_item_nota_hook_5">
+		<text>Un papel un poco más cuidado que los anteriores, escrito con calma y prolijidad: "Dante, Hook, Me encontré con Tanque y seguimos camino juntos al Hospital ¡Espero verlos en el bar! Los extraño. Firma: Vera." Otra letra algo desprolija escribe: "MÁS VALE QUE LLEVEN MIS REVISTAS AL BAR ¿ME ENTENDIERON? VERA QUIERE VERLOS. LOS ESPERO AHÍ. VOY A DEJAR SUMINISTROS ENCIMA DEL PUENTE DEL VALLE, PERO SEPAN QUE LO HAGO CON MUCHA BRONCA. FIRMA: TANQUEATLETA EL MEJOR STALKER DE LA ZONA". Bueno, no encontró sus revistas entonces... Pobre Tanque.</text>
+	</string>
+	<string id="esc_item_nota_hook_6">
+		<text>Una nota escrita sobre un envoltorio de salchicha dietética... Dice: "Arreglé el Rifle, Hook. Pero no lo puedo dejar acá, está movido el Valle. Ustedes me entienden... Voy a dejarlo en el Cementerio de Camiones. Dejo el cazador de tesoros para encontrarlo, ya que el escondite que teníamos ahí fué destruído por los mutantes. Ya saben como funciona. - Dante". ¿Será el rifle que mencionaban en la primera nota? Tengo que encontrarlo.</text>
+	</string>
+	<string id="esc_item_nota_hook_7">
+		<text>Otra nota, esta vez escrita a las apuradas. El mensaje es breve: “Averigüé con el Doctor algo sobre los artefactos. El de la manipulación PSI lo tiene Leto, parece que no sabe usarlo bien y el monolito lo está rastreando. El de la regeneración lo tiene un tal Kolyan, no lo conozco pero parece que es un bandido con bastante influencia. Solo nos quedaría encontrar dos más, dejando de lado el nuestro. Los veo en el Hospital, a ver si tu dato es bueno, Hook.” Firmada por Dante... Necesito encontrar a estos tipos.</text>
 	</string>
 	<string id="esc_item_nota_leto">
 		<text>Una letra prolija y caligrafica escribe: ¡Paso de nuevo! ¡Pero esta vez me adelante! Pude robar sus cosas antes de que se entere siquiera, tremendo estupido. Es increible que sigan creyendome cada vez que me cambio la mascara de gas, los stalkers son cada vez mas descuidados estos dias... \n Debajo de la nota hay una cara enojada >:( escrito de forma desprolija, que no cuadra con la caligrafia calmada de antes ¿Sera de otra persona?</text>
@@ -311,6 +320,9 @@
 	<string id="esc_frecuencias_infiltracion_fanatico_4">
 		<text>Perfecto. Espera a que se despeje el camino y vuelve por donde viniste. Puedes trepar el techo para saltar la valla.</text>
 	</string>
+	<string id="esc_fanatico_logro_msg_0">
+		<text>Hijo, tengo buenas noticias. Ven a verme antes de irte.</text>
+	</string>
 	<string id="esc_msg_monolito_cruz">
 		<text>El monolito tenia razon, has venido...</text>
 	</string>
@@ -318,13 +330,13 @@
 		<text>Escucha, hace años que no piso los grandes pantanos. Tengo mucha historia con ese lugar, y no es buena. Vamos con cuidado.</text>
 	</string>
 	<string id="esc_viktor_pantanos_camino_1">
-		<text>Entendido. ¿Así que historia, che? ¿Qué pasó ahí?</text>
+		<text>Entendido. ¿Pero cómo es eso de historia? ¿Qué pasó ahí?</text>
 	</string>
 	<string id="esc_viper_pantanos_camino_2">
 		<text>Cuento largo, amigo. Muy largo. En otro momento que viajemos más relajados te cuento.</text>
 	</string>
 	<string id="esc_viktor_pantanos_camino_2">
-		<text>Bien. Me la debés para la próxima.</text>
+		<text>Bien. Pero no se me va a olvidar eh.</text>
 	</string>
 	<string id="esc_viper_pantanos_camino_3">
 		<text>Te cubro, cruza el alambrado y ve por las vías. Yo iré detrás tuyo asegurándome que nadie nos siga</text>
@@ -342,7 +354,7 @@
 		<text>Como a un kilómetro hay ruinas ferroviarias destruidas por las anomalías. Luego hay un puente que cruza el Río Pripyat.</text>
 	</string>
 	<string id="mar_viktor_pantanos_vias_3">
-		<text>Así que un puente. Interesante…</text>
+		<text>Así que un puente. Interesante...</text>
 	</string>
 	<string id="mar_viper_pantanos_vias_3">
 		<text>Sé que ansias recorrer la zona, Viktor. Pero no te pierdas mucho pensando en el futuro. Concentrémonos en esto. No quiero pasar un segundo demás aquí.</text>
@@ -357,7 +369,7 @@
 		<text>Amigo, dame un segundo. Ya que estamos por aquí, déjame hacer una parada rápida.</text>
 	</string>
 	<string id="mar_viktor_pantanos_cem_1">
-		<text>Dale ¿Qué pasó?</text>
+		<text>Ok ¿Qué pasó?</text>
 	</string>
 	<string id="mar_viper_pantanos_cem_2">
 		<text>Descansen en paz, amigos...</text>
@@ -372,7 +384,7 @@
 		<text>Hay demasiado silencio. No me gusta.</text>
 	</string>
 	<string id="mar_viktor_llegando_2">
-		<text>¿¡Y ESO!?</text>
+		<text>¿¡Y ese, qué le pasa!?</text>
 	</string>
 	<string id="mar_viper_llegando_2">
 		<text>¡Dispara! ¡Ya no es humano!</text>
@@ -575,7 +587,7 @@
 		<text>¡Sí, capitán! Tendré mi equipo listo para esta noche...</text> 
 	</string>
 	<string id="esc_arma_viktor_msg_3">
-		<text>Estás hasta las manos, Cabo...</text> 
+		<text>(Risa) Estás metido hasta el cuello, Cabo.</text> 
 	</string>
 	<string id="esc_arma_cabo_msg_4">
 		<text>Viktor mira... (Susurrando) Por favor, te encargo mi arma. Te pagaré bien.</text> 
@@ -923,7 +935,7 @@
 		<text>¡Cuidado! ¡POR LA DERECHA!</text>
 	</string>
 	<string id="trc_susto_matasanos_1">
-		<text>¡Mierda! Estan llegando más. Voy a morir hoy… ¡VOY A MORIR HOY!</text>
+		<text>¡Mierda! Estan llegando más. Voy a morir hoy... ¡VOY A MORIR HOY!</text>
 	</string>
 	<string id="trc_susto_matasanos_2">
 		<text>No quiero morir :c</text>
