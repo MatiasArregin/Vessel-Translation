@@ -240,7 +240,16 @@
 		<text>A crumpled ball of paper. Once unfolded, there’s a note inside: "Saw some people who used to be Clear Sky in Cordon. Are they planning something? Couldn’t stick around, but I’m leaving this warning so it doesn’t catch you off guard. Tank, thanks a lot for the artifact — makes carrying all this weight a lot easier. Left a few goodies in return. Stay safe, see you at the Bar." Below it, in different handwriting: "Guys, Monolith forces reached Cordon and sealed off the north. Looks like Duty is trying to hold them back, but there were a LOT of them. I don’t think they’ll last, so I’m heading through the swamps. I’ll try to leave intel at the pumping station, up top — you know where. Be careful... I heard they killed the trader Mark recently." Yeah... things are getting bad.</text>
 	</string>
 	<string id="esc_item_nota_hook_4">
-		<text>A note scribbled on a napkin: "Guys, I came to the swamps to check on the Clear Sky situation. Looks like they’re making a comeback… They’re few, but well-armed, and I’ve seen them moving north at night. During the day, they keep a low profile — probably to avoid trouble with the military. I’ll have to go through Darkscape. Hope my mag is still in the rocks behind the gas station… or we’re gonna have a problem :) P.S. Took all the supplies. Left Dante’s key so he doesn’t start whining." Looks like this guy’s still pissed about his magazines... I need to check the next stash.</text>
+		<text>A note scribbled on a napkin: "Guys, I came to the swamps to check on the Clear Sky situation. Looks like they’re making a comeback… They’re few, but well-armed, and I’ve seen them moving north at night. During the day, they keep a low profile — probably to avoid trouble with the military. I’ll have to go through Darkscape. Hope my mag is still in the rocks behind the gas station... or we’re gonna have a problem :) P.S. Took all the supplies. Left Dante’s key so he doesn’t start whining." Looks like this guy’s still pissed about his magazines... I need to check the next stash.</text>
+	</string>
+	<string id="esc_item_nota_hook_5">
+		<text>A slightly more carefully handled piece of paper than the others, written neatly and with patience: "Dante, Hook — I ran into Tank and we headed toward the Hospital together. Hope to see you at the bar! Miss you guys. -Vera" Another, much messier handwriting adds: "YOU BETTER BRING MY MAGAZINES TO THE BAR, GOT IT? VERA WANTS TO SEE YOU. I’LL BE WAITING THERE. I’LL LEAVE SUPPLIES ON TOP OF THE VALLEY BRIDGE — BUT KNOW I’M DOING IT VERY PISSED OFF. — TANKATHLETE, THE BEST STALKER IN THE ZONE" Well... looks like he never got his magazines. Poor Tank.</text>
+	</string>
+	<string id="esc_item_nota_hook_6">
+		<text>A note scribbled on a diet sausage wrapper... It reads: "I fixed the rifle, Hook. But I can’t leave it here—the Valley’s too hot right now. You know how it is... I’ll stash it at the Truck Cemetery. I’m leaving the treasure hunter to help you find it, since our old stash there got wrecked by mutants. You know how it works. — Dante" Could this be the rifle they mentioned in the first note? I need to find it.</text>
+	</string>
+	<string id="esc_item_nota_hook_7">
+		<text>Another note, this one written in a hurry. The message is short: "I checked with the Doctor about the artifacts. The PSI-manipulation one is with Leto—seems he doesn’t really know how to use it, and Monolith is tracking him. The regeneration one is with someone named Kolyan. I don’t know him, but he sounds like a bandit with some serious pull. That leaves us with two more to find, not counting ours. I’ll see you at the Hospital—let’s hope your lead checks out, Hook. — Dante" Signed by Dante... I need to track these guys down.</text>
 	</string>
 	<string id="esc_item_nota_leto">
 		<text>Neat, almost calligraphic handwriting reads: "I came through again! But this time I got ahead of him! Managed to steal his stuff before he even noticed — what a complete idiot. It’s unbelievable they still fall for it every time I switch gas masks… stalkers are getting sloppier by the day." Below the note, there’s a messy, angry face scribbled: >:( The handwriting doesn’t match the calm script above...Was that someone else?</text>
@@ -310,9 +319,12 @@
 	</string>
 	<string id="esc_frecuencias_infiltracion_fanatico_4">
 		<text>Perfect. Wait for an opening, then head back the way you came. You can climb onto the roof to get over the fence.</text>
-	</string>												 
+	</string>
+	<string id="esc_fanatico_logro_msg_0">
+		<text>Son, I have good news. Come see me before you leave.</text>
+	</string>
 	<string id="esc_msg_monolito_cruz">
-		<text>The Monolith was right… you’ve come.</text>
+		<text>The Monolith was right... you’ve come.</text>
 	</string>
 	<string id="esc_viper_pantanos_camino_1">
 		<text>Listen... I haven’t set foot in the Great Swamps in years. Got a lot of history with that place — none of it good. We go in careful.</text>
@@ -415,7 +427,7 @@
 		<text>Damn filthy dogs!</text>						  
 	</string>
 	<string id="esc_msg_viktor_perros_1a">
-		<text>¡Ayúdame, cagón!</text>
+		<text>Dont be a pussy, Help me!</text>
 	</string>
 	<string id="esc_msg_vovan_perros_2">
 		<text>Ah, for fuck’s sake... I thought you’d be more useful. Ended up doing most of the work myself.</text>
@@ -783,403 +795,403 @@
 		<text>The mutants must’ve heard all the gunfire earlier.</text>
 	</string>
 	<string id="dar_viper_msg_13">
-		<text>¡Alto! Hay monolitos sobre el puente. Avancen con la cabeza a gachas. Dogo, va para ti eso también, no hagas un escándalo de nuevo.</text>
+		<text>Hold it! Monolith on the bridge. Keep your heads down as you move. Dogo—that includes you. Don’t make a scene again.</text>
 	</string>
 	<string id="dar_dogo_msg_5">
-		<text>Está bien. No hay nada de qué preocuparse, me portaré bien...</text>
+		<text>Alright. Nothing to worry about. I’ll behave...</text>
 	</string>
 	<string id="dar_viper_msg_14">
-		<text>Ya nos falta poco. Hay un viejo túnel que podemos cruzar para llegar directo al Valle Oscuro. Si tenemos suerte, no tendrá anomalías en medio. Con eso deberíamos acortar distancias con Atreo.</text>
+		<text>We’re almost there. There’s an old tunnel we can use to cut straight into the Dark Valley. If we’re lucky, it won’t be crawling with anomalies. That should help us close the gap with Atreus.</text>
 	</string>
 	<string id="dar_viktor_msg_2">
-		<text>Tomemos cualquier atajo necesario. No podemos perderlo de nuevo.</text>
+		<text>We take whatever shortcut we need. We can’t lose him again.</text>
 	</string>
 	<string id="dar_pollo_msg_9">
-		<text>Si dejamos que nos gane más distancia, se va a llenar de putos monolitos cuando lleguemos.</text>
+		<text>If we give him any more distance, the place will be swarming with damn Monoliths by the time we get there.</text>
 	</string>
 	<string id="dar_cabo_msg_7">
-		<text>¿¡QUÉ ES ESO!? ¡QUÉ CARAJOS!</text>
+		<text>WHAT THE HELL IS THAT!?</text>
 	</string>
 	<string id="dar_dogo_msg_6">
-		<text>Es un pseudo gigante, novato. Prepárense todos.</text>
+		<text>It’s a pseudogiant, rookie. Everyone—get ready.</text>
 	</string>
 	<string id="dar_pollo_msg_10">
-		<text>¿Por qué levanta la puta pierna? ¿Qué hace? (Grito)</text>
+		<text>Why the hell is it lifting its leg? What is it doing!? (scared)</text>
 	</string>
 	<string id="dar_viper_msg_15">
-		<text>No se descuiden. Revisen que no hayan perdido nada y sigamos hacia el desagüe que está adelante.</text>
+		<text>Stay sharp. Check your gear—make sure you didn’t lose anything—and let’s move toward the drain up ahead.</text>
 	</string>
 	<string id="dar_dogo_msg_7">
-		<text>(Agitado) Carajo. Ya no tengo 20 años...</text>
+		<text>(Breathing hard) Damn... I’m not twenty anymore…</text>
 	</string>
 	<string id="dar_pollo_msg_11">
-		<text>¿Qué edad tenías, Dogo?</text>
+		<text>How old are you, Dogo?</text>
 	</string>
 	<string id="dar_dogo_msg_8">
-		<text>49 años de pura testosterona.</text>
+		<text>Forty-nine years of pure testosterone.</text>
 	</string>
 	<string id="dar_pollo_msg_12">
-		<text>(Risas por lo bajo)</text>
+		<text>(Low chuckles)</text>
 	</string>
 	<string id="dar_cabo_msg_8">
-		<text>¿Cuántos años tienen ustedes, muchachos?</text>
+		<text>What about you guys?</text>
 	</string>
 	<string id="dar_viper_msg_16">
-		<text>37.</text>
+		<text>Thirty-seven.</text>
 	</string>
 	<string id="dar_pollo_msg_13">
-		<text>32 añitos, nada.</text>
+		<text>Thirty-two. Still young.</text>
 	</string>
 	<string id="dar_cabo_msg_9">
-		<text>Vergasión... Y usted, Viktor ¿Cuántos años tiene?</text>
+		<text>Damn... And you, Viktor? How old are you?</text>
 	</string>
 	<string id="dar_viktor_msg_3">
-		<text>22 años...</text>
+		<text>Twenty-two...</text>
 	</string>
 	<string id="dar_cabo_msg_10">
-		<text>(Sorprendido). Marico soy el más joven del grupo, huevón.</text>
+		<text>(Surprised) Shit, I’m the youngest in the group.</text>
 	</string>
 	<string id="dar_viper_msg_17">
-		<text>Mucho cuidado con sus pasos. Revisen bien donde pisan que no voy por este camino hace años...</text>
+		<text>Watch your step. Check where you’re putting your feet—I haven’t been through this route in years...</text>
 	</string>
 	
 	<string id="val_llegada_viktor_0">
-		<text>¿Y ahora para dónde vamos?</text>
+		<text>So... where are we heading now?</text>
 	</string>
 	<string id="val_llegada_viper_1">
-		<text>Nos movemos a la granja al Sur-Oeste del Valle. Tengan cuidado, sospecho que vamos a ver más monolitos.</text>
+		<text>We’re moving to the farm southwest of the Valley. Stay sharp—I’ve got a feeling we’ll run into more Monolith.</text>
 	</string>
 	<string id="val_llegada_cabo_2">
-		<text>Espero que me alcancen los perdigones. Ya me quedan pocos...</text>
+		<text>Hope I’ve got enough buckshot left... running low.</text>
 	</string>
 	<string id="val_llegada_pollo_3">
-		<text>Yo traigo de reserva. No te preocupes, Cabo.</text>
+		<text>I’ve got some in reserve. Don’t worry, Rookie.</text>
 	</string>
 	<string id="val_llegada_base_viper_0">
-		<text>Revisen el lugar. Asegurense de que sea seguro.</text>
+		<text>Sweep the area. Make sure it’s secure.</text>
 	</string>
 	<string id="val_llegada_base_cabo_1">
-		<text>Aquí hubo pelea hace poco...</text>
+		<text>There was a fight here not long ago...</text>
 	</string>
 	<string id="val_llegada_base_pollo_2">
-		<text>Estos bandidos estan frescos. Cuidado.</text>
+		<text>These bandits are fresh. Stay alert.</text>
 	</string>
 	<string id="val_llegada_base_ituca_3">
-		<text>¡Por favor, no disparen! ¡Hablaré!</text>
+		<text>Please, don’t shoot! I’ll talk!</text>
 	</string>
 	<string id="val_llegada_base_viktor_4">
-		<text>Te conviene empezar a hablar. Y no intentes nada raro que estoy sin paciencia hoy.</text>
+		<text>You’d better start talking. And don’t try anything—I’m not in the mood today.</text>
 	</string>
 	<string id="val_llegada_base_dogo_5">
-		<text>¡Metele un calcetin en la boca!</text>
+		<text>Stuff a sock in his mouth!</text>
 	</string>
 	<string id="val_llegada_base_viktor_5">
-		<text>Pffft (Risas)</text>
+		<text>Pffft (laughter)</text>
 	</string>
 	<string id="val_sid_msg_0">
-		<text>Me enteré que llegaron con vida al Valle Oscuro, y que necesitan hablar con Sultán. Resulta que tenemos algunos intereses en común, y he arreglado para que te reciba si lo ayudas con un pequeño asunto. Dile que vas de mi parte, Viktor ¡Y a ver cuándo te pasas por el bunker de nuevo! Tengo material nuevo...</text>
+		<text>I heard you made it into the Dark Valley alive, and that you’re looking to speak with Sultan. Turns out we’ve got some shared interests, and I’ve arranged for him to see you—if you help him with a small matter. Tell him I sent you, Viktor. And stop by the bunker sometime—I’ve got new gear...</text>
 	</string>
 	<string id="val_bandido_on_viktor_0">
-		<text>Ahora parezco un bandido</text>
+		<text>Now I look like a bandit.</text>
 	</string>
 	<string id="val_bandido_off_viktor_0">
-		<text>Ya no parezco un bandido</text>
+		<text>Now I don’t look like a bandit anymore.</text>
 	</string>
 	<string id="val_kolyan_viktor_0">
-		<text>¿¡...Qué mierda!?</text>
+		<text>...What the hell!?</text>
 	</string>
 	
 	<string id="trc_truck_matasanos_0"> 
-		<text>¿Quién es? Si eres un mutante ¡Vete!</text>
+		<text>Who’s there? If you’re a mutant—get lost!</text>
 	</string>
 	<string id="trc_truck_viktor_1">
-		<text>No soy un mutante...</text>
+		<text>I’m not a mutant...</text>
 	</string>
 	<string id="trc_truck_viktor_2">
-		<text>Salí de una vez. Vine a rescatarte.</text>
+		<text>Come out. I’m here to get you out.</text>
 	</string>
 	<string id="trc_truck_matasanos_3">
-		<text>¡No hay nadie!</text>
+		<text>There’s no one here!</text>
 	</string>
 	<string id="trc_truck_matasanos_4">
-		<text>¡Limpia a los mutantes primero! ¡Luego saldré!</text>
+		<text>Clear the mutants first! Then I’ll come out!</text>
 	</string>
 	<string id="trc_truck_viktor_5">
-		<text>¿Mutantes? Mierda.</text>
+		<text>Mutants? Shit…</text>
 	</string>
 	<string id="trc_truck_viktor_6">
-		<text>¡YA ESTÁ, BAJATE!</text>
+		<text>Alright, it’s clear—come down!</text>
 	</string>
 	<string id="trc_truck_matasanos_7">
-		<text>Uf, menos mal. Enseguida bajo. Dame un segundo que junte mis cosas.</text>
+		<text>Whew, thank God. I’m coming—just give me a second to grab my stuff.</text>
 	</string>
 	<string id="trc_truck_viktor_8">
-		<text>Quedate cerca mío, que está lleno de mierda este lugar.</text>
+		<text>Stay close to me—this place is crawling with crap.</text>
 	</string>
 	<string id="trc_truck_matasanos_9">
-		<text>Bien, voy pegado a ti. Por favor no salgas corriendo, no creo poder seguirte el paso.</text>
+		<text>Alright, sticking with you. Please don’t run off—I can’t keep up.</text>
 	</string>
 	<string id="trc_susto_matasanos_0">
-		<text>¡Cuidado! ¡POR LA DERECHA!</text>
+		<text>Watch out! ON YOUR RIGHT!</text>
 	</string>
 	<string id="trc_susto_matasanos_1">
-		<text>¡Mierda! Estan llegando más. Voy a morir hoy... ¡VOY A MORIR HOY!</text>
+		<text>Shit! More are coming. I’m gonna die today... I’M GONNA DIE TODAY!</text>
 	</string>
 	<string id="trc_susto_matasanos_2">
-		<text>No quiero morir :c</text>
+		<text>I don’t want to die :c</text>
 	</string>
 	<string id="trc_susto_matasanos_3">
-		<text>¡Oh no! ¡Vienen más!</text>
+		<text>Oh no! More of them!</text>
 	</string>
 	<string id="trc_susto_matasanos_4">
-		<text>¡Bien! Dales su merecido ¡Cuidado, vienen más!</text>
+		<text>Nice! Give ’em hell—watch out, more incoming!</text>
 	</string>
 	<string id="trc_susto_matasanos_5">
-		<text>Mierda, Mierda ¡Mierda! No debí venir nunca a este lugar maldito.</text>
+		<text>Shit, shit—SHIT! I never should’ve come to this cursed place.</text>
 	</string>
 	<string id="trc_susto_matasanos_6">
-		<text>¡No te mueras! ¡Yo no puedo con ellos!</text>
+		<text>Don’t die! I can’t handle them on my own!”</text>
 	</string>
 	<string id="trc_susto_matasanos_7">
-		<text>¡Cuidado! ¡POR LA DERECHA!</text>
+		<text>Watch out! ON YOUR RIGHT!</text>
 	</string>
 	<string id="trc_hit_matasanos_0">
-		<text>¡Stalker, por aquí! ¡Me están por comer vivo, necesito ayuda!</text>
+		<text>Stalker, over here! They’re about to eat me alive—I need help!</text>
 	</string>
 	
 	<string id="val_back_matasanos_0">
-		<text>Stalker, te debo una. Pásate a verme si necesitas que te suture o si quieres beber algo.</text>
+		<text>Stalker, I owe you one. Drop by if you need stitching up—or if you want a drink.</text>
 	</string>
 	<string id="val_back_viktor_1">
-		<text>Más vale que invites vos...</text>
+		<text>You’d better be the one buying...</text>
 	</string>
 	
 	<string id="val_kashalot_recruit_dialog_0">
-		<text>Putos novatos creídos. Se piensan que uno va a hacer lo que quieren. Te voy a acompañar, chico. De hecho, tu me vas a acompañar a mi. Guía el camino y yo guío a mi gente.</text>
+		<text>Cocky rookies... thinking people will just do whatever they say. I’ll tag along, kid. Actually—you’re tagging along with me. You lead the way, I lead my people.</text>
 	</string>
 	<string id="val_viktor_recruit_dialog_1">
-		<text>Como sea, vamos de una vez.</text>
+		<text>Whatever. Let’s move.</text>
 	</string>
 	<string id="val_kashalot_recruit_dialog_2">
-		<text>Chicos, nos reunimos en la entrada del cementerio de camiones. Tomaremos lo que nos corresponde.</text>
+		<text>Alright, boys—rally at the Truck Cemetery entrance. We’re taking what’s ours.</text>
 	</string>
 	
 	<string id="trc_inc_kashalot_0">
-		<text>Bien ¿Estamos todos? Te hablo a ti, Chatarra. Siempre llegando tarde.</text>
+		<text>Good. Everyone here? I’m talking to you, Scrap—always late.</text>
 	</string>
 	<string id="trc_inc_bandido_1">
-		<text>Si, estoy aquí. Llegué temprano esta vez.</text>
+		<text>Yeah, I’m here. Early this time.</text>
 	</string>
 	<string id="trc_inc_kashalot_2">
-		<text>Tenemos refuerzos de parte de Kolyan, así que no me hagan pasar vergüenza, manga de inútiles. Vamos a limpiar el área y a recuperar el puesto de avanzada donde mataron a los nuestros.</text>
+		<text>We’ve got reinforcements from Kolyan, so don’t embarrass me, you bunch of idiots. We clear the area and retake the outpost where they killed our people.</text>
 	</string>
 	<string id="trc_inc_bandido_3">
-		<text>(Entusiasmados)</text>
+		<text>(Excited murmurs)</text>
 	</string>
 	<string id="trc_inc_kashalot_4">
-		<text>Yo invito las rondas después. Solo a los que sobrevivan. Jejeje, pero primero hay que ir al punto a capturar.</text>
+		<text>Drinks are on me after. Only for the ones who make it. Heh—but first, we take the point</text>
 	</string>
 	
 	<string id="trc_inc_smart_1_kashalot_0">
-		<text>¡Los veo! ¡Tomen posición y apoyen firmes los jodidos pies!</text>
+		<text>I see them! Take positions—plant your damn feet!</text>
 	</string>
 	<string id="trc_inc_smart_1_viktor_1">
-		<text>¡Ojo que son varios!</text>
+		<text>Watch it, there’s a lot of them!</text>
 	</string>
 	<string id="trc_inc_smart_1_kashalot_2">
-		<text>Fácil ¿Alguna baja? Meh, no importa. Sigamos los que estamos.</text>
+		<text>Easy. Any losses? Meh… doesn’t matter. We keep moving.</text>
 	</string>
 	<string id="trc_inc_smart_1_bandido_3">
-		<text>¿Hay premio para los que llevemos más bajas?</text>
+		<text>Is there a prize for most kills?</text>
 	</string>
 	<string id="trc_inc_smart_1_kashalot_4">
-		<text>Obvio. Pero voy a ser yo, o quizás este que nos mandó Kolyan. Lo veo bueno.</text>
+		<text>Of course. It’ll be me—or maybe this guy Kolyan sent. He looks solid.</text>
 	</string>
 	<string id="trc_inc_smart_1_viktor_5">
-		<text>¿Cuál sería el premio?</text>
+		<text>What’s the prize?</text>
 	</string>
 	<string id="trc_inc_smart_1_kashalot_6">
-		<text>Naturalmente, MI PUTA SCAR. Pasado mañana me llega una escopeta que quiero hace bastante.</text>
+		<text>Naturally—MY FUCKING SCAR. Day after tomorrow I’m getting a shotgun I’ve wanted for a while.</text>
 	</string>
 	<string id="trc_inc_smart_1_bandido_7">
-		<text>(Sapucay)</text>
+		<text>(Whoops and cheers — bandits celebrating)</text>
 	</string>
 	<string id="trc_inc_smart_2_kashalot_0">
-		<text>Suelten las botellas, ya casi llegamos ¡Esta vez son más!</text>
+		<text>Drop the bottles—we’re almost there! This time there’s more of them!</text>
 	</string>
 	<string id="trc_inc_smart_2_kashalot_1">
-		<text>Uf. Necesito un jodido trago. Acuerdense que yo invito luego ¡No mueran!</text>
+		<text>Damn... I need a drink. Remember, drinks are on me later—don’t die!</text>
 	</string>
 	<string id="trc_inc_smart_2_kashalot_2">
-		<text>Queda un solo punto ¡Siganme los buenos!</text>
+		<text>One last point—follow me if you’ve got the guts!</text>
 	</string>
 	<string id="trc_inc_smart_3_kashalot_0">
-		<text>¡Ahora vamos por nuestros colegas! A ver si encontramos su botín luego de limpiar estos putos cultistas ¡JA!</text>
+		<text>Now we go for our boys. Maybe we’ll find their loot after we wipe these damn cultists—HAHA!</text>
 	</string>
 	<string id="trc_inc_smart_3_kashalot_1">
-		<text>¡Vienen más a las 9 en punto! ¡Aguanten, maricas!</text>
+		<text>More coming at nine o’clock! Hold your ground!</text>
 	</string>
 	<string id="trc_inc_smart_3_kashalot_2">
-		<text>Bueno, vamos a sentarnos un rato. El puesto es nuestro de todas maneras. ¿Tu nombre era Viktor, verdad? Ven, charlemos un poco.</text>
+		<text>Alright, let’s take a breather. The outpost is ours anyway. Your name was Viktor, right? Come—let’s talk.</text>
 	</string>
 	<string id="trc_inc_smart_3_viktor_3">
-		<text>Bien, ya voy.</text>
+		<text>Alright, on my way.</text>
 	</string>
 	<string id="trc_inc_smart_3_kashalot_4">
-		<text>Te veo con hambre de revisar esos cuerpos. Adelante. luego charlamos.</text>
+		<text>You look eager to check those bodies. Go ahead—we’ll talk after.</text>
 	</string>
 	<string id="trc_inc_smart_3_viktor_5">
-		<text>(Risas por lo bajo)</text>
+		<text>(Low chuckles)</text>
 	</string>
 	
 	<string id="trc_kashalot_hurt_1">
-		<text>(Herido)</text>
+		<text>(Injured)</text>
 	</string>
 	<string id="trc_kashalot_hurt_2">
-		<text>(Herido) Otra cicatriz más...</text>
+		<text>(Injured) Another scar...</text>
 	</string>
 	<string id="trc_kashalot_hurt_3">
-		<text>(Herido) Pongo la otra mejilla. Denme otro disparo los que se atrevan...</text>
+		<text>(Injured) I’ll turn the other cheek. Go ahead—take another shot if you’ve got the guts...</text>
 	</string>
 	<string id="trc_kashalot_hurt_4">
-		<text>(Herido) ¡Mierda!</text>
+		<text>(Injured) Shit!</text>
 	</string>
 	<string id="trc_kashalot_hurt_5">
-		<text>(Herido) Maldita sea. Mi brazo...</text>
+		<text>(Injured) Damn it... my arm...</text>
 	</string>
 	<string id="trc_kashalot_bandits_dead_0">
-		<text>Inútiles. Solo quedamos tu y yo, Viktor. Siempre he dicho que si quieres que algo salga bien, debes hacerlo tu mismo.</text>
+		<text>Useless "fighters". It’s just you and me now, Viktor. I’ve always said—if you want something done right, do it yourself.</text>
 	</string>
 	
 	<string id="val_viktor_leto_0">
-		<text>Ahora si, hijo de puta. Te tengo donde quería...</text>
+		<text>Now then... you son of a bitch. Right where I wanted you...</text>
 	</string>
 	<string id="val_viktor_leto_1">
-		<text>Monolitos muertos... ¿Serán los que seguían a Atreo?</text>
+		<text>Dead Monolith... Could these be the ones following Atreus?</text>
 	</string>
 	<string id="val_viktor_leto_2">
-		<text>Mas cuerpos... Debe estar cerca.</text>
+		<text>More bodies... He must be close.</text>
 	</string>
 
 	<string id="labx18_entrada_leto_0">
-		<text>Así que me encontraste... Te recomiendo que vuelvas por donde viniste.</text>
+		<text>So you found me... I suggest you turn back while you still can.</text>
 	</string>
 	<string id="labx18_entrada_viktor_1">
-		<text>No me voy a ningún lado. Tu y yo tenemos algo pendiente.</text>
+		<text>I’m not going anywhere. You and I have unfinished business.</text>
 	</string>
 	<string id="labx18_entrada_leto_2">
-		<text>(Risas)</text>
+		<text>(Maniacal laughter)</text>
 	</string>
 	<string id="labx18_entrada_viktor_3">
-		<text>¿¡EH, qué pasa!?</text>
+		<text>—What the hell is happening!?</text>
 	</string>
 	<string id="labx18_entrada_leto_4">
-		<text>Estoy muy ocupado ahora. No me molestes.</text>
+		<text>I’m very busy right now. Don’t interrupt me.</text>
 	</string>
 	<string id="labx18_fake_2_viktor_0">
-		<text>¡Basta de trucos! ¡Sal y da la cara, hijo de puta!</text>
+		<text>Enough with the tricks! Show yourself, you bastard!</text>
 	</string>
 	<string id="labx18_fake_2_atreo_1">
-		<text>Me parece que no estás entendiendo lo que buscas. Este artefacto solo te va a traer problemas ¡Muchos problemas! Mejor dejamelo a mí...</text>
+		<text>I don’t think you understand what you’re chasing. That artifact will only bring you trouble—a lot of trouble. You’re better off leaving it to me...</text>
 	</string>
 	<string id="labx18_fake_3_atreo_0">
-		<text>¿Sabés por qué tuve que huir del cordón? No fué por ti... ¡Me estaban siguiendo!</text>
+		<text>Do you know why I had to flee the Cordon? It wasn’t because of you... I was being hunted.</text>
 	</string>
 	<string id="labx18_fake_3_viktor_1">
-		<text>Obvio que te iban a seguir. Le robaste a todo el mundo.</text>
+		<text>Of course you were. You stole from everyone.</text>
 	</string>
 	<string id="labx18_fake_3_atreo_2">
-		<text>(Risas) No tienes idea de lo que está pasando.</text>
+		<text>(Mocking laughter) You have no idea what’s really going on.</text>
 	</string>
 	<string id="labx18_fake_3_viktor_3">
-		<text>Me importa una mierda. Igual te voy a encontrar...</text>
+		<text>I don’t give a damn. I’m going to find you anyway...</text>
 	</string>
 	<string id="labx18_fake_espejo_viktor_0">
-		<text>¡Deja de esconderte, pedazo de mierda!</text>
+		<text>Stop hiding, you piece of shit!</text>
 	</string>
 	<string id="labx18_fake_espejo_atreo_1">
-		<text>Que curioso. Esconderme es imposible a esta altura. Y no lo digo por vos...</text>
+		<text>How curious... Hiding is impossible at this point. And I’m not talking about you...</text>
 	</string>
 	<string id="labx18_puerta_primera_atreo_0">
-		<text>Que terco eres. No parece que vayas a frenar en ningún momento ¿¡No ves que estoy ocupado!?</text>
+		<text>You’re stubborn. Doesn’t look like you’re going to stop anytime soon... Can’t you see I’m busy!?</text>
 	</string>
 	<string id="labx18_puerta_primera_viktor_1">
-		<text>¡Basta de engaños! ¡Dejá de intentar entrar en mi cabeza! ¡DAME EL ARTEFACTO!</text>
+		<text>Enough of the mind games! Stop trying to get into my head—GIVE ME THE ARTIFACT!</text>
 	</string>
 	<string id="labx18_puerta_primera_atreo_2">
-		<text>Empiezo a entender por qué fuiste elegido. Ademas de ser un cabeza dura, tu resistencia a emisiones psi es muy alta... Ya no puedo sostener la puerta.</text>
+		<text>I’m starting to understand why you were chosen. Besides being hard-headed, your resistance to psi emissions is remarkably high... I can’t hold the door much longer.</text>
 	</string>
 	<string id="labx18_segundo_nivel_viktor_0">
-		<text>¿¡Dónde estás!?</text>
+		<text>Where are you!?</text>
 	</string>
 	<string id="labx18_segundo_nivel_atreo_1">
-		<text>No voy a salir tan fácil. Me vas a tener que buscar y cuando me encuentres va a ser muy tarde.</text>
+		<text>I’m not coming out that easily. You’ll have to find me—and when you do, it’ll already be too late.</text>
 	</string>
 	<string id="labx18_segundo_nivel_viktor_2">
-		<text>No sé para qué estás haciendo tiempo. Voy a encontrarte igual y ese artefacto va a ser mío.</text>
+		<text>I don’t know why you’re stalling. I’ll find you anyway—and that artifact will be mine.</text>
 	</string>
 	<string id="labx18_segundo_nivel_atreo_3">
-		<text>¿Estás seguro? Yo pensaba lo mismo, y otros también. No eres diferente a nosotros.</text>
+		<text>Are you sure? I thought the same… others did too. You’re no different from us.</text>
 	</string>
 	<string id="labx18_segundo_nivel_viktor_4">
-		<text>¿¡De qué otros estás hablando!?</text>
+		<text>What others are you talking about!?</text>
 	</string>
 	<string id="labx18_segundo_nivel_atreo_5">
-		<text>(Risas)</text>
+		<text>(Laughter)</text>
 	</string>
 	<string id="labx18_boss_atreo_0">
-		<text>No pensé que fueses a llegar tan lejos. FALTANDO TAN POCO.</text>
+		<text>I didn’t think you’d make it this far… WITH SO LITTLE LEFT.</text>
 	</string>
 	<string id="labx18_boss_viktor_1">
-		<text>¿¡Tan poco para qué!?</text>
+		<text>So little left for what!?</text>
 	</string>
 	<string id="labx18_boss_atreo_2">
-		<text>¡YA CASI! ¡TRES MINUTOS MÁS!</text>
+		<text>ALMOST THERE! THREE MORE MINUTES!</text>
 	</string>
 	<string id="labx18_boss_viktor_3">
-		<text>¿¡Tres minutos para qué!?</text>
+		<text>Three minutes for what!?</text>
 	</string>
 	<string id="labx18_boss_atreo_4">
-		<text>(Risa maníaca)</text>
+		<text>(Maniacal laughter)</text>
 	</string>
 	<string id="labx18_boss_atreo_5">
-		<text>(Risas) ¿Qué pasa? ¿No te puedes mover?</text>
+		<text>(Laughs) What’s wrong? Can’t move?</text>
 	</string>
 	<string id="labx18_boss_atreo_6">
-		<text>Sova... Desgraciada hija de puta. Debí matarte cuando pude.</text>
+		<text>Sova... you bitch. I should’ve killed you when I had the chance.</text>
 	</string>
 	<string id="labx18_boss_viktor_7">
-		<text>¿Sova? ¿Con quién habla?</text>
+		<text>Sova? Who is he talking to?</text>
 	</string>
 	<string id="labx18_boss_atreo_8">
-		<text>Ozero ¡Espero que esa anomalía te haya hecho arder hasta las cenizas!</text>
+		<text>Ozero! I hope that anomaly burned you to ashes!</text>
 	</string>
 	<string id="labx18_boss_viktor_9">
-		<text>No sé quién esa gente. Está loco... Habla solo.</text>
+		<text>I don’t know who these people are... He’s insane. Talking to himself.</text>
 	</string>
 	<string id="labx18_boss_atreo_10">
-		<text>¡CALLATE, NO ME DEJÁS CONCENTRAR!</text>
+		<text>SHUT UP, YOU’RE BREAKING MY FOCUS!</text>
 	</string>
 	<string id="labx18_boss_atreo_11">
-		<text>¡Nox! Me arruinaste la vida, hijo de puta. Espero que no puedas caminar entre los vivos nunca más.</text>
+		<text>Nox! You ruined my life, you bastard. I hope you never walk among the living again.</text>
 	</string>
 	<string id="labx18_boss_viktor_12">
-		<text>¿¡Nox!? ¿Qué sabes de Nox?</text>
+		<text>Nox!? What do you know about Nox?</text>
 	</string>
 	<string id="labx18_boss_atreo_13">
-		<text>¡Se van a arrepentir! ¡Todos se van a arrepentir!</text>
+		<text>You’ll regret this! All of you will regret this!</text>
 	</string>
 	<string id="labx18_boss_atreo_14">
-		<text>No puede ser... Me rechazó ¿Y ahora qué hago?</text>
+		<text>This can’t be… It rejected me. What do I do now?</text>
 	</string>
 	<string id="labx18_boss_viktor_15">
-		<text>Ahora me vas a pagar. Eso vas a hacer...</text>
+		<text>Now you’re going to pay. That’s what.</text>
 	</string>
  
 	<string id="val_vuelta_cabo_0">
-		<text>Viktor. Un sujeto vino a preguntar por usted, dice que quiere un artefacto. Se hace llamar Kolyan, y lo está esperando...</text>
+		<text>Viktor. A man came asking for you—says he wants an artifact. Calls himself Kolyan. He’s waiting for you...</text>
 	</string>
 	<string id="val_vuelta_cabo_1">
-		<text>Vino armado.</text>
+		<text>He’s armed.</text>
 	</string>
 </string_table>
