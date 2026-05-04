@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="st_configuracion_recomendada">
-		<text>Открытая БЕТА 0.914</text>
+		<text>Открытая БЕТА 0.918C</text>
+	</string>
+	<string id="st_vessel_intro">
+		<text>-</text>
+	</string>
+	<string id="pda_encyclopedia_notify">
+		<text>Новая запись разблокирована</text>
+	</string>
+	<string id="st_vessel_iniciar">
+		<text>Сосуд – Открытая Бета – Кликни, чтобы начать</text>
+	</string>
+	<string id="st_text_screen_sobre_notas_a">
+		<text>Во время игры ты будешь находить предметы, содержащие информацию.</text>
+	</string>
+	<string id="st_text_screen_sobre_notas_b">
+		<text>Используй их в своём инвенторе для прослушивания аудиозаписей или мыслей Виктора.</text>
+	</string>
+	<string id="st_text_screen_sobre_notas_c">
+		<text>Все записи сохраняются в твоём КПК в разделе «Руководства».</text>
+	</string>
+	<string id="mp_si_dec">
+		<text>Секунд</text>
+	</string>
+	<string id="kb_inspect">
+		<text>Осмотреть</text>
+	</string>
+	<string id="pda_encyclopedia_locked">
+    	<text>Заблокировано</text>
 	</string>
 	<string id="st_ignite_fire">
 		<text>Зажечь ($$ACTION_USE$$)</text>
@@ -348,7 +375,7 @@
 	<string id="tip_door_decoding">
 		<text>Подбор пароля пошёл...</text>
 	</string>
-		<string id="bar_arena_actor_afraid">
+	<string id="bar_arena_actor_afraid">
 		<text>Бой отменён! Претендент струсил и вообще не вышел на бой!</text>
 	</string>
 	<string id="bar_arena_fight_10">
