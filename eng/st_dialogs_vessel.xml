@@ -36,253 +36,253 @@
 		<text>Yeah, its my first time here. I didnt really have anywhere else to go. I got caught stealing a few times, so it was either this or prison.</text>
 	</string>
 	<string id="viper_inicial_4">
-		<text>Ya veo... ¿Viniste preparado? La zona no tiene piedad a aquellos que no son precavidos. ¿Armas, medicina, o al menos una linterna?</text>
+		<text>I see... Did you come prepared? The Zone shows no mercy to the unprepared. Weapons, meds... at least a flashlight?</text>
 	</string>
 	<string id="viper_inicial_5">
-		<text>No. Gasté todo mi dinero pagando para que me traigan en el camión.</text>
+		<text>No. I spent everything just getting a ride in on that truck.</text>
 	</string>
 	<string id="viper_inicial_6">
-		<text>Mmmh. Te veo muy verde, amigo. Hagamos una cosa, toma estas cosas, equipate y sígueme. Vamos a dar una vuelta y de paso te muestro como funcionan las cosas por aquí. Luego del paseo vas a ver si estás hecho o no para esta vida y ahí eliges quedarte ¿Va? Alguna vez fuí un joven como tu y me hubiese venido bien el aventón.</text>
+		<text>Hmm... You’re pretty green, friend. Tell you what — take this gear, suit up, and come with me. We’ll take a little walk, and I’ll show you how things work around here. After that, you can decide if this life’s for you or not. Sound fair? I was young once too — could’ve used a hand like this.</text>
 	</string>
 	<string id="viper_inicial_7">
-		<text>Pero son muchas cosas ¿Estás seguro de que no las necesitas? No puedo pagartelas ahora mismo.</text>
+		<text>That’s a lot of gear... Are you sure you don’t need it? I can’t pay you right now.</text>
 	</string>
 	<string id="viper_inicial_8">
-		<text>No te preocupes por eso, una vez alguien me ayudó, y cuando le quise pagar me pidió que lo haga ayudando a algun otro novato que lo necesite... Ahora preparate, nos vamos, revisa el equipo en el camino. Procura no separarte mucho o puedes perderte.</text>
+		<text>Don’t worry about it. Someone helped me once, and when I tried to pay him back, he told me to pass it on to another rookie who needed it. Now get ready — we’re moving. Check your gear on the way, and try not to wander off... you might get lost.</text>
 	</string>
 	<string id="viper_inicial_9">
-		<text>Esta bien. Te sigo, muchas gracias.</text>
+		<text>Alright. I’ll follow you. Thanks a lot.</text>
 	</string>
 	<string id="viper_salida_0">
-		<text>(Misión) Interesante paseo nos dimos.</text>
+		<text>(Task) That was quite a walk.</text>
 	</string>
 	<string id="viper_salida_1">
-		<text>Y que lo digas, amigo. Seis de ellos contra dos de nosotros, y aún así no tuvieron chance... Por cierto ¿Estás entero? Toma, por si las dudas.</text>
+		<text>You said it, friend. Six of them against the two of us, and they still didn’t stand a chance... By the way, you all good? Here — just in case.</text>
 	</string>
 	<string id="viper_salida_2">
-		<text>Gracias, lo aprecio. Por cierto, estoy buscando una tumba... Tiene forma de cruz y le cuelga una máscara de gas. ¿Sabés dónde puedo empezar a buscar?</text>
+		<text>Thanks, I appreciate it. By the way, I’m looking for a grave... It’s shaped like a cross, with a gas mask hanging from it. Know where I should start?</text>
 	</string>
 	<string id="viper_salida_3">
-		<text>Hay muchas de esas dando vueltas por la zona. Cuando muere un amigo suelen dejar su máscara en una cruz a modo de homenaje... Antes de dejar la zona había unas en el campamento de novatos, no sé si esten ahí ahora. Te tocará averiguar. Pregunta a los stalkers en general o al comerciante, su nombre es Sidorovich. Aunque no te recomiendo hablar con él salvo que sea para emergencias, jamás te va a dar algo por ayudarte el gordo codicioso...</text>
+		<text>There are plenty like that scattered around the Zone. When a stalker dies, his friends usually hang his mask on a cross as a tribute... Before I left the Zone, there were a few like that in the rookies camp. Not sure if they’re still there now. You’ll have to ask around. Talk to the stalkers — or the trader, Sidorovich. Though I wouldn’t recommend dealing with him unless you have to. That greedy bastard won’t lift a finger without getting something out of it.</text>
 	</string>
 	<string id="viper_salida_4">
-		<text>Ya veo, entoncés hablaré con los stalkers primero... Como sea ¿Vos ya vas a volver a la base?</text>
+		<text>I see... then I’ll ask around first. Anyway — are you heading back to base?</text>
 	</string>
 	<string id="viper_salida_5">
-		<text>Si, ya iba a volver. Vamos juntos si quieres, pero antes. Toma esto como premio, lo encontré en el camión detras nuestro, vayase a saber qué negocios tenían los bandidos con esto.</text>
+		<text>Yeah, I was just about to. We can head back together if you want — but first, take this as a reward. Found it in the truck behind us... who knows what kind of deals those bandits were running with it.</text>
 	</string>
 	<string id="viper_salida_6">
-		<text>¿Y qué hago con esto? Está cerrado</text>
+		<text>And what am I supposed to do with this? It’s locked.</text>
 	</string>
 	<string id="viper_salida_7">
-		<text>Hay un tipo aquí que negocia con productos de primera de forma directa, se llama Nimble. Creo que ahí dentro puede haber un arma o algo valioso así que le pasé tu contacto, seguro te contacte para negociar.</text>
+		<text>There’s a guy around here who deals in high-end gear directly — goes by Nimble. I figure there might be a weapon or something valuable inside, so I passed along your contact. He’ll probably reach out to you to make a deal.</text>
 	</string>
 	<string id="viper_salida_8">
-		<text>Ya veo. Muchas gracias, veré de contactarlo pronto.</text>
+		<text>Got it. Thanks — I’ll try to get in touch with him soon.</text>
 	</string>
 	<string id="viper_salida_9">
-		<text>No hay de qué, búscame luego si tienes mas dudas o algo. Buena caza, stalker.</text>
+		<text>No problem. Come find me later if you’ve got more questions or need anything. Good hunting, stalker.</text>
 	</string>
 	<string id="viper_salida_10">
-		<text>Buenza caza, Viper.</text>
+		<text>Good hunting, Viper.</text>
 	</string>
 	<string id="viper_sobre_nota_nox_0">
-		<text>(Misión) Hola Viper, encontré la tumba que buscaba y ahora solo tengo más dudas.</text>
+		<text>(Task) Hey Viper, I found the grave I was looking for... and now I’ve just got more questions.</text>
 	</string>
 	<string id="viper_sobre_nota_nox_1">
-		<text>Hola amigo ¿Qué dudas tienes?</text>
+		<text>Hey, friend. What kind of questions?</text>
 	</string>
 	<string id="viper_sobre_nota_nox_2">
-		<text>Resulta que alguien estuvo ahí antes que yo, y se llevaron el botín que era mío.</text>
+		<text>Turns out someone got there before me, and took the stash that was supposed to be mine.</text>
 	</string>
 	<string id="viper_sobre_nota_nox_3">
-		<text>¿El botín era tuyo? ¿Pero no eras nuevo en la zona?</text>
+		<text>Your stash? But... weren’t you new to the Zone?</text>
 	</string>
 	<string id="viper_sobre_nota_nox_4">
-		<text>Si, pero vine con información de ese Botín...</text>
+		<text>Yeah, but I came here with info about it.</text>
 	</string>
 	<string id="viper_sobre_nota_nox_5">
-		<text>Mira, lo que te pasó es el día a día. Los stalkers que encuentran botín, se lo quedan. No puedes hacer mucho al respecto, amigo. Te recomiendo investigar un poco, y si consigues información sobre el botín, puedes avisarme así te acompaño a buscarlo ¿Te parece? Puedes contar conmigo</text>
+		<text>Look, what happened to you? That’s everyday life out here. If a stalker finds a stash, they keep it. Not much you can do about it. What I do recommend is digging around for more info — and if you find anything solid, let me know. I’ll come with you to track it down. Sound good? You can count on me.</text>
 	</string>
 	<string id="viper_sobre_nota_nox_6">
-		<text>Bien, te avisaré cuando consiga información.</text>
+		<text>Alright. I’ll let you know when I find something.</text>
 	</string>
 	<string id="viper_sobre_monolito_0">
-		<text>(Interacción) Encontré esta PDA en un tipo loco que me disparó, cerca de la cruz que buscaba.</text>
+		<text>(Interaction) I found this PDA on some crazy guy who shot at me, near the cross I was looking for.</text>
 	</string>
 	<string id="viper_sobre_monolito_1">
-		<text>Dejame ver... ¿Un monolito en Cordón? Esto suena peligroso, jamás vienen tan al Sur de la zona.</text>
+		<text>Let me see... A Monolith soldier in Cordon? That’s bad news. They don’t usually come this far south.</text>
 	</string>
 	<string id="viper_sobre_monolito_2">
-		<text>¿Monolito? ¿Qué es eso?</text>
+		<text>Monolith? What’s that?</text>
 	</string>
 	<string id="viper_sobre_monolito_3">
-		<text>Es complicado... Son como unos fanáticos cultistas que adoran al "Monolito", que es una supuesta roca en el centro de la zona que cumple los deseos de la gente. Pero los monolitos defienden el centro de la zona para que nadie se acerque, entonces todo lo que se sabe son rumores... Salvo una cosa.</text>
+		<text>It’s... complicated. They’re like fanatical cultists who worship the “Monolith” — supposedly some kind of rock at the center of the Zone that grants wishes. But they guard the center so no one can get close, so most of what we know is just rumors... Except for one thing.</text>
 	</string>
 	<string id="viper_sobre_monolito_4">
-		<text>¿Qué cosa?</text>
+		<text>What’s that?</text>
 	</string>
 	<string id="viper_sobre_monolito_5">
-		<text>Son extremadamente violentos. Luchan sin miedo a la muerte, si tienen que suicidarse para lograr su cometido, lo harán. Así que ten cuidado con tus asuntos... No te recomiendo meterte con ellos.</text>
+		<text>They’re extremely dangerous. No fear of death. If they have to kill themselves to complete their mission, they will. So watch yourself... I wouldn’t recommend getting involved with them.</text>
 	</string>
 	<string id="viper_sobre_monolito_6">
-		<text>Ya veo. Bueno, muchas gracias por la información.</text>
+		<text>I see... Well, thanks for the info.</text>
 	</string>
 	<string id="viper_sobre_busqueda_atreo_0">
-		<text>(Misión) Conseguí algo de información sobre lo que buscaba (Contar lo que hablaste con Sidorovich)</text>
+		<text>(Task) I found some information about what I was looking for. (Explain what you learned from Sidorovich)</text>
 	</string>
 	<string id="viper_sobre_busqueda_atreo_1">
-		<text>Así que un tal Atreo buscaba lo mismo que tu. Seguramente encontremos algunos cuerpos en el camino... ¿A dónde llevan las coordenadas exactamente?</text>
+		<text>So this guy, Atreo, was after the same thing as you. We’ll probably run into a few bodies along the way. Where exactly do those coordinates lead?</text>
 	</string>
 	<string id="viper_sobre_busqueda_atreo_2">
-		<text>A unas ruinas en los Grandes Pantanos ¿Conocés el lugar? ¿Vas a poder guiarme?</text>
+		<text>To some ruins in the Great Swamps. Know the place? Can you guide me there?</text>
 	</string>
 	<string id="viper_sobre_busqueda_atreo_3">
-		<text>Dejame ver esas coordenadas... (Viper mira en tu PDA) Conozco el lugar como la palma de mi mano. \n Tengo dos noticias para darte, la mala es que el camino corto no va a ser muy accesible ahora mismo, implica una lucha con los militares para la que no estamos nada preparados. La buena noticia es que sé de otro camino, por las vías del tren, pero el camino será un poco más largo, así que primero junta algunos suministros y ven a verme cuando estés listo.</text>
+		<text>Let me see those coordinates... (Viper checks your PDA) Yeah, I know this place like the back of my hand. I’ve got two bits of news for you. The bad news: the shortcut isn’t an option right now — it would mean fighting the military, and we’re not ready for that. The good news: I know another route, along the railway tracks. It’ll take longer, though. So stock up on supplies first, then come see me when you’re ready.</text>
 	</string>
 	<string id="viper_sobre_busqueda_atreo_4">
-		<text>Bien, volveré cuando esté listo.</text>
+		<text>Alright. I’ll be back when I’m ready.</text>
 	</string>
 	<string id="viper_sobre_busqueda_atreo_ready_0">
-		<text>(Misión) Estoy listo para que salgamos.</text>
+		<text>(Task) I’m ready to go.</text>
 	</string>
 	<string id="viper_sobre_busqueda_atreo_ready_1">
-		<text>¿No te olvidas nada? Puede que estemos fuera todo el día. Asegurate de llevar agua.</text>
+		<text>Not forgetting anything? We might be out all day. Make sure you’ve got water.</text>
 	</string>
 	<string id="viper_sobre_busqueda_atreo_ready_20">
-		<text>Si, estoy listo. Vamos</text>
+		<text>Yeah, I’m ready. Let’s go.</text>
 	</string>
 	<string id="viper_sobre_busqueda_atreo_ready_21">
-		<text>Espera, olvidé algo. Vuelvo luego.</text>
+		<text>Wait, I forgot something. I’ll be back.</text>
 	</string>
 	<string id="viper_volver_cordon_0">
-		<text>Vamos a esperar a la noche y nos vamos ¿Va?</text>
+		<text>Let’s wait for nightfall, then we move. Sound good?</text>
 	</string>
 	<string id="viper_volver_cordon_1">
-		<text>Dale. Me quedo y espero con vos.</text>
+		<text>Sure. I’ll stick around and wait with you.</text>
 	</string>
 	<string id="viper_sobre_leto_0">
-		<text>(Misión) ¿Qué pasó? ¿Cómo llegué acá?</text>
+		<text>(Task) What happened? How did I get here?</text>
 	</string>
 	<string id="viper_sobre_leto_1">
-		<text>¿No recuerdas nada? Salí a hacer un encargo y te encontré tirado en un campamento cercano. Estabas inconsciente así que te arrastré aquí. Tenías un perro ciego olfateándote y listo para devorarte...</text>
+		<text>You don’t remember anything? I went out on a job and found you lying in a nearby camp. You were unconscious, so I dragged you here. There was a blind dog sniffing you, ready to tear you apart...</text>
 	</string>
 	<string id="viper_sobre_leto_2">
-		<text>Maldito sea ese cagón de Atreo...</text>
+		<text>Damn that coward Atreo...</text>
 	</string>
 	<string id="viper_sobre_leto_3">
-		<text>¿Así que te enredaste con él? Sabía que eso no terminaría bien. Pero hey, tengo información. Hace rato en la red de stalkers dijeron que vieron a alguien corriendo desesperado en dirección al túnel que está al Este del patio de máquinas. Un stalker con chaqueta amarilla y algo de sangre encima ¿Es él?</text>
+		<text>So you got mixed up with him, huh? I had a feeling that wouldn’t end well. But hey, I’ve got some info. A while back, chatter on the stalker network mentioned someone running like hell toward the tunnel east of the vehicle yard. A stalker in a yellow jacket, covered in blood... sound like your guy?</text>
 	</string>
 	<string id="viper_sobre_leto_4">
-		<text>Sí, es él. Se estuvo haciendo pasar por un tal "Vovan" para que no lo atrapen.</text>
+		<text>Yeah, that’s him. He’s been going by “Vovan” so no one catches him.</text>
 	</string>
 	<string id="viper_sobre_leto_5">
-		<text>No me sorprende, no es la primera vez que hace algo así para estafar gente. Pero asegurate de tener más cuidado, amigo... ¿Vas a ir a buscarlo entonces? Si me esperas unas horas te acompaño, debo terminar de hablar algo con Nimble primero.</text>
+		<text>Doesn’t surprise me. Not the first time he’s pulled something like that to scam people. I’ve heard he’s used names like Leto, too... Be more careful, friend. So, you heading after him now? If you wait a few hours, I’ll come with you — just need to finish something with Nimble first.</text>
 	</string>
 	<string id="viper_sobre_leto_6">
-		<text>No puedo esperarte, me voy a buscarlo ahora.</text>
+		<text>I can’t wait. I’m going after him now.</text>
 	</string>
 	<string id="viper_sobre_leto_7">
-		<text>Bien, solo espero que no se haya ido al Este, sería más dificil rastrearlo si no. Búscame si necesitas algo más, amigo.</text>
+		<text>Alright. Just hope he didn’t head east — he’ll be harder to track if he did. Come find me if you need anything else, friend.</text>
 	</string>
 	<string id="viper_sobre_leto_8">
-		<text>Sí, y gracias por salvarme, te debo una. Nos vemos luego.</text>
+		<text>Yeah. And thanks for saving me — I owe you one. See you around.</text>
 	</string>
 	<string id="viper_encuentro_tunel_0">
-		<text>Hey, no te veo bien. ¿Estas entero? Toma, por si las dudas...</text>
+		<text>Hey... you don’t look so good. You alright? Here — just in case.</text>
 	</string>
 	<string id="viper_encuentro_tunel_1">
-		<text>(Contar lo que pasó con los stalkers muertos, el zombi y la PDA)</text>
+		<text>(Explain what happened with the dead stalkers, the zombie, and the PDA)</text>
 	</string>
 	<string id="viper_encuentro_tunel_2">
-		<text>Mierda... Lo sabía, Atreo anda metido en cosas extrañas. Que bueno que no lo seguiste solo, parece peligroso ahora mismo. Además, tengo información de Sidorovich: me dijo que Darkscape (El bosque al Este de Cordón al que huyó Atreo) está plagado de monolitos por algún motivo que aún estamos investigando.</text>
+		<text>Shit... I knew it. Atreo’s mixed up in something strange. Good thing you didn’t go after him alone — he sounds dangerous now. Also, I’ve got intel from Sidorovich: he says Darkscape — that forest east of Cordon where Atreo ran off to — is crawling with Monolith for some reason we’re still trying to figure out.</text>
 	</string>
 	<string id="viper_encuentro_tunel_3">
-		<text>Necesito encontrarlo urgente.</text>
+		<text>I need to find him. Fast.</text>
 	</string>
 	<string id="viper_encuentro_tunel_4">
-		<text>Mhm... Ya veo. Mira, yo también necesito encontrar a Atreo por mis propios motivos, pero es jodido ir solos. Deberíamos armar un equipo así estamos cubiertos, después de todo ya has visto lo enfermo que está Atreo y lo feroces que son los Monolitos por tu cuenta. Habrá que buscar algunos stalkers de confianza para que se nos unan... Y de paso consigue mejor equipo, no sería sensato viajar con una chaqueta de cuero y un arma pequeña.</text>
+		<text>Yeah... I get it. Look, I need to find Atreo too, for my own reasons. But going solo isn’t gonna cut it. We should put together a team — better coverage that way. You’ve already seen how messed up Atreo is, and how vicious the Monolith can be. We’ll need to find some reliable stalkers to join us… and while you’re at it, get yourself better gear. Running around in a leather jacket with a pea shooter isn’t exactly smart.</text>
 	</string>
 	<string id="viper_encuentro_tunel_5">
-		<text>¿Y a quién traigo a que se nos una?</text>
+		<text>And who do I bring in?</text>
 	</string>
 	<string id="viper_encuentro_tunel_6">
-		<text>No estoy seguro, habla con los que te deban un favor o a los que le caigas bien y mandamelos. Por el momento voy a ir a cubrir ese túnel, por si se le ocurre volver a Leto, o si aparece algún monolito perdido... Apenas encuentres gente que vengan a apoyarme, sospecho que tendremos visitas no deseadas por ese lado del Cordón...</text>
+		<text>Not sure. Talk to people who owe you a favor — or those who trust you — and send them my way. For now, I’m gonna hold that tunnel, in case Atreo — or Leto, or Vovan, or whatever name he’s using now — decides to come back. Once you’ve got people ready, send them to back me up. I’ve got a feeling we’ll get unwanted visitors from that side of Cordon.</text>
 	</string>
 	<string id="viper_encuentro_tunel_7">
-		<text>¿Por qué sospechas eso?</text>
+		<text>Why do you think that?</text>
 	</string>
 	<string id="viper_encuentro_tunel_8">
-		<text>Por ahora es una corazonada. Pero cuando lo confirme, te cuento. En fin, te dejo amigo, voy a cubrir ese lugar. Ven a verme si necesitas algo. (Viper se ve apurado)</text>
+		<text>Just a gut feeling... for now. I’ll tell you more once I know for sure. Anyway, I’ve got to move. I’ll be covering that spot. Come find me if you need anything. (Viper seems in a hurry)</text>
 	</string>
 	<string id="viper_encuentro_tunel_9">
-		<text>Está bien, luego te mando gente.</text>
+		<text>Alright. I’ll send people your way.</text>
 	</string>
 	<string id="viper_foto_0">
-		<text>(Interacción) Encontré esta foto ¿Sabés algo al respecto?</text>
+		<text>(Interaction) I found this photo. Know anything about it?</text>
 	</string>
 	<string id="viper_foto_1">
-		<text>Vaya, no esperaba volver a ver esto. Son dos viejos amigos, la foto la tomó un tercero que también era amigo mío, el siempre tenía una polaroid vieja encima y no dejaba de capturar imágenes... ¿Dónde la encontraste?</text>
+		<text>Huh... didn’t expect to see this again. Those are two old friends. The picture was taken by a third — also a friend of mine. He always carried around this old Polaroid, snapping photos nonstop... Where did you find it?</text>
 	</string>
 	<string id="viper_foto_2">
-		<text>En el túnel al Sur. Creo que da a los pantanos.</text>
+		<text>In the tunnel to the south. I think it leads to the swamps.</text>
 	</string>
 	<string id="viper_foto_3">
-		<text>Ya veo, que nostalgia...</text>
+		<text>I see... brings back memories...</text>
 	</string>
 	<string id="viper_foto_4">
-		<text>¿Quienes son los de la foto?</text>
+		<text>Who are they?</text>
 	</string>
 	<string id="viper_foto_5">
-		<text>Son Mark e Ivan, solíamos ser compañeros de facción hace unos años, antes de que todo se fuese a la mierda. La foto la tomó Hook, un stalker muy agradable que no lográbamos echar de nuestra base secreta. De alguna forma siempre aparecía cuando quería el desgraciado. Eran otros tiempos en la zona.</text>
+		<text>Mark and Ivan. We used to be in the same faction, years ago... before everything went to hell. The photo was taken by Hook — a real friendly stalker we could never quite kick out of our hideout. Somehow, the bastard always showed up whenever he felt like it. Different times in the Zone...</text>
 	</string>
 	<string id="viper_foto_6">
-		<text>Entiendo, bueno. Podés quedarte con la foto.</text>
+		<text>I get it. Well... you can keep the photo.</text>
 	</string>
 	<string id="viper_foto_7">
-		<text>Gracias, amigo. Toma, por las molestias. Muchas gracias por el recuerdo... La vida que llevabamos antes en la zona ya no existe. Pasaron demasiadas cosas.</text>
+		<text>Thanks, friend. Here — for your trouble. And... thanks for bringing back the memory. The life we had back then in the Zone... it’s gone. Too much has happened.</text>
 	</string>
 	<string id="viper_foto_8">
-		<text>Entiendo... Nos vemos.</text>
+		<text>I understand… See you around.</text>
 	</string>
 	<string id="viper_sobre_pollo_0">
-		<text>(Interacción) ¿Qué te parece Pollo?</text>
+		<text>(Interaction) What do you think of Rooster?</text>
 	</string>
 	<string id="viper_sobre_pollo_1">
-		<text>Es buena gente, le salvó la vida a un amigo hace un tiempo. No me sorprendería si los demás dicen que es excéntrico, pero eso no me importa. Es buen tirador, sabe de medicina y es muy despierto. \n Los stalkers que saben poco de la zona dirían que es distraído o demasiado relajado... Pero si está así de tranquilo, es porque tiene la seguridad de que puede estarlo ¿Me entiendes? Si no, la zona se lo hubiese llevado hace mucho.</text>
+		<text>Good guy. Saved a friend of mine once. Some people might call him eccentric — I don’t care. He’s a solid shot, knows his way around medicine, and he’s sharp. Stalkers who don’t know the Zone would say he’s careless or too relaxed... but if he’s that calm, it’s because he knows he can be. You get me? Otherwise, the Zone would’ve swallowed him a long time ago.</text>
 	</string>
 	<string id="viper_sobre_pollo_2">
-		<text>Ooh... Interesante punto de vista. Yo pensaba que era algo distraído.</text>
+		<text>Huh... interesting take. I thought he seemed a bit distracted.</text>
 	</string>
 	<string id="viper_sobre_pollo_3">
-		<text>No te descuides, amigo. La gente que menos lo aparenta, sigue viva por algo. Siempre acuérdate de eso.</text>
+		<text>Don’t let your guard down, friend. The ones who don’t look like much usually survive for a reason. Always remember that.</text>
 	</string>
 	<string id="viper_sobre_pollo_4">
-		<text>Es un buen consejo. Gracias.</text>
+		<text>That’s good advice. Thanks.</text>
 	</string>
 	<string id="viper_sobre_cabo_0">
-		<text>(Interacción) ¿Qué pensás de Cabo?</text>
+		<text>(Interaction) What do you think about Rookie?</text>
 	</string>
 	<string id="viper_sobre_cabo_1">
-		<text>No me gusta Deber, me parecen falsos; pero este chico saliendose de sus filas para encontrar su lugar en la zona me da buena espina. Alguien que aprende con la experiencia y sigue sus propios ideales merece mi respeto. Solo espero que no salga corriendo cuando haya que pelear, lo veo verde...</text>
+		<text>I don’t like Duty — they come off fake to me. But this kid stepping away from them to find his own place in the Zone? That gives me a good feeling. Someone who learns through experience and follows his own path earns my respect. I just hope he doesn’t run when things get ugly… he still looks pretty green.</text>
 	</string>
 	<string id="viper_sobre_cabo_2">
-		<text>Espero lo mismo.</text>
+		<text>I hope so too.</text>
 	</string>
 	<string id="viper_sobre_dogo_0">
-		<text>(Interacción) ¿Qué opinás de Dogo?</text>
+		<text>(Interaction) What do you think of Dogo?</text>
 	</string>
 	<string id="viper_sobre_dogo_1">
-		<text>No confío en él ¿Sabías que solía ser un mercenario? Pero como solo habla de lo buen stalker que eres, parece que confía en ti y que no va a causar problemas... Aunque no deja de bromear sobre que el es el más apto para cargar con el liderazgo del grupo.</text>
+		<text>I don’t trust him. Did you know he used to be a merc? Still... he keeps talking about how good of a stalker you are, so I guess he trusts you — and won’t cause trouble. Though he never misses a chance to joke about how he should be leading the group.</text>
 	</string>
 	<string id="viper_sobre_dogo_2">
-		<text>No creo que cause problemas. Ladra pero no muerde.</text>
+		<text>I don’t think he’ll be a problem. All bark, no bite.</text>
 	</string>
 	<string id="viper_sobre_dogo_3">
-		<text>Por algo le dirán Dogo, amigo.</text>
+		<text>Figures they call him Dogo, then.</text>
 	</string>
 	<string id="viper_sobre_dogo_4">
-		<text>Verga... No había pensado en eso. Retiro lo dicho.</text>
+		<text>...Damn. Didn’t think of that. I take it back.</text>
 	</string>
 	<string id="viper_traje_reward_0">
 		<text>(Misión) Mirá lo que recuperé. (Mostrar traje de Viper)</text>
@@ -620,6 +620,9 @@
 	<string id="esc_fanatico_meet_0">
 		<text>¡Hola! ¿En qué puedo ayudarte, novato? Si tienes dudas, no dudes en preguntarme.</text>
 	</string>
+	<string id="esc_fanatico_meet_after_0">
+		<text>Hola, hijo. Espero que todo siga tranquilo...</text>
+	</string>
 	<string id="esc_fanatico_sobre_tumba_0">
 		<text>(Misión) Hola, necesito encontrar una tumba con forma de cruz, de esas que tienen una máscara de gas ¿Tenés idea de dónde hay una?</text>
 	</string>
@@ -773,7 +776,126 @@
 	<string id="esc_fanatico_gatling_6">
 		<text>Veremos. Adios.</text>
 	</string>
-	
+	<string id="esc_fanatico_frecuencias_0">
+		<text>(Misión) Encontré estas frecuencias de los militares...</text>
+	</string>
+	<string id="esc_fanatico_frecuencias_1">
+		<text>(Fanático toma los documentos y les da una ojeada con una expresión de preocupación) Esto no es bueno... Pero explica muchas cosas, con razón los militares han estado rastrillando el Cordón como locos ¿Dónde lo encontraste?</text>
+	</string>
+	<string id="esc_fanatico_frecuencias_2">
+		<text>Lo tenía Vovan, no sé qué uso quería darle, pero se ve que estaba juntando polvo. Sidorovich me mandó a buscarlo.</text>
+	</string>
+	<string id="esc_fanatico_frecuencias_3">
+		<text>Entiendo, hiciste bien en venir a mí entonces. Voy a ser breve, Sidorovich tranza con los militares para que estos le metan productos de forma ilegal a la zona, esto incluye armamento, dinero, gente, etc. Su relación es inestable porque él promete a los militares que los stalkers no les van a generar problemas, pero ambos sabemos que eso no siempre se cumple. De alguna forma mantiene "segura" la aldea evitando que vengan incursiones al lugar y se beneficia en el medio. Es un negocio bien planificado, pero cualquier cambio juega con las vidas de la gente del lugar, no es lo más ético... y esto suena a que el comerciante trama algo.</text>
+	</string>
+	<string id="esc_fanatico_frecuencias_4">
+		<text>¿Y qué hacemos?</text>
+	</string>
+	<string id="esc_fanatico_frecuencias_5">
+		<text>Me he infiltrado en su base varias veces. Creo que podríamos devolverlos sin que ellos lo noten, si no, tengo un contacto ahí dentro, un soldado de rango medio que a veces me trae medicinas... Podríamos reunirnos con él y dárselos para que los devuelva y así evitar una catástrofe ¿Qué opinas?</text>
+	</string>
+	<string id="esc_fanatico_frecuencias_60">
+		<text>Vamos a infiltrarnos.</text>
+	</string>
+	<string id="esc_fanatico_frecuencias_61">
+		<text>Organiza esa reunión.</text>
+	</string>
+	<string id="esc_fanatico_frecuencias_601">
+		<text>Bien, pero debemos hacerlo bajo la cobertura de la noche. Ven a verme luego de las 2am y vamos.</text>
+	</string>
+	<string id="esc_fanatico_frecuencias_7">
+		<text>Dale. Nos vemos por la noche.</text>
+	</string>
+	<string id="esc_fanatico_frecuencias_611">
+		<text>Bien, voy a enviarle un mensaje. Organizaré toda la cuestión para que hagamos la reunión por la noche, el seguro no va a venir solo, así que acompañame por las dudas. Ven a verme luego de las 2 am ¿Va?</text>
+	</string>
+	<string id="esc_fanatico_frecuencias_infiltracion_0">
+		<text>(Misión) Llegué ¿Cómo nos infiltramos?</text>
+	</string>
+	<string id="esc_fanatico_frecuencias_infiltracion_1">
+		<text>Bien. Haremos lo siguiente: Te acompañaré hasta el terreno alto, hacia el Este. Desde ahí esperaré con los binoculares y te iré dando indicaciones y soporte. Por la noche los soldados bajan la guardia, llevan gente a casa y solo se quedan algunos descansando, y dos o tres patrullando. Es imperativo que hagamos esto sin dañar a nadie. No tienen que enterarse que entramos y salimos para evitar más problemas ¿Entendido?</text>
+	</string>
+	<string id="esc_fanatico_frecuencias_infiltracion_2">
+		<text>Entendido, sin matar a nadie. Vamos.</text>
+	</string>
+	<string id="esc_fanatico_frecuencias_reunion_0">
+		<text>(Misión) Llegué ¿Dónde es la reunión?</text>
+	</string>
+	<string id="esc_fanatico_frecuencias_reunion_1">
+		<text>En el molino que está al Norte, no es muy lejos. Yo voy a hablar con mi contacto, tu me cubres desde el techo ¿Entendido? No debemos armar un escándalo, mi contacto es de confianza y no creo que trame nada raro.</text>
+	</string>
+	<string id="esc_fanatico_frecuencias_reunion_2">
+		<text>Bien, me trepo al techo y te cubro. Vamos.</text>
+	</string>
+	<string id="esc_fanatico_frecuencias_reunion_done_0">
+		<text>(Misión) ¿Querías hablar?</text>
+	</string>
+	<string id="esc_fanatico_frecuencias_reunion_done_1">
+		<text>Si, te debo una disculpa, hijo. Las cosas no salieron como pensaba, fuí necio al creer que se podía tratar con esta gente siempre por las buenas. No estoy satisfecho con lo que logramos... También te debo una recompensa, se nota tu interés por cuidar la aldea. Eso no tiene precio, espero que esto pueda compensarte. Le tengo un cariño especial a esta arma.</text>
+	</string>
+	<string id="esc_fanatico_frecuencias_reunion_done_2">
+		<text>Gracias por el arma ¿Pero por qué no estás satisfecho?</text>
+	</string>
+	<string id="esc_fanatico_frecuencias_reunion_done_3">
+		<text>Seguimos teniendo las frecuencias, eso es un problema. Y ahora me surge otra duda: Mi contacto, Serdyuk. Me preocupa su paradero, no es un mal tipo y su bienestar me compete. Creo que voy a investigar las PDA de estos militares y si averiguo algo, te llamo para charlar ¿Puedo contar contigo?</text>
+	</string>
+	<string id="esc_fanatico_frecuencias_reunion_done_4">
+		<text>Cuenta conmigo. Nos vemos.</text>
+	</string>
+	<string id="esc_fanatico_frecuencias_infiltracion_done_0">
+		<text>(Misión) Las frecuencias quedaron donde me pediste.</text>
+	</string>
+	<string id="esc_fanatico_frecuencias_infiltracion_done_1">
+		<text>Eso son buenas noticias. Su comandante va y viene de esa oficina todo el tiempo. Apenas ande por ahí va a notarlas, te lo aseguro. Cuando eso pase, vamos a dejar de tener problemas con la intensidad de sus incursiones... Se estaba saliendo de control ese asunto.</text>
+	</string>
+	<string id="esc_fanatico_frecuencias_infiltracion_done_2">
+		<text>¿Volvemos a la base entonces?</text>
+	</string>
+	<string id="esc_fanatico_frecuencias_infiltracion_done_3">
+		<text>Claro, pero toma esto primero. Si bien es una reliquia, tengo fé de que le vas a dar un buen uso.</text>
+	</string>
+	<string id="esc_fanatico_frecuencias_infiltracion_done_4">
+		<text>Gracias, Fanático.</text>
+	</string>
+	<string id="esc_fanatico_logro_0">
+		<text>(Interacción) Vine apenas pude ¿Qué pasó?</text>
+	</string>
+	<string id="esc_fanatico_logro_1">
+		<text>Me enteré que planeas dejar el Cordón, y parece que habiendose corrido la voz del tipo de persona que eres los stalkers del campamento hicieron una colecta para demostrarte que valoran lo que lograste en tu estadía por el Sur.</text>
+	</string>
+	<string id="esc_fanatico_logro_2">
+		<text>¿...Una colecta? ¿Esto es cosa tuya o qué?</text>
+	</string>
+	<string id="esc_fanatico_logro_3">
+		<text>(Fanático sonríe al ver tu expresión confundida) Nada de eso. Te has portado bien, Viktor. Toma, esto es de mi parte.</text>
+	</string>
+	<string id="esc_fanatico_logro_4">
+		<text>Gracias, Fanático.</text>
+	</string>
+	<string id="esc_fanatico_logro_5">
+		<text>Esto es de Tokha, Andrew y los demás novatos. Ellos son quienes valoran más lo que has hecho por la comunidad. Mejoraron un arma y la bautizaron con un nombre que les recuerda a tí... Estoy seguro de que si Tornillo siguiese con nosotros, el hubiese participado también.</text>
+	</string>
+	<string id="esc_fanatico_logro_6">
+		<text>...</text>
+	</string>
+	<string id="esc_fanatico_logro_7">
+		<text>Esto es de parte de los más veteranos. Esos que estan en la última casa.</text>
+	</string>
+	<string id="esc_fanatico_logro_8">
+		<text>Wow. No sé qué decir...</text>
+	</string>
+	<string id="esc_fanatico_logro_9">
+		<text>Ah, casi lo olvido. Esto es de parte de Wolf. Siendote honesto, me sorprendió que quiera participar.</text>
+	</string>
+	<string id="esc_fanatico_logro_10">
+		<text>...</text>
+	</string>
+	<string id="esc_fanatico_logro_11">
+		<text>Buena suerte en tus viajes. Sé que estan reuniendo un gran equipo, así que tengo fé de que les va a ir bien. Cuidense.</text>
+	</string>
+	<string id="esc_fanatico_logro_12">
+		<text>Gracias totales.</text>
+	</string>
 	<string id="esc_gabriel_meet_0">
 		<text>Hola, stalker ¿Todo bien?</text>
 	</string>
@@ -1051,7 +1173,7 @@
 		<text>Esos artefactos... Los vendí a unos bandidos que venían desde el Valle Oscuro. Tendrás que hablar con Kolyan por eso, seguro los tiene.</text>
 	</string>
 	<string id="esc_vovan_start_20751">
-		<text>Las frecuencias... Las tengo acá, en este refugio. Las necesitaba para encontrar caminos seguros para moverme por la zona. Pero podés revisar el baúl y quedartelas si querés.</text>
+		<text>Las frecuencias... Las tengo acá, en este refugio. Las necesitaba para encontrar caminos seguros para moverme por la zona. Pero podés revisar el baúl y quedartelas si querés, creo que a Fanático le interesa este tipo de material.</text>
 	</string>
 	<string id="esc_vovan_start_208">
 		<text>Bien, pero faltan cosas.</text>
@@ -1249,7 +1371,7 @@
 		<text>Ahora mismo no, disculpa.</text>
 	</string>
 	<string id="esc_pollo_task_3">
-		<text>Primero que nada, toma una de estas, son radioprotectores para que no se te achicharren las pelotas. Lo vas a necesitar, el otro es para cuando salgas de la anomamlía, así no te envenenas de forma perpétua... \n Segundo, te pondré este chip encima, solo necesito que sigas mis indicaciones y te vayas moviendo dentro de la anomalía, yo iré detectando tu posición y cuadrándola con mi escaner. Cuando vayas a los lugares exactos que te indique, dás un pisotón en el suelo con todas tus fuerzas así veo los resultados y te digo a dónde ir después. ¿Estamos bien? ¿Tienes alguna duda?</text>
+		<text>Primero que nada, toma una de estas, son radioprotectores para que no se te achicharren las pelotas. Lo vas a necesitar, el otro es para cuando salgas de la anomalía, así no te envenenas de forma perpétua... \n Segundo, te pondré este chip encima, solo necesito que sigas mis indicaciones y te vayas moviendo dentro de la anomalía, yo iré detectando tu posición y cuadrándola con mi escaner. Cuando vayas a los lugares exactos que te indique, dás un pisotón en el suelo con todas tus fuerzas así veo los resultados y te digo a dónde ir después. ¿Estamos bien? ¿Tienes alguna duda?</text>
 	</string>
 	<string id="esc_pollo_task_4">
 		<text>...Creo que no hay dudas, CREO.</text>
@@ -1951,7 +2073,7 @@
 		<text>Eso haré. Nos vemos.</text>
 	</string>
 	<string id="esc_cabo_task_reward_0">
-		<text>(Misión) Encontré el arma, estaba en el techo del puesto de avanzada.</text>
+		<text>(Misión) Encontré el arma. Estaba bien escondida.</text>
 	</string>
 	<string id="esc_cabo_task_reward_1">
 		<text>Diablos, como los odio. Ya no me van a hacer más jugarretas si tengo el arma. Tomá, no es mucho pero es dinero ganado con mi esfuerzo. Gracias por ayudarme, stalker.</text>
@@ -2328,7 +2450,38 @@
 	<string id="esc_mago_leto_2">
 		<text>Así que fué echado del campamento... Me sirve.</text>
 	</string>
+
+	<string id="esc_arregin_bonus_0">
+		<text>Yo que vos no entro ahí.</text>
+	</string>
+	<string id="esc_arregin_bonus_1">
+		<text>¿Qué? ¿Por qué?</text>
+	</string>
+	<string id="esc_arregin_bonus_2">
+		<text>Alguien se robó el pan del Gaucho, y lo estan buscando. La cosa está muy tensa...</text>
+	</string>
+	<string id="esc_arregin_bonus_3">
+		<text>¿Todo por un pan?</text>
+	</string>
+	<string id="esc_arregin_bonus_4">
+		<text>Efectivamente. En la zona, convidarle un pan a un desconocido es hacer un nuevo amigo. Tiene un valor de tácito, además de los carbohidratos que aporta. Que le hayan robado un pan implica que se van a terminar matando entre ellos...</text>
+	</string>
+	<string id="esc_arregin_bonus_5">
+		<text>¿SE VAN A MATAR?</text>
+	</string>
+	<string id="esc_arregin_bonus_6">
+		<text>Nah, te estoy jodiendo. Pasá y fijate si lo encontrás.</text>
+	</string>
 	
+	<string id="esc_zhenka_bonus_0">
+		<text>(Interacción) ¿Alguna idea de dónde puede estar el pan?</text>
+	</string>
+	<string id="esc_zhenka_bonus_1">
+		<text>Para nada. El Gaucho no quiere que nos vayamos hasta que aparezca. Así que vamos a estar un rato largo aquí. Si te enteras de quién lo tiene, avisale.</text>
+	</string>
+	<string id="esc_zhenka_bonus_2">
+		<text>Va. Les aviso.</text>
+	</string>
 	
 	<string id="dar_viper_meet_francotirador_0">
 		<text>Te toca a vos, amigo.</text>
