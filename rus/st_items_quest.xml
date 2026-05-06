@@ -1,217 +1,217 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>
 <string id="bad_psy_helmet_desc">
-		<text>Prototipo desarrollado por los cientнficos para proteger a las personas de emisiones-psi. Necesita algunos ajustes.</text>
+		<text>Прототип, разработанный учёными для защиты от пси-излучения. Нуждается в настройке.</text>
 	</string>
 	<string id="bad_psy_helmet_name">
-		<text>Casco-psi sin calibrar</text>
+		<text>Ненастроенный пси-шлем</text>
 	</string>
 	<string id="good_psy_helmet_desc">
-		<text>Prototipo desarrollado por los cientнficos para proteger a las personas de emisiones-psi.</text>
+		<text>Прототип, разработанный учёными для защиты от пси-излучения.</text>
 	</string>
 	<string id="good_psy_helmet_name">
-		<text>Casco-Psi</text>
+		<text>Пси-шлем</text>
 	</string>
 	<string id="cit_doctors_key_short_desc">
-		<text>Llave del Doctor de un escondite secreto en Pripyat</text>
+		<text>Ключ Доктора от тайника в Припяти</text>
 	</string>
 	<string id="cit_doctors_key_name">
-		<text>Llave del Doctor</text>
+		<text>Ключ Доктора</text>
 	</string>
 	<string id="cit_doctors_key_desc">
-		<text>Una llave con "Hotel Polissya - habitaciуn 26" grabada en el lado.</text>
+		<text>Ключ с гравировкой «Готель Полiсся - 26».</text>
 	</string>
 	<string id="item_docs_hiden_pri_desc">
-		<text>Manuscrito encuadernado en cuero. Escrito por el propio Strelok. \nA juzgar por el tнtulo, podrнa explicar algunos de los secretos de la Zona.</text>
+		<text>Истёртые рукописи в кожаном переплете. Автор - сам Стрелок. Если судить по заголовкам, текст мог бы пролить свет на некоторые из тайн Зоны.</text>
 	</string>
 	<string id="cit_doctors_pda_name">
-		<text>Notas del octor</text>
+		<text>Записки Доктора</text>
 	</string>
 	<string id="cit_doctors_pda_desc">
-		<text>Sуlo algunas notas sobre las teorнas de la conspiraciуn de los viejos hombres. \nHay rumores de que el Instituto Agroprom fue utilizado como un frente para un laboratorio no oficial en los aсos anteriores al accidente del aсo 2006. Este laboratorio celebrу una serie de experimentos muy inusuales. Me encontrй con Barman, йl dice que enviу a exploradores de Deber a entrar en las bуvedas subterrбneas de Dark Valley, en un laboratorio llamado Lab X-18, pero desaparecieron. Hay otros rumores con respecto a un "Controlador-Psi". Todo Yantar estб bajo la influencia de ese pedazo de basura,  zombificу a todos los que estaban dentro del rango de alcance. Hay otro mecanismo subterrбneo en el Radar del Bosque Rojo, llamado Lab X-19, y eso es lo que probablemente serб el Cauterizador Cerebral. Hay evidencia que sugieren que la presencia del Cauterizador Cerebral bloquea intencionalmente el camino hacia el Norte, pero nadie sabe exactamente lo que es. Barman cree que el Cauterizador Cerebral estб hecho por el hombre y estos mecanismos no siempre funcionan a plena potencia. Йl piensa que hay perнodos en que su poder se baja para enfriar el aparato. Es hora de visitar todos los laboratorios subterrбneos en la Zona y descubrir quй tipo de secretos tienen ocultos. Lбstima que sea demasiado viejo para esta mierda. Ojalб Strelok estuviera todavнa por aquн, pero maldita sea, desapareciу hace aсos.</text>
+		<text>«Заметки уже немолодого человека». \nХодят слухи, что институт Агропром использовался в качестве прикрытия для неофициальной лаборатории во времена, предшествующие аварии 2006 года. Эта лаборатория провела ряд очень необычных экспериментов. Торговцы откопали немало информации о ней, да и о других подобных объектах. Я встретился с Барменом; он говорил, что посылал разведчиков из числа бойцов «Долга», чтобы проникнуть в лабораторию X-18 в подземельях Темной Долины, но все отправленные группы исчезли. Есть ещё слухи относительно Пси-установки, которая превращает в зомби всех, находящихся в пределах досягаемости: весь завод на Янтаре находится под её влиянием. О бункере около Рыжего Леса под названием X-19 известно только то, что именно из него, вероятно, управляют Выжигателем Мозгов. Существуют доказательства того, что Выжигатель Мозгов рукотворен и создан с целью блокировать дороги на север, но никто не точно знает, что он такое на самом деле. Бармен считает, что Выжигатель не всегда работает в полную силу. Он думает, что есть периоды, когда мощность излучения снижается для охлаждения устройства. Пожалуй, настало время посетить все подземные лаборатории в Зоне и выяснить, какие тайны они скрывают. Жаль, что я слишком стар для этого. Я бы очень хотел, чтобы Стрелок был сейчас рядом, но, чёрт побери, он исчез много лет назад.</text>
 	</string>
 	<string id="item_docs_hiden_pri_name">
-		<text>Manuscrito de Strelok</text>
+		<text>Рукопись Стрелка</text>
 	</string>
 	<string id="item_decoder_desc">
-		<text>Una poderosa cerradura electrуnica. Curiosamente, parece haber sido  creada para activar o desactivar algo.</text>
+		<text>Нечто вроде мощной электронной отмычки. Похоже, что устройство создавалось с целью взломать какой-то специфический электронный замок. Как ни странно, конструкция не подразумевает универсальности - прибор создавался для конкретного замка и неспособен взламывать какие-либо другие коды.</text>
 	</string>
 	<string id="item_decoder_name">
-		<text>Decodificador</text>
+		<text>Декодер</text>
 	</string>
 	<string id="pri_decoder_docs_conclusion_txt">
-		<text>El manuscrito contiene un breve informe sobre cуmo Fang y Strelok se infiltraron en un laboratorio oculto en su viaje al lugar. Hace menciуn de la gran presencia de Monolitos en y alrededor de la central nuclear de Chernobyl NPP. Mбs especнficamente bajo el Sarcуfago de hormigуn, sugiriendo tambiйn que puede ser su base de operaciones, pero con la intenciуn de esconder algo. Leyendo aъn mбs, afirma que descubrieron un laboratorio escondido mucho mбs al norte, bajo los generadores, sin embargo no podнan acceder a йl, ya que requerнan el uso de un decodificador.</text>
+		<text>Рукопись содержит краткий отчет о том, как Клык и Стрелок проникли в секретную лабораторию, и описание их пути там. Есть упоминание о присутствии некоего Монолита в окрестностях Чернобыльской АЭС. Более конкретно - под бетонным саркофагом. Также есть предположение, что это, возможно, лишь прикрытие чего-то более важного. Дальше говорится, что они обнаружили лабораторию, скрытую дальше на севере под Генераторами. Однако, на момент написания, они не смогли проникнуть в неё, поскольку требовалось найти или сделать декодер для взлома электронного замка.</text>
 	</string>
 	<string id="item_quest_case_02_desc">
-		<text>Un maletнn a prueba de fuego que contiene documentos militares e informes sobre las investigaciones realizadas cerca de Agroprom. Los informes hablan en detalle sobre cуmo la maquinaria y el equipo ha desaparecido del instituto y cуmo los resultados de las investigaciones sobre su paradero aparentemente fueron falsificados.</text>
+		<text>Огнестойкий портфель, содержащий военные документы и отчеты об исследованиях, выполненных в НИИ «Агропром». В докладах подробно говорится о том, как машины и оборудование пропали без вести из института, и что результаты расследования по установлению их местонахождения, по-видимому, сфальсифицированы.</text>
 	</string>
 	<string id="item_quest_case_02_name">
-		<text>Documentos militares</text>
+		<text>Военные документы</text>
 	</string>
 	<string id="item_doc_x18_name">
-		<text>Informe de investigaciуn biolуgica</text>
+		<text>Отчет о биологических исследованиях</text>
 	</string>
 	<string id="item_doc_x18_desc">
-		<text>El informe detalla el estudio de muestras biolуgicas enviadas desde el laboratorio X-18. Las muestras se sometieron a efectos de campo informativos de diferentes intensidades. El informe describe meticulosamente la mutaciуn de los seres vivos despuйs de la exposiciуn a las emisiones.</text>
+		<text>В докладе подробно описано исследование биологических образцов в лаборатории Х-18. Образцы были подвергнуты воздействию психо-информационных полей различной интенсивности. Отчет также скрупулезно описывает мутацию живых существ после воздействия выбросов.</text>
 	</string>
 	<string id="item_doc_x16_desc">
-		<text>Los documentos se refieren a uno de los descubrimientos laterales de la bio-investigaciуn, especнficamente el descubrimiento de que las criaturas vivientes son capaces de generar emisiones psi dirigidas. Un emisor de campo biolуgico, esencialmente un cerebro gigante, fue cultivado como parte de la investigaciуn realizada en el laboratorio X-16.</text>
+		<text>Документы об одном из побочных открытий биологических исследований. В частности, открытие того, что живые существа способны генерировать направленные пси-излучения. Излучатель биополя, по сути, гигантский мозг, был выращен как часть исследований, проведенных в лаборатории Х-16.</text>
 	</string>
 	<string id="item_doc_x16_name">
-		<text>Documentos de investigaciуn Psi</text>
+		<text>Материалы о пси-установке</text>
 	</string>
 		<string id="item_doc_x10_desc">
-		<text>Los documentos describen las caracterнsticas tйcnicas de una antena y cуmo se desvнan de sus diseсos planificados. Hay una nota en el reverso que indica que estos documentos fueron preparados en el Laboratorio X-19.</text>
+		<text>Документы описывают технические характеристики антенн и содержат сведения об отклонениях от запланированного проекта при их изготовлении. Примечание на обратной стороне указывает, что эти документы были подготовлены в лаборатории Х-19.</text>
 	</string>
 	<string id="item_doc_x10_name">
-		<text>Documentos del Emisor Arco Iris</text>
+		<text>Документация на излучатель «Радуга»</text>
 	</string>
 		<string id="item_doc_x8_desc">
-		<text>El documento se refiere a la transferencia del equipo de investigaciуn y de todos los materiales a otro laboratorio en el norte, que serб utilizado para investigar asuntos relacionados con la influencia de la noosfera. Para entrar en el laboratorio, se usa la fecha del accidente como el cуdigo (ddmmyyyy).\n \nEl equipo de investigaciуn estб formado por: N.A. Lebedev, E.F. Kalancha y V.I. Suslov.</text>
+		<text>Документ о передаче всех материалов исследовательской группы в другую лабораторию далеко на севере для исследования вопросов влияния на ноосферу. Примечание, написанное от руки: «Для входа в лабораторию использовать дату аварии в качестве кода(ДДММГГГГ).\n \n Исследовательская группа: Н.А.Лебедев, Е.Ф.Каланча, В.И.Суслов.»</text>
 	</string>
 	<string id="item_doc_x8_name">
-		<text>Orden de Transferencia</text>
+		<text>Распоряжение о переводе</text>
 	</string>
 	<string id="item_doc_jup_ug_desc">
-		<text>El cuaderno contiene una descripciуn detallada de un experimento que evalъa el efecto de un campo psi sobre un objeto en otro hemisferio. Un grupo de cientнficos del Caribe recibiу la seсal, pero fue distorsionada. La seсal se alterу de una manera extraсa, como si la corrigiera alguien. Una posible explicaciуn es que la teorнa de la noosfera es correcta y los cambios fueron hechos por la noosfera.</text>
+		<text>Пожелтевшие от времени страницы содержат подробное описание эксперимента оценки влияния пси-поля на объект, расположенный в другом полушарии. Группа учёных в Карибском море получила сигнал, но он был искажен. Сигнал был изменен странным образом, как если бы был исправлен кем-то сознательно. Одно из возможных объяснений состоит в том, что теория ноосферы верна и изменения были сделаны ноосферой.</text>
 	</string>
 	<string id="item_doc_jup_ug_name">
-		<text>Cuaderno de experimentos</text>
+		<text>Лабораторный журнал</text>
 	</string>
 		<string id="item_doc_mon_con_name">
-		<text>Informe de arma prototipo</text>
+		<text>Чертежи прототипа электромагнитного оружия</text>
 	</string>
 	<string id="item_doc_mon_con_name_desc">
-		<text>Documentos que describen el mecanismo de funcionamiento y las principales caracterнsticas tйcnicas de un dispositivo electromagnйtico mбs avanzado. \nEn el documento hay una nota que dice: "Los documentos deben ser devueltos al  X-8, el laboratorio central. Voy a estar ocupado, asн que entrйguelos usted mismo - N. Lebedev "</text>
+		<text>Документы, описывающие механизм управления и основные технические характеристики экспериментального электромагнитного устройства. \n Записка внутри документов гласит: «Документы необходимо вернуть в центральную лабораторию Х-8; я буду занят, поэтому доставьте их самостоятельно. - Н. Лебедев»</text>
 	</string>
 	<string id="primera_nota_nox_name">
-		<text>Primera nota de NOX</text>
+		<text>Первая записка Нокса</text>
 	</string>
 	<string id="primera_nota_nox_desc">
-		<text>"Si estбs leyendo esto, entonces tus sueсos te guiaron bien.\n Tu sensibilidad psнquica es mayor de lo normal; por eso fuiste capaz de encontrar este lugar antes que los demбs. \n Aquн hallarбs lo que necesitas: la primera Llave, un artefacto que resonarб contigo y te llevarб hacia los otros cuatro. \n Juntos, los cinco revelarбn un poder que trasciende cualquier lнmite... pero aъn no estбs listo para entenderlo. \n A medida que avances, el velo entre tu mente y lo que habita sobre la Zona se volverб mбs delgado. Entonces podrй mostrarte mбs. \n\n Sigue el pulso. No te detengas. \n\n — Nox"</text>
+		<text>«Если ты это читаешь, твои мечты верно тебя направляют.\n Твоя психическая чувствительность выше среднего; и поэтому ты смог найти это место раньше других. \n Здесь ты найдёшь всё нужное: первый ключ и один артефакт, что срезонирует с тобой и направит к четырём другим. \n Вместе они пять откроют тебе силу, превосходящую все границы... Но ты ещё не готов её понять. \n По мере твоего продвижения, занавес между твоим разумом и тем, что обитает над Зоной, станет тоньше. И тогда я смогу показать тебе больше. \n\n Следуй пульсу. И не останавливайся. \n\n — Нокс»</text>
 	</string>
 	<string id="primer_contenedor_name">
-		<text>Contenedor Sellado</text>
+		<text>Запечатанный контейнер</text>
 	</string>
 	<string id="primer_contenedor_desc">
-		<text>Aparato liviano de aleaciуn de aluminio y fibra de carbono. Parece sustentado con algъn tipo de baterнa de larga duraciуn conteniendo un artefacto adentro, se mueve para todos lados al agitar el contenedor levemente.</text>
+		<text>Лёгкое устройство из сплава алюминия и углеродного волокна. Parece sustentado con algъn tipo de baterнa de larga duraciуn conteniendo un artefacto adentro, se mueve para todos lados al agitar el contenedor levemente.</text>
 	</string>
 	<string id="traje_de_viper_name">
-		<text>Blindaje de Viper</text>
+		<text>Бронежилет Вайпера</text>
 	</string>
 	<string id="traje_de_viper_desc">
 		<text>Armadura modificada por un tйcnico de la facciуn "Cielo Despejado". El espacio para el parche de facciуn estб vacнo, alguien lo arrancу їQuй habrб pasado? їCуmo habrб terminado en manos de Leto?</text>
 	</string>
 	<string id="dinero_de_fanatico_name">
-		<text>Maletнn con Dinero de Fanбtico</text>
+		<text>Чемодан с деньгами Фаната</text>
 	</string>
 	<string id="dinero_de_fanatico_desc">
 		<text>Pesado maletнn presuntamente lleno de dinero. Alguien escribiу con marcador permanente "Dinero del tercer idiota" con una letra algo desprolija їAsн que habrб mбs idiotas si este es el tercero?</text>
 	</string>
 	<string id="caja_cerrada_name">
-		<text>Caja cerrada</text>
+		<text>Закрытый ящик</text>
 	</string>
 	<string id="caja_cerrada_desc">
-		<text>Un maletнn de acero cerrado, Viper me dijo que podнa tener algo valioso dentro y que podнa ser ventana para un negocio con un tal Nimble.</text>
+		<text>Закрытый стальной ящик; Viper me dijo que podнa tener algo valioso dentro y que podнa ser ventana para un negocio con un tal Nimble.</text>
 	</string>
 	<string id="esc_nota_mago_name">
-		<text>Nota para "Mago"</text>
+		<text>Записка для "Волшебника"</text>
 	</string>
 	<string id="esc_nota_mago_desc">
 		<text>Escucha, Mago. Tuve que mandar a estos perejiles a que acampen cerca tuyo. Les pedн que te esperen y tienen instrucciones de unirse a tu causa cuando estйs listo ya para ejecutar el plan. Deberнan ser 9 bandidos, si llegaron menos preguntales que mierda pasу. No quiero que ninguno se esconda en el Cordуn o vamos a llamar la atenciуn. \n -Pirata</text>
 	</string>
 	<string id="aparatos_de_pollo_name">
-		<text>Maletнn con cosas de Pollo</text>
+		<text>Чемодан с вещами Йорика</text>
 	</string>
 	<string id="aparatos_de_pollo_desc">
-		<text>Maletнn lleno de aparatos cientнficos que le fueron robados a Pollo.</text>
+		<text>Чемодан, что наполнен научными устройствами, которые украли у Йорика.</text>
 	</string>
 	<string id="tornillo_pda_name">
-		<text>PDA de Tornillos</text>
+		<text>КПК Шурупа</text>
 	</string>
 	<string id="tornillo_pda_descr">
 		<text>La PDA tiene una investigaciуn ligera sobre los mejores lugares para encontrar artefactos de clase baja de forma segura. Tambiйn estб llena de fotos de las vivencias de Tornillos en la zona, entre las cuales se puede ver fotos con el Cabo.\n\n Entre los archivos eliminados se puede ver una nota que dice "Yo no fuн." їQuй serб?</text>
 	</string>
 	<string id="primera_nota_hook_name">
-		<text>Mensajes entre compaсeros #1</text>
+		<text>Переписка товарищей #1</text>
 	</string>
 	<string id="primera_nota_hook_desc">
-		<text> Una hoja vieja con algunas anotaciones entre personas. Las ъltimas notas dicen: "No pude entrar. Habнa muchos y venнan por todos lados, parece que estan marchando al Sur en cantidades industriales, con sus cerebros reciйn lavaditos. El Vintar se me rompiу de tanto uso, asн que lo dejo en la reserva para arreglarlo. Dante, voy a necesitar de tu cinta azul, la de "todo uso". Te dejo a cambio algunos suministros." \n La respuesta a esa nota estб escrita abajo, con letra prolija: "Volvн machacado del Bosque. Me quedo los suministros que dejaron, me llevo tu Vintar para repararlo en la mesa que hay en el cementerio. Tanque me pidiу que deje armamento de reserva. Lo voy a guardar en la caja N°13, sobre el tъnel que va a Darkscape. Dejo algunas pastillas acб que sй que las van a necesitar, hasta la prуxima. Firma: Dante"...</text>
+		<text>Una hoja vieja con algunas anotaciones entre personas. Las ъltimas notas dicen: "No pude entrar. Habнa muchos y venнan por todos lados, parece que estan marchando al Sur en cantidades industriales, con sus cerebros reciйn lavaditos. El Vintar se me rompiу de tanto uso, asн que lo dejo en la reserva para arreglarlo. Dante, voy a necesitar de tu cinta azul, la de "todo uso". Te dejo a cambio algunos suministros." \n La respuesta a esa nota estб escrita abajo, con letra prolija: "Volvн machacado del Bosque. Me quedo los suministros que dejaron, me llevo tu Vintar para repararlo en la mesa que hay en el cementerio. Tanque me pidiу que deje armamento de reserva. Lo voy a guardar en la caja N°13, sobre el tъnel que va a Darkscape. Dejo algunas pastillas acб que sй que las van a necesitar, hasta la prуxima. Firma: Dante"...</text>
 	</string>
 	<string id="segunda_nota_hook_name">
-		<text>Mensajes entre compaсeros #2</text>
+		<text>Переписка товарищей #2</text>
 	</string>
 	<string id="segunda_nota_hook_desc">
 		<text>Otro papel algo maltrecho, se nota que ha pasado por varias manos. Las ъltimas notas dicen: "Hook, Tanque, Vera. Vi un novato intentando tomar las cosas de este baъl, parece que con el cambio de estaciуn quedу a la vista. Me llevo todo al baъl N°7 y abandono este. Dejo una de las llaves. Cuidense." \n Abajo dice con letra cursiva: "Dante de mierda, siempre haciendote el misterioso cambiando los escondites como si tuviesemos tiempo de andar buscando y buscando. Dejй una revista muy importante acб y ahora no la encuentro. Perdн mi mapa con los nombres de los escondites. No sй cual chota es el N°7 їЎEra el que estaba dentro del vagуn sobre el puente, el vagуn sobre el Rнo Pripyat ...O el vagуn sobre Darkscape!? Que bronca amigo, te voy a dar una buena piсa cuando te cruce." La ъltima nota parece no estar firmada.</text>
 	</string>
 	<string id="tercera_nota_hook_name">
-		<text>Mensajes entre compaсeros #3</text>
+		<text>Переписка товарищей #3</text>
 	</string>
 	<string id="tercera_nota_hook_desc">
 		<text>Una bola de papel arrugado, al extenderlo se puede leer una nota: "Vi gente que solнa ser de Cielo Despejado en el Cordуn їEstarбn planeando algo? No pude quedarme pero les dejo aviso para que no se enteren por sorpresa. Tanque, muchas gracias por el artefacto, me ayuda a llevar mejor el peso. Dejo algunos regalitos a cambio, cuidense y nos vemos en el Bar." \n Abajo dice con otra letra: "Chicos, los monolitos llegaron al Cordуn y cerraron el Norte. Parece que Deber estб intentando mantenerlos a raya pero eran MUCHOS. No creo que aguanten, asн que me voy por los pantanos. Verй de dejar informaciуn en la estaciуn de bombeo, en lo alto, ya saben donde. Tengan cuidado, sй que mataron al comerciante Mark hace poco".</text>
 	</string>
 	<string id="cuarta_nota_hook_name">
-		<text>Mensajes entre compaсeros #4</text>
+		<text>Переписка товарищей #4</text>
 	</string>
 	<string id="cuarta_nota_hook_desc">
 		<text>Una nota en una servilleta: "Chicos, vine a los pantanos a chequear la situaciуn sobre la gente de Cielo Despejado. Parece que estan resurgiendo... Si bien son pocos, los veo bien armados y marchando al Norte durante las noches. De dнa no parecen mostrarse para no tener problemas con los militares... Voy a tener que ir por Darkscape, espero que mi revista estй en las rocas tras la gasolinera o vamos a tener problemas :) \n PD: Me llevo todos los suministros, dejo la llave de Dante para que no llore luego." </text>
 	</string>
 	<string id="quinta_nota_hook_name">
-		<text>Mensajes entre compaсeros #5</text>
+		<text>Переписка товарищей #5</text>
 	</string>
 	<string id="quinta_nota_hook_desc">
 		<text>Un papel un poco mбs cuidado que los anteriores, escrito con calma y prolijidad: "Dante, Hook, Me encontrй con Tanque y seguimos camino juntos al Hospital ЎEspero verlos en el bar! Los extraсo. Firma: Vera." \n Otra letra algo desprolija escribe: "MБS VALE QUE LLEVEN MIS REVISTAS AL BAR їME ENTENDIERON? VERA QUIERE VERLOS. LOS ESPERO AHН. VOY A DEJAR SUMINISTROS ENCIMA DEL PUENTE DEL VALLE, PERO SEPAN QUE LO HAGO CON MUCHA BRONCA. FIRMA: TANQUEATLETA EL MEJOR STALKER DE LA ZONA". </text>
 	</string>
 	<string id="sexta_nota_hook_name">
-		<text>Mensajes entre compaсeros #6</text>
+		<text>Переписка товарищей #6</text>
 	</string>
 	<string id="sexta_nota_hook_desc">
 		<text>Una nota escrita sobre un envoltorio de salchicha dietйtica... Dice: "Arreglй el Rifle, Hook. Pero no lo puedo dejar acб, estб movido el Valle. Ustedes me entienden... Voy a dejarlo en el Cementerio de Camiones. Dejo el cazador de tesoros para encontrarlo, ya que el escondite que tenнamos ahн fuй destruнdo por los mutantes. Ya saben como funciona. \n\n - Dante".</text>
 	</string>
 	<string id="llave_hook_1_name">
-		<text>Llave del grupo #1</text>
+		<text>Ключ группы #1</text>
 	</string>
 	<string id="llave_hook_1_desc">
-		<text>Parece que tiene poco uso. Tiene escrito con raspones "Hook".</text>
+		<text>Видно, что его сильно не использовали. На нём нацарапано "Крюк".</text>
 	</string>
 	<string id="llave_hook_2_name">
-		<text>Llave del grupo #2</text>
+		<text>Ключ группы #2</text>
 	</string>
 	<string id="llave_hook_3_name">
-		<text>Llave del grupo #3</text>
+		<text>Ключ группы #3</text>
 	</string>
 	<string id="llave_hook_4_name">
-		<text>Llave del grupo #4</text>
+		<text>Ключ группы #4</text>
 	</string>
 	<string id="llave_hook_4_desc">
 		<text>Tiene una cinta de papel pegada, dice "Dantelantero" en birome.</text>
 	</string>
 	<string id="llave_hook_5_name">
-		<text>Llave del grupo #5</text>
+		<text>Ключ группы #5</text>
 	</string>
 	<string id="llave_hook_5_desc">
 		<text>Tiene una cinta de papel pegada, dice "Dante" en birome.</text>
 	</string>
 	<string id="llave_hook_6_name">
-		<text>Llave del grupo #6</text>
+		<text>Ключ группы #6</text>
 	</string>
 	<string id="llave_hook_6_desc">
 		<text>La llave estб doblada, alguien la apretу o tropezу con la llave encima. Deberнa funcionar aъn.</text>
 	</string>
 	<string id="nota_escondite_monolito_1_name">
-		<text>Nota del Francotirador Monolito</text>
+		<text>Записка снайпера монолитовца</text>
 	</string>
 	<string id="nota_escondite_monolito_1_desc">
 		<text>"El altнsimo inquisidor Charon me diу instrucciones precisas de emboscar al hereje con este rifle bendecido y toda esta municiуn. Tomo la mitad y dejo un poco acб para no andar con tanto peso encima. Parece que el hereje lleva uno de los artefactos de la primera camada que nos robу el stalker Nox. Hay que detenerlo a toda costa."\n La nota estб firmada con un sнmbolo similar a un бtomo con sus electrones girando al rededor.</text>
 	</string>
 	<string id="nota_escondite_leto_1_name">
-		<text>Desvarнos de Leto</text>
+		<text>Бредни Лета</text>
 	</string>
 	<string id="nota_escondite_leto_1_desc">
 		<text>Una letra prolija y caligrбfica escribe "ЎPASУ DE NUEVO! ЎPERO ESTA VEZ ME ADELANTЙ! Pude robar sus cosas antes de que se entere siquiera, tremendo estъpido. Es increнble que sigan creyйndome cada vez que me cambio la mбscara de gas, los stalkers son cada vez mбs descuidados estos dнas..."\n Debajo de la nota hay un emoji de enojo ">:(" escrito de forma desprolija, que no cuadra con la caligrafнa calmada de antes.</text>
 	</string>
 	<string id="explosivos_wolf_name">
-		<text>Explosivos de Wolf</text>
+		<text>Взрывчатка Волка</text>
 	</string>
 	<string id="explosivos_wolf_desc">
 		<text>Caja pequeсa llena de pesados explosivos. Alguien escribiу sobre la superficie metбlica "wolf" con el filo de un cuchillo.</text>
@@ -229,76 +229,70 @@
 		<text>Caja de herramientas cerrada y firme. Adentro se pueden ver las mencionadas herramientas acomodadas en sus respectivos lugares de forma prolija y estable, para asegurar su durabilidad.</text>
 	</string>
 	<string id="pda_mago_name">
-		<text>PDA Andrйs "Mago"</text>
+		<text>КПК Андреса "Волшебника"</text>
 	</string>
 	<string id="pda_mago_desc">
-		<text>La PDA de Mago... Estб bloqueada, pero ha recibido mensajes recientes de los siguientes contactos: Leto, Dientes, Akira, Jujuy, Clave, Borov, Tabernero.</text>
+		<text>КПК Волшебника... Estб bloqueada, pero ha recibido mensajes recientes de los siguientes contactos: Leto, Dientes, Akira, Jujuy, Clave, Borov, Tabernero.</text>
 	</string>
 	<string id="foto_viper_name">
-		<text>Foto Polaroid Vieja</text>
+		<text>Старая полароидная фотография</text>
 	</string>
 	<string id="foto_viper_desc">
 		<text>En la foto se ven a dos personas con trajes de camuflaje celeste y blanco, posando para una foto juntos y haciendo seсas con los dedos. Parecen buenos amigos. El de la derecha me suena familiar...</text>
 	</string>
 	<string id="herramienta_hacha_name">
-		<text>Hacha de Madera</text>
+		<text>Топор для дерева</text>
 	</string>
 	<string id="herramienta_hacha_desc">
-		<text>Una pesada hacha de madera. Muy pesada como para usarla de arma.</text>
+		<text>Увесистый топор для дерева. Слишком тяжёл, чтобы использоваться как оружие.</text>
 	</string>
 	<string id="herramienta_martillo_name">
-		<text>Martillo</text>
+		<text>Молоток</text>
 	</string>
 	<string id="herramienta_martillo_desc">
-		<text>Martillo de mano que seguramente sirve para algunos trabajos mбs a pesar de estar algo oxidado.</text>
+		<text>Ручной молоток, что верно служит помощником при выполнении многих работ, несмотря на лёгкую поржавелость.</text>
 	</string>
 	<string id="herramienta_llave_doble_name">
-		<text>Llave Doble</text>
+		<text>Двойной гаечный ключ</text>
 	</string>
 	<string id="herramienta_llave_doble_desc">
-		<text>Estб algo maltratada, pero seguro que aъn sirve.</text>
-	</string>
-	<string id="herramienta_llave_doble_name">
-		<text>Llave Doble</text>
-	</string>
-	<string id="herramienta_llave_doble_desc">
-		<text>Estб algo maltratada, pero seguro que aъn sirve.</text>
+		<text>Немного изношен, но им ещё точно можно пользоваться.</text>
 	</string>
 	<string id="herramienta_pala_name">
-		<text>Pala</text>
+		<text>Лопата</text>
 	</string>
 	<string id="herramienta_pala_desc">
-		<text>Pala de gran tamaсo, algo pesada. Aъn puede usarse.</text>
+		<text>Большая лопата, довольно тяжёлая. Можно ею воспользоваться.</text>
 	</string>
 	<string id="herramienta_maza_name">
-		<text>Maza</text>
+		<text>Кувалда</text>
 	</string>
 	<string id="herramienta_maza_desc">
-		<text>Maza pesada, llena de marcas por su uso y algo de herrumbre. Seguro que todavнa puede servirle a alguien.</text>
+		<text>Массивная кувалда, вся покрытая отметинами от использования и пятнами ржавчины. Уверен, что она ещё точно послужит кому-нибудь верой и правдой.</text>
 	</string>
 	<string id="herramienta_pico_name">
-		<text>Pico</text>
+		<text>Кирка</text>
 	</string>
 	<string id="herramienta_pico_desc">
-		<text>A pesar de su estado, puede rescatarse para darle un buen uso.</text>
+		<text>Несмотря на своё состояние, после небольшого ремонта ей спокойно можно будет пользоваться.</text>
 	</string>
 	<string id="herramienta_escofina_name">
-		<text>Escofina</text>
+		<text>Рашпиль</text>
 	</string>
 	<string id="herramienta_escofina_desc">
-		<text>Estб algo oxidada, pero seguro que un buen tйcnico puede darle uso.</text>
+		<text>Немного ржавый, однако я уверен, что умелый техник найдёт ему применение.</text>
 	</string>
 	<string id="st_credito_0">
-		<text> S.T.A.L.K.E.R. VESSEL Mod</text>
+		<text>S.T.A.L.K.E.R. Модификация «Сосуд»</text>
 	</string>
 	<string id="st_credito_1">
-		<text>Creado Por:</text>
+		<text>Создатель:</text>
 	</string>
 	<string id="st_credito_2">
-		<text>Matias Arregin</text>
+		<text> Matias Arregin</text>
 	</string>
 	<string id="st_credito_3">
-		<text>Agradecimientos:</text>
+		<text>Благодарности:</text>
 	</string>
 	<string id="st_credito_4">
 		<text> CherrySuika \nEl Bandido</text>
@@ -328,13 +322,13 @@
 		<text> Gaucho Stalker \nEl Papitrol</text>
 	</string>
 	<string id="st_credito_13">
-		<text> S.T.A.L.K.E.R. & METRO & CHERNOBYLITE - Latinoamйrica & Espaсa </text>
+		<text> S.T.A.L.K.E.R. & METRO & CHERNOBYLITE - Латиноамериканское & Испанское </text>
 	</string>
 	<string id="st_credito_14">
-		<text> Team Epic (For making CoC) </text>
+		<text> Team Epic (За создание Зова Чернобыля) </text>
 	</string>
 	<string id="st_credito_15">
-		<text> Full credits on Moddb</text>
+		<text> Полный список благодарностей на Moddb</text>
 	</string>
 	<string id="st_text_screen_viper_traje">
 		<text>Ahora Viper aguantarб mucho mбs daсo durante el viaje...</text>
@@ -343,7 +337,7 @@
 		<text>Ahora Cabo aguantarб mucho mбs daсo durante el viaje...</text>
 	</string>
 	<string id="pda_guardia_monolito_name">
-		<text>PDA del guardia</text>
+		<text>КПК охранника</text>
 	</string>
 	<string id="pda_guardia_monolito_desc">
 		<text>La PDA parece estar encriptada. Solo puede verse la pantalla de bloqueo de la misma, esta tiene notificaciones de mensajes recibidos desde el cementerio de camiones. \n Quizбs un tйcnico pueda desbloquearla.</text>
@@ -352,40 +346,40 @@
 		<text>PDA del monolito en la cruz</text>
 	</string>
 	<string id="pda_monolito_cruz_desc">
-		<text>Nota de voz: "El que todo lo sabe repitiу cien mil veces que espere en estas coordenadas a que el hereje asome. Ya son 6 dнas complaciendo los deseos del monolito"</text>
+		<text>Голосовое сообщение: "El que todo lo sabe repitiу cien mil veces que espere en estas coordenadas a que el hereje asome. Ya son 6 dнas complaciendo los deseos del monolito"</text>
 	</string>
 	<string id="pda_centinela_name">
-		<text>PDA de Centinela</text>
+		<text>КПК Часового</text>
 	</string>
-	<string id="pda_centinela_desc">
-		<text>Entrada de hace 8 dнas: “La herida de mi pierna se estб infectando, necesito otro prйstamo para pagar los putos antibiуticos.” \nEntrada de hace 5 dнas: “Esta este tipo, Atreo. Viene de la nada y dice que me puede dar el dinero que necesito si lo acompaсo a los pantanos. Obviamente aceptй, aunque cojee y duela, es mejor que perder la puta pierna.”</text>
+	<string id="pda_centinela_desc"> 
+		<text>Запись восьмидневной давности: «Рана на моей ноге начинает гноиться, придётся брать деньги в долг ддя покупки антибиотиков.» \n Запись пятидневной давности: «Есть тут эдакий тип, Атрей. Непонятно откуда взялся, и говорит, что может дать мне так нужные деньги, если я сопровожу его на болота. Конечно, я согласился, хоть из-за боли мне и приходиться хромать - это лучше, чем потерять свою грёбаную ногу.»</text>
 	</string>
 	<string id="pda_zombie_boss_name">
-		<text>PDA del stalker Zombificado</text>
+		<text>КПК зомбифицированного сталкера</text>
 	</string>
 	<string id="pda_zombie_boss_desc">
-		<text> Entrada de audio personal 1: "Le seguimos el rastro a un Stalker que pasу corriendo herido, vimos que parу en el tъnel a tomar aire. Vamos a acercarnos." \n Entrada de audio personal 2: Los chicos se estбn volviendo locos... el Stalker de chaqueta amarilla nos hizo unos gestos con las manos y todo se fue a la mierda... Tuve que dispararles, me estaban atacando. \n Entrada de audio personal 3: "Mi cabeza va a explotar... Estoy viendo doble y con colores extraсos... Todo se ve rojo por momentos, y azul por otros... Si alguien encuentra esta PDA que se la haga llegar a Cold, por favor."</text>
+		<text>Entrada de audio personal 1: "Le seguimos el rastro a un Stalker que pasу corriendo herido, vimos que parу en el tъnel a tomar aire. Vamos a acercarnos." \n Entrada de audio personal 2: Los chicos se estбn volviendo locos... el Stalker de chaqueta amarilla nos hizo unos gestos con las manos y todo se fue a la mierda... Tuve que dispararles, me estaban atacando. \n Entrada de audio personal 3: "Mi cabeza va a explotar... Estoy viendo doble y con colores extraсos... Todo se ve rojo por momentos, y azul por otros... Si alguien encuentra esta PDA que se la haga llegar a Cold, por favor."</text>
 	</string>
 	<string id="pda_trodnik_name">
-		<text>PDA de Trodnik</text>
+		<text>КПК Тропника</text>
 	</string>
 	<string id="pda_trodnik_desc">
 		<text>Leto usу algъn tipo de truco y se soltу. Noqueу a los chicos con un solo movimiento de su mano ЎNi siquiera nos tocу! Al final, tenнas razуn con tu teorнa. Solo estoy consciente por el casco que llevo... Tomen bloqueadores antes de acercarse.\n Saquennos de esta miseria.</text>
 	</string>
 	<string id="val_llave_caja_fuerte_name">
-		<text>Llave vieja</text>
+		<text>Старый ключ</text>
 	</string>
 	<string id="val_llave_caja_fuerte_desc">
 		<text>Llave fina y algo maltratada por el tiempo. Seguramente le quede un uso antes de quebrarse, hay que tratarla con delicadesa.</text>
 	</string>
 	<string id="val_nota_caja_fuerte_name">
-		<text>Nota de un Bandido</text>
+		<text>Записка бандита</text>
 	</string>
 	<string id="val_nota_caja_fuerte_desc">
 		<text>Kashalot nos pidiу que seamos mбs organizados y llevemos un registro del inventario de la caja fuerte, la llave quedу sobre la mesa.\n\n Yopta: Saquй vodka, como 3 botellas.\n Pituca: Dejй mi chaqueta vieja. Tomй una salchicha.\n Chatarra: Dejo mi gabardina vieja, Kashalot me llamу.\n Oxidado: Le robй este artefacto a un stalker. Luego lo vendemos.\n Beto: Dejo varias botellas de agua.\n Dedos Rotos: Me llevo el agua :D </text>
 	</string>
 	<string id="esc_frecuencias_sidorovich_name">
-		<text>Carpeta con frecuencias militares</text>
+		<text>Каталог частот военных</text>
 	</string>
 	<string id="esc_frecuencias_sidorovich_desc">
 		<text>Una carpeta con una lista enorme de frecuencias escondidas de los militares, con etiquetas e instrucciones sobre cada contexto especнfico para usarlas. Con esto se podrнa sacar mucha ventaja a los planes que puedan tener los militares en la zona.</text>

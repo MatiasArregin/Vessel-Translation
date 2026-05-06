@@ -210,25 +210,28 @@
 		<text>Ха, это парень, которого Вайпер за собой водил...</text>
 	</string>
 	<string id="esc_sound_stalker_detras">
-		<text>Hey, atras tuyo va Viktor. ЎNo! Pero no mires ЎTe va a ver!</text>
+		<text>Эй, прямо за тобой Виктор. Нет! Не оборачивайся! А то он тебя заметит!</text>
 	</string>
 	<string id="esc_sound_stalker_pico">
-		<text>їEse tipo lleva un puto pico en la mochila? je їVa a buscar artefactos o a minar?</text>
+		<text>Тот парень что, целую кирку в рюкзаке тащит? Эй... Ты это, на охоту за артефактами или в шахту?</text>
 	</string>
 	<string id="esc_sound_stalker_comida">
-		<text>Mira, es el que te dije que encontrу la comida... Tremenda suerte.</text>
+		<text>Смотри, это тот сталкер, что ту гору еды раздобыл, про которого я тебе рассказывал... Чёртов везунчик.</text>
 	</string>
 	<string id="esc_item_pda_tornillo">
-		<text>La PDA de Tornillo... Vere que tiene dentro. Parece que hacia una investigacion ligera sobre los mejores lugares para encontrar artefactos de clase baja de forma segura. \n Tambien esta llena de fotos de las vivencias Tornillos en la zona, entre las cuales se pueden ver fotos con su amigo Cabo... \n Entre los archivos eliminados se puede ver una nota... dice: Es Kolyan, el me mando a matar. їQuien sera? Tengo que ver que hago con esta PDA, tiene informacion muy valiosa. Pero tambien le corresponde a Cabo verla.</text>
+		<text>КПК Шурупа... Давай посмотрим, что на нём. Кажется, он немного исследовал самые безопасные места для поиска низкоуровневых артефактов. \n На нём также полно фотографий с его времён в Зоне, некоторые из них с его другом Федькой... \n Среди удалённых файлов есть запись... Она гласит: “Это Колян. Он виновен в моей смерти.” Кто же это, чёрт возьми? Надо решить, что делать с этим КПК - на нём ценная информация. Федька тоже заслуживает это увидеть.</text>
 	</string>
-	<string id="esc_item_nota_nox">
-		<text>Encontrй una nota en el escondite... Dice: "Si estбs leyendo esto, entonces tus sueсos te guiaron bien. Tu sensibilidad psнquica es mayor de lo normal; por eso fuiste capaz de encontrar este lugar antes que los demбs. Aquн hallarбs lo que necesitas: la primera Llave, un artefacto que resonarб contigo y te llevarб hacia los otro cuatro. Juntos, los cinco revelarбn un poder que trasciende cualquier lнmite... pero aъn no estбs listo para entenderlo. A medida que avances, el velo entre tu mente y lo que habita sobre la Zona se volverб mбs delgado. Entonces podrй mostrarte mбs. Sigue el pulso. No te detengas — Nox". Pero no habнa ningъn artefacto ahн... Tengo que averiguar mбs, alguien estuvo acб antes que yo.</text>
+	<string id="esc_item_nota_nox_a">
+		<text></text>
+	</string>
+	<string id="esc_item_nota_nox_b">
+		<text></text>
 	</string>
 	<string id="esc_item_pda_centinela">
-		<text> La PDA dice “Centinela”. Hay algunas entradas escritas de hace unos dнas: “La herida de mi pierna se estб infectando, necesito un prйstamo para pagar los putos antibiуticos.” ugh, pobre tipo... Hay otra entrada unos dнas despuйs. “Esta este tipo, Atreo. Viene de la nada y dice que me puede dar el dinero que necesito si lo acompaсo a los pantanos. Obviamente aceptй, aunque cojee y duela, es mejor que perder la puta pierna.” Al final no le saliу bien... Por eso cojeaba el fiambre.</text>
+		<text>Этот КПК принадлежит некому «Часовому». Тут есть несколько записей : «Рана на моей ноге начинает гноиться, придётся брать деньги в долг ддя покупки антибиотиков.» Ух, бедняга... Есть ещё запись несколькими днями позже. «Есть тут эдакий тип, Атрей. Непонятно откуда взялся, и говорит, что может дать мне так нужные деньги, если я сопровожу его на болота. Конечно, я согласился, хоть из-за боли мне и приходиться хромать - это лучше, чем потерять свою грёбаную ногу.» История с плачевным финалом... Это объясняет прихрамывание погибшего.</text>
 	</string>
 	<string id="esc_item_nota_hook_1">
-		<text>Una nota en un papel algo maltratado que dice: Esta es mi chimenea. Mi escondite, por favor no robar mas cosas. Los stalkers me respetan, no voy a cambiar de escondite, voy a seguir usando este lugar y si descubro quien fue el ladron, le voy a meter un tiro... \n Abajo parece haber una lista: \n Un vodka para la radiacion y las noches largas. \n Dos vendas por los golpes de Dante... Parece que no guardaron muchas cosas en el escondite esta vez.</text>
+		<text>Старый лист бумаги, покрытый записями нескольких человек. Последние из них звучат так: «Esta es mi chimenea. Mi escondite, por favor no robar mas cosas. Los stalkers me respetan, no voy a cambiar de escondite, voy a seguir usando este lugar y si descubro quien fue el ladron, le voy a meter un tiro... \n Abajo parece haber una lista: \n Un vodka para la radiacion y las noches largas. \n Dos vendas por los golpes de Dante... Parece que no guardaron muchas cosas en el escondite esta vez.</text>
 	</string>
 	<string id="esc_item_nota_hook_2">
 		<text>Otro papel maltratado, dice con letra desprolija e iracunda: Guardo unas medicinas. Estuve preguntando si alguien sabe quien me robo las cosas anteriores y averigue quien sos. Si te veo, TE MATO... \n Uf, Espero no meterme en problemas.</text>
@@ -238,6 +241,15 @@
 	</string>
 	<string id="esc_item_nota_hook_4">
 		<text>Otro papel maltratado de nuevo. Esta debe ser la letra de Hook. Esta vez escribio: Parece que indagaste mas de lo que debias. Te dejo instrucciones para que arreglemos esto de una vez y dejes de robarme, hijo de puta. \n Ahora mismo estoy de viaje por el Norte, pero si ves al tabernero, preguntale donde buscar a hook. \n Firma tu peor enemigo: Hook Socorrista. \n PD: Dante, si lees esto no te enojes, no estoy buscando problemas con nadie. Ahora estoy camino al Norte mediante Darkscape, seguro tome lo que dejaste en el escondite tras la gasolinera, nos vemos en yantar, amigo... ЎMierda! al final si me meti en problemas con Hook... Tengo que poner las cosas bien en claro.</text>
+	</string>
+	<string id="esc_item_nota_hook_5">
+		<text>A slightly more carefully handled piece of paper than the others, written neatly and with patience: "Dante, Hook a€” I ran into Tank and we headed toward the Hospital together. Hope to see you at the bar! Miss you guys. -Vera" Another, much messier handwriting adds: "YOU BETTER BRING MY MAGAZINES TO THE BAR, GOT IT? VERA WANTS TO SEE YOU. Ia€™LL BE WAITING THERE. Ia€™LL LEAVE SUPPLIES ON TOP OF THE VALLEY BRIDGE a€” BUT KNOW Ia€™M DOING IT VERY PISSED OFF. a€” TANKATHLETE, THE BEST STALKER IN THE ZONE" Well... looks like he never got his magazines. Poor Tank.</text>
+	</string>
+	<string id="esc_item_nota_hook_6">
+		<text>A note scribbled on a diet sausage wrapper... It reads: "I fixed the rifle, Hook. But I cana€™t leave it herea€”the Valleya€™s too hot right now. You know how it is... Ia€™ll stash it at the Truck Cemetery. Ia€™m leaving the treasure hunter to help you find it, since our old stash there got wrecked by mutants. You know how it works. a€” Dante" Could this be the rifle they mentioned in the first note? I need to find it.</text>
+	</string>
+	<string id="esc_item_nota_hook_7">
+		<text>Another note, this one written in a hurry. The message is short: "I checked with the Doctor about the artifacts. The PSI-manipulation one is with Letoa€”seems he doesna€™t really know how to use it, and Monolith is tracking him. The regeneration one is with someone named Kolyan. I dona€™t know him, but he sounds like a bandit with some serious pull. That leaves us with two more to find, not counting ours. Ia€™ll see you at the Hospitala€”leta€™s hope your lead checks out, Hook. a€” Dante" Signed by Dante... I need to track these guys down.</text>
 	</string>
 	<string id="esc_item_nota_leto">
 		<text>Una letra prolija y caligrafica escribe: ЎPaso de nuevo! ЎPero esta vez me adelante! Pude robar sus cosas antes de que se entere siquiera, tremendo estupido. Es increible que sigan creyendome cada vez que me cambio la mascara de gas, los stalkers son cada vez mas descuidados estos dias... \n Debajo de la nota hay una cara enojada >:( escrito de forma desprolija, que no cuadra con la caligrafia calmada de antes їSera de otra persona?</text>
@@ -265,6 +277,51 @@
 	</string>
 	<string id="esc_item_pda_zombie_boss">
 		<text>Le seguimos el rastro a un Stalker que pasу corriendo herido, vimos que parу en el tъnel a tomar aire. Vamos a acercarnos... \n Los chicos se estбn volviendo locos... el Stalker de chaqueta amarilla nos hizo unos gestos con las manos y todo se fue a la mierda... Tuve que dispararles, me estaban atacando. \n Mi cabeza va a explotar... Estoy viendo doble y con colores extraсos... Todo se ve rojo por momentos, y azul por otros... Si alguien encuentra esta PDA que se la haga llegar a Cold, por favor.</text>
+	</string>
+	<string id="esc_frecuencias_reunion_fanatico_0">
+		<text>Alright, wea€™re here. You go up through that window a€” cover me from the rooftop in case anything happens.</text>
+	</string>
+	<string id="esc_frecuencias_reunion_fanatico_1">
+		<text>Hold position, Viktor. Everythinga€™s going to be fine.</text>
+	</string>
+	<string id="esc_frecuencias_reunion_militar_2">
+		<text>Youa€™re not the bald guy! Wherea€™s Fanatic?</text>
+	</string>
+	<string id="esc_frecuencias_reunion_fanatico_3">
+		<text>Thata€™s me a€” bald under this helmet. (laughs) But youa€™re not Serdyuk... what the hella€™s going on?</text>
+	</string>
+	<string id="esc_frecuencias_reunion_militar_4">
+		<text>Open fire! We need those frequencies!</text>
+	</string>
+	<string id="esc_frecuencias_reunion_fanatico_5">
+		<text>Shoot, Viktor!</text>
+	</string>
+	<string id="esc_frecuencias_reunion_viktor_6">
+		<text>Shit! Take cover!</text>
+	</string>
+	<string id="esc_frecuencias_reunion_militar_7">
+		<text>Rover, Selco a€” take the one on the roof! The rest of you, surround the bald guy!</text>
+	</string>
+	<string id="esc_frecuencias_reunion_fanatico_8">
+		<text>Well... looks like I got sold out. Guess I put too much faith in military a€?goodwilla€? Come here, son. Leta€™s talk before we head back to base.</text>
+	</string>
+	<string id="esc_frecuencias_infiltracion_fanatico_0">
+		<text>I know youa€™re good at stealth, so I wona€™t spell everything out. Head to the fence a€” stay close to it to avoid the landmines. Youa€™ll see a fallen tree ahead, thata€™s your way in.</text>
+	</string>
+	<string id="esc_frecuencias_infiltracion_fanatico_1">
+		<text>One more thing a€” dona€™t turn on your flashlight, or the sniper will spot you.</text>
+	</string>
+	<string id="esc_frecuencias_infiltracion_fanatico_2">
+		<text>Good. Climb over the tree. Ia€™ll keep an eye on the situation from here.</text>
+	</string>
+	<string id="esc_frecuencias_infiltracion_fanatico_3">
+		<text>I see three of them on patrol a€” not too many. Onea€™s moving back and forth between the office and the drop-off point for the documents. Anothera€™s patrolling the parking lot near the barracks. The last onea€™s walking the street... Youa€™ll need to go up the stairs and leave the documents on the desk a€” without being seen.</text>
+	</string>
+	<string id="esc_frecuencias_infiltracion_fanatico_4">
+		<text>Perfect. Wait for an opening, then head back the way you came. You can climb onto the roof to get over the fence.</text>
+	</string>
+	<string id="esc_fanatico_logro_msg_0">
+		<text>Son, I have good news. Come see me before you leave.</text>
 	</string>
 	<string id="esc_msg_monolito_cruz">
 		<text>El monolito tenia razon, has venido...</text>
@@ -368,6 +425,9 @@
 	</string>
 	<string id="esc_msg_vovan_perros_1b">
 		<text>ЎMalditos perros mugrosos!</text>
+	</string>
+	<string id="esc_msg_viktor_perros_1a">
+		<text>Dont be a pussy, Help me!</text>
 	</string>
 	<string id="esc_msg_vovan_perros_2">
 		<text>ЎUf, puta madre! Pense que serias mas ъtil, tuve que hacer la mayoria del trabajo yo.</text>
@@ -547,8 +607,14 @@
 	<string id="esc_dogo_fantasma_general_msg_2">
 		<text>Era broma stalker. No iba a correr hasta la base...</text> <!--sin voz-->
 	</string>
+	<string id="esc_viktor_fantasma_general_msg_1">
+		<text>(Agitado) Hijo de puta... (Risas)</text> <!--sin voz-->
+	</string>		
 	<string id="esc_dogo_fantasma_general_msg_3">
 		<text>Sabes, este tъnel antes tenнa anomalнas elйctricas. Un dнa vino un cientнfico, puso unos aparatitos, apareciу un artefacto y las anomalнas desaparecieron para siempre.</text> <!--sin voz-->
+	</string>
+	<string id="esc_viktor_fantasma_general_msg_2">
+		<text>(AA?n agitado) Interesante...</text> <!--sin voz-->
 	</string>
 	<string id="esc_dogo_fantasma_general_msg_4">
 		<text>Escucha, novato. Gracias por la ayuda, creo que serбs un gran stalker alguna vez… Esos fantasmas sн que me dejaron mal de la cabeza. Ven y hablemos sobre la paga que te ganaste antes de que me duerma.</text> <!--sin voz-->
@@ -568,8 +634,17 @@
 	<string id="esc_dogo_msg_fantasma_1">
 		<text>Stalker, no te alejes mucho de mн. Lo digo para que no te vaya a pasar nada...</text> <!--sin voz-->
 	</string>
-	<string id="esc_dogo_msg_fantasma_2">
-		<text>ЎStalker, mueve el culo!</text> <!--sin voz-->
+	<string id="esc_dogo_msg_fantasma_2a">
+		<text>Rookie, move your ass!</text> <!--sin voz-->
+	</string>
+	<string id="esc_dogo_msg_fantasma_2b">
+		<text>Move!</text> <!--sin voz-->
+	</string>
+	<string id="esc_dogo_msg_fantasma_2c">
+		<text>Ugh... Rookie. Move!</text> <!--sin voz-->
+	</string>
+	<string id="esc_dogo_msg_fantasma_2d">
+		<text>Rookie... (Impatient)</text> <!--sin voz-->
 	</string>
 
 	<string id="dar_viper_msg_1">
@@ -581,6 +656,9 @@
 	<string id="dar_viper_msg_2">
 		<text>Eviten ir por la calle. Tomemos el camino a la derecha y usemos la cobertura de los бrboles.</text>
 	</string>
+	<string id="dar_cabo_msg_0">
+		<text>A?Got it!</text>
+	</string>
 	<string id="dar_viper_msg_3">
 		<text>їLos vieron, no? Hay varios. Avancen con la cabeza a gachas...</text>
 	</string>
@@ -590,8 +668,17 @@
 	<string id="dar_cabo_msg_1">
 		<text>Tenemos un francotirador a la 1 en punto ЎMбs adelante!</text>
 	</string>
+	<string id="dar_retar_dogo_msg_2">
+		<text>Whata€™s with all the protocol? Ita€™s not like therea€™s a sniper or a machine gun nest up ahead.</text>
+	</string>	  
+	<string id="dar_cabo_msg_1">
+		<text>Sniper, one oa€™clock a€” ahead!</text>
+	</string>
 	<string id="dar_viper_msg_4">
 		<text>Lo veo, a cubierto ЎViktor! Acercate. Te toca a tн.</text>
+	</string>
+	<string id="dar_viktor_msg_0">
+		<text>A?Im going!</text>
 	</string>
 	<string id="dar_viper_msg_5">
 		<text>ЎFUEGO DE COBERTURA! ЎCorre Viktor! Al бrbol de la izquierda. Quйdate ahн hasta que recargue.</text>
@@ -629,6 +716,9 @@
 	<string id="dar_dogo_msg_2">
 		<text>Odio a los francotiradores. Son unos malditos maricas.</text>
 	</string>
+	<string id="dar_dogo_msg_2a">
+		<text>Oh yeah? And whoa€™s gonna take me down? Some egghead like you?</text>
+	</string>  
 	<string id="dar_viper_msg_6b">
 		<text>Suficiente. Sigamos por los bordes de la calle que lleva al Este.</text>
 	</string>
@@ -646,6 +736,9 @@
 	</string>
 	<string id="dar_viper_msg_8">
 		<text>Uf... Paremos un rato. Cabo, haz guardia mientras, enseguida te acompaсo. El resto, relбjense un rato.</text>
+	</string>
+	<string id="dar_pollo_msg_5a">
+		<text>Fucking usseles detector is not working...</text>
 	</string>
 	<string id="dar_cabo_msg_3">
 		<text>Tenнan ventaja de terreno alto y aъn asн no pudieron con nosotros... Somos muy buenos.</text>
@@ -1095,5 +1188,10 @@
 		<text>Ahora me vas a pagar. Eso vas a hacer...</text>
 	</string>
 
-	
+	<string id="val_vuelta_cabo_0">
+		<text>Viktor. A man came asking for youa€”says he wants an artifact. Calls himself Kolyan. Hea€™s waiting for you...</text>
+	</string>
+	<string id="val_vuelta_cabo_1">
+		<text>Hea€™s armed.</text>
+	</string>
 </string_table>
