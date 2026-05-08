@@ -532,88 +532,88 @@
 	
 	
 	<string id="esc_nimble_primero_0">
-		<text>(Misión) Hola, vine buscando a Nimble ¿Sos vos?</text>
+		<text>(Task) Hey, I’m looking for Nimble. That you?</text>
 	</string>
 	<string id="esc_nimble_primero_1">
-		<text>El mismísimo Nimble. Pasa, ponte cómodo así hablamos de negocios. Me dijo Viper que tenías algo para mí.</text>
+		<text>The one and only. Come in, make yourself comfortable, and let’s talk business. Viper told me you had something for me.</text>
 	</string>
 	<string id="esc_nimble_primero_21">
-		<text>Tengo una caja, pero prefiero quedarmela.</text>
+		<text>I’ve got a case, but I’d rather keep it.</text>
 	</string>
 	<string id="esc_nimble_primero_20">
-		<text>Claro, toma.</text>
+		<text>Sure. Here.</text>
 	</string>
 	<string id="esc_nimble_primero_211">
-		<text>No se puede hacer negocios de esa manera. Vuelve cuando cambies de opinion.</text>
+		<text>Then we’ve got no business to discuss. Come back when you change your mind.</text>
 	</string>
 	<string id="esc_nimble_primero_212">
-		<text>Esta bien, adios.</text>
+		<text>Alright. See you around.</text>
 	</string>
 	<string id="esc_nimble_primero_201">
-		<text>Interesante, parece estar sellada con una combinación... Puedo hacer un intento para abrirla y recién ahí podríamos negociar, pero va a llevar un tiempo. Necesito algunas herramientas que no tengo ahora mismo. ¿Creés que puedas ir a ver a Xenotech? Es un tipo bien amargado que está cuidando unos viejos galpones, pasando las vías del tren más al Norte. Es una zona de nadie así que si vas, es bajo tu propio riesgo.</text>
+		<text>Interesting... looks like it’s sealed with a combination lock. I can try opening it, and then we can negotiate — but it’ll take some time. I need a few tools I don’t have right now. Think you could go see Xenotech? Grumpy bastard guarding some old warehouses past the northern railway tracks. No man’s land out there, so if you go, you’re going at your own risk.</text>
 	</string>
 	<string id="esc_nimble_primero_202">
-		<text>Si, puedo ir ¿Pero qué le digo?</text>
+		<text>Yeah, I can go. But what do I tell him?</text>
 	</string>
 	<string id="esc_nimble_primero_203">
-		<text>Venga Viktor, despierta. Dile lo que sea necesario para que te de esas herramientas. Las cosas en la zona se mueven mediante favores y contactos, es raro tener amigos aquí dentro. Lo que se te ocurra.</text>
+		<text>Come on, Viktor, use your head. Tell him whatever you need to get those tools. Things in the Zone run on favors and connections. Real friends are rare out here. Figure something out.</text>
 	</string>
 	<string id="esc_nimble_primero_204">
-		<text>Está bien, veré qué puedo hacer.</text>
+		<text>Alright. I’ll see what I can do.</text>
 	</string>
 	<string id="esc_nimble_buscar_caja_0">
-		<text>(Mentir) El técnico dijo que no tiene herramientas para vender, pero que si le llevo la caja puede abrirla.</text>
+		<text>(Lie) The technician said he doesn’t have any tools to sell, but if I bring him the case, he can open it himself.</text>
 	</string>
 	<string id="esc_nimble_buscar_caja_1">
-		<text>Vaya, eso si que es desafortunado ¿Qué hacemos entonces? Para negociar este tipo de cosas, prefiero ser yo quien abra el producto para asegurarme su calidad de primera mano.</text>
+		<text>Well... that’s unfortunate. So what now? When it comes to deals like this, I’d rather open the product myself to make sure it’s quality merchandise.</text>
 	</string>
 	<string id="esc_nimble_buscar_caja_2">
-		<text>Puedo llevarla a que la desbloquee, sin abrirla y luego te la traigo.</text>
+		<text>I can take it to him unopened, then bring it back afterward.</text>
 	</string>
 	<string id="esc_nimble_buscar_caja_3">
-		<text>¿...Sabes qué? Está bien. Toma la caja de vuelta, ya no me interesa.</text>
+		<text>...You know what? Fine. Here, take the case back. I’m not interested anymore.</text>
 	</string>
 	<string id="esc_nimble_buscar_caja_4">
-		<text>Genial, nos vemos luego.</text>
+		<text>Great. See you around.</text>
 	</string>
 	<string id="esc_nimble_volver_herramientas_0">
-		<text>(Misión) Hola Nimble. Traje las herramientas.</text>
+		<text>(Task) Hey Nimble. I brought the tools.</text>
 	</string>
 	<string id="esc_nimble_volver_herramientas_1">
-		<text>Excelente. Apenas termine de organizar unos pedidos te aviso ¿Va? Seguro me tome algunas horas, cuando la tenga abierta te mando un mensaje y ven a ver qué traía.</text>
+		<text>Excellent. Let me finish organizing a few orders first, alright? Might take a couple hours. Once I get it open, I’ll send you a message. Come by then and we’ll see what was inside.</text>
 	</string>
 	<string id="esc_nimble_volver_herramientas_2">
-		<text>Excelente, espero el mensaje.</text>
+		<text>Sounds good. I’ll wait for your message.</text>
 	</string>
 	<string id="esc_nimble_recompensa_0">
-		<text>(Misión) Recibí tu mensaje sobre la caja.</text>
+		<text>(Task) I got your message about the case.</text>
 	</string>
 	<string id="esc_nimble_recompensa_1">
-		<text>¡Viktor! Mira, vaya sorpresa encontré dentro. Parece que es un arma modificada destinada a Mago, un stalker veterano que ayuda a la aldea de novatos desde siempre. Hace varios días que no lo veo ahora que lo pienso... En fin, la caja tenía una nota que habla de eso pero no la entendí, te la daré a ti. </text>
+		<text>Viktor! Well now... look what was inside. Seems to be a modified weapon meant for Mage — a veteran stalker who’s been helping the rookie village forever. Now that I think about it, I haven’t seen him in days... \n Anyway, there was a note inside the case talking about all this, but I couldn’t make much sense of it. I’ll give it to you.</text>
 	</string>
 	<string id="esc_nimble_recompensa_2">
-		<text>¿El arma es buena?</text>
+		<text>Is the weapon any good?</text>
 	</string>
 	<string id="esc_nimble_recompensa_3">
-		<text>Si, es buena. La pistola está modificada con piezas modernas más resistentes y... esteticamente también. La pintaron un poco. Parece que el que la trabajó era un ingeniero de los bandidos o algo así ¿Qué quieres hacer con ella? Puedo darte una buena suma, me gustaría tenerla en stock. Pero si quieres quedartela estaría bien igual.</text>
+		<text>The pistol’s been upgraded with tougher modern parts and… well, cosmetic work too. Someone painted it up nicely. Looks like whoever worked on it was some kind of bandit engineer or something. So, what do you wanna do with it? I can pay you well for it — I’d love to keep it in stock. But if you wanna keep it, that’s fine too.</text>
 	</string>
 	<string id="esc_nimble_recompensa_40">
-		<text>Quiero el dinero.</text>
+		<text>I want the money.</text>
 	</string>
 	<string id="esc_nimble_recompensa_41">
-		<text>Quiero quedarmela.</text>
+		<text>I’m keeping it.</text>
 	</string>
 	<string id="esc_nimble_recompensa_400">
-		<text>Claro amigo, te daré esto (Nimble te acerca un fajo de billetes enrrollado) y te haré precio de ahora en más, cuando juntes dinero pasate a ver mi mercancía. Un placer trabajar contigo.</text>
+		<text>Sure thing, friend. Here you go. (Nimble hands you a thick roll of cash.) And from now on, I’ll cut you better prices. Once you’ve got more money, come check out my stock. Pleasure doing business with you.</text>
 	</string>
 	<string id="esc_nimble_recompensa_401">
-		<text>El gusto fué mío. Nos vemos.</text>
+		<text>Likewise. See you around.</text>
 	</string>
 	<string id="esc_nimble_recompensa_410">
-		<text>Es entendible, es una buena arma. Ten, tenía algunas cajas con balas dentro, por eso pesaba tanto. Recuerda que esa arma iba destinada a alguien más, así que no andes presumiendola en cara de todos los stalkers.</text>
+		<text>Fair enough. It’s a damn good weapon. Here — there were a few boxes of ammo inside too, that’s why the case was so heavy. Just remember: that gun was meant for someone else. Don’t go waving it around in front of every stalker you meet.</text>
 	</string>
 	<string id="esc_nimble_recompensa_411">
-		<text>Esta bien, tendré cuidado. Nos vemos.</text>
+		<text>Alright. I’ll be careful. See you around.</text>
 	</string>
 	
 	
