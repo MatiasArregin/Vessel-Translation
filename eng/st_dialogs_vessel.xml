@@ -285,249 +285,249 @@
 		<text>...Damn. Didn’t think of that. I take it back.</text>
 	</string>
 	<string id="viper_traje_reward_0">
-		<text>(Misión) Mirá lo que recuperé. (Mostrar traje de Viper)</text>
+		<text>(Task) Look what I managed to recover. (Show Viper’s suit)</text>
 	</string>
 	<string id="viper_traje_reward_1">
-		<text>¡Vaya! No esperaba volver a ver esa preciosidad. Imagino que lo recuperaste directamente desde Atreo, así que aprecio el detalle. Justo no tengo nada encima para pagarte. Por favor, acepta una de estas linternas. La de cabeza tiene menos potencia, pero te deja las manos libres. Tu eliges.</text>
+		<text>Well, damn... didn’t expect to see this beauty again. I’m guessing you got it straight from Atreo, so I appreciate it. Problem is, I don’t really have anything on me to pay you with right now. Please, take one of these flashlights instead. The headlamp’s weaker, but it leaves your hands free. Your choice.</text>
 	</string>
 	<string id="viper_traje_reward_20">
-		<text>Tomaré la linterna de mano.</text>
+		<text>I’ll take the handheld flashlight.</text>
 	</string>
 	<string id="viper_traje_reward_21">
-		<text>Tomaré la linterna de cabeza.</text>
+		<text>I’ll take the headlamp.</text>
 	</string>
 	<string id="viper_traje_reward_3">
-		<text>Espero que te sirva.</text>
+		<text>Hope it serves you well.</text>
 	</string>
 	<string id="viper_traje_reward_4">
-		<text>Muchas gracias, amigo. Aunque tengo una duda ¿Cómo terminó Atreo con ese traje?</text>
+		<text>Thanks a lot, friend. Though I’ve got one question... how did Atreo end up with that suit?</text>
 	</string>
 	<string id="viper_traje_reward_5">
-		<text>El desgraciado vino a mí antes de que me vaya de la zona, desesperado por trabajo. Le encargué que le lleve este traje a alguien que me lo estaba comprando, no era una tarea difícil. Era ir desde Agroprom hasta el Valle Oscuro con el traje en un maletín. Me dijo que lo asaltaron, lo golpearon y le quitaron todo y yo le creí, pero me enteré luego que andaba ofreciendose a venderlo. Por suerte nadie lo compró nunca, ya que es un traje muy caro. Me alegra haberlo recuperado, me va a venir bien durante nuestra expedición.</text>
+		<text>The bastard came to me before I left the Zone, desperate for work. I hired him to deliver this suit to someone buying it from me — simple job. Just carry the briefcase from Agroprom to Dark Valley. Later he told me he got jumped, beaten, and robbed... and I believed him. Then I found out he’d been trying to sell the suit himself. Luckily, nobody ever bought it — this thing’s worth a fortune. I’m glad to have it back. It’ll come in handy during our expedition./text>
 	</string>
 	<string id="viper_traje_reward_6">
-		<text>Ya veo.</text>
+		<text>I see.</text>
 	</string>
 	<string id="viper_viaje_not_ready_0">
-		<text>(Misión) ¿Creés que estamos listos para partir?</text>
+		<text>(Task) Do you think we’re ready to leave?</text>
 	</string>
 	<string id="viper_viaje_not_ready_1">
-		<text>Todavía hay que arreglar algunas cosas. Quiero charlar tácticas con todos y que tengamos buena protección, buenas armas y suministros. No sabemos qué nos depara y Atreo parece tener cierta ventaja sobre los stalkers comunes y corrientes. \n Además, tengo un contacto en Darkscape cubriendo el camino, estoy poniendome de acuerdo con él por si ve a Atreo pasar.</text>
+		<text>Still a few things to sort out. I want to go over tactics with everyone and make sure we’ve got proper protection, good weapons, and enough supplies. We don’t know what’s waiting for us out there, and Atreo seems to have an edge over ordinary stalkers. \n And there’s something else — I’ve got a contact in Darkscape watching the route ahead. I’m coordinating with him in case Atreo passes through.</text>
 	</string>
 	<string id="viper_viaje_not_ready_2">
-		<text>Está bien. Veré que falta arreglar.</text>
+		<text>Alright. I’ll see what still needs taking care of.</text>
 	</string>
 	<string id="viper_viaje_ready_0">
-		<text>(Misión) ¿Creés que estamos listos para partir?</text>
+		<text>(Task) Do you think we’re ready to leave?</text>
 	</string>
 	<string id="viper_viaje_ready_1">
-		<text>Dejame pensar: Tenemos los suministros, mi traje y el de Cabo ya están bien... Dogo revisó el equipo de todos y nos dió munición, Pollo nos dió medicina y algo de comida... Parece que está todo en orden amigo ¿Tu estás listo? ¿No te quedan asuntos pendientes en el Cordón? Porque puede que no volvamos por un buen tiempo.</text>
+		<text>Let me think... We’ve got the supplies. My suit and Cabo’s are in good shape... Dogo checked everyone’s gear and stocked us up on ammo. Rooster brought medicine and food... Yeah. Looks like everything’s in order, friend. What about you? You ready? Got any unfinished business in Cordon? Because we might not be coming back for a long while.</text>
 	</string>
 	<string id="viper_viaje_ready_21">
-		<text>Si, estoy listo.</text>
+		<text>Yeah. I’m ready.</text>
 	</string>
 	<string id="viper_viaje_ready_22">
-		<text>Creo que me faltan cosas por hacer...</text>
+		<text>I think I still have some things to take care of...</text>
 	</string>
 	<string id="viper_viaje_ready_31">
-		<text>Bien, deja que me cambie y que les diga a los demás que se preparen. Mi contacto me dijo que estan en posición más adelante, así que si tenemos problemas, contamos con él.</text>
+		<text>Alright. Give me a minute to change and tell the others to gear up. My contact says they’re already in position ahead, so if things go south, we’ve got backup.</text>
 	</string>
 	<string id="viper_viaje_ready_32">
-		<text>Está bien, arregla tus asuntos y luego vamos. Nos quedamos cuidando la posición mientras.</text>
+		<text>Alright. Take care of your business, then we move out. We’ll hold the position while you’re gone.</text>
 	</string>
 	<string id="viper_viaje_ready_41">
-		<text>Ok, vamos.</text>
+		<text>Okay, let’s go.</text>
 	</string>
 	<string id="viper_viaje_ready_42">
-		<text>Ok, vuelvo luego.</text>
+		<text>Alright. I’ll be back later.</text>
 	</string>
 	
 	<string id="esc_dolg_que_pasa_0">
-		<text>(Interacción) ¿Qué están cuidando acá?</text>
+		<text>(Interaction) What are you guarding here?</text>
 	</string>
 	<string id="esc_dolg_que_pasa_1">
-		<text>Hijo, si estás en la base, ve con la cabeza a gachas ¿Sí? Estamos bajo constante asedio del monolito, los de Libertad fallaron deteniendo la barrera. Si tenés más dudas preguntale al capitán, pero no lo incordies que ya estamos bajo suficiente tensión.</text>
+		<text>Son, if you’re staying in the base, keep your head down, alright? We’re under constant Monolith attacks. Freedom failed to hold the Barrier. If you’ve got more questions, ask the captain — but don’t bother him too much. We’re tense enough as it is.</text>
 	</string>
 	<string id="esc_dolg_que_pasa_2">
-		<text>Ya veo, no me quedaré mucho...</text>
+		<text>I see... I won’t stay long.</text>
 	</string>
 	
 	<string id="esc_wolf_sobre_tumba_0">
-		<text>(Misión) Hola, estoy buscando una tumba en forma de cruz, con una máscara de gas ¿Tenés idea de dónde hay una?</text>
+		<text>(Task) Hey, I’m looking for a grave shaped like a cross, with a gas mask hanging from it. Got any idea where I can find one?</text>
 	</string>
 	<string id="esc_wolf_sobre_tumba_1">
-		<text>No estarás pensando en saquear la tumba de un stalker ¿No?</text>
+		<text>You’re not planning to loot some dead stalker’s grave, are you?</text>
 	</string>
 	<string id="esc_wolf_sobre_tumba_21">
-		<text>(Mentir) Para nada, solo quería rendir homenaje a alguien...</text>
+		<text>(Lie) Not at all. I just wanted to pay my respects to someone...</text>
 	</string>
 	<string id="esc_wolf_sobre_tumba_22">
-		<text>(Decir la verdad) Necesito ver que hay ahí...</text>
+		<text>(Tell the truth) I need to see what’s there...</text>
 	</string>
 	<string id="esc_wolf_sobre_tumba_31">
-		<text>Que raro, no sos el primero que anda preguntando esto, hace unas semanas alguien más lo hizo... En fin, hay muchas tumbas en el cordón, te toca buscar. Sé que hay una entre el patio de máquinas y las vías del ferrocarril, revisa ahí.</text>
+		<text>Strange... you’re not the first one asking about that. Someone else came looking a few weeks ago. Anyway, there are plenty of graves around Cordon — you’ll have to search for it yourself. I know there’s one between the vehicle yard and the railway tracks. Check there.</text>
 	</string>
 	<string id="esc_wolf_sobre_tumba_32">
-		<text>Ten un poco de respeto por los caídos la próxima vez. Largo de mi vista.</text>
+		<text>Show a little respect for the dead next time. Now get out of my sight.</text>
 	</string>
 	<string id="esc_wolf_sobre_tumba_41">
-		<text>Muchas gracias, Wolf.</text>
+		<text>Thanks a lot, Wolf.</text>
 	</string>
 	<string id="esc_wolf_sobre_tumba_42">
 		<text>...</text>
 	</string>
 	<string id="esc_2_12_stalker_wolf_start_0">
-		<text>Hola, stalker. ¿Qué necesitabas?</text>
+		<text>Hey, stalker. What do you need?</text>
 	</string>
 	<string id="esc_wolf_start_enojado_0">
-		<text>Largo, no quiero ni verte.</text>
+		<text>Get lost. I don’t even want to look at you.</text>
 	</string>
 	<string id="esc_wolf_sobre_leto_a_0">
-		<text>(Misión) Hola Wolf, lamento molestarte, estaba buscando a un stalker apodado "Atreo" ¿Lo conoces?</text>
+		<text>(Task) Hey Wolf, sorry to bother you. I’m looking for a stalker nicknamed "Atreo." Know him?</text>
 	</string>
 	<string id="esc_wolf_sobre_leto_a_1">
-		<text>Parece que no entendiste, me estás molestando. No hablaré con alguien deshonesto que saquea tumbas.</text>
+		<text>Guess you didn’t get the message — you are bothering me. I’m not talking to some grave-robbing liar.</text>
 	</string>
 	<string id="esc_wolf_sobre_leto_a_2">
-		<text>Ok... Disculpa.</text>
+		<text>Alright... sorry.</text>
 	</string>
 	<string id="esc_wolf_sobre_leto_b_0">
-		<text>(Misión) Hola Wolf, estoy buscando a un stalker apodado "Atreo" ¿Lo conoces?</text>
+		<text>(Task) Hey Wolf, I’m looking for a stalker nicknamed “Atreo.” Know him?</text>
 	</string>
 	<string id="esc_wolf_sobre_leto_b_1">
-		<text>Hummm, lo conozco. Pero no tengo idea de dónde esté. Sé que se metió con mucha gente en el campamento, el Mago quiso dispararle hace no mucho, parece que se pasó de la raya realmente... Habla con otros stalkers, seguro saben más que yo.</text>
+		<text>Hmm... yeah, I know him. No clue where he is, though. I know he got on a lot of people’s bad side around camp. Mage wanted to shoot him not long ago — sounds like he really crossed the line. Ask the other stalkers around here. They probably know more than I do.</text>
 	</string>
 	<string id="esc_wolf_sobre_leto_b_2">
-		<text>Bien, gracias. Nos vemos.</text>
+		<text>Alright, thanks. See you around.</text>
 	</string>
 	<string id="esc_wolf_trabajo_0">
-		<text>Chico, me contaron que venía un ladrón, y justo necesito uno ¿Eres tu?</text>
+		<text>Kid, word is a thief’s been running around here... and I just so happen to need one. You him?</text>
 	</string>
 	<string id="esc_wolf_trabajo_1">
-		<text>Mmmh... Digamos que sí, soy yo.</text>
+		<text>Hmm... let’s just say yeah. That’s me.</text>
 	</string>
 	<string id="esc_wolf_trabajo_2">
-		<text>Tranquilo, esto es la zona. Aquí los ladrones triunfan mientras los tipos honestos cuidan a los novatos...</text>
+		<text>Relax, this is the Zone. Out here, thieves thrive while honest men babysit rookies.</text>
 	</string>
 	<string id="esc_wolf_trabajo_3">
 		<text>...</text>
 	</string>
 	<string id="esc_wolf_trabajo_4">
-		<text>...Era un chiste chico, lo vas a ir entendiendo con el tiempo. \n En fin, sobre el trabajo. Hay un desgraciado que anda robando escondites de los locales y queremos atraparlo hace tiempo. El otro día lo seguí y resulta que vende nuestras cosas a los bandidos, eso significa que tengo que darle una lección. Sé que esconde las cosas en el techo de unas ruinas que están más al Norte, cruzando las vías del Tren. Puedo marcarlo en tu PDA. ¿Te apetece robarle a un ladrón? Voy a intentar seguir rastreándolo mientras hasta dar con él. Trae los explosivos que me robó y te voy a dar una buena paga y de paso te puedes quedar con lo que encuentres ¿Tenemos un trato?</text>
+		<text>...I’m joking, kid. You’ll get used to it eventually.\n Anyway, about the job. There’s a bastard going around robbing local stashes, and we’ve been trying to catch him for a while now. The other day I followed him and found out he’s been selling our gear to bandits. That means I owe him a lesson. I know he hides the loot on the roof of some ruins farther north, past the railway tracks. I can mark it on your PDA. So... how about robbing a thief? I’ll keep tracking him in the meantime until I finally corner him. Bring back the explosives he stole from me, and I’ll pay you well. You can keep whatever else you find up there, too. Do we have a deal?</text>
 	</string>
 	<string id="esc_wolf_trabajo_51">
-		<text>Este trabajo es ideal para mí. Trato hecho.</text>
+		<text>This job’s perfect for me. Deal.</text>
 	</string>
 	<string id="esc_wolf_trabajo_52">
-		<text>Paso.</text>
+		<text>I’ll pass.</text>
 	</string>
 	<string id="esc_wolf_trabajo_6">
-		<text>Genial, ten cuidado. Sé que el lugar es frecuentado por bandidos.</text>
+		<text>Great. Be careful — bandits are known to hang around that place.</text>
 	</string>
 	<string id="esc_wolf_trabajo_7">
-		<text>Lo tendré. Nos vemos.</text>
+		<text>I will. See you around.</text>
 	</string>
 	<string id="esc_wolf_trabajo_reward_0">
-		<text>(Misión) Traje lo que me pediste.</text>
+		<text>(Task) I brought what you asked for.</text>
 	</string>
 	<string id="esc_wolf_trabajo_reward_1">
-		<text>Perfecto, no le cuentes a nadie sobre esto. Por cierto ¿Cómo te fué?</text>
+		<text>Perfect. Don’t tell anyone about this. So... how’d it go?</text>
 	</string>
 	<string id="esc_wolf_trabajo_reward_2">
-		<text>Unos bandidos me descubrieron...</text>
+		<text>Some bandits spotted me...</text>
 	</string>
 	<string id="esc_wolf_trabajo_reward_3">
-		<text>Diablos, bueno. Si estás aquí en una pieza es que te fué bien. Tomá, gracias por las molestias. Quedate al margen que tengo gente buscando al rufián, si lo encontramos hay que hacerlo mierda.</text>
+		<text>Damn. Well, if you made it back in one piece, I’d say it went alright. Here, take this. Thanks for the trouble. Stay out of the way for now — I’ve got people tracking that scumbag down, and if we find him, we’re gonna tear him apart.</text>
 	</string>
 	<string id="esc_wolf_trabajo_reward_4">
-		<text>Claro, cuenten conmigo. Nos vemos.</text>
+		<text>Sure. Count me in. See you around.</text>
 	</string>
 	<string id="esc_wolf_segundo_0">
-		<text>(Misión) Hola. Recibí tu mensaje, vine apenas pude.</text>
+		<text>(Task) Hey. I got your message — came as soon as I could.</text>
 	</string>
 	<string id="esc_wolf_segundo_1">
-		<text>Genial, que bueno que viniste. Localizamos al ladrón, se trata de "Andrés Mago", un stalker que lleva años en la zona pasando por buena gente. Parece que ha invertido su dinero producto de los robos y está muy bien armado, lo vieron morando por las vías del tren del Este. Si te ocupás de él sin problemas tráeme su PDA, me interesa.</text>
+		<text>Great. Glad you made it. We tracked down the thief. Turns out it’s “Andrés Mage”, a stalker who’s spent years in the Zone pretending to be a decent guy. Looks like he invested all the money from the robberies, because he’s heavily armed now. Last time he was seen around the eastern railway tracks. If you deal with him without problems, bring me his PDA. I’m interested in it.</text>
 	</string>
 	<string id="esc_wolf_segundo_2">
 		<text>¿No es muy peligroso que vaya a enfrentar a un veterano bien armado yo solo?</text>
 	</string>
 	<string id="esc_wolf_segundo_3">
-		<text>Si, pero te van a acompañar dos de mis chicos. No te preocupes. Solo cuídense las espaldas entre los tres, estaban viniendo hacia nosotros así que esperalos.</text>
+		<text>Yeah, but two of my boys are coming with you. Don’t worry. Just watch each other’s backs out there. They were already on their way here, so wait for them.</text>
 	</string>
 	<string id="esc_wolf_segundo_4">
-		<text>Bien, los espero.</text>
+		<text>Alright. I’ll wait.</text>
 	</string>
 	<string id="esc_wolf_segundo_reward_0">
-		<text>(Misión) Nos ocupamos de él, y traje su PDA.</text>
+		<text>(Task) We took care of him. And I brought his PDA.</text>
 	</string>
 	<string id="esc_wolf_segundo_reward_1">
-		<text>Hummm, interesante. Hay mucho por leer, voy a tener con qué entretenerme esta noche.</text>
+		<text>Hmm... interesting. There’s a lot to read here. Looks like I’ve got something to keep me busy tonight.</text>
 	</string>
 	<string id="esc_wolf_segundo_reward_2">
-		<text>Si llegas a tener más trabajo al respecto, avísame.</text>
+		<text>If more work comes up because of this, let me know.</text>
 	</string>
 	<string id="esc_wolf_segundo_reward_3">
-		<text>Bien. Por ahora tómense un descanso todos. Yo invito la comida y la bebida, buen trabajo.</text>
+		<text>Alright. For now, all of you get some rest. Food and drinks are on me tonight. Good work.</text>
 	</string>
 	<string id="esc_wolf_segundo_reward_41">
-		<text>Por cierto, me cayeron bien tus chicos. ¿Creés que pueda seguir trabajando con ellos?</text>
+		<text>By the way, I liked your guys. Think I could keep working with them?</text>
 	</string>
 	<string id="esc_wolf_segundo_reward_42">
-		<text>Genial, gracias. Decile a tus chicos que pueden dejar de seguirme.</text>
+		<text>Great, thanks. Tell your boys they can stop tailing me now.</text>
 	</string>
 	<string id="esc_wolf_segundo_reward_51">
-		<text>Seguro, veo que ellos te respetan. Cuidense las espaldas juntos.</text>
+		<text>Sure. Looks like they respect you. Watch each other’s backs out there.</text>
 	</string>
 	<string id="esc_wolf_segundo_reward_52">
-		<text>Seguro, hicieron un gran trabajo juntos. Les diré que te dejen tranquilo ahora.</text>
+		<text>Definitely. You worked well together. I’ll tell them to leave you be.</text>
 	</string>
 	<string id="esc_wolf_segundo_reward_6">
-		<text>Bien. Adios.</text>
+		<text>Alright. Goodbye.</text>
 	</string>
 	<string id="esc_wolf_tercero_0">
-		<text>(Misión) Vine por lo de la PDA del Mago ¿Qué pasó?</text>
+		<text>(Task) I came about Mage’s PDA. What happened?</text>
 	</string>
 	<string id="esc_wolf_tercero_1">
-		<text>No termino de atar todos los cabos sueltos, pero la cosa parece que se dió así: Cuando fueron a darle su merecido al Mago el estaba esperando a alguien para dar una orden de ataque en simultáneo por varios puntos, aunque desconozco a quién esperaba ya que no lo mencionan.</text>
+		<text>I still can’t piece everything together, but here’s what it looks like: When you went after Mage, he was waiting for someone so they could launch coordinated attacks on multiple points at once. Problem is, I still don’t know who he was waiting for — the PDA never mentions them by name.</text>
 	</string>
 	<string id="esc_wolf_tercero_2">
-		<text>¿Cuál es el problema entonces? Si Mago está muerto, nadie va a dar la orden.</text>
+		<text>So what’s the problem? Mage is dead. Nobody’s giving the order now.</text>
 	</string>
 	<string id="esc_wolf_tercero_3">
-		<text>Diablos chico, pensé que eras como yo y podrías conectar dos neuronas. Si no hacemos nada ahora, podrían atacar en cualquier momento si la otra persona a la que esperaba Mago diese la orden.</text>
+		<text>Damn, kid. I thought you were smarter than that. If we don’t act now, the attacks could still happen at any moment if the other guy decides to give the order himself.</text>
 	</string>
 	<string id="esc_wolf_tercero_4">
-		<text>Oh... Ya entiendo. ¿Qué hacemos entonces?</text>
+		<text>Oh... I get it now. So what do we do?</text>
 	</string>
 	<string id="esc_wolf_tercero_5">
-		<text>No quiero dejar la base tan desprotegida. Así que pensaba que demos la orden y los embosquemos tu y yo antes de que lleguen a la base ¿Te parece? De esa forma, si se nos escapa alguno, podemos dar aviso a la base. Hice un arreglo con Fanático y Gabriel para que cuiden el lugar mientras nosotros salimos ¿Qué me dices?</text>
+		<text>I don’t want to leave the base exposed. So here’s what I’m thinking: you and me give the signal ourselves, then ambush them before they reach the camp. That way, if any of them slip past us, we’ll still have time to warn the base. I already worked something out with Fanatic and Gabriel — they’ll guard the place while we’re gone. What do you say?</text>
 	</string>
 	<string id="esc_wolf_tercero_60">
-		<text>Me parece bien. Da la orden.</text>
+		<text>Sounds good to me. Give the order.</text>
 	</string>
 	<string id="esc_wolf_tercero_61">
-		<text>Dejame prepararme primero, enseguida vuelvo.</text>
+		<text>Let me gear up first. I’ll be right back.</text>
 	</string>
 	<string id="esc_wolf_tercero_7">
-		<text>Perfecto. Voy a dar la orden y a solicitar sus posiciones así los encaramos. No nos alejemos mucho en combate, cuento contigo.</text>
+		<text>Perfect. I’ll send the signal and get their positions so we can intercept them. Stay close during the fight, alright? I’m counting on you.</text>
 	</string>
 	<string id="esc_wolf_tercero_8">
-		<text>Vamos a destruirlos.</text>
+		<text>Let’s wipe them out.</text>
 	</string>
 	<string id="esc_wolf_tercero_reward_0">
-		<text>(Misión) Eso estuvo duro ¿Estás entero?</text>
+		<text>(Task) That was rough. You alright?</text>
 	</string>
 	<string id="esc_wolf_tercero_reward_1">
-		<text>He tenido peleas más complicadas, pero ese último grupo venía bien equipado... Me pregunto quién será la otra persona que podría dar la orden sin Mago. Voy a tener que seguir investigando.</text>
+		<text>I’ve had worse fights... but that last group was well equipped. Makes me wonder who this other person is — the one who could still give the order without Mage around. Looks like I’ll have to keep digging.</text>
 	</string>
 	<string id="esc_wolf_tercero_reward_2">
-		<text>Si me entero de algo te aviso.</text>
+		<text>If I hear anything, I’ll let you know.</text>
 	</string>
 	<string id="esc_wolf_tercero_reward_3">
-		<text>Cierto, toma. Está usado pero en buen estado. Yo ya no lo necesito y creo que te esperan peligros mayores que unos bandidos. Gracias por ayudarme a mantener la aldea segura, chico.</text>
+		<text>Right. Here — it’s used, but still in good shape. I don’t need it anymore, and I think you’re gonna face worse things than a bunch of bandits soon enough. Thanks for helping keep the rookie village safe, kid.</text>
 	</string>
 	<string id="esc_wolf_tercero_reward_4">
-		<text>¡Wow! Gracias. Le voy a dar buen uso. Hasta luego.</text>
+		<text>Wow... thanks. I’ll put it to good use. See you later.</text>
 	</string>
 	
 	
