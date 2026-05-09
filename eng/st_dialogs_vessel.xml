@@ -618,46 +618,46 @@
 	
 	
 	<string id="esc_fanatico_meet_0">
-		<text>¡Hola! ¿En qué puedo ayudarte, novato? Si tienes dudas, no dudes en preguntarme.</text>
+		<text>Hey! How can I help you, rookie? Let me know if you have any doubts.</text>
 	</string>
 	<string id="esc_fanatico_meet_after_0">
-		<text>Hola, hijo. Espero que todo siga tranquilo...</text>
+		<text>Hey, son. I hope everything is going all right.</text>
 	</string>
 	<string id="esc_fanatico_sobre_tumba_0">
-		<text>(Misión) Hola, necesito encontrar una tumba con forma de cruz, de esas que tienen una máscara de gas ¿Tenés idea de dónde hay una?</text>
+		<text>(Task) Hi, I need to find a cross-shaped grave, one of those with a gas mask on it. Do you have any idea where can i look for one?</text>
 	</string>
 	<string id="esc_fanatico_sobre_tumba_1">
-		<text>Hola Stalker, no te conocía ¿Llegaste en el último camión?</text>
+		<text>Hey, stalker. I don't think we meet before. Did you arrive on the last truck?</text>
 	</string>
 	<string id="esc_fanatico_sobre_tumba_2">
-		<text>Si, la otra noche. Desperté hace un rato...</text>
+		<text>Yeah, last night. I just woke up.</text>
 	</string>
 	<string id="esc_fanatico_sobre_tumba_3">
-		<text>Ya veo... Yo soy Fanático. Por favor, acepta esto como una cálida bienvenida. Ya casi no llegan stalkers nuevos a la zona, y los que quedamos deberíamos ayudarnos mutuamente, no olvides eso cuando dejes el cordón ¿Sí?</text>
+		<text>I see... I'm a Fanatic. Please consider this a warm welcome. There aren't many new stalkers coming to the area anymore, and those of us who are left should help each other out. Don't forget that when you leave the cordon, okay?</text>
 	</string>
 	<string id="esc_fanatico_sobre_tumba_4">
-		<text>Vaya, todos son tan buenos acá. Muchas gracias Fanático.</text>
+		<text>Wow, everyone here is so nice. Thank you so much, Fanatic.</text>
 	</string>
 	<string id="esc_fanatico_sobre_tumba_5">
-		<text>No es nada chico, asegurate de invertir primero en un buen traje, así no te destruyen los perros o un bandido borracho. \n Respecto a lo de la cruz... Asumo que estás buscando a alguien con fines honestos, sé que hay una colina radioactiva más al norte. Hay una tumba sin nombre ahí, y nadie se acerca por las anomalías. Lamento que sea lo único que puedo decirte, a lo mejor otros stalkers saben más. Un consejo: No le pidas información sobre estas cosas a Sidorovich, que seguro te manda al muere a cambio.</text>
+		<text>You're welcome, son. Make sure you invest in a good suit first, otherwise you'll get torn apart by dogs or a drunken bandit.\n Regarding the cross... I assume you're looking for someone with honest intentions. I know there's a radioactive hill further north. There's an unmarked grave there, and nobody goes near it because of the anomalies. I'm sorry that's all I can tell you; perhaps other stalkers know more. A word of advice: Don't ask Sidorovich for information about these things, or he'll probably send you to your death in return.</text>
 	</string>
 	<string id="esc_fanatico_sobre_tumba_6">
-		<text>Bueno, voy a ver si encuentro algo.</text>
+		<text>Okay, I'll see if I can find something.</text>
 	</string>
 	<string id="esc_fanatico_sobre_tumba_7">
-		<text>Bien. Y antes de irte, hijo ¡Recuerda venir a verme si necesitas algo! En la zona los mutantes no te van a dar una mano, pero los stalkers si. Tenlo presente... que Dios esté contigo.</text>
+		<text>Good. And before you go, son, remember to come see me if you need anything! The mutants in the Zone won't help you, but the stalkers will. Keep that in mind... May God be with you.</text>
 	</string>
 	<string id="esc_fanatico_sobre_tumba_8">
-		<text>Muchas gracias. Hasta luego.</text>
+		<text>Thanks, see you later.</text>
 	</string>
 	<string id="esc_fanatico_parches_0">
-		<text>(Misión) ¿Tenés alguna tarea? Ando necesitando trabajo.</text>
+		<text>(Task) Do you have any work? I need some money.</text>
 	</string>
 	<string id="esc_fanatico_parches_1">
-		<text>Claro, hijo. Necesito 4 parches de los militares. Tengo un encargo complejo en relación a ellos y necesito un buen traje para infiltrarme. ¿Podrás con eso? Estoy pagando bien por el encargo y por ser nuevo te pagaría un poco más, para darte una mano.</text>
+		<text>Sure, son. I need four army patches. I have a complex assignment involving them, and I need a good outfit to infiltrate. Can you handle that? I'm paying well for the job, and since you're new, I'd pay you a little more to help you out.</text>
 	</string>
 	<string id="esc_fanatico_parches_2">
-		<text>¿Se supone que vaya a pedírselo a los militares?</text>
+		<text>Am I supposed to ask the military for them?</text>
 	</string>
 	<string id="esc_fanatico_parches_3">
 		<text>Muy gracioso, hijo. No puedo decirte qué hacer y que no pero te recomiendo no meterte en líos para conseguirlos ¿Va?</text>
