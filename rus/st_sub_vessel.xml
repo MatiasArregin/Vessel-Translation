@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows—1251" ?>
 
 <string_table>
 
@@ -102,13 +102,13 @@
 		<text>Нет... Они не умеют ставить палатки. (Смеётся)</text>
 	</string>
 	<string id="esc_viper_salida_5_msg">
-		<text>Я так и знал! Недавно костёр ещё горел. Виктор, готовься. Бандиты что-то задумали – придётся нанести им визит.</text>
+		<text>Я так и знал! Недавно костёр ещё горел. Виктор, готовься. Бандиты что-то задумали — придётся нанести им визит.</text>
 	</string>
 	<string id="esc_viktor_salida_5_msg">
 		<text>Бандиты!? Я не думал, что мы будем иметь дело с людьми. Дерьмо, что нам делать?</text>
 	</string>
 	<string id="esc_viper_salida_5b_msg">
-		<text>Давай я пойду первым. Ты оставайся на чеку и жди, пока один из них объявится, – затем стреляй. После этого всё, что мы найдём, – твоё.</text>
+		<text>Давай я пойду первым. Ты оставайся на чеку и жди, пока один из них объявится, — затем стреляй. После этого всё, что мы найдём, — твоё.</text>
 	</string>
 	<string id="esc_viktor_salida_5b_msg">
 		<text>Хорошо. Я буду сзади и тебя прикрою.</text>
@@ -117,7 +117,7 @@
 		<text>Моё запястье болит... И руки трясутся. Мне никогда ещё не приходилось убивать человека...</text>
 	</string>
 	<string id="esc_viper_salida_6_msg">
-		<text>Тремор пройдёт через несколько минут... Все через это проходят. Если тебе станет от этого легче, то будь у них шанс, тебя бы ждала гораздо более ужасная судьба – у бандитов нет жалости. Ладно, давай немного поболтаем. Я нашёл кое-что интересное.</text>
+		<text>Тремор пройдёт через несколько минут... Все через это проходят. Если тебе станет от этого легче, то будь у них шанс, тебя бы ждала гораздо более ужасная судьба — у бандитов нет жалости. Ладно, давай немного поболтаем. Я нашёл кое—что интересное.</text>
 	</string>
 	<string id="esc_nimble_1_msg">
 		<text>Салют! Ты же Виктор, не так ли? Добро пожаловать в Зону. Вайпер передал мне твой контакт. Жду тебя в домике на западе Деревни новичков.</text>
@@ -126,10 +126,10 @@
 		<text>Остерегайся бандитов.</text>
 	</string>
 	<string id="esc_nimble_3_msg">
-		<text>Витёк! Я смог открыть твою коробку. Заходи – поболтаем.</text>
+		<text>Витёк! Я смог открыть твою коробку. Заходи — поболтаем.</text>
 	</string>
 	<string id="esc_trader_msg_1">
-		<text>Виктор, у меня есть информация, что может тебя заинтересовать. Загляни – и мы всё обсудим.</text>
+		<text>Виктор, у меня есть информация, что может тебя заинтересовать. Загляни — и мы всё обсудим.</text>
 	</string>
 	<string id="esc_trader_msg_2">
 		<text>Ты дожно быть новенький. Вадим, правильно? Располагайся поудобнее, немного поболтаем.</text>
@@ -165,7 +165,7 @@
 		<text>Направляйся к концу той забетонированной стальной трубы. Посмотри там, хорошо? Поторопись.</text>
 	</string>
 	<string id="esc_pollo_task_msg_5">
-		<text>Хммм... Уровень радиации здесь немного превышает норму – тебе лучше бежать. Следующее место прямо за тобой, около кузова того старого заржавелого грузовика.</text>
+		<text>Хммм... Уровень радиации здесь немного превышает норму — тебе лучше бежать. Следующее место прямо за тобой, около кузова того старого заржавелого грузовика.</text>
 	</string>
 	<string id="esc_pollo_task_viktor_msg_5">
 		<text>Так, куда сейчас!?</text>
@@ -219,7 +219,7 @@
 		<text>Смотри, это тот сталкер, что ту гору еды раздобыл, про которого я тебе рассказывал... Чёртов везунчик.</text>
 	</string>
 	<string id="esc_item_pda_tornillo">
-		<text>КПК Шурупа... Давай посмотрим, что на нём. Кажется, он немного исследовал самые безопасные места для поиска низкоуровневых артефактов. \n На нём также полно фотографий с его времён в Зоне, некоторые из них с его другом Федькой... \n Среди удалённых файлов есть запись... Она гласит: “Это Колян. Он виновен в моей смерти.” Кто же это, чёрт возьми? Надо решить, что делать с этим КПК - на нём ценная информация. Федька тоже заслуживает это увидеть.</text>
+		<text>КПК Шурупа... Давай посмотрим, что на нём. Кажется, он немного исследовал самые безопасные места для поиска низкоуровневых артефактов. \n На нём также полно фотографий с его времён в Зоне, некоторые из них с его другом Федькой... \n Среди удалённых файлов есть запись... Она гласит: “Это Колян. Он виновен в моей смерти.” Кто же это, чёрт возьми? Надо решить, что делать с этим КПК — на нём ценная информация. Федька тоже заслуживает это увидеть.</text>
 	</string>
 	<string id="esc_item_nota_nox_a">
 		<text></text>
@@ -228,7 +228,7 @@
 		<text></text>
 	</string>
 	<string id="esc_item_pda_centinela">
-		<text>Этот КПК принадлежит некому «Часовому». Тут есть несколько записей : «Рана на моей ноге начинает гноиться, придётся брать деньги в долг ддя покупки антибиотиков.» Ух, бедняга... Есть ещё запись несколькими днями позже. «Есть тут эдакий тип, Атрей. Непонятно откуда взялся, и говорит, что может дать мне так нужные деньги, если я сопровожу его на болота. Конечно, я согласился, хоть из-за боли мне и приходиться хромать - это лучше, чем потерять свою грёбаную ногу.» История с плачевным финалом... Это объясняет прихрамывание погибшего.</text>
+		<text>Этот КПК принадлежит некому «Часовому». Тут есть несколько записей : «Рана на моей ноге начинает гноиться, придётся брать деньги в долг ддя покупки антибиотиков.» Ух, бедняга... Есть ещё запись несколькими днями позже. «Есть тут эдакий тип, Атрей. Непонятно откуда взялся, и говорит, что может дать мне так нужные деньги, если я сопровожу его на болота. Конечно, я согласился, хоть из—за боли мне и приходиться хромать — это лучше, чем потерять свою грёбаную ногу.» История с плачевным финалом... Это объясняет прихрамывание погибшего.</text>
 	</string>
 	<string id="esc_item_nota_hook_1">
 		<text>Старый лист бумаги, покрытый записями нескольких человек. Последние из них звучат так: «Esta es mi chimenea. Mi escondite, por favor no robar mas cosas. Los stalkers me respetan, no voy a cambiar de escondite, voy a seguir usando este lugar y si descubro quien fue el ladron, le voy a meter un tiro... \n Abajo parece haber una lista: \n Un vodka para la radiacion y las noches largas. \n Dos vendas por los golpes de Dante... Parece que no guardaron muchas cosas en el escondite esta vez.</text>
@@ -243,13 +243,13 @@
 		<text>Otro papel maltratado de nuevo. Esta debe ser la letra de Hook. Esta vez escribio: Parece que indagaste mas de lo que debias. Te dejo instrucciones para que arreglemos esto de una vez y dejes de robarme, hijo de puta. \n Ahora mismo estoy de viaje por el Norte, pero si ves al tabernero, preguntale donde buscar a hook. \n Firma tu peor enemigo: Hook Socorrista. \n PD: Dante, si lees esto no te enojes, no estoy buscando problemas con nadie. Ahora estoy camino al Norte mediante Darkscape, seguro tome lo que dejaste en el escondite tras la gasolinera, nos vemos en yantar, amigo... ЎMierda! al final si me meti en problemas con Hook... Tengo que poner las cosas bien en claro.</text>
 	</string>
 	<string id="esc_item_nota_hook_5">
-		<text>A slightly more carefully handled piece of paper than the others, written neatly and with patience: "Dante, Hook a€” I ran into Tank and we headed toward the Hospital together. Hope to see you at the bar! Miss you guys. -Vera" Another, much messier handwriting adds: "YOU BETTER BRING MY MAGAZINES TO THE BAR, GOT IT? VERA WANTS TO SEE YOU. Ia€™LL BE WAITING THERE. Ia€™LL LEAVE SUPPLIES ON TOP OF THE VALLEY BRIDGE a€” BUT KNOW Ia€™M DOING IT VERY PISSED OFF. a€” TANKATHLETE, THE BEST STALKER IN THE ZONE" Well... looks like he never got his magazines. Poor Tank.</text>
+		<text>A slightly more carefully handled piece of paper than the others, written neatly and with patience: "Dante, Hook a€” I ran into Tank and we headed toward the Hospital together. Hope to see you at the bar! Miss you guys. —Vera" Another, much messier handwriting adds: "YOU BETTER BRING MY MAGAZINES TO THE BAR, GOT IT? VERA WANTS TO SEE YOU. Ia€™LL BE WAITING THERE. Ia€™LL LEAVE SUPPLIES ON TOP OF THE VALLEY BRIDGE a€” BUT KNOW Ia€™M DOING IT VERY PISSED OFF. a€” TANKATHLETE, THE BEST STALKER IN THE ZONE" Well... looks like he never got his magazines. Poor Tank.</text>
 	</string>
 	<string id="esc_item_nota_hook_6">
 		<text>A note scribbled on a diet sausage wrapper... It reads: "I fixed the rifle, Hook. But I cana€™t leave it herea€”the Valleya€™s too hot right now. You know how it is... Ia€™ll stash it at the Truck Cemetery. Ia€™m leaving the treasure hunter to help you find it, since our old stash there got wrecked by mutants. You know how it works. a€” Dante" Could this be the rifle they mentioned in the first note? I need to find it.</text>
 	</string>
 	<string id="esc_item_nota_hook_7">
-		<text>Another note, this one written in a hurry. The message is short: "I checked with the Doctor about the artifacts. The PSI-manipulation one is with Letoa€”seems he doesna€™t really know how to use it, and Monolith is tracking him. The regeneration one is with someone named Kolyan. I dona€™t know him, but he sounds like a bandit with some serious pull. That leaves us with two more to find, not counting ours. Ia€™ll see you at the Hospitala€”leta€™s hope your lead checks out, Hook. a€” Dante" Signed by Dante... I need to track these guys down.</text>
+		<text>Another note, this one written in a hurry. The message is short: "I checked with the Doctor about the artifacts. The PSI—manipulation one is with Letoa€”seems he doesna€™t really know how to use it, and Monolith is tracking him. The regeneration one is with someone named Kolyan. I dona€™t know him, but he sounds like a bandit with some serious pull. That leaves us with two more to find, not counting ours. Ia€™ll see you at the Hospitala€”leta€™s hope your lead checks out, Hook. a€” Dante" Signed by Dante... I need to track these guys down.</text>
 	</string>
 	<string id="esc_item_nota_leto">
 		<text>Una letra prolija y caligrafica escribe: ЎPaso de nuevo! ЎPero esta vez me adelante! Pude robar sus cosas antes de que se entere siquiera, tremendo estupido. Es increible que sigan creyendome cada vez que me cambio la mascara de gas, los stalkers son cada vez mas descuidados estos dias... \n Debajo de la nota hay una cara enojada >:( escrito de forma desprolija, que no cuadra con la caligrafia calmada de antes їSera de otra persona?</text>
@@ -258,719 +258,719 @@
 		<text>La PDA de Mago... Esta bloqueada, solo se puede ver que ha recibido mensajes recientes de los siguientes contactos: Leto, Dientes, Kolyan, Sultan, Clave, Borov, Tabernero... Parece que tenнa contactos importantes. Se la tengo que llegar a Wolf.</text>
 	</string>
 	<string id="esc_item_nota_mago">
-		<text>Una nota en un papel nuevo, bastante cuidado para la zona... Dice: Escucha, Mago. Tuve que mandar a estos perejiles a que acampen cerca tuyo. Les pedн que te esperen y tienen instrucciones de unirse a tu causa cuando estйs listo para ejecutar el plan. Deberнan ser 9 bandidos, si llegaron menos preguntales que mierda pasу. No quiero que ninguno se esconda en el Cordуn o vamos a llamar la atenciуn. \n -Pirata</text>  <!--sin voz-->
+		<text>Una nota en un papel nuevo, bastante cuidado para la zona... Dice: Escucha, Mago. Tuve que mandar a estos perejiles a que acampen cerca tuyo. Les pedн que te esperen y tienen instrucciones de unirse a tu causa cuando estйs listo para ejecutar el plan. Deberнan ser 9 bandidos, si llegaron menos preguntales que mierda pasу. No quiero que ninguno se esconda en el Cordуn o vamos a llamar la atenciуn. \n —Pirata</text>  <!——без голоса——>
 	</string>
 	<string id="esc_item_foto_viper">
 		<text>En la foto se ve a dos personas con trajes de camuflaje celeste y blanco... Nunca vi ese traje en la zona. Estan posando para una foto juntos y haciendo senas con los dedos. Parecen buenos amigos... El de la derecha me suena familiar."</text>
 	</string>
 	<string id="esc_item_arma_dogo">
-		<text>Deberia llevarle esto a Dogo...</text>
+		<text>Надо отнести это Догу...</text>
 	</string>
 	<string id="esc_item_traje_viper">
-		<text>Viper va a estar contento con lo que encontrй.</text>
+		<text>Вайперу точно понравится моя находка.</text>
 	</string>
 	<string id="esc_item_cosas_pollo">
-		<text>Pollo me va a pagar bien por todas las vueltas que tuve que dar...</text>
+		<text>Йорик должен отвалить мне приличную сумму за всю эту беготню...</text>
 	</string>
 	<string id="esc_item_pda_monolito_cruz">
-		<text>El que todo lo sabe repitio cien mil veces que espere en estas coordenadas a que el hereje asome. Ya son 6 dias complaciendo los deseos del monolito.</text>
+		<text>Всеведущий молвил это сто тысяч раз: ожидай на этих координатах до явления еретика. Уже как шесть дней я исполняю волю Монолита.</text>
 	</string>
 	<string id="esc_item_pda_zombie_boss">
 		<text>Le seguimos el rastro a un Stalker que pasу corriendo herido, vimos que parу en el tъnel a tomar aire. Vamos a acercarnos... \n Los chicos se estбn volviendo locos... el Stalker de chaqueta amarilla nos hizo unos gestos con las manos y todo se fue a la mierda... Tuve que dispararles, me estaban atacando. \n Mi cabeza va a explotar... Estoy viendo doble y con colores extraсos... Todo se ve rojo por momentos, y azul por otros... Si alguien encuentra esta PDA que se la haga llegar a Cold, por favor.</text>
 	</string>
 	<string id="esc_frecuencias_reunion_fanatico_0">
-		<text>Alright, wea€™re here. You go up through that window a€” cover me from the rooftop in case anything happens.</text>
+		<text>Так, мы на месте. Забирайся наверх через это окно — прикроешь меня с крыши если что.</text>
 	</string>
 	<string id="esc_frecuencias_reunion_fanatico_1">
-		<text>Hold position, Viktor. Everythinga€™s going to be fine.</text>
+		<text>Держи позицию, Виктор. Всё будет хорошо.</text>
 	</string>
 	<string id="esc_frecuencias_reunion_militar_2">
-		<text>Youa€™re not the bald guy! Wherea€™s Fanatic?</text>
+		<text>Ты не тот лысый мужик! Где Фанат?</text>
 	</string>
 	<string id="esc_frecuencias_reunion_fanatico_3">
-		<text>Thata€™s me a€” bald under this helmet. (laughs) But youa€™re not Serdyuk... what the hella€™s going on?</text>
+		<text>Это я — скрываю лысину за шлемом. (смеётся) Однако ты не Сердюк... Что за чёрт здесь происходит?</text>
 	</string>
 	<string id="esc_frecuencias_reunion_militar_4">
-		<text>Open fire! We need those frequencies!</text>
+		<text>Открыть огонь! Нам нужны эти частоты!</text>
 	</string>
 	<string id="esc_frecuencias_reunion_fanatico_5">
-		<text>Shoot, Viktor!</text>
+		<text>Виктор, стреляй!</text>
 	</string>
 	<string id="esc_frecuencias_reunion_viktor_6">
-		<text>Shit! Take cover!</text>
+		<text>Дерьмо! Прячься!</text>
 	</string>
 	<string id="esc_frecuencias_reunion_militar_7">
-		<text>Rover, Selco a€” take the one on the roof! The rest of you, surround the bald guy!</text>
+		<text>Ровер, Сэлко — за вами чувак на крыше! Остальные, окружайте лысого!</text>
 	</string>
 	<string id="esc_frecuencias_reunion_fanatico_8">
 		<text>Well... looks like I got sold out. Guess I put too much faith in military a€?goodwilla€? Come here, son. Leta€™s talk before we head back to base.</text>
 	</string>
 	<string id="esc_frecuencias_infiltracion_fanatico_0">
-		<text>I know youa€™re good at stealth, so I wona€™t spell everything out. Head to the fence a€” stay close to it to avoid the landmines. Youa€™ll see a fallen tree ahead, thata€™s your way in.</text>
+		<text>Я знаю, что ты мастер скрытности — не буду докучать разъяснениями. Направляйся к забору и далеко от него не отходи по пути, чтобы не напороться на мину. Впереди ты увидишь поваленное дерево — это твой путь внутрь.</text>
 	</string>
 	<string id="esc_frecuencias_infiltracion_fanatico_1">
-		<text>One more thing a€” dona€™t turn on your flashlight, or the sniper will spot you.</text>
+		<text>Ещё один момент: не включай фонарик, а то тебя заметит снайпер.</text>
 	</string>
 	<string id="esc_frecuencias_infiltracion_fanatico_2">
-		<text>Good. Climb over the tree. Ia€™ll keep an eye on the situation from here.</text>
+		<text>Отлично. Перелезай через дерево. А я останусь тут на стрёме.</text>
 	</string>
 	<string id="esc_frecuencias_infiltracion_fanatico_3">
-		<text>I see three of them on patrol a€” not too many. Onea€™s moving back and forth between the office and the drop-off point for the documents. Anothera€™s patrolling the parking lot near the barracks. The last onea€™s walking the street... Youa€™ll need to go up the stairs and leave the documents on the desk a€” without being seen.</text>
+		<text>I see three of them on patrol a€” not too many. Onea€™s moving back and forth between the office and the drop—off point for the documents. Anothera€™s patrolling the parking lot near the barracks. The last onea€™s walking the street... Youa€™ll need to go up the stairs and leave the documents on the desk a€” without being seen.</text>
 	</string>
 	<string id="esc_frecuencias_infiltracion_fanatico_4">
 		<text>Perfect. Wait for an opening, then head back the way you came. You can climb onto the roof to get over the fence.</text>
 	</string>
 	<string id="esc_fanatico_logro_msg_0">
-		<text>Son, I have good news. Come see me before you leave.</text>
+		<text>Сынок, у меня хорошие новости. Зайди ко мне перед уходом.</text>
 	</string>
 	<string id="esc_msg_monolito_cruz">
-		<text>El monolito tenia razon, has venido...</text>
+		<text>Монолит был прав... Ты явился.</text>
 	</string>
 	<string id="esc_viper_pantanos_camino_1">
-		<text>Escucha, hace aсos que no piso los grandes pantanos. Tengo mucha historia con ese lugar, y no es buena. Vamos con cuidado.</text>
+		<text>Слушай, я не бывал на Больших Болотах уже долгие годы. Многое там я прошёл в прошлом — и ничего хорошего. Идём с осторожностью.</text>
 	</string>
 	<string id="esc_viktor_pantanos_camino_1">
-		<text>Entendido. їAsн que historia, che? їQuй pasу ahн?</text>
+		<text>Понял. Так... Прошлое, да? Что же там случилось?</text>
 	</string>
 	<string id="esc_viper_pantanos_camino_2">
-		<text>Cuento largo, amigo. Muy largo. En otro momento que viajemos mбs relajados te cuento.</text>
+		<text>Длинная история, друг. Очень длинная. Расскажу в другой раз, в менее напряжённой обстановке.</text>
 	</string>
 	<string id="esc_viktor_pantanos_camino_2">
-		<text>Bien. Me la debйs para la prуxima.</text>
+		<text>Ладно. Но всё равно обязательно её расскажешь.</text>
 	</string>
 	<string id="esc_viper_pantanos_camino_3">
-		<text>Te cubro, cruza el alambrado y ve por las vнas. Yo irй detrбs tuyo asegurбndome que nadie nos siga</text>
+		<text>Я тебя прикрою. Пролезай через забор и иди по путям. Я буду позади — смотреть, чтобы за нами не быдо хвоста.</text>
 	</string>
 	<string id="mar_viktor_pantanos_vias_1">
-		<text>їA dуnde llevan esas vнas?</text>
+		<text>А куда эти пути ведут?</text>
 	</string>
 	<string id="mar_viper_pantanos_vias_1">
-		<text>Si vamos al Este, nos devuelven al Cordуn. Pasando un tъnel llevan a Darkscape... Que es zona de nadie.</text>
+		<text>Направься на восток — и они тебя приведут назад на Кордон. Далее, пройдя через туннель, идут в Тёмную Лощину... Безлюдные земли.</text>
 	</string>
 	<string id="mar_viktor_pantanos_vias_2">
-		<text>їY que hay al Oeste?</text>
+		<text>А на запад?</text>
 	</string>
 	<string id="mar_viper_pantanos_vias_2">
-		<text>Como a un kilуmetro hay ruinas ferroviarias destruidas por las anomalнas. Luego hay un puente que cruza el Rнo Pripyat.</text>
+		<text>Где-то в километре будут железнодорожные руины, изъязвлённые аномалиями. А дальше будет мост, пересекающий реку Припять.</text>
 	</string>
 	<string id="mar_viktor_pantanos_vias_3">
-		<text>Asн que un puente. Interesante…</text>
+		<text>Мост, да... Интересно.</text>
 	</string>
 	<string id="mar_viper_pantanos_vias_3">
-		<text>Sй que ansias recorrer la zona, Viktor. Pero no te pierdas mucho pensando en el futuro. Concentrйmonos en esto. No quiero pasar un segundo demбs aquн.</text>
+		<text>Я знаю, что тебе не терпится исследовать Зону, Виктор. Однако не теряйся в мыслях о будущем. Давай сфокусируемся на текущей задаче. Я не хочу здесь провести ни секунды больше, чем требуется.</text>
 	</string>
 	<string id="mar_viper_pantanos_advertencia_1">
-		<text>Un detalle importante: No vayas por el agua. Te vas a envenenar muy fuerte con radiaciуn.</text>
+		<text>Одна важная деталь: не проходи через воду. Сильно отравишься радиацией.</text>
 	</string>
 	<string id="mar_viper_pantanos_advertencia_2">
-		<text>Viktor. Es mejor si no cruzas por la hierba. Vas a hacer ruido y eso puede llamar atenciуn indeseada.</text>
+		<text>Виктор, лучше не заходи в траву. Ты нашумишь, а привлекать внимание таким образом мы точно не хотим.</text>
 	</string>
 	<string id="mar_viper_pantanos_cem_1">
-		<text>Amigo, dame un segundo. Ya que estamos por aquн, dйjame hacer una parada rбpida.</text>
+		<text>Друг, подожди. Раз мы тут, то давай остановимся на секунду.</text>
 	</string>
 	<string id="mar_viktor_pantanos_cem_1">
-		<text>Dale їQuй pasу?</text>
+		<text>Хорошо. Что такое?</text>
 	</string>
 	<string id="mar_viper_pantanos_cem_2">
-		<text>Descansen en paz, amigos...</text>
+		<text>Спите спокойно, друзья...</text>
 	</string>
 	<string id="mar_viper_pantanos_cem_3">
-		<text>Ya, vamos.</text>
+		<text>Ладно, идём.</text>
 	</string>
 	<string id="mar_viktor_llegando_1">
-		<text>Ya casi llegamos.</text>
+		<text>Мы почти на месте.</text>
 	</string>
 	<string id="mar_viper_llegando_1">
-		<text>Hay demasiado silencio. No me gusta.</text>
+		<text>СЛишком тихо. Мне это не нравится.</text>
 	</string>
 	<string id="mar_viktor_llegando_2">
-		<text>їЎY ESO!?</text>
+		<text>ЧТО ЭТО ЗА ПИЗДЕЦ!?</text>
 	</string>
 	<string id="mar_viper_llegando_2">
-		<text>ЎDispara! ЎYa no es humano!</text>
+		<text>Стреляй! Оно больше не человек!</text>
 	</string>
 	<string id="mar_viper_zombis_muertos_1">
-		<text>Voy a hacer guardia. Puedes revisar tranquilo mientras...</text>
+		<text>Я останусь начеку. Осмотри тут всё хорошенько...</text>
 	</string>
 	<string id="mar_viktor_zombis_muertos_1">
-		<text>Bien, dame un minuto.</text>
+		<text>Хорошо, дай мне немного времени.</text>
 	</string>
 	<string id="mar_viktor_vamonos_1">
-		<text>No hay ninguna pista en los cuerpos, las frecuencias de Sidorovich no estбn y no hay seсales de Atreo... No entiendo quй pasу.</text>
+		<text>На телах никаких зацепок, радиочастоты Сидоровича пропали, а следов Атрея нет... Я не имею понятия, что здесь произошло.</text>
 	</string>
 	<string id="mar_viper_vamonos_1">
-		<text>Habrб que preguntar en el Cordуn si vieron a Atreo. Volvamos por el tъnel que usan los contrabandistas. Usaremos el resguardo de la noche para que no nos acribillen los militares. Avнsame cuando estйs listo.</text>
+		<text>Придётся порасспрашивать на Кордоне, видел ли кто Атрея. Вернёмся через туннель контрабандистов. Проберёмся под покровом ночи, чтобы военные нас не пристрелили. Дай мне знать, когда ты готов.</text>
 	</string>
 	
 	<string id="esc_viper_asesinato_militar_0">
-		<text>(Susurrando) ЎShhh! Este es mнo. Apaga la linterna y no hagas ruido.</text>
+		<text>(Шепчет) Шшшш... Этот мой. Выключи фонарик и не шуми.</text>
 	</string>
 	<string id="esc_viktor_asesinato_militar_1">
-		<text>No sabнa que tenнas un arma silenciada...</text>
+		<text>Не знал, что у тебя есть оружие с глушителем...</text>
 	</string>
 	<string id="esc_viper_asesinato_militar_2">
-		<text>Son necesarias. Te lo recomiendo... (Suspiro) Volvamos de una vez.</text>
+		<text>Они необходимы. Очень тебе рекомендую... (Вздыхает) Пошли дальше.</text>
 	</string>
 	<string id="esc_viper_asesinato_militar_3">
-		<text>ЎNO! ЎAPAGA-</text>
+		<text>Нет! Выключи—</text>
 	</string>
 	<string id="esc_viper_ya_en_base_0">
-		<text>Bueno Viktor, fuй un buen paseo y sin problemas mayores. Bien hecho. Ahora voy a ver a un amigo, supongo que tu irбs a ver a Sidorovich. Suerte, bъscame si necesitas ayuda.</text>
+		<text>Отлично, Виктор, неплохо справились — без особых проблем. Хорошо сделано. Я сейчас пойду увидеться со своим знакомым, а тебе посоветую зайти к Сидоровичу. Удачи тебе — и обращайся, если что нужно.</text>
 	</string>
 	<string id="esc_msg_viktor_perros_1">
-		<text>(Silbidos llamando a los perros) Bien, funcionу.</text>
+		<text>(Свист для привлечения псов) Отлично, это сработало.</text>
 	</string>
 	<string id="esc_msg_vovan_perros_1a">
-		<text>ЎOh no! ЎAhi vienen! No dejes que se me acerquen.</text>
+		<text>О нет! Они идут! Не дай им приблизиться!</text>
 	</string>
 	<string id="esc_msg_vovan_perros_1b">
-		<text>ЎMalditos perros mugrosos!</text>
+		<text>Ёбаные поршивые собаки!</text>
 	</string>
 	<string id="esc_msg_viktor_perros_1a">
-		<text>Dont be a pussy, Help me!</text>
+		<text>Не будь трусом, помоги мне!</text>
 	</string>
 	<string id="esc_msg_vovan_perros_2">
-		<text>ЎUf, puta madre! Pense que serias mas ъtil, tuve que hacer la mayoria del trabajo yo.</text>
+		<text>Ух, чёрт тебя побери! Надеялся, что будешь пополезнее, а пришлось мне большую часть работы делать.</text>
 	</string>
 	<string id="esc_msg_viktor_perros_3">
-		<text>Imbйcil...</text>
+		<text>Болван...</text>
 	</string>
 	<string id="esc_msg_monolitos_deber_1">
-		<text>Monolito, los veo...</text>
+		<text>Монолит... Я вижу тебя...</text>
 	</string>
 	<string id="esc_msg_monolitos_deber_2">
-		<text>Veo herejes vestidos de rojo y negro...</text>
+		<text>Замечены еретики в чёрно-красных одеждах!</text>
 	</string>
 	<string id="esc_msg_monolitos_deber_3">
-		<text>ЎInfieles adelante!</text>
+		<text>Впереди неверные!</text>
 	</string>
 	<string id="esc_msg_monolitos_deber_4">
-		<text>ЎDestruyan en nombre del monolito!</text>
+		<text>Уничтожьте их во имя великого Монолита!</text>
 	</string>
 	<string id="esc_msg_monolitos_deber_5">
-		<text>ЎSigan las уrdenes del monolito!</text>
+		<text>Следуйте воле Монолита!</text>
 	</string>
 	<string id="esc_msg_monolitos_deber_6">
-		<text>Que no quede nadie...</text>
+		<text>Никого не оставить в живых.</text>
 	</string>
 	<string id="esc_msg_monolitos_deber_7">
-		<text>El monolito dijo que disparemos antes de que tengan oportunidad de reaccionar.</text>
+		<text>Монолит приказывает атаковать до того, как они среагируют.</text>
 	</string>
 	<string id="esc_msg_monolitos_deber_8">
-		<text>ЎPOR EL MONOLITO!</text>
+		<text>ЗА МОНОЛИТ!</text>
 	</string>
 	<string id="esc_msg_monolitos_deber_8b">
-		<text>ЎPor el monolito!</text>
+		<text>За Монолит!</text>
 	</string>
 	<string id="esc_msg_monolitos_kir_1">
-		<text>ЎNos flaquean por la colina!</text>
+		<text>Они обходят нас с холма!</text>
 	</string>
 	<string id="esc_msg_monolitos_kir_2">
-		<text>ЎTodos a cubierto!</text>
+		<text>Все в укрытие!</text>
 	</string>
 	<string id="esc_msg_monolitos_kir_3">
-		<text>Joven, acerquese a hablar antes de irse. Tenemos que saldar cuentas.</text>
+		<text>Парень, перед тем, как уйти, поговори со мной. У нас есть незавершённое дело.</text>
 	</string>
 	<string id="esc_msg_monolitos_kir_4a">
-		<text>B.S.C a Vertedero, B.S.C a Vertedero їMe copian?</text>
+		<text>Б.С.К Свалке, Б.С.К Свалке — Вы меня слышите?</text>
 	</string>
 	<string id="esc_msg_monolitos_kir_4b">
-		<text>B.S.C a Vertedero, B.S.C a Vertedero їMe reciben?</text>
+		<text>Б.С.К Свалке, Б.С.К Свалке — Меня слышно?</text>
 	</string>
 	<string id="esc_leto_truco_msg_0">
-		<text>Oh, si. No tengo el artefacto aquн, sнgueme un minuto.</text>
+		<text>O, да... У меня артефакта сейчас нет при себе — давай пройдёмся вместе чуть-чуть.</text>
 	</string>
 	<string id="esc_leto_truco_msg_2">
-		<text>(Risas)</text>
+		<text>(Смеётся)</text>
 	</string>
 	<string id="esc_leto_truco_msg_1">
-		<text>Wow, es raro que sigas consciente. Pero no vas a zafar. Nadie aguanta esto...</text> 
+		<text>Вау, удивлён, что ты ещё в сознании! Однако это конец. Никому не суждено это пережить...</text> 
 	</string>
 	<string id="esc_leto_truco_viktor_msg_1">
-		<text>їQuй pasa? їЎQuй es esto!?</text> <!--sin voz-->
+		<text>Что происходит? Что это за фигня!?</text> <!——без голоса——>
 	</string>
-	<string id="esc_leto_truco_viktor_msg_2"> <!--sin voz-->
-		<text>ЎATREO!</text>
+	<string id="esc_leto_truco_viktor_msg_2"> <!——без голоса——>
+		<text>АТРЕЙ!</text>
 	</string>
 	<string id="esc_teleport_actor_viper">
-		<text>ЎEy, amigo! Bienvenido de regreso їTe acuerdas quй te pasу? Hablame...</text>
+		<text>Эй, дружище! Добро пожаловать назад. Ты помнишь, что случилось? Скажи мне.</text>
 	</string>
 	<string id="esc_zombie_boss_viktor_msg_1">
-		<text>їЎQuй mierda!? ЎEY! їЎQuiйn sos!? ЎVoy a disparar!</text> <!--sin voz-->
+		<text>Что за чёрт!? ЭЙ! Кто ты такой!? Я буду стрелять!</text> <!——без голоса——>
 	</string>
 	<string id="esc_zombie_boss_viktor_msg_2">
-		<text>Entonces Leto se fuй y se ocupу de estos stalkers en el camino... Pobres. Deberнa ver a Viper, seguro sabe cуmo seguirle el rastro.</text> <!--sin voz-->
+		<text>Получается, Лето ушёл вперёд и разобрался с этими сталкерами по пути... Бедняги. Мне нужно увидеться с Вайпером — он наверняка знает, как его выследить.</text> <!——без голоса——>
 	</string>
 	<string id="esc_reclutando_cabo_msg">
-		<text>Listo. Ya tengo mis cosas ЎAdelante!</text>
+		<text>Отлично. Снаряга у меня. Идём!</text>
 	</string>
 	<string id="esc_reclutando_dogo_msg">
-		<text>Presta atenciуn stalker. Vas a poder ver a un experto en acciуn.</text> <!--sin voz-->
+		<text>Смотри внимательно, сталкер. Сейчас ты увидишь, как работает профессионал.</text> <!——без голоса——>
 	</string>
 	<string id="esc_reclutando_pollo_msg">
-		<text>(Tarareando) Cuando encontremos a Atreo le voy a sacar los putos ojos.</text>
+		<text>(Напевая) Когда Атрея мы найдём, я выколю глаза ему ножом.</text>
 	</string>
 	<string id="esc_pre_viaje_viper_msg_1">
-		<text>Cabo, Atento. Agarra tus cosas que nos vamos.</text>
+		<text>Зелёный, внимательно. Собирай свои вещи — мы выдвигаемся.</text>
 	</string>
 	<string id="esc_pre_viaje_cabo_msg_2">
-		<text>Listo, seсor ЎListo!</text>
+		<text>Всё готово, сэр!</text>
 	</string>
 	<string id="esc_pre_viaje_viper_msg_3">
-		<text>ЎDogo! Ya puedes sacar a Linda si quieres, no olvides la caja con municiуn.</text>
+		<text>Дог! Сейчас можешь доставать Красотку — и не забудь про ящик с патронами.</text>
 	</string>
 	<string id="esc_pre_viaje_dogo_msg_4">
-		<text>Si... Es hora de sacar a Linda de paseo.</text> 
+		<text>Да... Пора сводить Красотку на свидание.</text> 
 	</string>
 	<string id="esc_pre_viaje_viper_msg_5">
-		<text>ЎPollo! Te estas olvidando los botiquines de nuevo...</text> 
+		<text>Йорик! Ты снова забываешь про аптечки...</text> 
 	</string>
 	<string id="esc_pre_viaje_pollo_msg_6">
-		<text>Vaya, jurarнa que estaban en mi mochila (Risa)</text> 
+		<text>Упс, я готов поклясться, что они были в рюкзаке. (Смеётся).</text> 
 	</string>
 	<string id="esc_pre_viaje_viper_msg_7">
-		<text>ЎViktor! Puedo ver las ansias en tus ojos. Relбjate. Vamos a encontrarlo.</text> 
+		<text>Виктор! Я вижу нетерпение в твоих очах. Успокойся. Мы найдём его.</text> 
 	</string>
 	<string id="esc_pre_viaje_viktor_msg_8">
-		<text>(Avergonzado) Estoy bien, tranquilos (Risa).</text> 
+		<text>(Смущённо) Всё нормально, не волнуйся. (Смеётся).</text> 
 	</string>
 	
 	<string id="esc_susto_pollo_msg_1">
-		<text>(Imitando un Monolito) Por el monolito... Ataquen al que tiene uniforme de Deber...</text>
+		<text>(Имитируя монолитовца) За Монолит... Атаковать оного в цветах Долга...</text>
 	</string>
 	<string id="esc_susto_cabo_msg_2">
-		<text>ЎPOLLO! COСO DE LA MADRE ЎPensй que eras un soldado del monolito!</text>
+		<text>ЙОРИК! Чёрт бы тебя побрал! Подумал, что ты один из монолитовцев!</text>
 	</string>
 	<string id="esc_susto_pollo_msg_3">
-		<text>(Risas)</text>
+		<text>(Ржёт)</text>
 	</string>
 	<string id="esc_susto_dogo_msg_4">
-		<text>Es increнble que caigas tantas veces en lo mismo.</text>
+		<text>Не могу поверить, что ты каждый раз попадаешься на это.</text>
 	</string>
 	<string id="esc_susto_viktor_msg_5">
-		<text>Deberнas relajarte un poco, Cabo.</text>
+		<text>Тебе надо немного расслабиться, Федька.</text>
 	</string>
 	<string id="esc_susto_viper_msg_6">
-		<text>ЎSuficiente! No bajen la guardia. Los monolitos pueden llegar en cualquier momento. En especial tu, Cabo. Que luego te asustas por nada.</text>
+		<text>Достаточно! Всем быть начеку. Монолит может объявиться в любой момент. Особенно ты, Федька. Ты и так легко пугаешься.</text>
 	</string>
 	<string id="esc_susto_pollo_msg_7">
-		<text>Aguafiestas...</text>
+		<text>Зануда...</text>
 	</string>
 	<string id="esc_traje_cabo_dolg_msg">
-		<text>(Susurrando) Stalker, escuchй que necesitabas un traje. Acйrcate y hablemos.</text> <!--sin voz-->
+		<text>(Шёпотом) Сталкер, слышал, тебе нужен костюм. Подходи, поболтаем.</text> <!——без голоса——>
 	</string>
 	<string id="esc_bandidos_wolf_msg">
-		<text>ЎHay ruido en el techo! ЎVAYAN A VER!</text> 
+		<text>На крыше какой-то шум! ИДИТЕ ПРОВЕРИТЬ!</text> 
 	</string>
 	<string id="esc_wolf_ladron_msg">
-		<text>Chico, localizamos al ladrуn. Ven cuando puedas asн charlamos sobre el desgraciado.</text> 
+		<text>Парниша, мы обнаружили вора. Загляни, когда сможешь — нужно обсудить этого ублюдка.</text> 
 	</string>
 	<string id="esc_wolf_ladron_msg_2">
-		<text>Por favor, cuida de mis muchachos, chico.</text> 
+		<text>Пожалуйста, позаботься о моих парнях, сынок.</text> 
 	</string>
 	<string id="esc_wolf_ladron_msg_3">
-		<text>Chico, estuve leyendo la PDA del Mago y descubrн algunas cosas. Parece que hizo arreglos con unos bandidos para atacar la aldea de novatos... Cuento contigo, vente cuando puedas y te explico.</text> 
+		<text>Сынок, я изучал содержимое КПК Мага и нашёл несколько занятных вещей. Кажется, он договорился с бандитами, чтобы те напали на Деревню новичков... Я рассчитываю на тебя — по возможности приходи, я тебе всё объясню.</text> 
 	</string>
 	<string id="esc_wolf_ladron_msg_3b">
-		<text>Buen trabajo. Vamos a buscar al siguiente grupo.</text>
+		<text>Отличная работа. Идём искать следующий отряд.</text>
 	</string>
 	<string id="esc_wolf_ladron_msg_3c">
-		<text>Vamos a buscar al siguiente grupo.</text>
+		<text>Давай к следующему отряду.</text>
 	</string>
 	<string id="esc_wolf_ladron_msg_3d">
-		<text>Creo que eran todos... Ahora la aldea estб a salvo. Ven, tengo algo para darte.</text> 
+		<text>Должно быть, это все... Теперь деревня в безопасности. Иди сюда — у меня кое-что для тебя есть.</text> 
 	</string>
 	<string id="esc_arma_kir_msg_1">
-		<text>Cabo Fedya, esta noche hay chequeo de rutina para que veamos el estado del equipo. No olvide traer su arma.</text> 
+		<text>Федька Зелёный, этой ночью будет плановая проверка снаряжения. не забудь своё оружие.</text> 
 	</string>
 	<string id="esc_arma_cabo_msg_2">
-		<text>ЎSн, capitбn! Tendrй mi equipo listo para esta noche...</text> 
+		<text>Так точно, капитан! Моя экипировка будет готова к ночи.</text> 
 	</string>
 	<string id="esc_arma_viktor_msg_3">
-		<text>Estбs hasta las manos, Cabo...</text> 
+		<text>Ты в полном дерьме, Зелёный...</text> 
 	</string>
 	<string id="esc_arma_cabo_msg_4">
-		<text>Viktor mira... (Susurrando) Por favor, te encargo mi arma. Te pagarй bien.</text> 
+		<text>Виктор, слушай... (Шёпотом) пожалуйста, найди моё оружие. Я хорошо заплачу.</text> 
 	</string>
 	<string id="esc_tornillo_conpda_msg">
-		<text>No... Estas fotos no tienen mбs de un mes. Y pensar que ya no lo volverй a ver.</text> 
+		<text>Нет... Этим фотографиям и месяца нет. А я больше никогда его не увижу...</text> 
 	</string>
 	<string id="esc_tornillo_sinpda_msg">
-		<text>No de veras. Es raro que Tornillo se haya descuidado ante algo tan cotidiano como la radiaciуn. Esto huele raro... їSeguro que no me estoy enterando de algo mбs? Bueno, dejalo asн.</text> 
+		<text>Нет, серьёзно. Я не верю, что Шуруп мог просчитаться с чем-то насколько базовым, как радиация. Что-то здесь точно не так... Не упускаю ли я что из виду? Ладно, брось.</text> 
 	</string>
 	<string id="esc_tunel_boar_viktor_msg">
-		<text>Cerdo hijo de puta... Era durнsimo.</text> <!--sin voz-->
+		<text>Ёбаная свинья... Крепкий ублюдок.</text> <!——без голоса——>
 	</string>
 	<string id="esc_dogo_fantasma_general_msg_1">
-		<text>Novato, hay pelusa quemada en ese tъnel. Pasemos agachados y no hagas movimientos bruscos.</text> <!--sin voz-->
+		<text>Новобранец, в том туннеле жгучий пух. Идём пригнувшись, не совершая резких движений.</text> <!——без голоса——>
 	</string>
 	<string id="esc_dogo_fantasma_general_msg_2">
-		<text>Era broma stalker. No iba a correr hasta la base...</text> <!--sin voz-->
+		<text>Расслабься, сталкер. Я пошутил — я не собирался бежать обратно аж до базы...</text> <!——без голоса——>
 	</string>
 	<string id="esc_viktor_fantasma_general_msg_1">
-		<text>(Agitado) Hijo de puta... (Risas)</text> <!--sin voz-->
+		<text>(Возбуждённо) Подонок... (Смеётся)</text> <!——без голоса——>
 	</string>		
 	<string id="esc_dogo_fantasma_general_msg_3">
-		<text>Sabes, este tъnel antes tenнa anomalнas elйctricas. Un dнa vino un cientнfico, puso unos aparatitos, apareciу un artefacto y las anomalнas desaparecieron para siempre.</text> <!--sin voz-->
+		<text>Знаешь, раньше в этом туннеле были электрические аномалии. Однажды сюда объявился учёный, установил некие устройства — и появился артефакт, а аномалии исчезли навсегда.</text> <!——без голоса——>
 	</string>
 	<string id="esc_viktor_fantasma_general_msg_2">
-		<text>(AA?n agitado) Interesante...</text> <!--sin voz-->
+		<text>(Немного взволнованно) Интересно...</text> <!——без голоса——>
 	</string>
 	<string id="esc_dogo_fantasma_general_msg_4">
-		<text>Escucha, novato. Gracias por la ayuda, creo que serбs un gran stalker alguna vez… Esos fantasmas sн que me dejaron mal de la cabeza. Ven y hablemos sobre la paga que te ganaste antes de que me duerma.</text> <!--sin voz-->
+		<text>Слушай, зелень. Благодарю за помощь — я считаю, что однажды ты станешь замечательным сталкером. Эти призраки, и в правду, серьёзно повлияли на мой рассудок. Ладно, давай обговорим тобою заработанное, пока я не потерял сознание.<text> <!——без голоса——>
 	</string>
 	<string id="esc_dogo_fantasma_msg_1">
-		<text>їNo sientes algo raro? Escucho como... un zumbido.</text> <!--sin voz-->
+		<text>Ты не чувствуешь, что здесь что-то не так? Я как-будто слышу... жужжание.</text> <!——без голоса——>
 	</string>
 	<string id="esc_dogo_fantasma_msg_2">
-		<text>ЎSON ELLOS! ЎSon los fantasmas que me atacaron!</text> <!--sin voz-->
+		<text>ЭТО ОНИ! Это призраки, что на меня напали!</text> <!——без голоса——>
 	</string>
 	<string id="esc_dogo_fantasma_msg_3">
-		<text>ЎAGH! ЎMi cabeza! ЎSiento las voces de los fantasmas!</text> <!--sin voz-->
+		<text>Айй! Моя голова! Я слышу их голоса!</text> <!——без голоса——>
 	</string>
 	<string id="esc_dogo_fantasma_msg_4">
-		<text>ЎSTALKER! ЎAHН ADELANTE! Hacia el NORTE, vi algo ЎTe lo juro!</text> <!--sin voz-->
+		<text>СТАЛКЕР! ВПЕРЕДИ! НА СЕВЕРЕ — я увидел что-то, я клянусь!</text> <!——без голоса——>
 	</string>
 	<string id="esc_dogo_msg_fantasma_1">
-		<text>Stalker, no te alejes mucho de mн. Lo digo para que no te vaya a pasar nada...</text> <!--sin voz-->
+		<text>Сталкер, ты это... Далеко от меня не отходи. Просто перестраховываюсь, чтобы с тобой ничего не случилось...</text> <!——без голоса——>
 	</string>
 	<string id="esc_dogo_msg_fantasma_2a">
-		<text>Rookie, move your ass!</text> <!--sin voz-->
+		<text>Зелень, двигай задом!</text> <!——без голоса——>
 	</string>
 	<string id="esc_dogo_msg_fantasma_2b">
-		<text>Move!</text> <!--sin voz-->
+		<text>Двигайся!</text> <!——без голоса——>
 	</string>
 	<string id="esc_dogo_msg_fantasma_2c">
-		<text>Ugh... Rookie. Move!</text> <!--sin voz-->
+		<text>Ух... Новобранец. Вперёд!</text> <!——без голоса——>
 	</string>
 	<string id="esc_dogo_msg_fantasma_2d">
-		<text>Rookie... (Impatient)</text> <!--sin voz-->
+		<text>Зелень... (В нетерпении)</text> <!——без голоса——>
 	</string>
 
 	<string id="dar_viper_msg_1">
-		<text>Pollo ЎNo te quedes atrбs! Te veo muy relajado.</text>
+		<text>Сорвиголова! Не отставай! Ты выглядишь слишком расслабленным.</text>
 	</string>
 	<string id="dar_pollo_msg_1">
-		<text>Si si si. Ya voy, Capitбn Viper</text>
+		<text>Да, да. Иду, капитан Вайпер</text>
 	</string>
 	<string id="dar_viper_msg_2">
-		<text>Eviten ir por la calle. Tomemos el camino a la derecha y usemos la cobertura de los бrboles.</text>
+		<text>Избегайте дороги. Возьмём путь правее, используя деревья как укрытия.</text>
 	</string>
 	<string id="dar_cabo_msg_0">
-		<text>A?Got it!</text>
+		<text>Принято!</text>
 	</string>
 	<string id="dar_viper_msg_3">
-		<text>їLos vieron, no? Hay varios. Avancen con la cabeza a gachas...</text>
+		<text>Видели их, да? Их множество. Наклоните головы и двигайтесь вперёд...</text>
 	</string>
 	<string id="dar_dogo_msg_1">
-		<text>Jaja їQuй agache la cabeza? A la mierda con eso ЎAcб estoy monolitos, vengan con papi!</text>
+		<text>Хах, склонить голову? К чёрту это! Эй, монолитовцы! Я прямо тут — идите к папочке!</text>
 	</string>
-	<string id="dar_cabo_msg_1">
-		<text>Tenemos un francotirador a la 1 en punto ЎMбs adelante!</text>
+	<string id="dar_retar_viper_msg_1">
+		<text>Дог, чтобы такого больше не было. Мы движемся тихо не по одной причине. Следуй инструкциям.</text>
 	</string>
 	<string id="dar_retar_dogo_msg_2">
-		<text>Whata€™s with all the protocol? Ita€™s not like therea€™s a sniper or a machine gun nest up ahead.</text>
+		<text>Что за протокольные правила? Не то, что бы впереди снайпер или пулемётчик.</text>
 	</string>	  
 	<string id="dar_cabo_msg_1">
-		<text>Sniper, one oa€™clock a€” ahead!</text>
+		<text>Снайпер, на 1 час впереди!</text>
 	</string>
 	<string id="dar_viper_msg_4">
-		<text>Lo veo, a cubierto ЎViktor! Acercate. Te toca a tн.</text>
+		<text>Вижу его, все в укрытие! Виктор, подойди. Придётся тебе поработать.</text>
 	</string>
 	<string id="dar_viktor_msg_0">
-		<text>A?Im going!</text>
+		<text>Иду!</text>
 	</string>
 	<string id="dar_viper_msg_5">
-		<text>ЎFUEGO DE COBERTURA! ЎCorre Viktor! Al бrbol de la izquierda. Quйdate ahн hasta que recargue.</text>
+		<text>Я прикрою огнём! Виктор, беги! Дерево слева от тебя — оставайся там, пока он не перезарядится!</text>
 	</string>
 	<string id="dar_viper_francotirador_primero">
-		<text>ЎBien! Esperб ahн a que recargue...</text>
+		<text>Замечательно! Ожидай там, пока он не начнёт перезарядку...</text>
 	</string>
 	<string id="dar_viper_francotirador_segundo">
-		<text>ЎGenial! Espera ahн, ve tu izquierda luego.</text>
+		<text>Хорошо! Жди тут — а затем двигайся налево.</text>
 	</string>
 	<string id="dar_viper_francotirador_tercero">
-		<text>ЎVas bien, Viktor! Corrй al бrbol de tu derecha despuйs.</text>
+		<text>Отлично справляешься, Виктор! Далее беги к дереву справа от тебя.</text>
 	</string>
 	<string id="dar_viper_francotirador_tercero_dogo">
-		<text>Cuidado chico. No te cruces con el fuego de Linda si no quieres quedar sin piernas.</text>
+		<text>Осторожно, парниша. Не пересекай линию огня Красотки, коль не хочешь остаться без пары конечностей.</text>
 	</string>
 	<string id="dar_viper_francotirador_cuarto">
-		<text>ЎBien, amigo! Espera ahн. Luego zig-zaguea hasta el бrbol a tu izquierda.</text>
+		<text>Отлично, друже! Сиди там — а потом зигзагом перебирайся к дереву левее.</text>
 	</string>
 	<string id="dar_viper_francotirador_quinto">
-		<text>UF, Casi ЎBien!</text>
+		<text>Ух, это было близко! Неплохо!</text>
 	</string>
 	<string id="dar_viper_francotirador_sexto">
-		<text>Viktor! ЎEstб a vista! Desde ahн puedes matarlo ЎQueda en tus manos!</text>
+		<text>Виктор! Он полностью открыт! С твоей позиции его хорошо видно — он твой!</text>
 	</string>
 	<string id="dar_viper_msg_6">
-		<text>Increнble... Espero que no haya mбs de estos.</text>
+		<text>Невероятно... Давайте надеяться, что их тут больше нет.</text>
 	</string>
 	<string id="dar_cabo_msg_2">
-		<text>...Nos vendrнa bien un francotirador ahora mismo.</text>
+		<text>...Нам бы тоже сейчас снайпер не помешал.</text>
 	</string>
 	<string id="dar_pollo_msg_2">
-		<text>(Risa)</text>
+		<text>(С издёвкой) Отнесись к этому серьёзно, Дог. А иначе закончишь, как тот снайперюга.</text>
 	</string>
 	<string id="dar_dogo_msg_2">
-		<text>Odio a los francotiradores. Son unos malditos maricas.</text>
+		<text>Я терпеть не могу снайперов. Кучка недоделанных трусов.</text>
 	</string>
 	<string id="dar_dogo_msg_2a">
-		<text>Oh yeah? And whoa€™s gonna take me down? Some egghead like you?</text>
+		<text>Да? И кто меня завалит? Такой же яйцеголовый, как ты?</text>
 	</string>  
 	<string id="dar_viper_msg_6b">
-		<text>Suficiente. Sigamos por los bordes de la calle que lleva al Este.</text>
+		<text>Хватит. Идём вдоль границы дороги, что ведёт на восток.</text>
 	</string>
 	<string id="dar_pollo_msg_3">
-		<text>Cuidado. Hay una puta anomalнa de fuego en medio de la calle.</text>
+		<text>Осторожно. Посреди дороги огненная аномалия.</text>
 	</string>
 	<string id="dar_pollo_msg_4">
-		<text>ЎJAJAJA! Miren como cayу ese monolito ЎQuedу todo tieso! ЎJAJA!</text>
+		<text>Хахаха! Видели, как упал тот монолитовец? Прям как бревно! Хаха!</text>
 	</string>
 	<string id="dar_viper_msg_7">
-		<text>Atentos. Nos movemos al helicуptero mбs adelante. Tomemos un descanso ahн. De paso necesito vendarme, que estoy perdiendo sangre...</text>
+		<text>Внимание. Дойдём до того вертолёта и там сделаем привал. Мне необходимо подлататься, а то я теряю много крови...</text>
 	</string>
 	<string id="dar_pollo_msg_5">
-		<text>Te hecho una mano, tengo vendas de los cientнficos... Aunque la verdad son vendas normales con parches de los cientнficos. Pero igual sirven.</text>
+		<text>Я тебе помогу. У меня остались бинты от учёных... Однако, «от учёных» не означает, что они особенные. Обычные бинты с их нашивками. Но всё равно справятся с задачей.</text>
 	</string>
 	<string id="dar_viper_msg_8">
-		<text>Uf... Paremos un rato. Cabo, haz guardia mientras, enseguida te acompaсo. El resto, relбjense un rato.</text>
+		<text>Ладно... Отдохнём немножко. Федька, оставайся на стрёме, — я тебя вскоре сменю. Остальным можно перевести дух.</text>
 	</string>
 	<string id="dar_pollo_msg_5a">
-		<text>Fucking usseles detector is not working...</text>
+		<text>Грёбаный бесполезный детектор не хочет работать...</text>
 	</string>
 	<string id="dar_cabo_msg_3">
-		<text>Tenнan ventaja de terreno alto y aъn asн no pudieron con nosotros... Somos muy buenos.</text>
+		<text>У них было преимущество высоты, а они всё равно не справились с нами... Мы до чёртиков хороши.</text>
 	</string>
 	<string id="dar_dogo_msg_3">
-		<text>Que no se te suban los humos, novato. El mйrito es mнo.</text>
+		<text>Не харохорься, зелень. Это всё моя заслуга.</text>
 	</string>
 	<string id="dar_cabo_msg_4">
-		<text>Oh, ya veo. Muchas gracias, Dogo.</text>
+		<text>О, я понял. Большое спасибо, Дог.</text>
 	</string>
 	<string id="dar_trodnik_msg_1">
-		<text>ЎViper! Tenemos a tu chico, lo atrapamos hace rato їDijiste que tenнa chaqueta amarilla, verdad? te mando nuestras coordenadas.</text>
+		<text>Вайпер! У нас твой тип — споймали его недавно. Жёлтая куртка, да? Высылаю тебе координаты.</text>
 	</string>
 	<string id="dar_viper_msg_9">
-		<text>ЎEnseguida vamos! No le quiten los ojos de encima ni un segundo, es peligroso. Recuerda lo que hablamos. Viktor, ven. Hablemos y seguimos camino. Prepбrense.</text>
+		<text>Мы уже в пути! Ни на секунду не своди с него глаз — он опасен. Вспомни, о чём мы говорили. Виктор, подойди. Обговорим всё по дороге. Готовься.</text>
 	</string>
 	<string id="dar_trodnik_msg_2">
-		<text>Tomate tu tiempo que lo tenemos a punta de caсуn y no estб armado, no irб a ninguna parte.</text>
+		<text>Можете сильно не спешить — он у нас на мушке и обезоружен. Никуда он не уйдёт.</text>
 	</string>
 	<string id="dar_cabo_msg_5">
-		<text>їEsta es la gente que buscabamos? Pero si estaban vivos hace unos minutos...</text>
+		<text>Это те, кого мы искали? Они ещё пару минут назад были живы...</text>
 	</string>
 	<string id="dar_pollo_msg_6">
-		<text>No se ven bien. No hace falta ser cientнfico para darse cuenta...</text>
+		<text>Они выглядят странно. Не нужно быть учёным, чтобы это понять...</text>
 	</string>
 	<string id="dar_viper_msg_10">
-		<text>Mierda... Les advertн que no lo subestimen. Cabo, Dogo, cubran la puerta. Pollo, te toca cubrir el patio. ЎViktor! Conmigo, busquemos cualquier pista de Atreo.</text>
+		<text>Дерьмо... Я говорил им не недооценивать его. Федька, Дог, смотрите дверь. Сорвиголова, ты во дворе. Виктор! Со мной — будем искать наводки на Атрея.</text>
 	</string>
 	<string id="dar_cabo_msg_6">
-		<text>ЎSi, Capitбn!</text>
+		<text>Так точно, капитан! Перемещаюсь к двери!</text>
 	</string>
 	<string id="dar_trodnik_msg_3">
-		<text>Una PDA con una nota de voz. La voy a reproducir: "Leto usу algъn tipo de truco y se soltу. Noqueу a los chicos con un solo movimiento de su mano ЎNi siquiera nos tocу! Al final, tenнas razуn con tu teorнa. Solo estoy consciente por el casco que llevo... Tomen bloqueadores antes de acercarse.\n Saquennos de esta miseria."</text>
+		<text>КПК с голосовым сообщением. Я проиграю его: "Leto usу algъn tipo de truco y se soltу. Noqueу a los chicos con un solo movimiento de su mano ЎNi siquiera nos tocу! Al final, tenнas razуn con tu teorнa. Solo estoy consciente por el casco que llevo... Tomen bloqueadores antes de acercarse.\n Saquennos de esta miseria."</text>
 	</string>
 	<string id="dar_viper_msg_11">
-		<text>Bueno, esto confirma la corazonada que te habнa mencionado, Viktor. El artefacto que lleva Leto le permite manipular campos de energнa PSI, por eso nos hemos cruzado con estos zombis en mбs de una ocasiуn. Ademбs tengo otra sospecha...</text>
+		<text>Хорошо, это подтверждает мои слова, Виктор. Артефакт, что он носит с собой, позволяет ему манипулировать пси-полями, поэтому мы натыкались на этих зомби не один раз. И у меня есть ещё одно подозрение...</text>
 	</string>
 	<string id="dar_viktor_msg_1">
-		<text>De ahн los zombis que vi antes en los pantanos їY ahora quй hacemos? їcуmo le seguimos el rastro siquiera?</text>
+		<text>Это объясняет тех зомби, что я видел ранее на болотах. Что теперь? Каким образом мы должны его выследить?</text>
 	</string>
 	<string id="dar_pollo_msg_7">
-		<text>ЎSilencio! La puta radio estб haciendo ruidos raros. Escuchen...</text>
+		<text>Тихо! Радио барахлит. Слушайте...</text>
 	</string>
 	<string id="dar_radio_monolith">
-		<text>Recibimos la seсal del infiel (Interferencia) estб en direcciуn al Valle Oscuro (Interferencia) estб usando el artefacto para evadirnos, cambio.</text>
+		<text>Мы подобрали сигнал неверного — (статический шум) — направляется к Тёмной Долине — (статический шум) — он использует артефакт, чтобы избегать нас, конец связи.</text>
 	</string>
 	<string id="dar_viper_msg_12">
-		<text>Eso confirma mi otra sospecha. De alguna manera los monolitos estбn rastreando a Leto a travйs del artefacto. Es peligroso, pero hay que seguirlo hasta el Valle Oscuro... ЎSigamos!</text>
+		<text>Это подтверждает мою догадку. Каким-то образом Монолит выслеживает Лето через артефакт. Это опасно, но мы должны последовать за ним в Тёмную Долину... Выдвигаемся!</text>
 	</string>
 	<string id="dar_pollo_msg_8">
-		<text>Algo anda mal, hay demasiado silencio.</text>
+		<text>Что-то не так... Слишком тихо.</text>
 	</string>
 	<string id="dar_dogo_msg_4">
-		<text>Los mutantes deben haber escuchado todos los disparos de antes.</text>
+		<text>Мутанты должны были услышать выстрелы ранее.</text>
 	</string>
 	<string id="dar_viper_msg_13">
-		<text>ЎAlto! Hay monolitos sobre el puente. Avancen con la cabeza a gachas. Dogo, va para ti eso tambiйn, no hagas un escбndalo de nuevo.</text>
+		<text>Стоять! На мосту монолитовцы. Пригнимайте головы во время движения. Дог, включая тебя. Не закатывай ещё одну сцену.</text>
 	</string>
 	<string id="dar_dogo_msg_5">
-		<text>Estб bien. No hay nada de quй preocuparse, me porto bien...</text>
+		<text>Всё окей. Не надо беспокоиться, я буду паинькой...</text>
 	</string>
 	<string id="dar_viper_msg_14">
-		<text>Ya nos falta poco. Hay un viejo tъnel que podemos cruzar para llegar directo al Valle Oscuro. Si tenemos suerte, no tendrб anomalнas en medio. Con eso deberнamos acortar distancias con Atreo.</text>
+		<text>Мы почти там. Есть тут старый туннель, через который можно попасть прямо в Тёмную Долину. Если повезёт, он не будет кишеть аномалиями. Это поможет нам сократить разрыв с Атреем.</text>
 	</string>
 	<string id="dar_viktor_msg_2">
-		<text>Tomemos cualquier atajo necesario. No podemos perderlo de nuevo.</text>
+		<text>Мы воспользуемся любым способом сократить путь, если нужно. Мы просто не можем его потерять вновь.</text>
 	</string>
 	<string id="dar_pollo_msg_9">
-		<text>Si dejamos que nos gane mбs distancia, se va a llenar de putos monolitos cuando lleguemos.</text>
+		<text>Если мы дадим ему оторваться ещё больше, то к тому времени всё в округе заполонят монолитовцы.</text>
 	</string>
 	<string id="dar_cabo_msg_7">
-		<text>їЎQUЙ ES ESO!? ЎQUЙ CARAJOS!</text>
+		<text>ЧТО ЭТО ЗА ЧЕРТОВЩИНА!</text>
 	</string>
 	<string id="dar_dogo_msg_6">
-		<text>Es un pseudo gigante, novato. Prepбrense todos.</text>
+		<text>Это псевдогигант, новобранец. Всем приготовиться!</text>
 	</string>
 	<string id="dar_pollo_msg_10">
-		<text>їPor quй levanta la puta pierna? їQuй hace? ... ЎAAAAAAH!</text>
+		<text>Чего это он лапищу свою задирает? Что он делает!? (испуганно)</text>
 	</string>
 	<string id="dar_viper_msg_15">
-		<text>No se descuiden. Revisen que no hayan perdido nada y sigamos hacia el desagьe que estб adelante.</text>
+		<text>Держите ухо востро. Проверьте своё снаряжение, удостоверьтесь, что ничего не потеряли — и движемся к сливу впереди.</text>
 	</string>
 	<string id="dar_dogo_msg_7">
-		<text>Ya estoy grande para esto.</text>
+		<text>(Тяжело дыша) Сука... Мне уже не двадцать...</text>
 	</string>
 	<string id="dar_pollo_msg_11">
-		<text>їQuй edad tenнas, Dogo?</text>
+		<text>А сколько тебе вообще, Дог?</text>
 	</string>
 	<string id="dar_dogo_msg_8">
-		<text>49 aсos de pura testosterona.</text>
+		<text>Сорок девять лет чистого тестостерона.</text>
 	</string>
 	<string id="dar_pollo_msg_12">
-		<text>(Risas por lo bajo)</text>
+		<text>(Еле сдерживает смех)</text>
 	</string>
 	<string id="dar_cabo_msg_8">
-		<text>їY ustedes? їQuй edad tienen?</text>
+		<text>А вам, парни?</text>
 	</string>
 	<string id="dar_viper_msg_16">
-		<text>37 aсos.</text>
+		<text>Тридцать семь.</text>
 	</string>
 	<string id="dar_pollo_msg_13">
-		<text>32 aсitos.</text>
+		<text>Тридцать два. Ещё молод.</text>
 	</string>
 	<string id="dar_cabo_msg_9">
-		<text>Vaya їY usted, Viktor?</text>
+		<text>Чёрт... А ты, Витя?</text>
 	</string>
 	<string id="dar_viktor_msg_3">
-		<text>22 aсos...</text>
+		<text>Двадцать два...</text>
 	</string>
 	<string id="dar_cabo_msg_10">
-		<text>Increнble. Soy el mбs joven del grupo...</text>
+		<text>(Удивлённо) Говно... Значит, я самый молодой в группе.</text>
 	</string>
 	<string id="dar_viper_msg_17">
-		<text>Mucho cuidado con sus pasos. Revisen bien donde pisan que no voy por este camino hace aсos...</text>
+		<text>Смотрите, куда ступаете. Внимательно следите за тем, что у вас под ногами — уже годы как я не использовал этот путь...</text>
 	</string>
 	
 	<string id="val_llegada_viktor_0">
-		<text>їY ahora para dуnde vamos?</text>
+		<text>И так... Куда мы дальше путь держим?</text>
 	</string>
 	<string id="val_llegada_viper_1">
-		<text>Nos movemos a la granja al Sur-Oeste del Valle. Tengan cuidado, sospecho que vamos a ver mбs monolitos.</text>
+		<text>Мы направляемся к ферме на юго-западе Долины. Будьте начеку, интуиция подсказывает, что мы ещё напоримся на Монолит.</text>
 	</string>
 	<string id="val_llegada_cabo_2">
-		<text>Espero que me alcancen los perdigones. Ya me quedan pocos...</text>
+		<text>Надеюсь, у меня ещё осталась дробь. Она у меня на исходе...</text>
 	</string>
 	<string id="val_llegada_pollo_3">
-		<text>Yo traigo de reserva. No te preocupes, Cabo.</text>
+		<text>У меня ещё есть немного в запасе. Не волнуйся, Федька.</text>
 	</string>
 	<string id="val_llegada_base_viper_0">
-		<text>Revisen el lugar. Asegurense de que sea seguro.</text>
+		<text>Изучите местность. Удостоверьтесь в её безопасности.</text>
 	</string>
 	<string id="val_llegada_base_cabo_1">
-		<text>Aquн hubo pelea hace poco...</text>
+		<text>Недавно здесь была перестрелка...</text>
 	</string>
 	<string id="val_llegada_base_pollo_2">
-		<text>Estos bandidos estan frescos. Cuidado.</text>
+		<text>Эти бандиты ещё свежие. Будьте настороже.</text>
 	</string>
 	<string id="val_llegada_base_ituca_3">
-		<text>ЎPor favor, no disparen! ЎHablarй!</text>
+		<text>Пожалуйста, не стреляйте! Я всё расскажу!</text>
 	</string>
 	<string id="val_llegada_base_viktor_4">
-		<text>Te conviene empezar a hablar. Y no intentes nada raro que estoy sin paciencia hoy.</text>
+		<text>Тебе лучше нам всё выложить. И не пытайся какую фигню провернуть — я сегодня не в настроении.</text>
 	</string>
 	<string id="val_llegada_base_dogo_5">
-		<text>ЎMetele un calcetin en la boca!</text>
+		<text>Засунь носок ему в глотку!</text>
 	</string>
 	<string id="val_llegada_base_viktor_5">
-		<text>Pffft (Risas)</text>
+		<text>Пфффт (Смеётся)</text>
 	</string>
 	<string id="val_sid_msg_0">
 		<text>Me enterй que llegaron con vida al Valle Oscuro, y que necesitan hablar con Sultбn. Resulta que tenemos algunos intereses en comъn, y he arreglado para que te reciba si lo ayudas con un pequeсo asunto. Dile que vas de mi parte, Viktor ЎY a ver cuбndo te pasas por el bunker de nuevo! Tengo material nuevo...</text>
 	</string>
 	<string id="val_bandido_on_viktor_0">
-		<text>Ahora parezco un bandido</text>
+		<text>Сейчас я выгляжу как бандит.</text>
 	</string>
 	<string id="val_bandido_off_viktor_0">
-		<text>Ya no parezco un bandido</text>
+		<text>Я больше не смахиваю на бандита.</text>
 	</string>
 	<string id="val_kolyan_viktor_0">
-		<text>їЎ...Quй mierda!?</text>
+		<text>...Что за дрянь!?</text>
 	</string>
 	
 	<string id="trc_truck_matasanos_0"> 
-		<text>їQuiйn es? Si eres un mutante ЎVete!</text>
+		<text>Кто там? Если мутант — иди лесом!</text>
 	</string>
 	<string id="trc_truck_viktor_1">
-		<text>No soy un mutante...</text>
+		<text>Я не мутант...</text>
 	</string>
 	<string id="trc_truck_viktor_2">
-		<text>Salн de una vez. Vine a rescatarte.</text>
+		<text>Выходи. Я за тобой пришёл.</text>
 	</string>
 	<string id="trc_truck_matasanos_3">
-		<text>ЎNo hay nadie!</text>
+		<text>Тут никого нет!</text>
 	</string>
 	<string id="trc_truck_matasanos_4">
-		<text>ЎLimpia a los mutantes primero! ЎLuego saldrй!</text>
+		<text>Зачисти для начала мутантов! А потом я уже подумаю, выходить мне или нет!</text>
 	</string>
 	<string id="trc_truck_viktor_5">
-		<text>їMutantes? Mierda.</text>
+		<text>Мутанты? Сука.</text>
 	</string>
 	<string id="trc_truck_viktor_6">
-		<text>ЎYA ESTБ, BAJATE!</text>
+		<text>Ладно, всё чисто — спускайся!</text>
 	</string>
 	<string id="trc_truck_matasanos_7">
-		<text>Uf, menos mal. Enseguida bajo. Dame un segundo que junte mis cosas.</text>
+		<text>Ух, спасибо тебе, Господи! Я выхожу. Дай мне секунду на собрать свои вещи.</text>
 	</string>
 	<string id="trc_truck_viktor_8">
-		<text>Quedate cerca mнo, que estб lleno de mierda este lugar.</text>
+		<text>Не отходи от меня. Это место просто кишит всякой нечистью.</text>
 	</string>
 	<string id="trc_truck_matasanos_9">
-		<text>Bien, voy pegado a ti. Por favor no salgas corriendo, no creo poder seguirte el paso.</text>
+		<text>Ладно, ладно, идём вместе. Пожалуйста, не убегай вперёд, я не поспеваю за тобой.</text>
 	</string>
 	<string id="trc_susto_matasanos_0">
-		<text>ЎCuidado! ЎPOR LA DERECHA!</text>
+		<text>Берегись! СПРАВА ОТ ТЕБЯ!</text>
 	</string>
 	<string id="trc_susto_matasanos_1">
-		<text>ЎMierda! Estan llegando mбs. Voy a morir hoy… ЎVOY A MORIR HOY!</text>
+		<text>Дерьмо! Ещё больше наступает. Я сегодня умру... Я СЕГОДНЯ СДОХНУ!</text>
 	</string>
 	<string id="trc_susto_matasanos_2">
-		<text>No quiero morir :c</text>
+		<text>Я совсем не хочу умирать :c</text>
 	</string>
 	<string id="trc_susto_matasanos_3">
-		<text>ЎOh no! ЎVienen mбs!</text>
+		<text>О нет! Ещё больше идут сюда!</text>
 	</string>
 	<string id="trc_susto_matasanos_4">
-		<text>ЎBien! Dales su merecido ЎCuidado, vienen mбs!</text>
+		<text>Замечательно! Покажи им кузькину мать! Берегись, ещё идут!</text>
 	</string>
 	<string id="trc_susto_matasanos_5">
-		<text>Mierda, Mierda ЎMierda! No debн venir nunca a este lugar maldito.</text>
+		<text>Дерьмо, дерьмо, полнейшее дерьмище! Я не должен был совать свой нос в это проклятое место.</text>
 	</string>
 	<string id="trc_susto_matasanos_6">
-		<text>ЎNo te mueras! ЎYo no puedo con ellos!</text>
+		<text>Не смей подыхать! Я не справлюсь с ними сам!</text>
 	</string>
 	<string id="trc_susto_matasanos_7">
-		<text>ЎCuidado! ЎPOR LA DERECHA!</text>
+		<text>Осторожно! СПРАВА!</text>
 	</string>
 	<string id="trc_hit_matasanos_0">
-		<text>ЎStalker, por aquн! ЎMe estбn por comer vivo, necesito ayuda!</text>
+		<text>Сталкер, сюда! Они меня сейчас заживо сожрут, требуется помощь!</text>
 	</string>
 	
 	<string id="val_back_matasanos_0">
-		<text>Stalker, te debo una. Pбsate a verme si necesitas que te suture o si quieres beber algo.</text>
+		<text>Сталкер, буду тебе обязан. Заглядывай, если нужно будет подлататься или выпить — я с радостью составлю тебе компанию.</text>
 	</string>
 	<string id="val_back_viktor_1">
-		<text>Mбs vale que invites vos...</text>
+		<text>Только если за твой счёт...</text>
 	</string>
 	
 	<string id="val_kashalot_recruit_dialog_0">
 		<text>Putos novatos creнdos. Se piensan que uno va a hacer lo que quieren. Te voy a acompaсar, chico. De hecho, tu me vas a acompaсar a mi. Guнa el camino y yo guнo a mi gente.</text>
 	</string>
 	<string id="val_viktor_recruit_dialog_1">
-		<text>Como sea, vamos de una vez.</text>
+		<text>Как хочешь. Пошли.</text>
 	</string>
 	<string id="val_kashalot_recruit_dialog_2">
 		<text>Chicos, nos reunimos en la entrada del cementerio de camiones. Tomaremos lo que nos corresponde.</text>
@@ -1137,7 +1137,7 @@
 		<text>їЎDIFERENTE A QUIЙNES!?</text>
 	</string>
 	<string id="labx18_segundo_nivel_atreo_5">
-		<text>(Risas)</text>
+		<text>(Смеётся)</text>
 	</string>
 	<string id="labx18_boss_atreo_0">
 		<text>No pensй que fueses a llegar tan lejos. FALTANDO TAN POCO.</text>
@@ -1152,7 +1152,7 @@
 		<text>їЎTres minutos para quй!?</text>
 	</string>
 	<string id="labx18_boss_atreo_4">
-		<text>(Risa manнaca)</text>
+		<text>(Маниакальный смех)</text>
 	</string>
 	<string id="labx18_boss_atreo_5">
 		<text>(Risas) їQuй pasa? їNo te podйs mover?</text>
