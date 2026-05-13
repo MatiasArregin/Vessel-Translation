@@ -369,7 +369,7 @@
 		<text>Hold up a second, friend. Since we’re here, let me make a quick stop.</text>
 	</string>
 	<string id="mar_viktor_pantanos_cem_1">
-		<text>Sure. What is it?/text>
+		<text>Sure. What is it?</text>
 	</string>
 	<string id="mar_viper_pantanos_cem_2">
 		<text>Rest in peace, friends...</text>
@@ -445,7 +445,7 @@
 		<text>Infidels ahead!</text>
 	</string>
 	<string id="esc_msg_monolitos_deber_4">
-		<text>Dstroy them in the name of the Monolith!</text>
+		<text>Destroy them in the name of the Monolith!</text>
 	</string>
 	<string id="esc_msg_monolitos_deber_5">
 		<text>Follow the Monolith’s will!</text>
@@ -738,7 +738,7 @@
 		<text>Alright... let’s rest a bit. Rookie, take watch — I’ll relieve you in a minute. The rest of you, stand down for now.</text>
 	</string>
 	<string id="dar_pollo_msg_5a">
-		<text>Fucking usseles detector is not working...</text>
+		<text>Fucking useless detector is not working...</text>
 	</string>	  
 	<string id="dar_cabo_msg_3">
 		<text>They had the high ground and still couldn’t take us... We’re damn good.</text>
@@ -1074,7 +1074,7 @@
 	</string>
 
 	<string id="labx18_entrada_leto_0">
-		<text>So you found me... I suggest you turn back while you still can.</text>
+		<text>... I suggest you turn back while you still can.</text>
 	</string>
 	<string id="labx18_entrada_viktor_1">
 		<text>I’m not going anywhere. You and I have unfinished business.</text>
