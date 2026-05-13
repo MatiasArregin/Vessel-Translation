@@ -219,49 +219,49 @@
 		<text>Смотри, это тот сталкер, что ту гору еды раздобыл, про которого я тебе рассказывал... Чёртов везунчик.</text>
 	</string>
 	<string id="esc_item_pda_tornillo">
-		<text>КПК Шурупа... Давай посмотрим, что на нём. Кажется, он немного исследовал самые безопасные места для поиска низкоуровневых артефактов. \n На нём также полно фотографий с его времён в Зоне, некоторые из них с его другом Федькой... \n Среди удалённых файлов есть запись... Она гласит: “Это Колян. Он виновен в моей смерти.” Кто же это, чёрт возьми? Надо решить, что делать с этим КПК — на нём ценная информация. Федька тоже заслуживает это увидеть.</text>
+		<text>КПК Шурупа... Давай посмотрим, что на нём. Кажется, он немного исследовал самые безопасные места для поиска низкоуровневых артефактов. \n На нём также полно фотографий с его времён в Зоне, некоторые из них с его другом Федькой... \n Среди удалённых файлов есть запись... Она гласит: «Это Колян. Он виновен в моей смерти.» Кто же это, чёрт возьми? Надо решить, что делать с этим КПК — на нём ценная информация. Федька тоже заслуживает это увидеть.</text>
 	</string>
 	<string id="esc_item_nota_nox_a">
-		<text></text>
+		<text>Я нашёл записку в тайнике... В ней написано: «Если ты это читаешь, твои мечты верно тебя направляют.\n Твоя психическая чувствительность выше среднего; и поэтому ты смог найти это место раньше других. \n Здесь ты найдёшь всё нужное: первый ключ — артефакт, что срезонирует с тобой и направит к четырём другим.» Что?</text>
 	</string>
 	<string id="esc_item_nota_nox_b">
-		<text></text>
+		<text>«Вместе они пять откроют тебе силу, превосходящую все границы... Но ты ещё не готов её понять. По мере твоего продвижения, занавес между твоим разумом и тем, что обитает над Зоной, станет тоньше. И тогда я смогу показать тебе больше. Следуй пульсу. И не останавливайся, — Нокс». Однако тут нет артефакта. Нужно копать глубже — кто-то добрался сюда раньше меня.</text>
 	</string>
 	<string id="esc_item_pda_centinela">
 		<text>Этот КПК принадлежит некому «Часовому». Тут есть несколько записей : «Рана на моей ноге начинает гноиться, придётся брать деньги в долг ддя покупки антибиотиков.» Ух, бедняга... Есть ещё запись несколькими днями позже. «Есть тут эдакий тип, Атрей. Непонятно откуда взялся, и говорит, что может дать мне так нужные деньги, если я сопровожу его на болота. Конечно, я согласился, хоть из—за боли мне и приходиться хромать — это лучше, чем потерять свою грёбаную ногу.» История с плачевным финалом... Это объясняет прихрамывание погибшего.</text>
 	</string>
 	<string id="esc_item_nota_hook_1">
-		<text>Старый лист бумаги, покрытый записями нескольких человек. Последние из них звучат так: «Esta es mi chimenea. Mi escondite, por favor no robar mas cosas. Los stalkers me respetan, no voy a cambiar de escondite, voy a seguir usando este lugar y si descubro quien fue el ladron, le voy a meter un tiro... \n Abajo parece haber una lista: \n Un vodka para la radiacion y las noches largas. \n Dos vendas por los golpes de Dante... Parece que no guardaron muchas cosas en el escondite esta vez.</text>
+		<text>Старый лист бумаги, покрытый записями нескольких человек. Последние из них звучат так: «Не смог пробраться. Их было слишком много, и шли они со всех сторон — кажется, их огромное множество направляется на юг. И все с недавно промытыми мозгами. Моя пушка в конец износилась, оставляю её в тайнике на починку. Данте, мне понадобится твоя синяя изолента — типа «хоть жопу латай». Взамен оставляю немного припасов.» Ответ написан ниже аккуратным почерком: «Вернулся из Леса в плачевном состоянии. Беру оставленные тобой припасы, а также винтарь — починю на верстаке на кладбище. Танк попросил оставить запасное оружие, положу их в ящик #13, что над туннелем в Тёмную Лощину. Ещё оставляю трохи таблеток — на всякий случай. До следующего раза. — Данте». Значит, у нас есть Данте... и ещё один сталкер.</text>
 	</string>
 	<string id="esc_item_nota_hook_2">
-		<text>Otro papel maltratado, dice con letra desprolija e iracunda: Guardo unas medicinas. Estuve preguntando si alguien sabe quien me robo las cosas anteriores y averigue quien sos. Si te veo, TE MATO... \n Uf, Espero no meterme en problemas.</text>
+		<text>Другой потрёпанный кусок бумаги, что, наверняка, побывал в руках у многих. Последние записи: «Крюк, Танк, Верас, я видел, как новичок пытался обобрать наш схрон. Вероятно, из-за смены сезонов его стало легче подметить. Перемещаю всё в тайник #7 и забрасываю этот. Оставляю один из ключей. Берегите себя.» Под ней начиркано курсивом: «Чёрт побери, Данте... Всё время играешь в хованки, перемещаешь схрон из одного места в другое, как будто у нас есть время на эти поиски. Я оставил тут очень важный магазин — а теперь он исчез. Карту с местами всех тайников потерял. Я понятия не имею, который из них #7 — это тот, что в буханке на мосту через Припять? Или тот, что в Тёмной Лощине? Заебал, мужик... Клянусь, я тебе пару зубов выбью при встрече.» Последнее сообщение на подписано. Но теперь у нас есть больше имён: Данте, Крюк, Верас и Танк.</text>
 	</string>
 	<string id="esc_item_nota_hook_3">
-		<text>Este papel esta mas cuidado, con letra diferente a la de Hook. alguien escribio: Amigo, soy Dante. No encontre las cosas que querias dejarme, asumo que nos robaron. Pregunte al viejo y me dijo que nos robo un tal Tokha. Te dejo la mira que me pediste la ultima vez, cuidate... Parece que varias personas usan este escondite.</text>
+		<text>Свёрнутый комок бумаги. Если его развернуть, можно прочесть: «Видел на Кордоне бывших чистонебовцев. Они что-то задумали? Не смог остаться и проследить, поэтому оставляю это предупреждение, чтобы вас это не удивило. Танк, большое спасибо за артефакт — с ним тоскать грузы в разы легче. Взамен оставил немного полезностей. Берегите себя, и увидимся в Баре.» Ниже, уже другим почерком: «Парни, силы Монолита добрались до Кордона и перекрыли Север. Похоже, Долг пытается сдержать их, однако их количество очень велико. Я не думаю, что они долго продержаться, поэтому пойду через болота. Постараюсь оставить инфу на насосной станции, наверху — вы знаете где. Будьте осторожны... Слышал, они прикончили торговца Марка на днях.» Дам... Ситуация идёт под откос.</text>
 	</string>
 	<string id="esc_item_nota_hook_4">
-		<text>Otro papel maltratado de nuevo. Esta debe ser la letra de Hook. Esta vez escribio: Parece que indagaste mas de lo que debias. Te dejo instrucciones para que arreglemos esto de una vez y dejes de robarme, hijo de puta. \n Ahora mismo estoy de viaje por el Norte, pero si ves al tabernero, preguntale donde buscar a hook. \n Firma tu peor enemigo: Hook Socorrista. \n PD: Dante, si lees esto no te enojes, no estoy buscando problemas con nadie. Ahora estoy camino al Norte mediante Darkscape, seguro tome lo que dejaste en el escondite tras la gasolinera, nos vemos en yantar, amigo... ЎMierda! al final si me meti en problemas con Hook... Tengo que poner las cosas bien en claro.</text>
+		<text>Сообщения, накаляканные на салфетке: «Мужики, я ходил на болота разузнать о ситуации с Чистым Небом. Кажется, они собираются восстановить группировку... Их немного, но они хорошо вооружены, и я замечал, как они продвигаются на север ночью. Днём они скрытничают, вероятно, в целях избежания проблем с вояками. Мне придётся пройти через Тёмную Лощину. Надеюсь, мою магазин всё ещё в камнях за заправкой... Или у кого-то будут проблемы :) П.С. Забрал все припасы. Только ключ Данте оставил, чтобы он не возмущался.» Выходит, у этого мужика всё ещё пунктик насчёт магазинов... Стоит проверить следующий тайник.</text>
 	</string>
 	<string id="esc_item_nota_hook_5">
-		<text>A slightly more carefully handled piece of paper than the others, written neatly and with patience: "Dante, Hook a€” I ran into Tank and we headed toward the Hospital together. Hope to see you at the bar! Miss you guys. —Vera" Another, much messier handwriting adds: "YOU BETTER BRING MY MAGAZINES TO THE BAR, GOT IT? VERA WANTS TO SEE YOU. Ia€™LL BE WAITING THERE. Ia€™LL LEAVE SUPPLIES ON TOP OF THE VALLEY BRIDGE a€” BUT KNOW Ia€™M DOING IT VERY PISSED OFF. a€” TANKATHLETE, THE BEST STALKER IN THE ZONE" Well... looks like he never got his magazines. Poor Tank.</text>
+		<text>Кусок бумаги в немного лучшем состоянии, чем прошлые. Исписан он аккуратно и с терпением: «Данте, Крюк, я наткнулся на Танка — и мы вместе направились к Госпиталю. Надеюсь повстречать вас в Баре! Соскучился. — Верас» Далее другой более карявый почерк: «ТЕБЕ ЛУЧШЕ ПРИНЕСТИ МАГАЗИНЫ В БАР, ПОНЯЛ? ВЕРАС ХОЧЕТ С ТОБОЙ УВИДИТЬСЯ. И Я БУДУ ТАМ ЖДАТЬ. Я ОСТАВЛЯЮ ПРИПАСЫ СВЕРХУ НАД МОСТОМ ДОЛИНЫ, НО ЗНАЙ, Я ЭТО ДЕЛАЮ В УЖАСНОМ НАСТРОЕНИИ. — ТАНКАТЛЕТ, ЛУЧШИЙ СТАЛКЕР В ЗОНЕ.» Дааа... Походу, он так и не получил свои магазины. Бедный Танк.</text>
 	</string>
 	<string id="esc_item_nota_hook_6">
-		<text>A note scribbled on a diet sausage wrapper... It reads: "I fixed the rifle, Hook. But I cana€™t leave it herea€”the Valleya€™s too hot right now. You know how it is... Ia€™ll stash it at the Truck Cemetery. Ia€™m leaving the treasure hunter to help you find it, since our old stash there got wrecked by mutants. You know how it works. a€” Dante" Could this be the rifle they mentioned in the first note? I need to find it.</text>
+		<text>Сообщение на обёртке от диетической колбасы... Оно звучит: «Я починил винтовку, Крюк. Но я не могу её здесь оставить — в Долине сейчас слишком жарко. Ты сам понимаешь... Я положу её в схрон на Кладбище Техники. Оставляю искатель сокровищ в помощь, так как прошлый схрон разворотили мутанты. Вы знаете, как он работает. — Данте.» Та ли это винтовка, что упоминали в прошлой переписке? Мне нужно её отыскать.</text>
 	</string>
 	<string id="esc_item_nota_hook_7">
-		<text>Another note, this one written in a hurry. The message is short: "I checked with the Doctor about the artifacts. The PSI—manipulation one is with Letoa€”seems he doesna€™t really know how to use it, and Monolith is tracking him. The regeneration one is with someone named Kolyan. I dona€™t know him, but he sounds like a bandit with some serious pull. That leaves us with two more to find, not counting ours. Ia€™ll see you at the Hospitala€”leta€™s hope your lead checks out, Hook. a€” Dante" Signed by Dante... I need to track these guys down.</text>
+		<text>Другая записка, сделанная на скорую руку. Сообщение короткое: «Я узнал у Доктора по поводу артефактов. Тот, что с пси-манипуляцией, у Лета, и, кажется, он толком и не понимает, как его использовать, а его преследует Монолит. С регенеративными способностями у типа по прозвищу Колян. Не знаю его, но, походу, он весьма матёрый бандит. Выходит, остаётся найти ещё два артефакта, не считая нашего. Увидимся в Госпитале — будем надеяться, что твоя наводка верна, Крюк. — Данте". Подписано Данте... Необходимо выследить этих парней.</text>
 	</string>
 	<string id="esc_item_nota_leto">
-		<text>Una letra prolija y caligrafica escribe: ЎPaso de nuevo! ЎPero esta vez me adelante! Pude robar sus cosas antes de que se entere siquiera, tremendo estupido. Es increible que sigan creyendome cada vez que me cambio la mascara de gas, los stalkers son cada vez mas descuidados estos dias... \n Debajo de la nota hay una cara enojada >:( escrito de forma desprolija, que no cuadra con la caligrafia calmada de antes їSera de otra persona?</text>
+		<text>Аккуратным, почти каллиграфическим почерком написано: Я снова справился! Но в этот раз я его обогнал! Утянул его вещи до того, как он успел заметить — что за полнейший дурачина. Не верится, что они попадаются на это каждый раз, как я меняю противогаз... Сталкеры тупеют с каждым днём.» Под записью намазюкано злое лицо: >:(. Уже почерком, не очень похожим, на тот, что был выше... Это был кто-то иной?</text>
 	</string>
 	<string id="esc_item_pda_mago">
-		<text>La PDA de Mago... Esta bloqueada, solo se puede ver que ha recibido mensajes recientes de los siguientes contactos: Leto, Dientes, Kolyan, Sultan, Clave, Borov, Tabernero... Parece que tenнa contactos importantes. Se la tengo que llegar a Wolf.</text>
+		<text>КПК Мага... Заблокировано, только доступны недавние сообщения от следующих контактов: Лето, Зубы, Колян, Султан, Ключ, Боров, Бармен... Похоже, у него были важные связи. Отнесу это Волку.</text>
 	</string>
 	<string id="esc_item_nota_mago">
-		<text>Una nota en un papel nuevo, bastante cuidado para la zona... Dice: Escucha, Mago. Tuve que mandar a estos perejiles a que acampen cerca tuyo. Les pedн que te esperen y tienen instrucciones de unirse a tu causa cuando estйs listo para ejecutar el plan. Deberнan ser 9 bandidos, si llegaron menos preguntales que mierda pasу. No quiero que ninguno se esconda en el Cordуn o vamos a llamar la atenciуn. \n —Pirata</text>  <!——без голоса——>
+		<text>Записка на чистом листе бумаги, необычно чистом для условий Зоны... Она гласит: «Слушай, Маг. Мне пришлось отправить парочку из идиотов в лагерь у твоей позиции. Я приказал им ждать тебя, а при встрече помочь осуществить твой план. Пацанов должно быть ровно девять; если их будет меньше, спроси что случилось. Не хочу их отправлять шкериться на Кордон, а то мы привлечём внимание. — Пират»</text>  <!——без голоса——>
 	</string>
 	<string id="esc_item_foto_viper">
-		<text>En la foto se ve a dos personas con trajes de camuflaje celeste y blanco... Nunca vi ese traje en la zona. Estan posando para una foto juntos y haciendo senas con los dedos. Parecen buenos amigos... El de la derecha me suena familiar."</text>
+		<text>На фотографии два человека в голубом и белым комуфляжных костюмах... Никогда ещё не видел в Зоне такую броню. Они позируют вместе, показывая руками жесты. Выглядят как хорошие друзья... Тот, что правее, кажется знакомым.</text>
 	</string>
 	<string id="esc_item_arma_dogo">
 		<text>Надо отнести это Догу...</text>
@@ -276,7 +276,7 @@
 		<text>Всеведущий молвил это сто тысяч раз: ожидай на этих координатах до явления еретика. Уже как шесть дней я исполняю волю Монолита.</text>
 	</string>
 	<string id="esc_item_pda_zombie_boss">
-		<text>Le seguimos el rastro a un Stalker que pasу corriendo herido, vimos que parу en el tъnel a tomar aire. Vamos a acercarnos... \n Los chicos se estбn volviendo locos... el Stalker de chaqueta amarilla nos hizo unos gestos con las manos y todo se fue a la mierda... Tuve que dispararles, me estaban atacando. \n Mi cabeza va a explotar... Estoy viendo doble y con colores extraсos... Todo se ve rojo por momentos, y azul por otros... Si alguien encuentra esta PDA que se la haga llegar a Cold, por favor.</text>
+		<text>Мы выследили раненого сталкера, что пробегал мимо нас. Видели, как он остановился в туннеле перевести дух. Мы выдвигаемся... Парни сходят с ума... Сталкер в жёлтой куртке сделал какой-то жест рукой — и всё пошло к чёртям... Мне пришлось их упокоить, они на меня нападали. Ещё немного — и моя голова взорвётся... В глазах двоится, цвета стали ненормальными... Иногда всё становится красным, а затем синим... Если кто найдёт этот КПК, то, пожалуйста, отнеси его Холоду.</text>
 	</string>
 	<string id="esc_frecuencias_reunion_fanatico_0">
 		<text>Так, мы на месте. Забирайся наверх через это окно — прикроешь меня с крыши если что.</text>
@@ -303,7 +303,7 @@
 		<text>Ровер, Сэлко — за вами чувак на крыше! Остальные, окружайте лысого!</text>
 	</string>
 	<string id="esc_frecuencias_reunion_fanatico_8">
-		<text>Well... looks like I got sold out. Guess I put too much faith in military a€?goodwilla€? Come here, son. Leta€™s talk before we head back to base.</text>
+		<text>Похоже, меня сдали... Наверное, я слишком поверил в «добросовестность» военных? Подойди, сынок. Нужно поговрить перед возвращением на базу.</text>
 	</string>
 	<string id="esc_frecuencias_infiltracion_fanatico_0">
 		<text>Я знаю, что ты мастер скрытности — не буду докучать разъяснениями. Направляйся к забору и далеко от него не отходи по пути, чтобы не напороться на мину. Впереди ты увидишь поваленное дерево — это твой путь внутрь.</text>
@@ -315,10 +315,10 @@
 		<text>Отлично. Перелезай через дерево. А я останусь тут на стрёме.</text>
 	</string>
 	<string id="esc_frecuencias_infiltracion_fanatico_3">
-		<text>I see three of them on patrol a€” not too many. Onea€™s moving back and forth between the office and the drop—off point for the documents. Anothera€™s patrolling the parking lot near the barracks. The last onea€™s walking the street... Youa€™ll need to go up the stairs and leave the documents on the desk a€” without being seen.</text>
+		<text>Я вижу троицу на патруле — не очень много. Один ходит туда-сюда между офисом и точкой сброса документов. Второй патрулирует парковку у казармы. Последний гуляет на улице... Тебе надо будет подняться по ступенькам и оставить документы на столе и не быть при этом замеченным.</text>
 	</string>
 	<string id="esc_frecuencias_infiltracion_fanatico_4">
-		<text>Perfect. Wait for an opening, then head back the way you came. You can climb onto the roof to get over the fence.</text>
+		<text>Замечательно. Жди подходящего момента, а потом возвращайся тем же путём, как и пришёл. Ты можешь забраться на крышу и там перемахнуть через забор.</text>
 	</string>
 	<string id="esc_fanatico_logro_msg_0">
 		<text>Сынок, у меня хорошие новости. Зайди ко мне перед уходом.</text>
@@ -771,7 +771,7 @@
 		<text>Так точно, капитан! Перемещаюсь к двери!</text>
 	</string>
 	<string id="dar_trodnik_msg_3">
-		<text>КПК с голосовым сообщением. Я проиграю его: "Leto usу algъn tipo de truco y se soltу. Noqueу a los chicos con un solo movimiento de su mano ЎNi siquiera nos tocу! Al final, tenнas razуn con tu teorнa. Solo estoy consciente por el casco que llevo... Tomen bloqueadores antes de acercarse.\n Saquennos de esta miseria."</text>
+		<text>КПК с голосовым сообщением. Я проиграю его: «Лето провернул некий трюк и освободился. Одним движением руки вырубил парней — даже не коснувшись! Твоя гипотеза была верна. Я ещё в сознании только благодаря этому шлему... Прими пси-блокаду перед ближением.\n Спаси нас из этого ада.»</text>
 	</string>
 	<string id="dar_viper_msg_11">
 		<text>Хорошо, это подтверждает мои слова, Виктор. Артефакт, что он носит с собой, позволяет ему манипулировать пси-полями, поэтому мы натыкались на этих зомби не один раз. И у меня есть ещё одно подозрение...</text>
@@ -889,7 +889,7 @@
 		<text>Пфффт (Смеётся)</text>
 	</string>
 	<string id="val_sid_msg_0">
-		<text>Me enterй que llegaron con vida al Valle Oscuro, y que necesitan hablar con Sultбn. Resulta que tenemos algunos intereses en comъn, y he arreglado para que te reciba si lo ayudas con un pequeсo asunto. Dile que vas de mi parte, Viktor ЎY a ver cuбndo te pasas por el bunker de nuevo! Tengo material nuevo...</text>
+		<text>Слышал, ты умудрился в целости добраться до Тёмной Долины, и сейчас желаешь встретиться с Султаном. Оказывается, у нас общие интересы, поэтому я договорился о твоём визите, Виктор. Но только при условии, что выполнишь для него небольшое поручение. Скажи ему, что от меня. И загляни в бункер, как получится. У меня новая снаряга...</text>
 	</string>
 	<string id="val_bandido_on_viktor_0">
 		<text>Сейчас я выгляжу как бандит.</text>
@@ -967,231 +967,231 @@
 	</string>
 	
 	<string id="val_kashalot_recruit_dialog_0">
-		<text>Putos novatos creнdos. Se piensan que uno va a hacer lo que quieren. Te voy a acompaсar, chico. De hecho, tu me vas a acompaсar a mi. Guнa el camino y yo guнo a mi gente.</text>
+		<text>Дерзкие новички... Решили, что народ будет выполнять их приказы. Я составлю тебе компанию, парень. Точнее, ты составишь мне компанию. Ты ведёшь меня, а я веду своих людей.</text>
 	</string>
 	<string id="val_viktor_recruit_dialog_1">
 		<text>Как хочешь. Пошли.</text>
 	</string>
 	<string id="val_kashalot_recruit_dialog_2">
-		<text>Chicos, nos reunimos en la entrada del cementerio de camiones. Tomaremos lo que nos corresponde.</text>
+		<text>Всё, пацаны, собираемся у входа на Кладбище Техники. Мы вернём отобранное у нас.</text>
 	</string>
 	
 	<string id="trc_inc_kashalot_0">
-		<text>Bien їEstamos todos? Te hablo a ti, Chatarra. Siempre llegando tarde.</text>
+		<text>Отлично. Здесь все? Я обращаюсь к тебе, Мусор, — всегда опаздываешь.</text>
 	</string>
 	<string id="trc_inc_bandido_1">
-		<text>Si, estoy aquн. Lleguй temprano esta vez.</text>
+		<text>Да, я тут. В этот раз раньше.</text>
 	</string>
 	<string id="trc_inc_kashalot_2">
-		<text>Tenemos refuerzos de parte de Kolyan, asн que no me hagan pasar vergьenza, manga de inъtiles. Vamos a limpiar el бrea y a recuperar el puesto de avanzada donde mataron a los nuestros.</text>
+		<text>У нас подкрепление от Коляна, так что не подведите, кучка идиотов. Мы зачищаем местность и отбиваем аванпост, где они наших порешили.</text>
 	</string>
 	<string id="trc_inc_bandido_3">
-		<text>(Entusiasmados)</text>
+		<text>(Восторженные перешёптывания)</text>
 	</string>
 	<string id="trc_inc_kashalot_4">
-		<text>Yo invito las rondas despuйs. Solo a los que sobrevivan. Jejeje, pero primero hay que ir al punto a capturar.</text>
+		<text>После всем будет бухло за мой счёт. Но только для тех, кто вернётся. Хехехе, сначала займём точку.</text>
 	</string>
 	
 	<string id="trc_inc_smart_1_kashalot_0">
-		<text>ЎLos veo! ЎTomen posiciуn y apoyen firmes los jodidos pies!</text>
+		<text>Я вижу их! Все по позициям — шевелите задницы!</text>
 	</string>
 	<string id="trc_inc_smart_1_viktor_1">
-		<text>ЎOjo que son varios!</text>
+		<text>Берегитесь, их целая толпа!</text>
 	</string>
 	<string id="trc_inc_smart_1_kashalot_2">
-		<text>Fбcil їAlguna baja? Meh, no importa. Sigamos los que estamos.</text>
+		<text>Легкотня. Есть потери? Тьфу... Какая разница. Продолжаем двигаться.</text>
 	</string>
 	<string id="trc_inc_smart_1_bandido_3">
-		<text>їHay premio para los que llevemos mбs bajas?</text>
+		<text>Будет ли приз за наибольшее количество убийств?</text>
 	</string>
 	<string id="trc_inc_smart_1_kashalot_4">
-		<text>Obvio. Pero voy a ser yo, o quizбs este que nos mandу Kolyan. Lo veo bueno.</text>
+		<text>А как же без него? Победителем буду я или тот чувак, что Колян подослал. Он выглядит крепким.</text>
 	</string>
 	<string id="trc_inc_smart_1_viktor_5">
-		<text>їCuбl serнa el premio?</text>
+		<text>А что за приз?</text>
 	</string>
 	<string id="trc_inc_smart_1_kashalot_6">
-		<text>Naturalmente, MI PUTA SCAR. Pasado maсana me llega una escopeta que quiero hace bastante.</text>
+		<text>Естественно, мой грёбаный SCAR. Послезавтра я наконец-то заполучу дробовик, что так давно хотел.</text>
 	</string>
 	<string id="trc_inc_smart_1_bandido_7">
-		<text>(Sapucay)</text>
+		<text>(Бандиты аплодируют)</text>
 	</string>
 	<string id="trc_inc_smart_2_kashalot_0">
-		<text>Suelten las botellas, ya casi llegamos ЎEsta vez son mбs!</text>
+		<text>Всем опустить бутылки — мы почти на месте! На этот раз их ещё больше!</text>
 	</string>
 	<string id="trc_inc_smart_2_kashalot_1">
-		<text>Uf. Necesito un jodido trago. Acuerdense que yo invito luego ЎNo mueran!</text>
+		<text>Чёрт... Мне нужно выпить. Не забывайте, ребята, выпивка потом за мной будет! Не подыхать!</text>
 	</string>
 	<string id="trc_inc_smart_2_kashalot_2">
-		<text>Queda un solo punto ЎSiganme los buenos!</text>
+		<text>Осталась последняя точка. Кто не зассал, следуйте за мной!</text>
 	</string>
 	<string id="trc_inc_smart_3_kashalot_0">
-		<text>ЎAhora vamos por nuestros colegas! A ver si encontramos su botнn luego de limpiar estos putos cultistas ЎJA!</text>
+		<text>А это за наших парней! Может, ещё найдём их вещички после того, как размажем этих поганых культистов! Хахаха!</text>
 	</string>
 	<string id="trc_inc_smart_3_kashalot_1">
-		<text>ЎVienen mбs a las 9 en punto! ЎAguanten, maricas!</text>
+		<text>Вражеское подкрепление на девять часов! Держать позицию!</text>
 	</string>
 	<string id="trc_inc_smart_3_kashalot_2">
-		<text>Bueno, vamos a sentarnos un rato. El puesto es nuestro de todas maneras. їTu nombre era Viktor, verdad? Ven, charlemos un poco.</text>
+		<text>Ладно, передохнём чутка. Аванпост всё равно уже наш. Тебя ж Виктором кличут, не так ли? Подходи, поболтаем.</text>
 	</string>
 	<string id="trc_inc_smart_3_viktor_3">
-		<text>Bien, ya voy.</text>
+		<text>Хорошо, уже иду.</text>
 	</string>
 	<string id="trc_inc_smart_3_kashalot_4">
-		<text>Te veo con hambre de revisar esos cuerpos. Adelante. luego charlamos.</text>
+		<text>Вижу, тебе не терпится обыскать те тела. Валяй, поговорим после.</text>
 	</string>
 	<string id="trc_inc_smart_3_viktor_5">
-		<text>(Risas por lo bajo)</text>
+		<text>(Тихое хихиканье)</text>
 	</string>
 	
 	<string id="trc_kashalot_hurt_1">
-		<text>(Herido)</text>
+		<text>(Ранен)</text>
 	</string>
 	<string id="trc_kashalot_hurt_2">
-		<text>(Herido) Otra cicatriz mбs...</text>
+		<text>(Ранен) Ещё один шрам...</text>
 	</string>
 	<string id="trc_kashalot_hurt_3">
-		<text>(Herido) Pongo la otra mejilla. Denme otro disparo los que se atrevan...</text>
+		<text>(Ранен) Я вам сейчас вторую ягодицу подставлю. Давайте, стреляйте, коль кишка не тонка!</text>
 	</string>
 	<string id="trc_kashalot_hurt_4">
-		<text>(Herido) ЎMierda!</text>
+		<text>(Ранен) Дерьмо!</text>
 	</string>
 	<string id="trc_kashalot_hurt_5">
-		<text>(Herido) Maldita sea. Mi brazo...</text>
+		<text>(Ранен) Сука... Моя рука...</text>
 	</string>
 	<string id="trc_kashalot_bandits_dead_0">
-		<text>Inъtiles. Solo quedamos tu y yo, Viktor. Siempre he dicho que si quieres que algo salga bien, debes hacerlo tu mismo.</text>
+		<text>Имбицилы. Теперь остались только мы с тобой, Виктор. Я всегда говорил: если хочешь что сделать правильно, сделай это сам.</text>
 	</string>
 	
 	<string id="val_viktor_leto_0">
-		<text>Ahora si, hijo de puta. Te tengo donde querнa...</text>
+		<text>А сейчас... сукин ты сын. Ты прямо там, где я и хотел...</text>
 	</string>
 	<string id="val_viktor_leto_1">
-		<text>Monolitos muertos... їSerбn los que seguнan a Atreo?</text>
+		<text>Мёртвые монолитовцы... Случаем, не те ли, что преследовали Атрея?</text>
 	</string>
 	<string id="val_viktor_leto_2">
-		<text>Mas cuerpos... Debe estar cerca.</text>
+		<text>Ещё больше трупов... Он должен быть рядом.</text>
 	</string>
 
 	<string id="labx18_entrada_leto_0">
-		<text>Asн que me encontraste... Te recomiendo que vuelvas por donde viniste.</text>
+		<text>Ты всё равно меня нашёл... Советую вернуться обратно, пока не стало поздно.</text>
 	</string>
 	<string id="labx18_entrada_viktor_1">
-		<text>No me voy a ningъn lado.</text>
+		<text>Никуда я не пойду. У меня есть с тобой незаконченное дело.</text>
 	</string>
 	<string id="labx18_entrada_leto_2">
-		<text>(Risas)</text>
+		<text>(Маниакальный смех)</text>
 	</string>
 	<string id="labx18_entrada_viktor_3">
-		<text>їЎEH, quй pasa!?</text>
+		<text>Что за пиздец здесь происходит!?</text>
 	</string>
 	<string id="labx18_entrada_leto_4">
-		<text>Estoy muy ocupado ahora. No me molestes.</text>
+		<text>Я сейчас очень занят, занят я. Не мешай!</text>
 	</string>
 	<string id="labx18_fake_2_viktor_0">
-		<text>ЎBasta de trucos! ЎDa la cara, Cagуn!</text>
+		<text>Хватит грёбаных трюков! Покажись, ублюдок!</text>
 	</string>
 	<string id="labx18_fake_2_atreo_1">
-		<text>Me parece que no estбs entendiendo lo que buscas. Este artefacto solo te va a traer problemas ЎMuchos problemas! Mejor dejamelo a mн...</text>
+		<text>Ты не понимаешь, что преследуешь. Не понимаешь! Этот артефакт принесёт тебе только проблемы, большие проблемы! Лучше оставь его мне, оставь...</text>
 	</string>
 	<string id="labx18_fake_3_atreo_0">
-		<text>їSabйs por quй tuve que huir del cordуn? ЎMe estaban siguiendo!</text>
+		<text>Ты знаешь, почему мне пришлось сбегать с Кордона? Не из-за тебя... За мной ОХОТИЛИСЬ!</text>
 	</string>
 	<string id="labx18_fake_3_viktor_1">
-		<text>Mбs vale que te iban a seguir. Le robaste a todo el mundo.</text>
+		<text>Конечно. Ты кого не глянь там обокрал.</text>
 	</string>
 	<string id="labx18_fake_3_atreo_2">
-		<text>(Risas) No tenйs idea de lo que estб pasando.</text>
+		<text>(Смех с издёвкой) Ты и малейшего понятия не имеешь, что происходит на самом деле. Не имеешь!</text>
 	</string>
 	<string id="labx18_fake_3_viktor_3">
-		<text>No importa. Te voy a encontrar...</text>
+		<text>Да мне похуй. Я всё равно тебя отыщу, урод...</text>
 	</string>
 	<string id="labx18_fake_espejo_viktor_0">
-		<text>ЎDeja de esconderte, cagуn!</text>
+		<text>Хватит прятаться, кусок труса!</text>
 	</string>
 	<string id="labx18_fake_espejo_atreo_1">
-		<text>Que curioso. Esconderme es imposible a esta altura. Y no lo digo por vos...</text>
+		<text>Как любопытно, интересно, забавно!.. Прятаться теперь бесполезно. И я не имею в виду тебя...</text>
 	</string>
 	<string id="labx18_puerta_primera_atreo_0">
-		<text>Que terco que sos. No parece que vayas a frenar en ningъn momento.</text>
+		<text>Назойливый ты. И вижу, не собираешься останавливаться в ближайшее время... Не видишь, насколько я занят!?</text>
 	</string>
 	<string id="labx18_puerta_primera_viktor_1">
-		<text>ЎBasta de trucos! ЎDejб de intentar entrar en mi cabeza! ЎDAME EL ARTEFACTO!</text>
+		<text>Задолбал уже мне в голову лезть! Хватит мне мозги промывать! ВЕРНИ МНЕ АРТЕФАКТ!</text>
 	</string>
 	<string id="labx18_puerta_primera_atreo_2">
-		<text>Empiezo a entender por quй fuiste elegido. Ademas de ser un cabeza dura, tu resistencia a emisiones psi es muy alta... Ya no puedo sostener la puerta.</text>
+		<text>Я начинаю понимать, почему ты... Ты был избран. Ты не только упрям как осёл, так и твоя устойчивость к пси-выбросам заметно высока... Я не смогу удерживать дверь ещё дольше.</text>
 	</string>
 	<string id="labx18_segundo_nivel_viktor_0">
-		<text>їЎDуnde estбs!?</text>
+		<text>Где ты!?</text>
 	</string>
 	<string id="labx18_segundo_nivel_atreo_1">
-		<text>No voy a salir tan fбcil. Me vas a tener que buscar y cuando me encuentres va a ser muy tarde.</text>
+		<text>Не выйду я просто так, НЕ ВЫЙДУ! Тебе придётся меня поискать, хорошенько поискать — а когда найдёшь, будет уже полностью, совершенно невозможно!</text>
 	</string>
 	<string id="labx18_segundo_nivel_viktor_2">
-		<text>No sй para quй estбs haciendo tiempo. Voy a encontrarte igual y ese artefacto va a ser mнo.</text>
+		<text>Я не знаю, зачем ты тянешь резину. Я в любом случае тебя отыщу — и артефакт будет моим.</text>
 	</string>
 	<string id="labx18_segundo_nivel_atreo_3">
-		<text>їEstбs seguro? Yo pensaba lo mismo, y otros tambiйn. No sos diferente a nosotros.</text>
+		<text>Уверен? Я думал так же... И другие тоже. Ты не отличаешься от нас.</text>
 	</string>
 	<string id="labx18_segundo_nivel_viktor_4">
-		<text>їЎDIFERENTE A QUIЙNES!?</text>
+		<text>Про каких других ты пургу мелешь!?</text>
 	</string>
 	<string id="labx18_segundo_nivel_atreo_5">
-		<text>(Смеётся)</text>
+		<text>(Жуткий смех)</text>
 	</string>
 	<string id="labx18_boss_atreo_0">
-		<text>No pensй que fueses a llegar tan lejos. FALTANDO TAN POCO.</text>
+		<text>Не подозревал, что ты доберёшься до сюда... КОГДА УЖЕ ОСТАЛОСЬ СОВСЕМ ЧУТЬ-ЧУТЬ.</text>
 	</string>
 	<string id="labx18_boss_viktor_1">
-		<text>їЎTan poco para quй!?</text>
+		<text>До чего осталось чуть-чуть!?</text>
 	</string>
 	<string id="labx18_boss_atreo_2">
-		<text>ЎYA CASI! ЎTRES MINUTOS MБS!</text>
+		<text>ПОЧТИ, ПОЧТИ! ЕЩЁ ТРИ МИНУТЫ!</text>
 	</string>
 	<string id="labx18_boss_viktor_3">
-		<text>їЎTres minutos para quй!?</text>
+		<text>До чего три минуты!?</text>
 	</string>
 	<string id="labx18_boss_atreo_4">
 		<text>(Маниакальный смех)</text>
 	</string>
 	<string id="labx18_boss_atreo_5">
-		<text>(Risas) їQuй pasa? їNo te podйs mover?</text>
+		<text>(Смеётся) Что-то не так? Не можешь двигаться?</text>
 	</string>
 	<string id="labx18_boss_atreo_6">
-		<text>Sova... Desgraciada hija de puta. Debн matarte cuando pude.</text>
+		<text>Сова... Чёртов ублюдок. Надо было убить тебя при первой возможности.</text>
 	</string>
 	<string id="labx18_boss_viktor_7">
-		<text>їSova? їCon quiйn habla?</text>
+		<text>Сова? С кем он разговаривает?</text>
 	</string>
 	<string id="labx18_boss_atreo_8">
-		<text>Ozero ЎEspero que esa anomalнa te haya hecho arder hasta las cenizas!</text>
+		<text>Озеро! Надеюсь, та аномалия сожгла тебя до тла, до чёрных углей!</text>
 	</string>
 	<string id="labx18_boss_viktor_9">
-		<text>No sй quiйn esa gente. Estб loco... Habla solo.</text>
+		<text>Я понятия не имею, кто все эти люди. Он сошёл с ума... Болтает сам с собой.</text>
 	</string>
 	<string id="labx18_boss_atreo_10">
-		<text>ЎCALLATE, NO ME DEJБS CONCENTRAR!</text>
+		<text>ЗАТКНИСЬ, ТЫ МЕШАЕШЬ МНЕ СКОНЦЕНТРИРОВАТЬСЯ!</text>
 	</string>
 	<string id="labx18_boss_atreo_11">
-		<text>ЎNox! Me arruinaste la vida, hijo de puta. Espero que no puedas caminar entre los vivos nunca mбs.</text>
+		<text>Нокс! Ты мне жизнь сломал, подонок, ублюдок, тварь, сукин сын! Надеюсь, что ты больше никогда не побродишь среди живых.</text>
 	</string>
 	<string id="labx18_boss_viktor_12">
-		<text>їЎNox!? їQuй sabes de Nox?</text>
+		<text>Нокс!? Что ты знаешь про Нокса?</text>
 	</string>
 	<string id="labx18_boss_atreo_13">
-		<text>ЎSe van a arrepentir! ЎTodos se van a arrepentir!</text>
+		<text>Вы пожалеете об этом, пожалеете! Все вы пожалеете!</text>
 	</string>
 	<string id="labx18_boss_atreo_14">
-		<text>No puede ser... Me rechazу їY ahora quй hago?</text>
+		<text>Этого не может быть... Оно отвергло меня. Что, что теперь?</text>
 	</string>
 	<string id="labx18_boss_viktor_15">
-		<text>Ahora me vas a pagar. Eso vas a hacer...</text>
+		<text>Сейчас ты мне за всё заплатишь. Вот что...</text>
 	</string>
 
 	<string id="val_vuelta_cabo_0">
-		<text>Viktor. A man came asking for youa€”says he wants an artifact. Calls himself Kolyan. Hea€™s waiting for you...</text>
+		<text>Витя, мужик к нам заходил в поисках тебя, говорил, что хочет артефакт. Назвался Коляном. Он ждёт тебя...</text>
 	</string>
 	<string id="val_vuelta_cabo_1">
-		<text>Hea€™s armed.</text>
+		<text>Он вооружён.</text>
 	</string>
 </string_table>
