@@ -3,25 +3,25 @@
 
 	<!-- PDA -->
 	<string id="pda_btn_encyclopedia">
-		<text>Guía</text>
+		<text>Guide</text>
 	</string>
 	
 	<string id="pda_btn_encyclopedia_hint">
-		<text>Mostrar el manual de usuario</text>
+		<text>Show user's manual</text>
 	</string>
 	
 	<string id="pda_btn_encyclopedia_title">
-		<text>Guía de la Zona</text>
+		<text>Zone's guide</text>
 	</string>
 	
 	<string id="pda_btn_encyclopedia_notify">
-		<text>Artículo de guía desbloqueado</text>
+		<text>New guide entry unlocked</text>
 	</string>
 	
 	<string id="pda_btn_encyclopedia_locked">
 		<text>
-			Todavía no has desbloqueado este artículo\n
-			\nLos artículos se pueden desbloquear interactuando con objetos
+			You haven't unlocked this entry yet.\n
+			\nEntries can be unlocked by interacting with objects.
 		</text>
 	</string>
 	
