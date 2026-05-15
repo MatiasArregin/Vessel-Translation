@@ -2,64 +2,63 @@
 <string_table>
 	
 	<string id="encyclopedia_pda">
-		<text>PDA Encontrada</text>
+		<text>Found PDA</text>
 	</string>
 	
 	<string id="encyclopedia_pda_item_pda_buscador_artefactos">
-		<text>PDA del buscador de Artefactos</text>
+		<text>Artifact Hunterâ€™s PDA</text>
 	</string>
 	<string id="encyclopedia_pda_item_pda_buscador_artefactos_text">
 		<text>
-			%c[guide_blue] Archivos:%c[default] \n• Nota de voz - hace 8 días: "Los bandidos me tienen arruinado... Salis de una deuda para entrar en otra, pero hoy vi un artefacto parpadeando cerca de la anomalia que esta en la aldea de novatos. Es hora de salir de todas las deudas, es tu momento, chispita. Vos podes ¡Ninguna anomalia va a detenerte! (Ruidos de que cayo en la anomalia)"
+			%c[guide_blue] Files:%c[default] \nâ€¢ Voice note - 8 days ago: "The bandits have me completely screwed... You get out of one debt just to fall into another, but today I saw an artifact blinking near the anomaly in the rookie village. Time to wipe out all my debts, Sparkplug. This is your moment. You can do it! No anomaly's gonna stop you! (Sounds of sparkplug falling into the anomaly)"
 		</text>
 	</string>
 	<string id="encyclopedia_pda_item_pda_tornillo">
-		<text>PDA de Tornillo</text>
+		<text>Tornilloâ€™s PDA</text>
 	</string>
 	<string id="encyclopedia_pda_item_pda_tornillo_text">
 		<text>
-			%c[guide_blue] Archivos:%c[default] \n• Investigación Anomalías clase baja\n• Investigación Artefactos baratos\n• Artículo: Formas seguras de cazar artefactos\n• Artículo: Anomalías gravitatorias\n• Fotos varias de vivencias en la zona, algunas fotos con Cabo Fedya.
-			\n%c[guide_green] Archivos eliminados:%c[default] \n• Nota de texto: "Es Kolyan, el me mando a matar."
+			%c[guide_blue] Files:%c[default] \nâ€¢ Low-class Anomaly Research\nâ€¢ Cheap Artifact Research\nâ€¢ Article: Safe Ways to Hunt Artifacts\nâ€¢ Article: Gravitational Anomalies\nâ€¢ Various photos from life in the Zone, some pictures with Corporal Fedya. \n%c[guide_green] Deleted files:%c[default] \nâ€¢ Text note: "It was Kolyan. He sent them to kill me."
 		</text>
 	</string>
 	<string id="encyclopedia_pda_item_pda_centinela">
-		<text>PDA de Centinela</text>
+		<text>Sentinelâ€™s PDA</text>
 	</string>
 	<string id="encyclopedia_pda_item_pda_centinela_text">
 		<text>
-			%c[guide_blue] Archivos:%c[default] \n• Nota de texto - hace 8 días: “La herida de mi pierna se está infectando, necesito otro préstamo para pagar los putos antibióticos.”\n• Nota de texto - hace 5 días: “Esta este tipo, Atreo. Viene de la nada y dice que me puede dar el dinero que necesito si lo acompaño a los pantanos. Obviamente acepté, aunque cojee y duela, es mejor que perder la puta pierna.” \n•5
+		%c[guide_blue] Files:%c[default] \nâ€¢ Text note - 8 days ago: "The wound on my leg is getting infected. I need another loan to pay for the damn antibiotics."\nâ€¢ Text note - 5 days ago: "Thereâ€™s this guy, Atreus. Came out of nowhere saying he can get me the money I need if I go with him to the swamps. Of course I said yes. Even if I limp and it hurts like hell, itâ€™s better than losing my fucking leg."
 		</text>
 	</string>
 	<string id="encyclopedia_pda_item_pda_mago">
-		<text>PDA Andrés "Mago"</text>
+		<text>AndrÃ©s "Mage" PDA</text>
 	</string>
 	<string id="encyclopedia_pda_item_pda_mago_text">
 		<text>
-			%c[guide_blue] PDA Bloqueada:%c[default] \n%c[guide_green] Últimos mensajes recibidos:%c[default] \n• Leto 11 mensajes sin leer.\n• Dientes 2 mensajes sin leer.\n• Kolyan 1 mensaje sin leer.\n• Sultan 2 mensajes sin leer.\n• Clave 6 mensajes sin leer.\n• Borov 1 archivo multimedia sin abrir.\n• Tabernero 1 mensaje sin leer.
+			%c[guide_blue] PDA Locked:%c[default] \n%c[guide_green] Latest received messages:%c[default] \nâ€¢ Leto â€” 11 unread messages.\nâ€¢ Teeth â€” 2 unread messages.\nâ€¢ Kolyan â€” 1 unread message.\nâ€¢ Sultan â€” 2 unread messages.\nâ€¢ Klyuch â€” 6 unread messages.\nâ€¢ Borov â€” 1 unopened media file.\nâ€¢ Bartender â€” 1 unread message.
 		</text>
 	</string>
 	<string id="encyclopedia_pda_item_pda_monolito_cruz">
-		<text>PDA Monolito de la Cruz</text>
+		<text>Monolith of the Cross PDA</text>
 	</string>
 	<string id="encyclopedia_pda_item_pda_monolito_cruz_text">
 		<text>
-			%c[guide_blue] Archivos:%c[default] \n• Nota de voz - hace 2 días: El que todo lo sabe repitio cien mil veces que espere en estas coordenadas a que el hereje asome. Ya son 6 dias complaciendo los deseos del monolito.
+			%c[guide_blue] Files:%c[default] \nâ€¢ Voice note - 2 days ago: The One Who Knows All repeated a hundred thousand times that I should wait at these coordinates until the heretic reveals himself. It has already been 6 days fulfilling the wishes of the Monolith.
 		</text>
 	</string>
 	<string id="encyclopedia_pda_item_pda_zombie_boss">
-		<text>PDA del Stalker Zombificado</text>
+		<text>Zombified Stalker PDA</text>
 	</string>
 	<string id="encyclopedia_pda_item_pda_zombie_boss_text">
 		<text>
-			%c[guide_blue] Archivos:%c[default] \n• Nota de voz - hace 2 horas: Le seguimos el rastro a un Stalker que pasó corriendo herido, vimos que paró en el túnel a tomar aire. Vamos a acercarnos." \n• Nota de voz - hace 1 hora: Los chicos se están volviendo locos... el Stalker de chaqueta amarilla nos hizo unos gestos con las manos y todo se fue a la mierda... Tuve que dispararles, me estaban atacando. \n• Nota de voz - hace 1 hora: Mi cabeza va a explotar... Estoy viendo doble y con colores extraños... Todo se ve rojo por momentos, y azul por otros... Si alguien encuentra esta PDA que se la haga llegar a Cold, por favor.
+			%c[guide_blue] Files:%c[default] \nâ€¢ Voice note - 2 hours ago: We tracked a wounded Stalker who ran past us. Saw him stop in the tunnel to catch his breath. We're moving in." \nâ€¢ Voice note - 1 hour ago: The guys are going insane... the Stalker in the yellow jacket made some gestures with his hands and everything went to hell... I had to shoot them, they were attacking me. \nâ€¢ Voice note - 1 hour ago: My head is going to explode... I'm seeing double, and weird colors... Everything turns red sometimes, and blue other times... If anyone finds this PDA, please get it to Cold.
 		</text>
 	</string>
 	<string id="encyclopedia_pda_item_pda_trodnik">
-		<text>PDA de Trodnik</text>
+		<text>Trodnikâ€™s PDA</text>
 	</string>
 	<string id="encyclopedia_pda_item_pda_trodnik_text">
 		<text>
-			%c[guide_blue] Archivos:%c[default] \n• Nota de voz - hace 17 minutos: Leto usó algún tipo de truco y se soltó. Noqueó a los chicos con un solo movimiento de su mano ¡Ni siquiera nos tocó! Al final, tenías razón con tu teoría. Solo estoy consciente por el casco que llevo... Tomen bloqueadores antes de acercarse.\n Saquennos de esta miseria.
+			%c[guide_blue] Files:%c[default] \nâ€¢ Voice note - 17 minutes ago: Leto used some kind of trick and broke free. He knocked the guys out with a single wave of his hand! He didn't even touch them! In the end, your theory was right. I'm only still conscious because of the helmet I'm wearing... Take blockers before getting close.\n Get us out of this misery.
 		</text>
 	</string>
 	
