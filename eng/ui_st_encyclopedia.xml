@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="windows-1252" ?>
+<string_table>
+
+	<!-- PDA -->
+	<string id="pda_btn_encyclopedia">
+		<text>Guía</text>
+	</string>
+	
+	<string id="pda_btn_encyclopedia_hint">
+		<text>Mostrar el manual de usuario</text>
+	</string>
+	
+	<string id="pda_btn_encyclopedia_title">
+		<text>Guía de la Zona</text>
+	</string>
+	
+	<string id="pda_btn_encyclopedia_notify">
+		<text>Artículo de guía desbloqueado</text>
+	</string>
+	
+	<string id="pda_btn_encyclopedia_locked">
+		<text>
+			Todavía no has desbloqueado este artículo\n
+			\nLos artículos se pueden desbloquear interactuando con objetos
+		</text>
+	</string>
+	
+</string_table>
