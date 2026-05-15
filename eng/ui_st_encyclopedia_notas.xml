@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+	
+	<string id="encyclopedia_notas">
+		<text>Notas encontradas</text>
+	</string>
+	
+	<string id="encyclopedia_notas_primera_nota_nox">
+		<text>Primera nota de Nox</text>
+	</string>
+	<string id="encyclopedia_notas_primera_nota_nox_text">
+		<text>
+			%c[guide_blue] Nota:%c[default] \n• "Si estas leyendo esto, entonces tus sueños te guiaron bien.\n Tu sensibilidad psíquica es mayor de lo normal; por eso fuiste capaz de encontrar este lugar antes que los demas. \n Aquí hallaras lo que necesitas: la primera Llave, un artefacto que resonara contigo y te llevara hacia los otros cuatro. Juntos, los cinco revelaran un poder que trasciende cualquier limite... pero aun no estas listo para entenderlo. \n A medida que avances, el velo entre tu mente y lo que habita sobre la Zona se volvera mas delgado. Entonces podre mostrarte mas. \n\n Sigue el pulso. No te detengas." \n\n %c[guide_green]-Nox%c[default] \n\n En el escondite faltaba el artefacto que se menciona. Tengo que averiguar más...
+		</text>
+	</string>
+	<string id="encyclopedia_notas_primera_nota_hook">
+		<text>Nota Veteranos #1</text>
+	</string>
+	<string id="encyclopedia_notas_primera_nota_hook_text">
+		<text>
+			%c[guide_blue] Nota:%c[default] \n• Las últimas notas dicen: "No pude entrar. Había muchos y venían por todos lados, parece que estan marchando al Sur en cantidades industriales, con sus cerebros recién lavaditos. El Vintar se me rompió de tanto uso, así que lo dejo en la reserva para arreglarlo. Dante, voy a necesitar de tu cinta azul, la de "todo uso". Te dejo a cambio algunos suministros." \n• La respuesta a esa nota está escrita abajo, con letra prolija: "Volví machacado del Bosque. Me quedo los suministros que dejaron, me llevo tu Vintar para repararlo en la mesa que hay en el cementerio. Tanque me pidió que deje armamento de reserva. Lo voy a guardar en la caja N°13, sobre el túnel que va a Darkscape. Dejo algunas pastillas acá que sé que las van a necesitar, hasta la próxima." \n\n %c[guide_green]-Dante%c[default]
+		</text>
+	</string>
+	<string id="encyclopedia_notas_segunda_nota_hook">
+		<text>Nota Veteranos #2</text>
+	</string>
+	<string id="encyclopedia_notas_segunda_nota_hook_text">
+		<text>
+			%c[guide_blue] Nota:%c[default] \n• Las últimas notas dicen: "Hook, Tanque, Vera. Vi un novato intentando tomar las cosas de este baúl, parece que con el cambio de estación quedó a la vista. Me llevo todo al baúl N°7 y abandono este. Dejo una de las llaves. Cuidense." \n\n %c[guide_green]-Dante%c[default] \n\n• Abajo dice con letra cursiva: "Dante de mierda, siempre haciendote el misterioso cambiando los escondites como si tuviesemos tiempo de andar buscando y buscando. Dejé una revista muy importante acá y ahora no la encuentro. Perdí mi mapa con los nombres de los escondites. No sé cual chota es el N°7 ¿¡Era el que estaba dentro del vagón sobre el puente, el vagón sobre el Río Pripyat ...O el vagón sobre Darkscape!? Que bronca amigo, te voy a dar una buena piña cuando te cruce." La última nota parece no estar firmada.
+		</text>
+	</string>
+	<string id="encyclopedia_notas_tercera_nota_hook">
+		<text>Nota Veteranos #3</text>
+	</string>
+	<string id="encyclopedia_notas_tercera_nota_hook_text">
+		<text>
+			%c[guide_blue] Nota:%c[default] \n• "Vi gente que solía ser de Cielo Despejado en el Cordón ¿Estarán planeando algo? No pude quedarme pero les dejo aviso para que no se enteren por sorpresa. Tanque, muchas gracias por el artefacto, me ayuda a llevar mejor el peso. Dejo algunos regalitos a cambio, cuidense y nos vemos en el Bar." \n• Abajo dice con otra letra: "Chicos, los monolitos llegaron al Cordón y cerraron el Norte. Parece que Deber está intentando mantenerlos a raya pero eran MUCHOS. No creo que aguanten, así que me voy por los pantanos. Veré de dejar información en la estación de bombeo, en lo alto, ya saben donde. Tengan cuidado, sé que mataron al comerciante Mark hace poco".
+		</text>
+	</string>
+	<string id="encyclopedia_notas_cuarta_nota_hook">
+		<text>Nota Veteranos #4</text>
+	</string>
+	<string id="encyclopedia_notas_cuarta_nota_hook_text">
+		<text>
+			%c[guide_blue] Nota:%c[default] \n• "Chicos, vine a los pantanos a chequear la situación sobre la gente de Cielo Despejado. Parece que estan resurgiendo... Si bien son pocos, los veo bien armados y marchando al Norte durante las noches. De día no parecen mostrarse para no tener problemas con los militares... Voy a tener que ir por Darkscape, espero que mi revista esté en las rocas tras la gasolinera o vamos a tener problemas :) \n PD: Me llevo todos los suministros, dejo la llave de Dante para que no llore luego."
+		</text>
+	</string>
+	<string id="encyclopedia_notas_quinta_nota_hook">
+		<text>Nota Veteranos #5</text>
+	</string>
+	<string id="encyclopedia_notas_quinta_nota_hook_text">
+		<text>
+			%c[guide_blue] Nota:%c[default] \n• "Dante, Hook, Me encontré con Tanque y seguimos camino juntos al Hospital ¡Espero verlos en el bar! Los extraño. Firma: Vera." \n Otra letra algo desprolija escribe: "MÁS VALE QUE LLEVEN MIS REVISTAS AL BAR ¿ME ENTENDIERON? VERA QUIERE VERLOS. LOS ESPERO AHÍ. VOY A DEJAR SUMINISTROS ENCIMA DEL PUENTE DEL VALLE, PERO SEPAN QUE LO HAGO CON MUCHA BRONCA. FIRMA: ¡¡¡¡¡¡¡TANQUE-ATLETA EL MEJOR STALKER DE LA ZONA!!!!!!!". 
+		</text>
+	</string>
+	<string id="encyclopedia_notas_sexta_nota_hook">
+		<text>Nota Veteranos #6</text>
+	</string>
+	<string id="encyclopedia_notas_sexta_nota_hook_text">
+		<text>
+			%c[guide_blue] Nota:%c[default] \n• "Arreglé el Rifle, Hook. Pero no lo puedo dejar acá, está movido el Valle. Ustedes me entienden... Voy a dejarlo en el Cementerio de Camiones. Dejo el cazador de tesoros para encontrarlo, ya que el escondite que teníamos ahí fué destruído por los mutantes. Lleven guantes que la caja está caliente... Ya saben como funciona." \n\n %c[guide_green]-Dante%c[default]
+		</text>
+	</string>
+	<string id="encyclopedia_notas_septima_nota_hook">
+		<text>Nota Veteranos #7</text>
+	</string>
+	<string id="encyclopedia_notas_septima_nota_hook_text">
+		<text>
+			%c[guide_blue] Nota:%c[default] \n• “Averigüé con el Doctor algo sobre los artefactos. El de la manipulación PSI lo tiene Leto, parece que no sabe usarlo bien y el monolito lo está rastreando. El de la regeneración lo tiene un tal Kolyan, no lo conozco pero parece que es un bandido con bastante influencia. Solo nos quedaría encontrar dos más, dejando de lado el nuestro. Los veo en el Hospital, a ver si tu dato es bueno, Hook..." \n\n %c[guide_green]-Dante%c[default]
+		</text>
+	</string>
+	
+</string_table>

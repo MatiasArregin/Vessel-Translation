@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+	
+	<string id="encyclopedia_pda">
+		<text>PDA Encontrada</text>
+	</string>
+	
+	<string id="encyclopedia_pda_item_pda_buscador_artefactos">
+		<text>PDA del buscador de Artefactos</text>
+	</string>
+	<string id="encyclopedia_pda_item_pda_buscador_artefactos_text">
+		<text>
+			%c[guide_blue] Archivos:%c[default] \n• Nota de voz - hace 8 días: "Los bandidos me tienen arruinado... Salis de una deuda para entrar en otra, pero hoy vi un artefacto parpadeando cerca de la anomalia que esta en la aldea de novatos. Es hora de salir de todas las deudas, es tu momento, chispita. Vos podes ¡Ninguna anomalia va a detenerte! (Ruidos de que cayo en la anomalia)"
+		</text>
+	</string>
+	<string id="encyclopedia_pda_item_pda_tornillo">
+		<text>PDA de Tornillo</text>
+	</string>
+	<string id="encyclopedia_pda_item_pda_tornillo_text">
+		<text>
+			%c[guide_blue] Archivos:%c[default] \n• Investigación Anomalías clase baja\n• Investigación Artefactos baratos\n• Artículo: Formas seguras de cazar artefactos\n• Artículo: Anomalías gravitatorias\n• Fotos varias de vivencias en la zona, algunas fotos con Cabo Fedya.
+			\n%c[guide_green] Archivos eliminados:%c[default] \n• Nota de texto: "Es Kolyan, el me mando a matar."
+		</text>
+	</string>
+	<string id="encyclopedia_pda_item_pda_centinela">
+		<text>PDA de Centinela</text>
+	</string>
+	<string id="encyclopedia_pda_item_pda_centinela_text">
+		<text>
+			%c[guide_blue] Archivos:%c[default] \n• Nota de texto - hace 8 días: “La herida de mi pierna se está infectando, necesito otro préstamo para pagar los putos antibióticos.”\n• Nota de texto - hace 5 días: “Esta este tipo, Atreo. Viene de la nada y dice que me puede dar el dinero que necesito si lo acompaño a los pantanos. Obviamente acepté, aunque cojee y duela, es mejor que perder la puta pierna.” \n•5
+		</text>
+	</string>
+	<string id="encyclopedia_pda_item_pda_mago">
+		<text>PDA Andrés "Mago"</text>
+	</string>
+	<string id="encyclopedia_pda_item_pda_mago_text">
+		<text>
+			%c[guide_blue] PDA Bloqueada:%c[default] \n%c[guide_green] Últimos mensajes recibidos:%c[default] \n• Leto 11 mensajes sin leer.\n• Dientes 2 mensajes sin leer.\n• Kolyan 1 mensaje sin leer.\n• Sultan 2 mensajes sin leer.\n• Clave 6 mensajes sin leer.\n• Borov 1 archivo multimedia sin abrir.\n• Tabernero 1 mensaje sin leer.
+		</text>
+	</string>
+	<string id="encyclopedia_pda_item_pda_monolito_cruz">
+		<text>PDA Monolito de la Cruz</text>
+	</string>
+	<string id="encyclopedia_pda_item_pda_monolito_cruz_text">
+		<text>
+			%c[guide_blue] Archivos:%c[default] \n• Nota de voz - hace 2 días: El que todo lo sabe repitio cien mil veces que espere en estas coordenadas a que el hereje asome. Ya son 6 dias complaciendo los deseos del monolito.
+		</text>
+	</string>
+	<string id="encyclopedia_pda_item_pda_zombie_boss">
+		<text>PDA del Stalker Zombificado</text>
+	</string>
+	<string id="encyclopedia_pda_item_pda_zombie_boss_text">
+		<text>
+			%c[guide_blue] Archivos:%c[default] \n• Nota de voz - hace 2 horas: Le seguimos el rastro a un Stalker que pasó corriendo herido, vimos que paró en el túnel a tomar aire. Vamos a acercarnos." \n• Nota de voz - hace 1 hora: Los chicos se están volviendo locos... el Stalker de chaqueta amarilla nos hizo unos gestos con las manos y todo se fue a la mierda... Tuve que dispararles, me estaban atacando. \n• Nota de voz - hace 1 hora: Mi cabeza va a explotar... Estoy viendo doble y con colores extraños... Todo se ve rojo por momentos, y azul por otros... Si alguien encuentra esta PDA que se la haga llegar a Cold, por favor.
+		</text>
+	</string>
+	<string id="encyclopedia_pda_item_pda_trodnik">
+		<text>PDA de Trodnik</text>
+	</string>
+	<string id="encyclopedia_pda_item_pda_trodnik_text">
+		<text>
+			%c[guide_blue] Archivos:%c[default] \n• Nota de voz - hace 17 minutos: Leto usó algún tipo de truco y se soltó. Noqueó a los chicos con un solo movimiento de su mano ¡Ni siquiera nos tocó! Al final, tenías razón con tu teoría. Solo estoy consciente por el casco que llevo... Tomen bloqueadores antes de acercarse.\n Saquennos de esta miseria.
+		</text>
+	</string>
+	
+</string_table>
