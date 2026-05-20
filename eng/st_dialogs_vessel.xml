@@ -660,118 +660,118 @@
 		<text>Am I supposed to ask the military for them?</text>
 	</string>
 	<string id="esc_fanatico_parches_3">
-		<text>Muy gracioso, hijo. No puedo decirte qué hacer y que no pero te recomiendo no meterte en líos para conseguirlos ¿Va?</text>
+		<text>Very funny, son. I can’t tell you what to do and what not to do, but I’d recommend not getting yourself into trouble trying to get them, alright?</text>
 	</string>
 	<string id="esc_fanatico_parches_4">
-		<text>Dalo por hecho.</text>
+		<text>You can count on it.</text>
 	</string>
 	<string id="esc_fanatico_reward_0">
-		<text>(Misión) Tengo los parches, costó, pero los conseguí.</text>
+		<text>(Task) I got the patches. Wasn’t easy, but I got them.</text>
 	</string>
 	<string id="esc_fanatico_reward_1">
-		<text>Me imagino que sí, no era una tarea fácil pero son las que mejores recompensas tienen. ¿Tuviste que enfrentar militares?</text>
+		<text>I figured as much. It wasn’t an easy task, but those usually pay the best. Did you have to deal with any military?</text>
 	</string>
 	<string id="esc_fanatico_reward_20">
-		<text>Si, tuve que enfrentar algunos que me atacaron.</text>
+		<text>Yeah, I had to fight a few that attacked me.</text>
 	</string>
 	<string id="esc_fanatico_reward_21">
-		<text>Si. Vi unos militares patrullando cerca de la aldea y me ocupé de ellos.</text>
+		<text>Yeah. Saw some soldiers patrolling near the village and took care of them.</text>
 	</string>
 	<string id="esc_fanatico_reward_22">
-		<text>No, estos parches los encontré por ahí.</text>
+		<text>No, I just found these patches lying around.</text>
 	</string>
 	<string id="esc_fanatico_reward_201">
-		<text>Vaya, que mal... Pero me alegra que estés a salvo. Toma tu recompensa y ten, por si llegas a necesitar tratar alguna herida.</text>
+		<text>Damn, that’s rough... But I’m glad you made it back safe. Here’s your reward — and take this too, in case you ever need to patch up a wound.</text>
 	</string>
 	<string id="esc_fanatico_reward_211">
-		<text>Ya veo... Bueno, de todas formas los stalkers se habrían ocupado de ellos. Una lástima por las vidas que se perdieron. Toma tu recompensa, hijo.</text>
+		<text>I see... Well, the stalkers probably would’ve dealt with them eventually anyway. Shame about the lives that were lost. Here’s your reward, son.</text>
 	</string>
 	<string id="esc_fanatico_reward_221">
-		<text>¡Pero que buena suerte! He escuchado que los que son desertores tiran sus trajes y sus parches a la mierda, para no levantar sospechas. Quizás te topaste con uno de esos casos. Toma tu recompensa, hijo. Buen trabajo.</text>
+		<text>Now that’s some good luck! Heard deserters usually ditch their suits and patches so they don’t attract suspicion. Maybe you stumbled onto one of those cases. Here’s your reward, son. Good work.</text>
 	</string>
 	<string id="esc_fanatico_reward_3">
-		<text>Gracias por la recompensa. Nos vemos.</text>
+		<text>Thanks for the reward. See you around.</text>
 	</string>
 	<string id="esc_fanatico_sobre_leto_0">
-		<text>(Misión) Hola Fanático, estoy buscando a un tal Atreo ¿Por casualidad lo conoces?.</text>
+		<text>(Task) Hey Fanatic, I’m looking for a guy named Atreus. You happen to know him?</text>
 	</string>
 	<string id="esc_fanatico_sobre_leto_1">
-		<text>¿Qué si lo conozco? Me debe MUCHO dinero, mucho, estuve intentando rastrearlo un tiempo para que hagamos las pases con todos y se recupere su reputación. Ya sabes, hay que ayudar al prójimo. Pero es un cordero descarriado y tomó provecho de mi confianza... me robó sobre mis narices y huyó.</text>
+		<text>Know him? He owes me a LOT of money. A whole damn lot. I spent a while trying to track him down so we could settle things peacefully and help him restore his reputation. You know, helping your fellow man and all that. But he’s a lost sheep. Took advantage of my trust... robbed me right under my nose and ran.</text>
 	</string>
 	<string id="esc_fanatico_sobre_leto_2">
-		<text>Uf... Entiendo ¿Entonces no sabes dónde está?</text>
+		<text>UDamn... I get it. So you don’t know where he is?</text>
 	</string>
 	<string id="esc_fanatico_sobre_leto_3">
-		<text>No, pero estuve preguntando a los stalkers y encontré a alguien que dice saber sobre Atreo. Ve a ver a Vovan, está saliendo del campamento, en un container que fué hecho refugio por los stalkers hace años, no sé bien que hace ahí pero si lo convences de que venga a la base mejor, por su propia seguridad.</text>
+		<text>No, but I’ve been asking around and found someone who claims to know something about Atreus. Go talk to Vovan. He’s staying just outside the camp, in a container that the stalkers turned into a shelter years ago. Don’t really know what he’s doing there, but if you can convince him to come back to the base, even better. For his own safety.</text>
 	</string>
 	<string id="esc_fanatico_sobre_leto_4">
-		<text>Gracias, Fanático. Te debo una de nuevo.</text>
+		<text>Thanks, Fanatic. Owe you one again.</text>
 	</string>
 	<string id="esc_fanatico_dinero_reward_0">
-		<text>(Interacción)  Encontré a Atreo, y conseguí tu dinero de vuelta.</text>
+		<text>(Interaction) I found Atreus, and I got your money back.</text>
 	</string>
 	<string id="esc_fanatico_dinero_reward_1">
-		<text>Vaya ¿Pudiste hablar con él? ¿Dónde está?</text>
+		<text>Well now... Were you able to talk to him? Where is he?</text>
 	</string>
 	<string id="esc_fanatico_dinero_reward_2">
-		<text>Resulta que se estaba haciendo pasar por Vovan. Cuando lo acorralé me hirió y huyó del Cordón. Creo que se fué a Darkscape.</text>
+		<text>Turns out he was pretending to be Vovan. When I cornered him, he wounded me and fled the Cordon. I think he headed toward Darkscape.</text>
 	</string>
 	<string id="esc_fanatico_dinero_reward_3">
-		<text>¿A Darkscape? Dios mío... Pobre chico. No creo que sepa el infierno que es por allá ahora mismo. Me parte el alma. \n En fin, sobre el dinero: Muchas gracias, la verdad no contaba con eso hace mucho. Voy a poder terminar mi proyecto antes de lo esperado y eso es un gran alivio. Tengo algunas cosas para ofrecerte como premio ¿Qué te interesa? Puedo darte una buena arma de calibre pequeño, un traje completo que te mantendrá a salvo de la radiación y las balas o si no te sirve eso, simplemente dinero. Tu eliges.</text>
+		<text>To Darkscape? Dear God... Poor kid. I don’t think he has any idea what kind of hell that place is right now. Breaks my heart. \n Anyway, about the money: thank you. Honestly, I stopped expecting to ever see it again. I’ll finally be able to finish my project sooner than planned, and that’s a huge relief. I’ve got a few things I can offer you as a reward. What interests you? I can give you a good small-caliber weapon, a full suit that’ll keep you safe from radiation and bullets, or if none of that suits you, just cash. Your choice.</text>
 	</string>
 	<string id="esc_fanatico_dinero_reward_41">
-		<text>Quiero el arma.</text>
+		<text>I want the weapon.</text>
 	</string>
 	<string id="esc_fanatico_dinero_reward_42">
-		<text>Dame el traje.</text>
+		<text>Give me the suit.</text>
 	</string>
 	<string id="esc_fanatico_dinero_reward_43">
-		<text>Me vendría mejor el dinero.</text>
+		<text>The money would help more.</text>
 	</string>
 	<string id="esc_fanatico_dinero_reward_51">
-		<text>Buena elección. No hay arma más confiable y económica por estos lados de la zona que una buena Bizon, no te vas a arrepentir. Vuelve a verme si necesitas algo.</text>
+		<text>Good choice. There’s no weapon more reliable and cost-effective around this part of the Zone than a good Bizon. You won’t regret it. Come see me again if you need anything.</text>
 	</string>
 	<string id="esc_fanatico_dinero_reward_52">
-		<text>Te ví mucho tiempo con solo la chaqueta de cuero, espero que le saques provecho al traje, hijo. Vuelve a verme si necesitas algo.</text>
+		<text>Seen you walking around in nothing but that leather jacket for a long time now. Hope you get some good use out of that suit, son. Come see me again if you need anything.</text>
 	</string>
 	<string id="esc_fanatico_dinero_reward_53">
-		<text>Sabia elección, comprate algo útil, hijo. Vuelve a verme si necesitas algo.</text>
+		<text>Wise choice. Buy yourself something useful, son. Come see me again if you need anything.</text>
 	</string>
 	<string id="esc_fanatico_dinero_reward_6">
-		<text>Gracias Fanático, nos vemos.</text>
+		<text>Thanks, Fanatic. See you around.</text>
 	</string>
 	<string id="esc_fanatico_grupo_0">
-		<text>(Interacción) Voy a cruzar Darkscape para ir al Norte ¿Te venís conmigo?</text>
+		<text>(Interaction) I’m crossing Darkscape to head North. Want to come with me?</text>
 	</string>
 	<string id="esc_fanatico_grupo_1">
-		<text>Eso suena peligroso, chico. Me gustaría acompañarte y asegurarme de que todo salga bien, pero tengo un contrato con Nimble y un compromiso con la aldea. No puedo dejar mi puesto.</text>
+		<text>That sounds dangerous, kid. I’d like to go with you and make sure everything turns out alright, but I’ve got a contract with Nimble and a commitment to the village. I can’t leave my post.</text>
 	</string>
 	<string id="esc_fanatico_grupo_2">
-		<text>¿Sabés de alguien que se prenda?</text>
+		<text>Know anyone who might be interested?</text>
 	</string>
 	<string id="esc_fanatico_grupo_3">
-		<text>Mmmh... Supongo que podrías hablar con Dogo ¿Lo conoces? Sé que estaba en problemas y necesita dejar el Cordón. Me pidió permiso para esconderse en una de las casas.</text>
+		<text>Mmmh... I guess you could talk to Doggo. You know him? Heard he’s in trouble and needs to get out of the Cordon. Asked me for permission to hide out in one of the houses.</text>
 	</string>
 	<string id="esc_fanatico_grupo_4">
-		<text>Intentaré hablarle. Gracias, Fanático.</text>
+		<text>I’ll try talking to him. Thanks, Fanatic.</text>
 	</string>
 	<string id="esc_fanatico_gatling_0">
-		<text>(Misión) Sidorovich me dijo que sabés dónde hay una PKM Modificada.</text>
+		<text>(Task) Sidorovich told me you know where there’s a Modified PKM.</text>
 	</string>
 	<string id="esc_fanatico_gatling_1">
-		<text>Ese viejo... ¿Tienes que buscarla por alguna urgencia? Es realmente peligroso, chico. No quiero mandarte a un lugar del que puede que no vuelvas.</text>
+		<text>That old man... Do you need to find it urgently? It’s really dangerous, kid. I don’t want to send you somewhere you might not come back from.</text>
 	</string>
 	<string id="esc_fanatico_gatling_2">
-		<text>Es un trabajo, su dueño me pidió que la busque.</text>
+		<text>It’s a job. The owner asked me to retrieve it.</text>
 	</string>
 	<string id="esc_fanatico_gatling_3">
-		<text>Ya veo... Bueno, está en el techo de una de las edificaciones en la base militar al Sur del Cordón. Prestá atención: tienen ametralladoras encima de unos malditos trípodes para acribillar a cualquiera que vean, así que tienes que ir bien hacia el Este hasta la valla de alambre de púas, manteniéndote alejado de la vista de los militares. Recién en la valla puedes cambiar tu rumbo hacia el Sur, hay un enorme campo minado así que mejor si haces lo que te quedas pegado lo más que puedas sin engancharte al alambre. Vas a ver un árbol caído que cortó los alambres, cruza por encima y sigue hasta que veas un montón de cajas apiladas: esas las uso para colarme en la base. Al cruzar veras que encima de la primera ventana hay un agujero en el techo y ahí vas a ver, entre un montón de porquería, el arma que estás buscando. Ten cuidado de no hacer ruido ahí, que es un techo de madera vieja.</text>
+		<text>I see... Alright. It’s on the roof of one of the buildings inside the military base south of the Cordon. Listen carefully: they’ve got machine guns mounted on damn tripods to shred anyone they spot, so you need to head far east toward the barbed-wire fence, staying well out of the soldiers’ line of sight. Only once you reach the fence should you turn south. There’s a massive minefield there, so stick as close to the wire as you can without snagging yourself on it. You’ll see a fallen tree that tore through the fencing — cross there and keep going until you spot a pile of stacked crates. I use those to sneak into the base. Once you cross over, you’ll notice a hole in the roof right above the first window. That’s where you’ll find the weapon you’re looking for, buried under a pile of junk. Be careful not to make noise up there — that roof’s made of old wood.</text>
 	</string>
 	<string id="esc_fanatico_gatling_4">
-		<text>Muy preciso, amigo. Gracias.</text>
+		<text>Very precise, my friend. Thanks.</text>
 	</string>
 	<string id="esc_fanatico_gatling_5">
-		<text>De nada chico, mucha suerte. No olvides que muchos de los militares son jóvenes como tu, así que si es posible, evitá la violencia. Es mejor si no hay muertes innecesarias.</text>
+		<text>No problem, kid. Good luck. And don’t forget — a lot of those soldiers are young, just like you. So if possible, avoid violence. Better if nobody dies for no reason.</text>
 	</string>
 	<string id="esc_fanatico_gatling_6">
 		<text>Veremos. Adios.</text>
