@@ -774,151 +774,151 @@
 		<text>No problem, kid. Good luck. And don’t forget — a lot of those soldiers are young, just like you. So if possible, avoid violence. Better if nobody dies for no reason.</text>
 	</string>
 	<string id="esc_fanatico_gatling_6">
-		<text>Veremos. Adios.</text>
+		<text>We'll see. Goodbye.</text>
 	</string>
 	<string id="esc_fanatico_frecuencias_0">
-		<text>(Misión) Encontré estas frecuencias de los militares...</text>
+		<text>(Task) I found these military frequencies...</text>
 	</string>
 	<string id="esc_fanatico_frecuencias_1">
-		<text>(Fanático toma los documentos y les da una ojeada con una expresión de preocupación) Esto no es bueno... Pero explica muchas cosas, con razón los militares han estado rastrillando el Cordón como locos ¿Dónde lo encontraste?</text>
+		<text>(Fanatic takes the documents and gives them a quick look, his expression turning concerned.) This isn't good... But it explains a lot. No wonder the military has been sweeping through the Cordon like maniacs. Where did you find this?</text>
 	</string>
 	<string id="esc_fanatico_frecuencias_2">
-		<text>Lo tenía Vovan, no sé qué uso quería darle, pero se ve que estaba juntando polvo. Sidorovich me mandó a buscarlo.</text>
+		<text>Vovan had it. I don't know what he wanted it for, but it looked like it had been collecting dust. Sidorovich sent me to retrieve it.</text>
 	</string>
 	<string id="esc_fanatico_frecuencias_3">
-		<text>Entiendo, hiciste bien en venir a mí entonces. Voy a ser breve, Sidorovich tranza con los militares para que estos le metan productos de forma ilegal a la zona, esto incluye armamento, dinero, gente, etc. Su relación es inestable porque él promete a los militares que los stalkers no les van a generar problemas, pero ambos sabemos que eso no siempre se cumple. De alguna forma mantiene "segura" la aldea evitando que vengan incursiones al lugar y se beneficia en el medio. Es un negocio bien planificado, pero cualquier cambio juega con las vidas de la gente del lugar, no es lo más ético... y esto suena a que el comerciante trama algo.</text>
+		<text>I see. Then you did the right thing by coming to me. I'll keep this brief: Sidorovich cuts deals with the military so they can smuggle goods into the Zone illegally. That includes weapons, money, people, and more. Their relationship is unstable because he promises the military that the stalkers won't cause trouble for them, but we both know that doesn't always hold true. Somehow he keeps the village 'safe' by preventing raids from reaching the place, and profits from it in the process. It's a carefully planned business, but any change in the balance puts the villagers' lives at risk. It's not exactly ethical... and this sounds like the trader is plotting something.</text>
 	</string>
 	<string id="esc_fanatico_frecuencias_4">
-		<text>¿Y qué hacemos?</text>
+		<text>So what do we do?</text>
 	</string>
 	<string id="esc_fanatico_frecuencias_5">
-		<text>Me he infiltrado en su base varias veces. Creo que podríamos devolverlos sin que ellos lo noten, si no, tengo un contacto ahí dentro, un soldado de rango medio que a veces me trae medicinas... Podríamos reunirnos con él y dárselos para que los devuelva y así evitar una catástrofe ¿Qué opinas?</text>
+		<text>I've infiltrated their base several times. I think we could return these without them noticing. Otherwise, I have a contact inside — a mid-ranking soldier who sometimes brings me medicine... We could meet with him and hand these over so he can return them and avoid a catastrophe. What do you think?</text>
 	</string>
 	<string id="esc_fanatico_frecuencias_60">
-		<text>Vamos a infiltrarnos.</text>
+		<text>Let's infiltrate the base.</text>
 	</string>
 	<string id="esc_fanatico_frecuencias_61">
-		<text>Organiza esa reunión.</text>
+		<text>Set up that meeting.</text>
 	</string>
 	<string id="esc_fanatico_frecuencias_601">
-		<text>Bien, pero debemos hacerlo bajo la cobertura de la noche. Ven a verme luego de las 2am y vamos.</text>
+		<text>Alright, but we need to do this under the cover of night. Come see me after 2 AM and we'll go.</text>
 	</string>
 	<string id="esc_fanatico_frecuencias_7">
-		<text>Dale. Nos vemos por la noche.</text>
+		<text>Alright. See you tonight.</text>
 	</string>
 	<string id="esc_fanatico_frecuencias_611">
-		<text>Bien, voy a enviarle un mensaje. Organizaré toda la cuestión para que hagamos la reunión por la noche, el seguro no va a venir solo, así que acompañame por las dudas. Ven a verme luego de las 2 am ¿Va?</text>
+		<text>Good. I'll send him a message. I'll arrange everything so we can hold the meeting tonight. He definitely won't come alone, so tag along just in case. Come see me after 2 AM, alright?</text>
 	</string>
 	<string id="esc_fanatico_frecuencias_infiltracion_0">
-		<text>(Misión) Llegué ¿Cómo nos infiltramos?</text>
+		<text>(Task) I'm here. How are we infiltrating?</text>
 	</string>
 	<string id="esc_fanatico_frecuencias_infiltracion_1">
-		<text>Bien. Haremos lo siguiente: Te acompañaré hasta el terreno alto, hacia el Este. Desde ahí esperaré con los binoculares y te iré dando indicaciones y soporte. Por la noche los soldados bajan la guardia, llevan gente a casa y solo se quedan algunos descansando, y dos o tres patrullando. Es imperativo que hagamos esto sin dañar a nadie. No tienen que enterarse que entramos y salimos para evitar más problemas ¿Entendido?</text>
+		<text>Alright. Here's the plan: I'll escort you to the high ground to the east. From there I'll keep watch with binoculars and guide you while providing support. At night the soldiers let their guard down — they take people home, and only a few stay behind resting while two or three patrol the area. It's imperative that we do this without hurting anyone. They can't find out we came and went, otherwise it'll only cause more problems. Understood?</text>
 	</string>
 	<string id="esc_fanatico_frecuencias_infiltracion_2">
-		<text>Entendido, sin matar a nadie. Vamos.</text>
+		<text>Understood. No killing anyone. Let's go.</text>
 	</string>
 	<string id="esc_fanatico_frecuencias_reunion_0">
-		<text>(Misión) Llegué ¿Dónde es la reunión?</text>
+		<text>(Task) I'm here. Where's the meeting?</text>
 	</string>
 	<string id="esc_fanatico_frecuencias_reunion_1">
-		<text>En el molino que está al Norte, no es muy lejos. Yo voy a hablar con mi contacto, tu me cubres desde el techo ¿Entendido? No debemos armar un escándalo, mi contacto es de confianza y no creo que trame nada raro.</text>
+		<text>At the mill to the north. It's not far. I'll speak with my contact while you cover me from the rooftop. Understood? We can't make a scene. My contact is trustworthy, and I don't think he's planning anything suspicious.</text>
 	</string>
 	<string id="esc_fanatico_frecuencias_reunion_2">
-		<text>Bien, me trepo al techo y te cubro. Vamos.</text>
+		<text>Alright, I'll climb onto the roof and cover you. Let's go.</text>
 	</string>
 	<string id="esc_fanatico_frecuencias_reunion_done_0">
-		<text>(Misión) ¿Querías hablar?</text>
+		<text>(Task) You wanted to talk?</text>
 	</string>
 	<string id="esc_fanatico_frecuencias_reunion_done_1">
-		<text>Si, te debo una disculpa, hijo. Las cosas no salieron como pensaba, fuí necio al creer que se podía tratar con esta gente siempre por las buenas. No estoy satisfecho con lo que logramos... También te debo una recompensa, se nota tu interés por cuidar la aldea. Eso no tiene precio, espero que esto pueda compensarte. Le tengo un cariño especial a esta arma.</text>
+		<text>Yes. I owe you an apology, son. Things didn't turn out the way I expected. I was foolish to believe you could always deal with these people peacefully. I'm not satisfied with what we accomplished... I also owe you a reward. It's clear you care about protecting the village. That's priceless, and I hope this can compensate you. I've always been fond of this weapon.</text>
 	</string>
 	<string id="esc_fanatico_frecuencias_reunion_done_2">
-		<text>Gracias por el arma ¿Pero por qué no estás satisfecho?</text>
+		<text>Thanks for the weapon, but why aren't you satisfied?</text>
 	</string>
 	<string id="esc_fanatico_frecuencias_reunion_done_3">
-		<text>Seguimos teniendo las frecuencias, eso es un problema. Y ahora me surge otra duda: Mi contacto, Serdyuk. Me preocupa su paradero, no es un mal tipo y su bienestar me compete. Creo que voy a investigar las PDA de estos militares y si averiguo algo, te llamo para charlar ¿Puedo contar contigo?</text>
+		<text>We still have the frequencies. That's a problem. And now another concern has come to mind: my contact, Serdyuk. I'm worried about what happened to him. He's not a bad man, and his well-being matters to me. I think I'll investigate these military PDAs, and if I find anything, I'll call you so we can talk. Can I count on you?</text>
 	</string>
 	<string id="esc_fanatico_frecuencias_reunion_done_4">
-		<text>Cuenta conmigo. Nos vemos.</text>
+		<text>You can count on me. See you around.</text>
 	</string>
 	<string id="esc_fanatico_frecuencias_infiltracion_done_0">
-		<text>(Misión) Las frecuencias quedaron donde me pediste.</text>
+		<text>(Task) The frequencies are where you asked me to leave them.</text>
 	</string>
 	<string id="esc_fanatico_frecuencias_infiltracion_done_1">
-		<text>Eso son buenas noticias. Su comandante va y viene de esa oficina todo el tiempo. Apenas ande por ahí va a notarlas, te lo aseguro. Cuando eso pase, vamos a dejar de tener problemas con la intensidad de sus incursiones... Se estaba saliendo de control ese asunto.</text>
+		<text>Those are good news. Their commander goes in and out of that office all the time. The moment he's around, he'll notice them, I'm sure of it. Once that happens, we'll stop having problems with how intense their incursions have become... That situation was getting out of control.</text>
 	</string>
 	<string id="esc_fanatico_frecuencias_infiltracion_done_2">
-		<text>¿Volvemos a la base entonces?</text>
+		<text>So, are we heading back to the base then?</text>
 	</string>
 	<string id="esc_fanatico_frecuencias_infiltracion_done_3">
-		<text>Claro, pero toma esto primero. Si bien es una reliquia, tengo fé de que le vas a dar un buen uso.</text>
+		<text>Of course, but take this first. It may be a relic, but I have faith you'll put it to good use.</text>
 	</string>
 	<string id="esc_fanatico_frecuencias_infiltracion_done_4">
-		<text>Gracias, Fanático.</text>
+		<text>Thanks, Fanatic.</text>
 	</string>
 	<string id="esc_fanatico_logro_0">
-		<text>(Interacción) Vine apenas pude ¿Qué pasó?</text>
+		<text>(Interaction) I came as soon as I could. What happened?</text>
 	</string>
 	<string id="esc_fanatico_logro_1">
-		<text>Me enteré que planeas dejar el Cordón, y parece que habiendose corrido la voz del tipo de persona que eres los stalkers del campamento hicieron una colecta para demostrarte que valoran lo que lograste en tu estadía por el Sur.</text>
+		<text>I heard you're planning to leave the Cordon, and word has spread about the kind of person you are. The stalkers at the camp put together a collection to show you how much they appreciate what you achieved during your time in the South.</text>
 	</string>
 	<string id="esc_fanatico_logro_2">
-		<text>¿...Una colecta? ¿Esto es cosa tuya o qué?</text>
+		<text>...A collection? Was this your idea or something?</text>
 	</string>
 	<string id="esc_fanatico_logro_3">
-		<text>(Fanático sonríe al ver tu expresión confundida) Nada de eso. Te has portado bien, Viktor. Toma, esto es de mi parte.</text>
+		<text>(Fanatic smiles at your confused expression.) Nothing like that. You've done well, Viktor. Here, this is from me.</text>
 	</string>
 	<string id="esc_fanatico_logro_4">
-		<text>Gracias, Fanático.</text>
+		<text>Thanks, Fanatic.</text>
 	</string>
 	<string id="esc_fanatico_logro_5">
-		<text>Esto es de Tokha, Andrew y los demás novatos. Ellos son quienes valoran más lo que has hecho por la comunidad. Mejoraron un arma y la bautizaron con un nombre que les recuerda a tí... Estoy seguro de que si Tornillo siguiese con nosotros, el hubiese participado también.</text>
+		<text>This is from Tokha, Andrew, and the other rookies. They're the ones who appreciate what you've done for the community the most. They upgraded a weapon and gave it a name that reminds them of you... I'm sure that if Screw were still with us, he would've joined in too.</text>
 	</string>
 	<string id="esc_fanatico_logro_6">
 		<text>...</text>
 	</string>
 	<string id="esc_fanatico_logro_7">
-		<text>Esto es de parte de los más veteranos. Esos que estan en la última casa.</text>
+		<text>This is from the veterans. The ones staying in the last house.</text>
 	</string>
 	<string id="esc_fanatico_logro_8">
-		<text>Wow. No sé qué decir...</text>
+		<text>Wow... I don't know what to say...</text>
 	</string>
 	<string id="esc_fanatico_logro_9">
-		<text>Ah, casi lo olvido. Esto es de parte de Wolf. Siendote honesto, me sorprendió que quiera participar.</text>
+		<text>Ah, I almost forgot. This is from Wolf. To be honest, I was surprised he wanted to participate.</text>
 	</string>
 	<string id="esc_fanatico_logro_10">
 		<text>...</text>
 	</string>
 	<string id="esc_fanatico_logro_11">
-		<text>Buena suerte en tus viajes. Sé que estan reuniendo un gran equipo, así que tengo fé de que les va a ir bien. Cuidense.</text>
+		<text>Good luck on your journey. I know you're putting together a great team, so I have faith things will go well for you. Take care.</text>
 	</string>
 	<string id="esc_fanatico_logro_12">
-		<text>Gracias totales.</text>
+		<text>Thanks for everything.</text>
 	</string>
 	<string id="esc_gabriel_meet_0">
-		<text>Hola, stalker ¿Todo bien?</text>
+		<text>Howdy?</text>
 	</string>
 	<string id="esc_gabriel_primero_0">
-		<text>(Interacción) ¿Qué tal? ¿Sos un stalker experimentado? Tenía algunas preguntas.</text>
+		<text>(Interaction) How's it going? Are you an experienced stalker? I had a few questions.</text>
 	</string>
 	<string id="esc_gabriel_primero_1">
-		<text>Si, soy Gabriel, un gusto. Veo que sos nuevo ¿Qué te trae a la zona?</text>
+		<text>Yeah, I'm Gabriel. Nice to meet you. I can tell you're new. What brings you to the Zone?</text>
 	</string>
 	<string id="esc_gabriel_primero_2">
-		<text>(Mentir) No estoy tan seguro aún... ¿Y a vos?</text>
+		<text>(Lie) I'm not really sure yet... What about you?</text>
 	</string>
 	<string id="esc_gabriel_primero_3">
-		<text>Todos tenemos un motivo para andar por acá, los que aún no lo tienen claro, muy dentro de ellos saben lo que están haciendo... Yo por mi parte, quería grabar una película en la zona, pero mi equipo fue confiscado por los militares. Cuando me dí cuenta me enamoré del lugar y ahora ando cuidando este campamento para ganarme la vida.</text>
+		<text>We all have a reason for being here. The ones who still haven't figured it out deep down know exactly what they're doing... As for me, I wanted to shoot a movie in the Zone, but the military confiscated my equipment. Once I realized it, I fell in love with this place, and now I make a living protecting this camp.</text>
 	</string>
 	<string id="esc_gabriel_primero_4">
-		<text>¿Así que una película? Interesante.</text>
+		<text>So, a movie? Interesting.</text>
 	</string>
 	<string id="esc_gabriel_primero_5">
-		<text>Si, aún tengo el guión encima. Seguro la haga en algún futuro... En fin ¿Tenías algunas preguntas?</text>
+		<text>Yeah, I still carry the script with me. Maybe I'll make it someday... Anyway, you said you had some questions?</text>
 	</string>
 	<string id="esc_gabriel_primero_6">
-		<text>Si, dejame pensar..</text>
+		<text>Yeah, let me think.</text>
 	</string>
 	<string id="esc_gabriel_cruz_0">
 		<text>(Interacción) ¿Sabés dónde hay una tumba en forma de cruz?</text>
