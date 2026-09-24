@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="st_configuracion_recomendada">
-		<text>Открытая БЕТА 0.92</text>
+		<text>Открытая БЕТА 0.92В (20/06/2026)</text>
 	</string>
-	<string id="st_vessel_intro">
-		<text>-</text>
+		<string id="actor_inventory_box_use">
+		<text>Открыть личный ящик ($$ACTION_USE$$)</text>
 	</string>
 	<string id="pda_encyclopedia_notify">
 		<text>Новая запись разблокирована</text>
@@ -21,26 +21,11 @@
 	<string id="st_text_screen_sobre_notas_c">
 		<text>Все записи сохраняются в твоём КПК в разделе «Руководства».</text>
 	</string>
-	<string id="mp_si_dec">
-		<text>Секунд</text>
-	</string>
 	<string id="kb_inspect">
 		<text>Осмотреть</text>
 	</string>
 	<string id="pda_encyclopedia_locked">
     	<text>Заблокировано</text>
-	</string>
-	<string id="st_ignite_fire">
-		<text>Зажечь ($$ACTION_USE$$)</text>
-	</string>
-	<string id="st_extinguish_fire">
-		<text>Потушить ($$ACTION_USE$$)</text>
-	</string>
-	<string id="st_allow_save">
-		<text>Сохранение теперь разрешено</text>
-	</string>
-	<string id="actor_inventory_box_use">
-		<text>Открыть личный ящик ($$ACTION_USE$$)</text>
 	</string>
 	<string id="cant_walk">
 		<text>Вы слишком истощены, чтобы двигаться</text>
@@ -48,11 +33,11 @@
 	<string id="cant_walk_weight">
 		<text>Вы слишком перегружены, чтобы двигаться</text>
 	</string>
+	<string id="st_allow_save">
+		<text>Сохранение теперь разрешено</text>
+	</string>
 	<string id="car_character_use">
 		<text>Открыть дверь ($$ACTION_USE$$)</text>
-	</string>
-	<string id="st_use_action_sit">
-		<text>Сесть ($$ACTION_USE$$)</text>
 	</string>
 	<string id="character_use">
 		<text>Говорить ($$ACTION_USE$$)</text>
@@ -222,9 +207,6 @@
 	<string id="st_psy_danger">
 		<text>Критический уровень пси-излучения. Немедленно покиньте опасную зону.</text>
 	</string>
-	<string id="st_helmet_countdown">
-		<text>Защита отключена</text>
-	</string>
 	<string id="st_radiation_danger">
 		<text>Опасный уровень радиации. Для прохода необходима защита.</text>
 	</string>
@@ -267,6 +249,9 @@
 	<string id="tip_need_access_card">
 		<text>Воспользоваться картой доступа ($$ACTION_USE$$)</text>
 	</string>
+	<string id="ui_st_mp_create">
+		<text>Создать</text>
+	</string>
 	<string id="tip_no_access_card">
 		<text>Необходима карта доступа</text>
 	</string>
@@ -275,9 +260,6 @@
 	</string>
 	<string id="ui_st_mp_experience_grow">
 		<text>-</text>
-	</string>
-	<string id="ui_st_mp_create">
-		<text>Создать</text>
 	</string>
 	<string id="zat_b12_conteiner_full_locked">
 		<text>Контейнер закрыт - необходимы два ключа</text>
@@ -423,6 +405,9 @@
 	<string id="bar_arena_fight_pseudodog">
 		<text>Внимание! Внимание! На Арене вот-вот начнётся новый бой! В левом углу -  белое и пушистое порождение этого ада... псевдособака! А в правом углу - он пришел из ниоткуда, человек без прошлого и будущего!</text>
 	</string>
+	<string id="st_use_action_sit">
+		<text>Сесть ($$ACTION_USE$$)</text>
+	</string>
 	<string id="bar_arena_fight_savage">
 		<text>Внимание! Внимание! На Арене вот-вот начнётся новый бой! В левом углу - вы его знаете, вы любите его, а он ненавидит вас! Это Зверь! А в правом углу - живой и здоровый, по крайней мере, на данный момент - наш претендент!</text>
 	</string>
@@ -465,9 +450,6 @@
 	<string id="st_tomar_artefacto_tip">
 		<text>Взять артефакт ($$ACTION_USE$$)</text>
 	</string>
-	<string id="st_golpear_tip">
-		<text>Ударить ($$ACTION_USE$$)</text>
-	</string>
 	<string id="st_punto_interes">
 		<text>Место интереса</text>
 	</string>
@@ -480,10 +462,22 @@
 	<string id="st_quedarse_nivel">
 		<text>Остаться на нынешнем уровне</text>
 	</string>
+	<string id="st_golpear_tip">
+		<text>Постучать в дверь ($$ACTION_USE$$)</text>
+	</string>
 	<string id="st_puerta_bloqueada">
 		<text>Что-то блокирует дверь</text>
 	</string>
 	<string id="st_sobrevive">
 		<text>Выжить</text>
+	</string>
+	<string id="st_ignite_fire">
+		<text>Зажечь ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_extinguish_fire">
+		<text>Потушить ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_helmet_countdown">
+		<text>Защита отключена</text>
 	</string>
 </string_table>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="kb_custom11">
+		<text>Разрядить всё оружие</text>
+	</string>
+	<string id="ui_mm_uaw_launcher">
+		<text>Разрядить всё Отсоединить подствольные гранатомёты</text>
+	</string>
+	<string id="ui_mm_uaw_silencer">
+		<text>Разрядить всё Отсоединить глушители</text>
+	</string>
+	<string id="ui_mm_uaw_scope">
+		<text>Разрядить всё Отсоединить прицелы</text>
+	</string>
+</string_table>

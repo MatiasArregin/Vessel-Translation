@@ -6,6 +6,9 @@
 	<string id="esc_encontrar_tumba_2_title">
 		<text>Что скрыто за надгробием: Расспросить сталкеров или Сидоровича</text>
 	</string>
+	<string id="esc_encontrar_tumba_2a_title">
+		<text>Что скрыто за надгробием: Отправиться туда, куда просит Сидорович</text>
+	</string>
 	<string id="esc_encontrar_tumba_3_title">
 		<text>Что скрыто за надгробием: Вернуться к Вайперу</text>
 	</string>
@@ -248,19 +251,25 @@
 		<text>Нужно вернуть взрывчатку Волку.</text>
 	</string>
 	<string id="esc_wolf_task_2_title_1">
-		<text>Хозяин убежища: поговорить с Волком</text>
+		<text>Хозяин тайника: поговорить с Волком</text>
 	</string>
 	<string id="esc_wolf_task_2_descr_1">
 		<text>Кажется, они обнаружили местоположение вора. Следует обратиться к Волку с предложением помощи.</text>
 	</string>
 	<string id="esc_wolf_task_2_title_2">
-		<text>Хозяин убежища: Добить Мага</text>
+		<text>Хозяин тайника: Добить Мага</text>
 	</string>
 	<string id="esc_wolf_task_2_descr_2">
 		<text>Экипировка у вора хороша, и кличут его — "Маг". Надо найти его на железнодорожных путях.</text>
 	</string>
+	<string id="esc_wolf_task_2_title_2a">
+		<text>Хозяин тайника: Прочитать содержимое КПК Мага</text>
+	</string>
+	<string id="esc_wolf_task_2_descr_2a">
+		<text>Мне нужно просмотреть КПК Мага, чтобы затем отчитаться о его содержимом Волку.</text>
+	</string>	
 	<string id="esc_wolf_task_2_title_3">
-		<text>Хозяин убежища: Найти КПК и вернуться к Волку</text>
+		<text>Хозяин тайника: Найти КПК и вернуться к Волку</text>
 	</string>
 	<string id="esc_wolf_task_2_descr_3">
 		<text>С вором покончено, осталось только вернуться к Волку.</text>
@@ -427,21 +436,6 @@
 	</string>
 	<string id="esc_dogo_task2_descr_4">
 		<text>Найти оружие было непросто, однако теперь оно у меня. Следует его вернуть владельцу.</text>
-	</string>
-	<string id="esc_hook_task_1_title_1">
-		<text>Хозяин убежища: Поговорить с Тохой</text>
-	</string>
-	<string id="esc_hook_task_1_descr_1">
-		<text>Сталкер из лагеря новичков желает со мной поговорить...</text>
-	</string>
-	<string id="esc_hook_task_1_title_2">
-		<text>Хозяин убежища: Встретиться с Крюком</text>
-	</string>
-	<string id="esc_hook_task_1_descr_2">
-		<text>Кажется, Тохе угрожали, считая, что именно он забрал вещи с убежища, что я обыскивал... Нужно найти Крюка.</text>
-	</string>
-	<string id="esc_hook_task_1_descr_3">
-		<text>Крюк проходил через Тёмную Лощину. Недавно ли это произошло? Следует продолжать поиски...</text>
 	</string>
 	<string id="esc_sid_medicinas_title">
 		<text>Вагон медицины: Обыскать убежище</text>
@@ -616,6 +610,25 @@
 	<string id="esc_notas_hook_3_descr">
 		<text>Я нахожу интересные вещи в этих убежищах. Кажется, мне нужно проверить вагон.</text>
 	</string>
+	<string id="esc_pan_gaucho_1_title">
+		<text>Хлеб Гаучо: Найти пропавшую буханку</text>
+	</string>
+	<string id="esc_pan_gaucho_1_descr">
+		<text>Кажется, кто-то украл хлеб Гаучо, и он очень недоволен. Нужно отыскать украденное.</text>
+	</string>
+	<string id="esc_pan_gaucho_2_title">
+		<text>Хлеб Гаучо: Следовать за Камтеком</text>
+	</string>
+	<string id="esc_pan_gaucho_2_descr">
+		<text>Камтек сбежал, скорее всего, он унёс с собой хлеб... Необходимо его выследить.</text>
+	</string>
+	<string id="esc_pan_gaucho_3_title">
+		<text>Хлеб Гаучо: Вернуть хлеб Гаучо</text>
+	</string>
+	<string id="esc_pan_gaucho_3_descr">
+		<text>Я заполучил буханку... Пора её вернуть, даже если она не выглядит столь же аппетитной.</text>
+	</string>
+
 
 	<!-- DARKSCAPE -->
 	<string id="dar_main_task_1_title">

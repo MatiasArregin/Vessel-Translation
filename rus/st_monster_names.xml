@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="yan_tonnel_snork_1">
+		<text>Эксперимент #1</text>
+	</string>
+	<string id="yan_tonnel_snork_2">
+		<text>Эксперимент #2</text>
+	</string>
+	<string id="yan_tonnel_snork_3">
+		<text>Эксперимент #3</text>
+	</string>
+	<string id="yan_tonnel_snork_4">
+		<text>Эксперимент #4</text>
+	</string>
+	<string id="yan_tonnel_snork_5">
+		<text>Эксперимент #5</text>
+	</string>
+	<string id="yan_tonnel_snork_6">
+		<text>Эксперимент #6</text>
+	</string>
+	<string id="yan_tonnel_gigant">
+		<text>Эксперимент #7</text>
+	</string>
+
+	<string id="bar_arena_savage">
+		<text>Зомбифицированный</text>
+	</string>
+	<string id="bar_arena_bloodsucker">
+		<text>Кровосос</text>
+	</string>
+	<string id="bar_arena_burer">
+		<text>Бюрер</text>
+	</string>
+	<string id="bar_arena_pseudodog">
+		<text>Псевдособака</text>
+	</string>
+	<string id="bar_arena_snork">
+		<text>Снорк</text>
+	</string>
+	
+	<string id="esc_boar_tunel_hard">
+		<text>Огромный кабан</text>
+	</string>
+	<string id="x18_fake_leto_obrazet_1">
+		<text>???</text>
+	</string>
+
+	<string id="ui_st_heli_health">
+		<text>Вертолёт</text>
+	</string>
+</string_table>

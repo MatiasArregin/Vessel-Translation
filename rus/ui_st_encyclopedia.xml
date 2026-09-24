@@ -3,25 +3,31 @@
 
 	<!-- PDA -->
 	<string id="pda_btn_encyclopedia">
-		<text>Руководство</text>
+		<text>Справочник</text>
+	</string>
+	
+	<string id="pda_encyclopedia_title">
+		<text>Сохранённые данные</text>
 	</string>
 	
 	<string id="pda_btn_encyclopedia_hint">
-		<text>Показать руководство пользователя</text>
+		<text>Показать справочник пользователя</text>
 	</string>
 	
 	<string id="pda_btn_encyclopedia_title">
-		<text>Руководство по Зоне</text>
+		<text>Справочник по Зоне</text>
 	</string>
 	
+	
+	
 	<string id="pda_btn_encyclopedia_notify">
-		<text>Разблокирована новая запись в руководстве</text>
+		<text>Разблокирована новая запись в справочнике</text>
 	</string>
 	
 	<string id="pda_btn_encyclopedia_locked">
 		<text>
-			Эта запись ещё не разблокирована.\n
-			\nЗаписи могут быть открыты через взаимодействие с объектами.
+			Эта запись ещё не разблокирована\n
+			\nЗаписи могут быть открыты через взаимодействие с объектами
 		</text>
 	</string>
 	

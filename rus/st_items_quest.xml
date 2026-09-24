@@ -87,38 +87,38 @@
 	<string id="primera_nota_nox_name">
 		<text>Первая записка Нокса</text>
 	</string>
-	<string id="primera_nota_nox_desc">
-		<text>«Если ты это читаешь, твои мечты верно тебя направляют.\n Твоя психическая чувствительность выше среднего; и поэтому ты смог найти это место раньше других. \n Здесь ты найдёшь всё нужное: первый ключ и один артефакт, что срезонирует с тобой и направит к четырём другим. \n Вместе они пять откроют тебе силу, превосходящую все границы... Но ты ещё не готов её понять. \n По мере твоего продвижения, занавес между твоим разумом и тем, что обитает над Зоной, станет тоньше. И тогда я смогу показать тебе больше. \n\n Следуй пульсу. И не останавливайся. \n\n — Нокс»</text>
+	<string id="primera_nota_nox_item_desc">
+		<text>\n%c[guide_blue]Для разблокировки информации провзаимодействуй с предметом%c[default] \n Аккуратно исписанный лист бумаги, оформленный как письмо. Раньше он был сложенным; кто-то раскрыл его, а потом смял.</text>
 	</string>
-	<string id="primer_contenedor_name">
-		<text>Запечатанный контейнер</text>
+	<string id="esc_pda_buscador_artefactos_name">
+		<text>КПК Искросвечки</text>
 	</string>
-	<string id="primer_contenedor_desc">
-		<text>Лёгкое устройство из сплава алюминия и углеродного волокна. Parece sustentado con algъn tipo de baterнa de larga duraciуn conteniendo un artefacto adentro, se mueve para todos lados al agitar el contenedor levemente.</text>
+	<string id="esc_pda_buscador_artefactos_item_desc">
+		<text>\n%c[guide_blue]Для разблокировки информации провзаимодействуй с предметом%c[default] \n КПК, покрытый вмятинами и царапинами. Его прошлый владелец особо о нём не заботился.</text>
 	</string>
 	<string id="traje_de_viper_name">
 		<text>Бронежилет Вайпера</text>
 	</string>
 	<string id="traje_de_viper_desc">
-		<text>Armadura modificada por un tйcnico de la facciуn "Cielo Despejado". El espacio para el parche de facciуn estб vacнo, alguien lo arrancу їQuй habrб pasado? їCуmo habrб terminado en manos de Leto?</text>
+		<text>Бронежилет, модифицированный техником из группировки «Чистое Небо». Место, где обычно находится нашивка группировка, пустует — кто-то её оторвал. Что случилось? И как он попал в руки Лета?</text>
 	</string>
 	<string id="dinero_de_fanatico_name">
 		<text>Чемодан с деньгами Фаната</text>
 	</string>
 	<string id="dinero_de_fanatico_desc">
-		<text>Pesado maletнn presuntamente lleno de dinero. Alguien escribiу con marcador permanente "Dinero del tercer idiota" con una letra algo desprolija їAsн que habrб mбs idiotas si este es el tercero?</text>
+		<text>Тяжеленный чемодан, предположительно полный денег. На нём кто-то небрежно написал «Бабло третьего идиота» перманентным маркером. Если это третий, то были ещё два идиота?</text>
 	</string>
 	<string id="caja_cerrada_name">
 		<text>Закрытый ящик</text>
 	</string>
 	<string id="caja_cerrada_desc">
-		<text>Закрытый стальной ящик; Viper me dijo que podнa tener algo valioso dentro y que podнa ser ventana para un negocio con un tal Nimble.</text>
+		<text>Закрытый стальной ящик. По словам Вайпера, внутри могут быть ценности, которые помогут договориться с неким Шустрым.</text>
 	</string>
 	<string id="esc_nota_mago_name">
-		<text>Записка для "Волшебника"</text>
+		<text>Записка для «Мага»</text>
 	</string>
 	<string id="esc_nota_mago_desc">
-		<text>Escucha, Mago. Tuve que mandar a estos perejiles a que acampen cerca tuyo. Les pedн que te esperen y tienen instrucciones de unirse a tu causa cuando estйs listo ya para ejecutar el plan. Deberнan ser 9 bandidos, si llegaron menos preguntales que mierda pasу. No quiero que ninguno se esconda en el Cordуn o vamos a llamar la atenciуn. \n -Pirata</text>
+		<text>Слушай, Маг. Мне пришлось отправить парочку из идиотов в лагерь у твоей позиции. Я приказал им ждать тебя, а при встрече помочь осуществить твой план. Пацанов должно быть ровно девять; если их будет меньше, спроси что случилось. Не хочу их отправлять шкериться на Кордон, а то мы привлечём внимание. \n -Пират</text>
 	</string>
 	<string id="aparatos_de_pollo_name">
 		<text>Чемодан с вещами Йорика</text>
@@ -130,49 +130,55 @@
 		<text>КПК Шурупа</text>
 	</string>
 	<string id="tornillo_pda_descr">
-		<text>La PDA tiene una investigaciуn ligera sobre los mejores lugares para encontrar artefactos de clase baja de forma segura. Tambiйn estб llena de fotos de las vivencias de Tornillos en la zona, entre las cuales se puede ver fotos con el Cabo.\n\n Entre los archivos eliminados se puede ver una nota que dice "Yo no fuн." їQuй serб?</text>
+		<text>\n%c[guide_blue]Для разблокировки информации провзаимодействуй с предметом%c[default] \n Избитый КПК. Он мокрый и, вероятно, радиоактивный.</text>
 	</string>
 	<string id="primera_nota_hook_name">
 		<text>Переписка товарищей #1</text>
 	</string>
 	<string id="primera_nota_hook_desc">
-		<text>Una hoja vieja con algunas anotaciones entre personas. Las ъltimas notas dicen: "No pude entrar. Habнa muchos y venнan por todos lados, parece que estan marchando al Sur en cantidades industriales, con sus cerebros reciйn lavaditos. El Vintar se me rompiу de tanto uso, asн que lo dejo en la reserva para arreglarlo. Dante, voy a necesitar de tu cinta azul, la de "todo uso". Te dejo a cambio algunos suministros." \n La respuesta a esa nota estб escrita abajo, con letra prolija: "Volvн machacado del Bosque. Me quedo los suministros que dejaron, me llevo tu Vintar para repararlo en la mesa que hay en el cementerio. Tanque me pidiу que deje armamento de reserva. Lo voy a guardar en la caja N°13, sobre el tъnel que va a Darkscape. Dejo algunas pastillas acб que sй que las van a necesitar, hasta la prуxima. Firma: Dante"...</text>
+		<text>\n%c[guide_blue]Для разблокировки информации провзаимодействуй с предметом%c[default] \n Старый лист бумаги, покрытый множеством записей, вероятно, от нескольких разных человек.</text>
 	</string>
 	<string id="segunda_nota_hook_name">
 		<text>Переписка товарищей #2</text>
 	</string>
 	<string id="segunda_nota_hook_desc">
-		<text>Otro papel algo maltrecho, se nota que ha pasado por varias manos. Las ъltimas notas dicen: "Hook, Tanque, Vera. Vi un novato intentando tomar las cosas de este baъl, parece que con el cambio de estaciуn quedу a la vista. Me llevo todo al baъl N°7 y abandono este. Dejo una de las llaves. Cuidense." \n Abajo dice con letra cursiva: "Dante de mierda, siempre haciendote el misterioso cambiando los escondites como si tuviesemos tiempo de andar buscando y buscando. Dejй una revista muy importante acб y ahora no la encuentro. Perdн mi mapa con los nombres de los escondites. No sй cual chota es el N°7 їЎEra el que estaba dentro del vagуn sobre el puente, el vagуn sobre el Rнo Pripyat ...O el vagуn sobre Darkscape!? Que bronca amigo, te voy a dar una buena piсa cuando te cruce." La ъltima nota parece no estar firmada.</text>
+		<text>\n%c[guide_blue]Для разблокировки информации провзаимодействуй с предметом%c[default] \n Ещё один изношенный кусок бумаги. Он точно побывал не в одних руках.</text>
 	</string>
 	<string id="tercera_nota_hook_name">
 		<text>Переписка товарищей #3</text>
 	</string>
 	<string id="tercera_nota_hook_desc">
-		<text>Una bola de papel arrugado, al extenderlo se puede leer una nota: "Vi gente que solнa ser de Cielo Despejado en el Cordуn їEstarбn planeando algo? No pude quedarme pero les dejo aviso para que no se enteren por sorpresa. Tanque, muchas gracias por el artefacto, me ayuda a llevar mejor el peso. Dejo algunos regalitos a cambio, cuidense y nos vemos en el Bar." \n Abajo dice con otra letra: "Chicos, los monolitos llegaron al Cordуn y cerraron el Norte. Parece que Deber estб intentando mantenerlos a raya pero eran MUCHOS. No creo que aguanten, asн que me voy por los pantanos. Verй de dejar informaciуn en la estaciуn de bombeo, en lo alto, ya saben donde. Tengan cuidado, sй que mataron al comerciante Mark hace poco".</text>
+		<text>\n%c[guide_blue]Для разблокировки информации провзаимодействуй с предметом%c[default] \n Скомканный лист бумаги. Если его развернуть, можно разобрать несколько сообщений...</text>
 	</string>
 	<string id="cuarta_nota_hook_name">
 		<text>Переписка товарищей #4</text>
 	</string>
 	<string id="cuarta_nota_hook_desc">
-		<text>Una nota en una servilleta: "Chicos, vine a los pantanos a chequear la situaciуn sobre la gente de Cielo Despejado. Parece que estan resurgiendo... Si bien son pocos, los veo bien armados y marchando al Norte durante las noches. De dнa no parecen mostrarse para no tener problemas con los militares... Voy a tener que ir por Darkscape, espero que mi revista estй en las rocas tras la gasolinera o vamos a tener problemas :) \n PD: Me llevo todos los suministros, dejo la llave de Dante para que no llore luego." </text>
+		<text>\n%c[guide_blue]Для разблокировки информации провзаимодействуй с предметом%c[default] \n Исписанная салфетка, содержащая несколько сообщений.</text>
 	</string>
 	<string id="quinta_nota_hook_name">
 		<text>Переписка товарищей #5</text>
 	</string>
 	<string id="quinta_nota_hook_desc">
-		<text>Un papel un poco mбs cuidado que los anteriores, escrito con calma y prolijidad: "Dante, Hook, Me encontrй con Tanque y seguimos camino juntos al Hospital ЎEspero verlos en el bar! Los extraсo. Firma: Vera." \n Otra letra algo desprolija escribe: "MБS VALE QUE LLEVEN MIS REVISTAS AL BAR їME ENTENDIERON? VERA QUIERE VERLOS. LOS ESPERO AHН. VOY A DEJAR SUMINISTROS ENCIMA DEL PUENTE DEL VALLE, PERO SEPAN QUE LO HAGO CON MUCHA BRONCA. FIRMA: TANQUEATLETA EL MEJOR STALKER DE LA ZONA". </text>
+		<text>\n%c[guide_blue]Для разблокировки информации провзаимодействуй с предметом%c[default] \n Лист бумаги в довольно хорошем состоянии, по сравнению с прошлыми, исписанный аккуратно и бережно...</text>
 	</string>
 	<string id="sexta_nota_hook_name">
 		<text>Переписка товарищей #6</text>
 	</string>
 	<string id="sexta_nota_hook_desc">
-		<text>Una nota escrita sobre un envoltorio de salchicha dietйtica... Dice: "Arreglй el Rifle, Hook. Pero no lo puedo dejar acб, estб movido el Valle. Ustedes me entienden... Voy a dejarlo en el Cementerio de Camiones. Dejo el cazador de tesoros para encontrarlo, ya que el escondite que tenнamos ahн fuй destruнdo por los mutantes. Ya saben como funciona. \n\n - Dante".</text>
+		<text>\n%c[guide_blue]Для разблокировки информации провзаимодействуй с предметом%c[default] \n Сообщение, накаляканное на упаковке от диетической колбасы.</text>
+	</string>
+	<string id="septima_nota_hook_name">
+		<text>Переписка товарищей #7</text>
+	</string>
+	<string id="septima_nota_hook_desc">
+		<text>\n%c[guide_blue]Для разблокировки информации провзаимодействуй с предметом%c[default] \n Сделанная в спешке записка. По почерку это до невозможности ясно...</text>
 	</string>
 	<string id="llave_hook_1_name">
 		<text>Ключ группы #1</text>
 	</string>
 	<string id="llave_hook_1_desc">
-		<text>Видно, что его сильно не использовали. На нём нацарапано "Крюк".</text>
+		<text>Видно, что его сильно не использовали. На нём нацарапано «Крюк».</text>
 	</string>
 	<string id="llave_hook_2_name">
 		<text>Ключ группы #2</text>
@@ -184,61 +190,73 @@
 		<text>Ключ группы #4</text>
 	</string>
 	<string id="llave_hook_4_desc">
-		<text>Tiene una cinta de papel pegada, dice "Dantelantero" en birome.</text>
+		<text>На него наклеена полоска из бумаги, на которой написано «Дантелантеро» шариковой ручкой.</text>
 	</string>
 	<string id="llave_hook_5_name">
 		<text>Ключ группы #5</text>
 	</string>
 	<string id="llave_hook_5_desc">
-		<text>Tiene una cinta de papel pegada, dice "Dante" en birome.</text>
+		<text>На него наклеена бумажная ленточка, на которой написано «Данте» шариковой ручкой.</text>
 	</string>
 	<string id="llave_hook_6_name">
 		<text>Ключ группы #6</text>
 	</string>
 	<string id="llave_hook_6_desc">
-		<text>La llave estб doblada, alguien la apretу o tropezу con la llave encima. Deberнa funcionar aъn.</text>
+		<text>Ключ погнут, скорее всего, его слишком яро использовали или просто на него упали. Все ещё пригоден к использованию.</text>
+	</string>
+	<string id="llave_hook_7_name">
+		<text>Ключ группы #7</text>
+	</string>
+	<string id="llave_hook_7_desc">
+		<text>Прозрачным скотчем приклеена метка. Она гласит: «ТАНК».</text>
 	</string>
 	<string id="nota_escondite_monolito_1_name">
-		<text>Записка снайпера монолитовца</text>
+		<text>Записка снайпера-монолитовца</text>
 	</string>
 	<string id="nota_escondite_monolito_1_desc">
-		<text>"El altнsimo inquisidor Charon me diу instrucciones precisas de emboscar al hereje con este rifle bendecido y toda esta municiуn. Tomo la mitad y dejo un poco acб para no andar con tanto peso encima. Parece que el hereje lleva uno de los artefactos de la primera camada que nos robу el stalker Nox. Hay que detenerlo a toda costa."\n La nota estб firmada con un sнmbolo similar a un бtomo con sus electrones girando al rededor.</text>
+		<text>«Высочайший Инквизитор Харон дал мне точный приказ устроить засаду на еретика с этой благославлённой винтовкой и всеми этими боеприпасами. Я беру половину и оставляю остальное здесь с целью избежать перегруза. По сведениям еретик носит с собой артефакт первого поколения, что был у нас украден сталкером Ноксом. Его необходимо остановить любой ценой.»\n Ниже записка помечена символом в виде атома и кружащих вокруг него электронов.</text>
 	</string>
 	<string id="nota_escondite_leto_1_name">
 		<text>Бредни Лета</text>
 	</string>
 	<string id="nota_escondite_leto_1_desc">
-		<text>Una letra prolija y caligrбfica escribe "ЎPASУ DE NUEVO! ЎPERO ESTA VEZ ME ADELANTЙ! Pude robar sus cosas antes de que se entere siquiera, tremendo estъpido. Es increнble que sigan creyйndome cada vez que me cambio la mбscara de gas, los stalkers son cada vez mбs descuidados estos dнas..."\n Debajo de la nota hay un emoji de enojo ">:(" escrito de forma desprolija, que no cuadra con la caligrafнa calmada de antes.</text>
+		<text>Написаны красивым и аккуратным почерком: «ЭТО СЛУЧИЛОСЬ ОПЯТЬ! НО В ЭТОТ РАЗ Я ИХ ОПЕРЕДИЛ! Я сумел украсть их вещи, когда они ещё не успели ничего заподозрить! Что за полнейшие идиоты. Невероятно, мне достаточно лишь сменить противогаз, чтобы мне снова поверили. Сталкеры становятся безолабернее с каждым днём...»\n Ниже неряшливо накалякано злое лицо, «>:(», стиль которого не соотвествует спокойному почерку выше.</text>
 	</string>
 	<string id="explosivos_wolf_name">
 		<text>Взрывчатка Волка</text>
 	</string>
 	<string id="explosivos_wolf_desc">
-		<text>Caja pequeсa llena de pesados explosivos. Alguien escribiу sobre la superficie metбlica "wolf" con el filo de un cuchillo.</text>
+		<text>Небольшой и тяжелый ящик, наполненный взрывчаткой. На металлической поверхности нацарапано «Волк» чем-то острым, вроде лезвия ножа.</text>
+	</string>
+	<string id="esc_pan_gaucho_name">
+		<text>Хлеб Гаучо</text>
+	</string>
+	<string id="esc_pan_gaucho_desc">
+		<text>Старая буханка зачерствевшего хлеба. Немного тяжелее обычной.</text>
 	</string>
 	<string id="esc_nota_bandido_artefacto_name">
-		<text>Nota de la Chimenea</text>
+		<text>Записка из дымохода</text>
 	</string>
 	<string id="esc_nota_bandido_artefacto_desc">
-		<text>Una nota con una letra apenas comprensible, muy desprolija. Dice: "Gardo ete artefato para benir a buscarlo dpues de la siessta. toy mareao y con radiacion me parece que no tenemos ma yogurt en la eladera." ...</text>
+		<text>Записка, написанная неаккуратным, еле-еле читаемым почерком. В ней сказано: «Я сховал гэтот арт, шоб вернуться за ним апасля чутка сна. Башка кружится и радийки дофига. Кумекаю, шо нема у нас больше йогурту в хладильнике.» ...</text>
 	</string>
 	<string id="herramientas_nimble_name">
-		<text>Herramientas para forzar cerraduras</text>
+		<text>Инструменты для взлома замков</text>
 	</string>
 	<string id="herramientas_nimble_desc">
-		<text>Caja de herramientas cerrada y firme. Adentro se pueden ver las mencionadas herramientas acomodadas en sus respectivos lugares de forma prolija y estable, para asegurar su durabilidad.</text>
+		<text>Крепкий закрытый ящик с инструментами. Внутри каждый инструмент крепко и надёжно сидит в своём месте для их большей долговечности.</text>
 	</string>
 	<string id="pda_mago_name">
-		<text>КПК Андреса "Волшебника"</text>
+		<text>КПК «Мага» Андреса</text>
 	</string>
 	<string id="pda_mago_desc">
-		<text>КПК Волшебника... Estб bloqueada, pero ha recibido mensajes recientes de los siguientes contactos: Leto, Dientes, Akira, Jujuy, Clave, Borov, Tabernero.</text>
+		<text>\n%c[guide_blue]Для разблокировки информации провзаимодействуй с предметом%c[default] \n КПК со стикером в виде черепа сзади. Заблокирован, доступ к большей части содержимого ограничен.</text>
 	</string>
 	<string id="foto_viper_name">
 		<text>Старая полароидная фотография</text>
 	</string>
 	<string id="foto_viper_desc">
-		<text>En la foto se ven a dos personas con trajes de camuflaje celeste y blanco, posando para una foto juntos y haciendo seсas con los dedos. Parecen buenos amigos. El de la derecha me suena familiar...</text>
+		<text>На фотографии два человека в голубом и белым комуфляжных костюмах... Никогда ещё не видел в Зоне такую броню. Они позируют вместе, показывая руками жесты. Выглядят как хорошие друзья... Тот, что правее, кажется знакомым.</text>
 	</string>
 	<string id="herramienta_hacha_name">
 		<text>Топор для дерева</text>
@@ -298,7 +316,7 @@
 		<text> CherrySuika \nEl Bandido</text>
 	</string>
 	<string id="st_credito_5">
-		<text> Ferr um \nRamуn Retamar </text>
+		<text> Ferr um \nRamon Retamar </text>
 	</string>
 	<string id="st_credito_6">
 		<text> Kamtek \nGaucho Stalker</text>
@@ -313,76 +331,81 @@
 		<text> Barmen \nRed Vlad</text>
 	</string>
 	<string id="st_credito_10">
-		<text> Rammaken \nHank</text>
+		<text> Rammaken \nChymo</text>
 	</string>
 	<string id="st_credito_11">
-		<text> VoiceofVaf (Valentin Angel Fernandez)</text>
+		<text> The Axki \nUdonge</text>
 	</string>
 	<string id="st_credito_12">
-		<text> Gaucho Stalker \nEl Papitrol</text>
+		<text> Arturo Almenar \nLassie</text>
 	</string>
 	<string id="st_credito_13">
-		<text> S.T.A.L.K.E.R. & METRO & CHERNOBYLITE - Латиноамериканское & Испанское </text>
+		<text> Gordon \n Daniel Steckler</text>
 	</string>
 	<string id="st_credito_14">
 		<text> Team Epic (За создание Зова Чернобыля) </text>
 	</string>
 	<string id="st_credito_15">
-		<text> Полный список благодарностей на Moddb</text>
+		<text> Полный список благодарностей в лаунчере</text>
 	</string>
 	<string id="st_text_screen_viper_traje">
-		<text>Ahora Viper aguantarб mucho mбs daсo durante el viaje...</text>
+		<text>Теперь Вайпер выдержит намного больше урона во время путешествия...</text>
 	</string>
 	<string id="st_text_screen_cabo_traje">
-		<text>Ahora Cabo aguantarб mucho mбs daсo durante el viaje...</text>
+		<text>Теперь Федька выдержит намного больше урона во время путешествия...</text>
 	</string>
 	<string id="pda_guardia_monolito_name">
 		<text>КПК охранника</text>
 	</string>
 	<string id="pda_guardia_monolito_desc">
-		<text>La PDA parece estar encriptada. Solo puede verse la pantalla de bloqueo de la misma, esta tiene notificaciones de mensajes recibidos desde el cementerio de camiones. \n Quizбs un tйcnico pueda desbloquearla.</text>
+		<text>КПК, похоже, зашифрован. Виден только экран блокировки и уведомления о недавно полученных сообщениях c Кладбища Техники. \n Скорее всего, техник сможет его разблокировать.</text>
 	</string>
 	<string id="pda_monolito_cruz_name">
-		<text>PDA del monolito en la cruz</text>
+		<text>КПК монолитовца у креста</text>
 	</string>
 	<string id="pda_monolito_cruz_desc">
-		<text>Голосовое сообщение: "El que todo lo sabe repitiу cien mil veces que espere en estas coordenadas a que el hereje asome. Ya son 6 dнas complaciendo los deseos del monolito"</text>
+		<text>\n%c[guide_blue]Для разблокировки информации провзаимодействуй с предметом%c[default] \n КПК, бывший у бойца, охраняющего могильный крест.</text>
 	</string>
 	<string id="pda_centinela_name">
 		<text>КПК Часового</text>
 	</string>
 	<string id="pda_centinela_desc"> 
-		<text>Запись восьмидневной давности: «Рана на моей ноге начинает гноиться, придётся брать деньги в долг ддя покупки антибиотиков.» \n Запись пятидневной давности: «Есть тут эдакий тип, Атрей. Непонятно откуда взялся, и говорит, что может дать мне так нужные деньги, если я сопровожу его на болота. Конечно, я согласился, хоть из-за боли мне и приходиться хромать - это лучше, чем потерять свою грёбаную ногу.»</text>
+		<text>\n%c[guide_blue]Для разблокировки информации провзаимодействуй с предметом%c[default] \n КПК, немного повреждённый от влаги.</text>
 	</string>
 	<string id="pda_zombie_boss_name">
 		<text>КПК зомбифицированного сталкера</text>
 	</string>
 	<string id="pda_zombie_boss_desc">
-		<text>Entrada de audio personal 1: "Le seguimos el rastro a un Stalker que pasу corriendo herido, vimos que parу en el tъnel a tomar aire. Vamos a acercarnos." \n Entrada de audio personal 2: Los chicos se estбn volviendo locos... el Stalker de chaqueta amarilla nos hizo unos gestos con las manos y todo se fue a la mierda... Tuve que dispararles, me estaban atacando. \n Entrada de audio personal 3: "Mi cabeza va a explotar... Estoy viendo doble y con colores extraсos... Todo se ve rojo por momentos, y azul por otros... Si alguien encuentra esta PDA que se la haga llegar a Cold, por favor."</text>
+		<text>\n%c[guide_blue]Для разблокировки информации провзаимодействуй с предметом%c[default] \n КПК, испятнанный кровью. Видно, кто-то им пользовался в свои последние моменты...</text>
 	</string>
 	<string id="pda_trodnik_name">
 		<text>КПК Тропника</text>
 	</string>
 	<string id="pda_trodnik_desc">
-		<text>Leto usу algъn tipo de truco y se soltу. Noqueу a los chicos con un solo movimiento de su mano ЎNi siquiera nos tocу! Al final, tenнas razуn con tu teorнa. Solo estoy consciente por el casco que llevo... Tomen bloqueadores antes de acercarse.\n Saquennos de esta miseria.</text>
+		<text>\n%c[guide_blue]Для разблокировки информации провзаимодействуй с предметом%c[default] \n Треснувший КПК. Корпус отмечен годами износа. Его кто-то крепко сжал перед тем, как швырнуть в стену.</text>
 	</string>
 	<string id="val_llave_caja_fuerte_name">
 		<text>Старый ключ</text>
 	</string>
 	<string id="val_llave_caja_fuerte_desc">
-		<text>Llave fina y algo maltratada por el tiempo. Seguramente le quede un uso antes de quebrarse, hay que tratarla con delicadesa.</text>
+		<text>Тонкий ключ, который не пощадило время. Если аккуратно с ним обращаться, то на разок его ещё точно хватит.</text>
 	</string>
 	<string id="val_nota_caja_fuerte_name">
 		<text>Записка бандита</text>
 	</string>
 	<string id="val_nota_caja_fuerte_desc">
-		<text>Kashalot nos pidiу que seamos mбs organizados y llevemos un registro del inventario de la caja fuerte, la llave quedу sobre la mesa.\n\n Yopta: Saquй vodka, como 3 botellas.\n Pituca: Dejй mi chaqueta vieja. Tomй una salchicha.\n Chatarra: Dejo mi gabardina vieja, Kashalot me llamу.\n Oxidado: Le robй este artefacto a un stalker. Luego lo vendemos.\n Beto: Dejo varias botellas de agua.\n Dedos Rotos: Me llevo el agua :D </text>
+		<text>Кашалот приказал нам быть более организованными и вести учёт инвенторя сейфа. Ключ на столе.\n\n Йопта: Взял немного водки, бутылок эдак три.\n Сноб: Оставил мой старый броник. Взял колбасу.\n Отброс: Оставляю свой древний плащ. Кашалот меня звал.\n Ржавый: Стырил у сталкера артефакт. Позже его продадим.\n Бето: Оставляю дохрена бытулок воды.\n Пальцеломаный: Забираю воду :D </text>
 	</string>
 	<string id="esc_frecuencias_sidorovich_name">
 		<text>Каталог частот военных</text>
 	</string>
 	<string id="esc_frecuencias_sidorovich_desc">
-		<text>Una carpeta con una lista enorme de frecuencias escondidas de los militares, con etiquetas e instrucciones sobre cada contexto especнfico para usarlas. Con esto se podrнa sacar mucha ventaja a los planes que puedan tener los militares en la zona.</text>
+		<text>Папка документов с огромным списком секретных радиочастот военных, для каждой приведены сведения о обстоятельствах использования. С их помощью можно разведать планы военных в Зоне.</text>
 	</string>
-	
+	<string id="st_detector_cazatesoros_name">
+		<text>Детектор частот</text>
+	</string>
+	<string id="st_detector_cazatesoros_descr">
+		<text>Детектор, модифицированный своим владельцем. Походу, он настроен на единственную частоту (1.66Гц). Сзади скотчем прилеплена записка: «Искатель сокровищ Крюка ;)».</text>
+	</string>
 </string_table>

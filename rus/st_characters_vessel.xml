@@ -2,7 +2,7 @@
 <string_table>
    <!-------------------------- VESSEL ------------------------>
   <string id="esc_wolf_bio">
-		<text>Личная охрана Шустрого. Старый сталкер, решивший разбогатеть.</text>
+		<text>Личная охрана Шустрого. Старый сталкер, решивший разбогатеть.—</text>
 	</string>
 	<string id="esc_wolf_name">
 		<text>Волк</text>
@@ -47,13 +47,16 @@
 		<text>Рамон Ретамар</text>
 	</string>
 	<string id="esc_franco_name">
-		<text>Франк Вилдосола</text>
+		<text>Франко Вилдосола</text>
 	</string>
 	<string id="esc_pj2_name">
 		<text>Мессер</text>
 	</string>
 	<string id="esc_stalker_andrew_name">
 		<text>Андрей Куловский</text>
+	</string>
+	<string id="mar_redek_name">
+		<text>Редек</text>
 	</string>
 	<string id="esc_kir_bio">
 		<text>Капитан защитных сил Долга. Ходят слухи, что его антикоррупционные взгляды препятствуют его продвижению по званиям.</text>

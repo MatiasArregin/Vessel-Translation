@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+	<string id="ui_vsl_video">
+		<text>Опции</text>
+	</string>
+	<string id="ui_mm_originals">
+		<text>GSC Оригинальные Игры</text>
+	</string>
+
+</string_table>
